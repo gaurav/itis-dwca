@@ -112,12 +112,13 @@ my @months = ('January', 'February', 'March', 'April', 'May', 'June', 'July', 'A
 my $month_text = $months[$month - 1];
 my $year_text = $year + 2000;
 
+my $database_date = "$month_text $day, $year_text";
 my $today = POSIX::strftime("%B %d, %Y", localtime);
 
 open(my $fh_version, ">", "$new_path/version.txt") or die ("Could not open $new_path/version.txt: $!");
 
 print $fh_version <<VERSION_TXT;
-$month_text $day, $year_text
+$database_date
 $version_file
 Extracted from $version_file on $today
 VERSION_TXT
@@ -135,7 +136,22 @@ if(-e "$ITISDWCA_PATH/latest_tbd") {
     remove_tree("$ITISDWCA_PATH/latest_tbd") or die "Could not recursively delete the old latest: $!";
 }
 
-say "Latest replaced. All done.";
+say "Latest replaced.";
+
+# Rewrite index.html with the latest date.
+open(my $fh_index_template, "<", "index.html.template") or die "Could not open index.html.template: $!";
+open(my $fh_index, ">", "$ITISDWCA_PATH/index.html") or die "Could not open index.html: $!";
+
+while(<$fh_index_template>) {
+
+    s/<insert:creation_date>/$today/g;
+    s/<insert:database_date>/$database_date/g;
+
+    print $fh_index $_;
+}
+
+close($fh_index_template);
+close($fh_index);
 
 =head1 METHODS
 
