@@ -26,7 +26,7 @@ use Digest::SHA;
 use File::Path qw(remove_tree);
 use POSIX qw(strftime);
 
-my $dwca_hunt = find_executable("dwca-hunt.rb", "PATH_DWCA_HUNTER");
+my $dwca_hunt = find_executable("dwca-hunt-itis.rb", "PATH_DWCA_HUNTER");
 my $dwch_stdout;
 
 open(my $fh, '-|', $dwca_hunt)
