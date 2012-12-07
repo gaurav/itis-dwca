@@ -1049,9 +1049,10 @@ taxonID,vernacularName,language
 16987,Hartman's dry rock moss,Common name
 16990,rhacomitrium,Common name
 17003,ophioglossoid ferns,English
-17006,whisk fern,Common name
-17007,flatfork fern,Common name
-17008,whisk fern,Common name
+17006,whisk fern,English
+17007,flatfork fern,English
+17008,whisk fern,English
+17010,eligulate lycopods,English
 17011,clubmosses,English
 17012,club-moss family,English
 17013,clubmoss,English
@@ -1070,131 +1071,138 @@ taxonID,vernacularName,language
 17052,wawae`iole,English
 17057,hairtip clubmoss,English
 17060,pigmy clubmoss,English
+17061,ligulate lycopods,English
 17062,spikemosses,English
-17064,selaginella,Common name
-17066,sélaginelle apode,French
-17067,sand spikemoss,Common name
-17068,sand spikemoss,Common name
-17070,Riddell's spikemoss,Common name
-17071,armored spikemoss,Common name
-17072,bluish spikemoss,Common name
-17073,bushy spikemoss,Common name
-17074,Braun's spikemoss,Common name
-17075,mesa spikemoss,Common name
-17076,small clubmoss,Common name
-17077,Douglas' spikemoss,Common name
-17078,Eaton's spikemoss,Common name
-17079,hidden spikemoss,Common name
-17080,desert spikemoss,Common name
-17081,Hansen's spikemoss,Common name
-17082,Krauss' spikemoss,Common name
-17083,flower of stone,Common name
-17084,Mohave spikemoss,Common name
-17085,gulf spikemoss,Common name
-17086,bluntleaf spikemoss,Common name
-17087,New Mexico selaginella,Common name
-17088,Oregon spikemoss,Common name
-17089,Peruvian spikemoss,Common name
-17090,resurrection plant,Common name
-17091,rock spikemoss,Common name
-17092,clubmoss,Common name
+17064,spikemoss,English
+17066,meadow spikemoss,English
+17067,sand spikemoss,English
+17068,sand spikemoss,English
+17070,Riddell's spikemoss,English
+17071,armored spikemoss,English
+17072,bluish spikemoss,English
+17073,bushy spikemoss,English
+17074,Braun's spikemoss,English
+17075,mesa spikemoss,English
+17076,lesser spikemoss,English
+17077,Douglas' spikemoss,English
+17078,Eaton's spikemoss,English
+17079,hidden spikemoss,English
+17080,desert spikemoss,English
+17081,Hansen's spikemoss,English
+17082,Krauss' spikemoss,English
+17083,flower of stone,English
+17084,Mojave spikemoss,English
+17085,gulf spikemoss,English
+17086,bluntleaf spikemoss,English
+17087,New Mexico selaginella,English
+17088,Oregon spikemoss,English
+17089,Peruvian spikemoss,English
+17090,resurrection plant,English
+17091,northern selaginella,English
+17092,rockloving spikemoss,English
 17093,northern spikemoss,English
-17094,Siberian spikemoss,Common name
-17095,twistedhair spikemoss,Common name
-17096,blue spikemoss,Common name
-17097,Underwood's spike-moss,Common name
-17098,Utah spikemoss,Common name
-17099,green spikemoss,Common name
-17100,Wallace's spikemoss,Common name
-17101,alpine spikemoss,Common name
-17102,Rocky Mountain spikemoss,Common name
-17104,Wright's spikemoss,Common name
-17105,dwarf spikemoss,Common name
-17106,deflexed spikemoss,Common name
-17107,Menzies' spikemoss,Common name
-17108,Hawai'i spikemoss,Common name
-17109,heartleaf spikemoss,Common name
-17110,fan spikemoss,Common name
-17111,Krug's spikemoss,Common name
-17112,limpleaf spikemoss,Common name
-17113,oval-leaf spikemoss,Common name
-17114,plumed spikemoss,Common name
-17115,handsome spikemoss,Common name
-17117,delicate spikemoss,Common name
+17094,Siberian spikemoss,English
+17095,twistedhair spikemoss,English
+17096,blue spikemoss,English
+17097,Underwood's spikemoss,English
+17098,Utah spikemoss,English
+17099,green spikemoss,English
+17100,Wallace's spikemoss,English
+17101,Watson's spikemoss,English
+17102,Weatherby's spikemoss,English
+17104,Wright's spikemoss,English
+17105,dwarf spikemoss,English
+17106,deflexed spikemoss,English
+17107,Menzies' spikemoss,English
+17108,Hawai'i spikemoss,English
+17109,heartleaf spikemoss,English
+17110,fan spikemoss,English
+17111,Krug's spikemoss,English
+17112,limpleaf spikemoss,English
+17113,oval-leaf spikemoss,English
+17114,plumed spikemoss,English
+17115,handsome spikemoss,English
+17117,delicate spikemoss,English
 17118,quillworts,English
 17119,quillworts,English
-17120,quillwort,Common name
-17121,Bolander's quillwort,Common name
-17122,limestone quillwort,Common name
-17123,Eaton's quillwort,Common name
-17127,Appalachian quillwort,Common name
-17128,southern quillwort,Common name
-17129,quillwort,Common name
-17130,Howell's quillwort,Common name
-17131,lake quillwort,Common name
-17133,Louisiana quillwort,Common name
-17135,blackfoot quillwort,Common name
-17136,blackspore quillwort,Common name
-17137,Nuttall's quillwort,Common name
-17138,Orcutt's quillwort,Common name
-17139,Peidmont quillwort,Common name
-17140,shore quillwort,Common name
-17141,Merlin's grass,Common name
-17142,Tuckerman's quillwort,Common name
-17143,Virginia quillwort,Common name
+17120,quillwort,English
+17121,Bolander's quillwort,English
+17122,Butler's quillwort,English
+17123,Eaton's quillwort,English
+17124,isoète à spores épineuses,English
+17127,Engelmann's quillwort,English
+17128,Florida quillwort,English
+17129,pitted quillwort,English
+17130,Howell's quillwort,English
+17131,lake quillwort,English
+17132,rock quillwort,English
+17133,Louisiana quillwort,English
+17134,big-spore quillwort,English
+17135,blackfoot quillwort,English
+17136,blackspore quillwort,English
+17137,Nuttall's quillwort,English
+17138,Orcutt's quillwort,English
+17139,Peidmont quillwort,English
+17140,isoète riparien,English
+17141,Merlin's grass,English
+17142,isoète de Tuckerman,English
+17143,Virginia quillwort,English
 17147,horsetails,English
-17148,scouring rush,Common name
-17149,variegated scouring-rush,Common name
-17150,water horsetail,Common name
-17151,dwarf scouringrush,Common name
-17152,field horsetail,Common name
-17153,marsh horsetail,Common name
-17154,western scouringrush,Common name
-17156,smooth scouring-rush,Common name
-17157,litoral horsetail,Common name
-17159,meadow horsetail,Common name
-17160,branched scouringrush,Common name
-17161,woodland horsetail,Common name
-17162,giant horsetail,Common name
-17169,adder's tongue,English
-17170,grapefern,Common name
-17171,cut-leaf grape fern,Common name
-17173,rattlesnake fern,Common name
-17175,sparselobe grapefern,Common name
-17178,lance-leaf moonwort,Common name
-17179,lance-leaf moonwort,Common name
-17181,moonwort grapefern,Common name
-17182,winter grapefern,Common name
-17184,daisy-leaf moonwort,English
-17186,Mingan Island grapefern,Common name
-17187,broadleaf grapefern,Common name
-17188,botryche d'Oneida,French
-17189,Crater Lake grapefern,Common name
-17190,little grapefern,Common name
-17192,Dixie grapefern,Common name
-17193,island grapefern,Common name
-17194,adderstongue,Common name
-17195,southern adderstongue,Common name
-17196,bulbous adderstongue,Common name
+17148,horsetail,English
+17149,prêle panachée,French
+17150,river horsetail,English
+17151,prêle faux-scirpe,French
+17152,western horsetail,English
+17153,marsh horsetail,English
+17154,scouringrush horsetail,English
+17156,smooth horsetail,English
+17157,prêle littorale,French
+17159,prêle des prés,French
+17160,branched scouringrush,English
+17161,prêle des bois,French
+17162,giant horsetail,English
+17164,giant horsetail,English
+17169,adder's-tongue,English
+17170,grapefern,English
+17171,botryche découpé,French
+17173,botryche de Virginie,French
+17175,sparselobe grapefern,English
+17176,northern moonwort,English
+17178,botryche élancé,French
+17179,lanceleaf grapefern,English
+17180,narrow triangle moonwort,English
+17181,common moonwort,English
+17182,prostrate grapefern,English
+17184,botryche à feuille de matricaire,French
+17186,botryche de Mingan,French
+17187,leathery grapefern,English
+17188,bluntlobe grapefern,English
+17189,Crater Lake grape fern,English
+17190,botryche simple,French
+17192,Alabama grapefern,English
+17193,island grapefern,English
+17194,adderstongue,English
+17195,southern adderstongue,English
+17196,bulbous adderstongue,English
 17198,least adder's-tongue,English
-17201,least adderstongue,Common name
-17202,longstem adderstongue,Common name
-17203,netted adderstongue,Common name
-17204,tropical adderstongue,Common name
-17205,Old World adderstongue,Common name
-17206,Old World adderstongue,Common name
-17207,Old World adderstongue,Common name
-17208,cheiroglossa fern,Common name
-17209,hand fern,Common name
-17212,potato fern,Common name
-17213,Hawai'i potato fern,Common name
-17217,osmunda,Common name
-17218,royal fern,Common name
-17219,cinnamon fern,Common name
-17220,interrupted fern,Common name
-17221,Rugg's osmunda,Common name
-17223,brakenfern,Common name
-17224,western brackenfern,Common name
+17201,least adderstongue,English
+17202,longstem adderstongue,English
+17203,netted adderstongue,English
+17204,tropical adderstongue,English
+17205,Old World adderstongue,English
+17206,Old World adderstongue,English
+17207,Old World adderstongue,English
+17208,dwarf staghorn,English
+17209,hand fern,English
+17212,potato fern,English
+17213,Hawai'i potato fern,English
+17216,royal ferns,English
+17218,royal fern,English
+17219,cinnamon fern,English
+17220,interrupted fern,English
+17221,Rugg's osmunda,English
+17223,bracken ferns,English
+17224,fougère des aigles,French
 17226,licorice ferns,English
 17228,polypody,English
 17230,irregular polypody,English
@@ -1407,12 +1415,12 @@ taxonID,vernacularName,language
 17485,lowland bladderfern,English
 17486,Tennessee bladderfern,English
 17487,Douglas' bladderfern,English
-17488,dennstaedtia fern,Common name
-17489,cuplet fern,Common name
-17490,southern hayscented fern,Common name
-17491,eastern hayscented fern,Common name
-17492,tropical hayscented fern,Common name
-17493,bluntleaf hayscented fern,Common name
+17488,hayscented fern,English
+17489,bipinnate cuplet fern,English
+17490,beaded cuplet fern,English
+17491,hay-scented fern,English
+17492,tropical hayscented fern,English
+17493,bluntleaf hayscented fern,English
 17494,island spleenwort,English
 17496,erect island spleenwort,English
 17497,sickle island spleenwort,English
@@ -1477,11 +1485,11 @@ taxonID,vernacularName,language
 17579,western oakfern,English
 17580,blackspore oakfern,English
 17581,scented oakfern,English
-17582,beadfern,Common name
-17583,bramblefern,Common name
-17584,black beadfern,Common name
-17585,royal beadfern,Common name
-17587,dotted beadfern,Common name
+17582,bramble ferns,English
+17583,flakelet fern,English
+17584,black beadfern,English
+17585,royal beadfern,English
+17587,dotted beadfern,English
 17588,climbing holly fern,English
 17589,hollyleaf fringedfern,English
 17591,royal fringedfern,English
@@ -1574,7 +1582,7 @@ taxonID,vernacularName,language
 17712,sharp brake,English
 17714,waimakanui,English
 17715,zigzag brake,English
-17717,parsley fern,Common name
+17717,parsley fern,English
 17720,halberd fern,English
 17721,Ames' halberd fern,English
 17722,hairy halberd fern,English
@@ -1641,22 +1649,20 @@ taxonID,vernacularName,language
 17803,moss fern,English
 17805,halfnetfern,English
 17807,starfern,English
-17808,histiopteris,Common name
-17809,batwing fern,Common name
+17809,batwing fern,English
 17812,shieldfern,English
 17813,false shieldfern,English
-17816,lonchitis,Common name
-17817,tomato fern,Common name
+17817,tomato fern,English
 17818,graceful fern,English
 17819,graceful fern,English
-17820,creepingfern,Common name
-17821,thicket creepingfern,Common name
+17820,creepingfern,English
+17821,thicket creepingfern,English
 17823,oleander fern,English
 17824,oleander fern,English
 17835,iron fern,English
-17836,soralpouch fern,Common name
-17837,Caribbean soralpouch fern,Common name
-17838,forest soralpouch fern,Common name
+17836,soralpouch fern,English
+17837,Caribbean soralpouch fern,English
+17838,forest soralpouch fern,English
 17839,kihifern,English
 17840,elegant kihifern,English
 17841,island kihifern,English
@@ -1673,8 +1679,8 @@ taxonID,vernacularName,language
 17853,longleaf plume fern,Common name
 17854,forest plume fern,Common name
 17857,loulu,English
-17858,palapalai,Common name
-17860,palapalai,Common name
+17858,palapalai,English
+17860,palapalai,English
 17862,blechnum fern,Common name
 17863,hammock fern,Common name
 17864,toothed midsorus fern,Common name
@@ -1730,31 +1736,29 @@ taxonID,vernacularName,language
 17926,Hawai'i bristle fern,English
 17928,Appalachian bristle fern,English
 17929,dwarf bristle fern,English
-17931,alsophila,English
-17932,Brooks' alsophila,Common name
-17933,helecho gigante de la sierra,Common name
-17935,cnemidaria,Common name
-17936,deepwoods fern,Common name
+17932,Brooks' alsophila,English
+17933,helecho gigante de la sierra,English
+17936,deepwoods fern,English
 17937,treefern,English
-17938,parrotfeather treefern,Common name
-17939,West Indian treefern,Common name
-17940,Jamaican treefern,Common name
-17941,small treefern,Common name
-17943,lophosoria,Common name
-17944,diamondleaf fern,Common name
-17947,manfern,Common name
-17948,Chamisso's manfern,Common name
-17949,hapu'u,Common name
+17938,parrotfeather treefern,English
+17939,West Indian treefern,English
+17940,Jamaican treefern,English
+17941,small treefern,English
+17944,diamondleaf fern,English
+17947,manfern,English
+17948,Chamisso's manfern,English
+17949,hapu'u,English
 17954,water ferns,English
 17955,antlerfern,English
 17956,floating antlerfern,English
 17957,triangle waterfern,English
 17958,watersprite,English
-17960,forkedfern,Common name
-17961,drooping forkedfern,Common name
-17962,comb forkedfern,Common name
-17963,uluhe,Common name
-17964,Old World forkedfern,Common name
+17959,forking ferns,English
+17960,forking ferns,English
+17961,forked fern,English
+17962,comb forkedfern,English
+17963,uluhe,English
+17964,Old World forkedfern,English
 17971,actinostachys,Common name
 17972,ray fern,English
 17974,anemia fern,Common name
@@ -41333,7 +41337,7 @@ taxonID,vernacularName,language
 180546,sea otters,English
 180547,Nutria marina,Spanish
 180548,river otters,English
-180549,river otter,English
+180549,common otter,English
 180550,wolverines,English
 180551,carcajou,French
 180552,weasels,English
@@ -41511,23 +41515,24 @@ taxonID,vernacularName,language
 181761,acaulon moss,Common name
 181762,acaulon moss,Common name
 181763,acaulon moss,Common name
-181764,Engelmann's quillwort,Common name
-181766,Appalachian quillwort,Common name
-181767,southern quillwort,Common name
-181768,southern quillwort,Common name
-181769,Chapman's quillwort,Common name
-181770,southern quillwort,Common name
-181771,Nuttall's quillwort,Common name
-181774,Dodge's quillwort,Common name
-181775,quillwort,Common name
-181776,Hickey's quillwort,Common name
+181764,Engelmann's quillwort,English
+181766,Appalachian quillwort,English
+181767,southern quillwort,English
+181768,southern quillwort,English
+181769,Chapman's quillwort,English
+181770,southern quillwort,English
+181771,Nuttall's quillwort,English
+181774,Dodge's quillwort,English
+181775,quillwort,English
+181776,Hickey's quillwort,English
 181777,isoète hiéroglyphique,French
-181778,maritime quillwort,Common name
-181779,quillwort,Common name
-181781,western quillwort,Common name
-181782,variegated scouring-rush,Common name
-181784,horsetail,Common name
-181785,MacKai's horsetail,Common name
+181778,maritime quillwort,English
+181779,quillwort,English
+181781,western quillwort,English
+181782,variegated scouring-rush,English
+181783,Alaskan scouringrush,English
+181784,horsetail,English
+181785,MacKai's horsetail,English
 181786,fragile maidenhair,English
 181787,fragile maidenhair,English
 181788,five-finger fern,English
@@ -41540,8 +41545,8 @@ taxonID,vernacularName,language
 181800,wahini noho mauna,English
 181805,monarch fern,English
 181806,triploid fern,English
-181809,forest alsophila,Common name
-181810,Puerto Rico alsophila,Common name
+181809,forest alsophila,English
+181810,Puerto Rico alsophila,English
 181813,hairy waterclover,Common name
 181814,hairy pepperwort,Common name
 181815,tropical waterclover,Common name
@@ -42450,11 +42455,10 @@ taxonID,vernacularName,language
 183857,kob,English
 183989,aplodon moss,Common name
 183993,anacolia moss,Common name
-184018,angiopteris fern,Common name
-184019,mule's foot,Common name
+184019,Oriental vessel fern,English
 184023,diamond maidenhair,English
 184032,streambank lipfern,English
-184045,clubbed creepingfern,Common name
+184045,wedgelet fern,English
 184047,false hollyfern,English
 184048,simpler East Indian holly fern,English
 184053,lineleaf fern,English
@@ -42464,9 +42468,9 @@ taxonID,vernacularName,language
 184059,narrow lineleaf fern,English
 184060,Urban's lineleaf fern,English
 184061,Antilles filmy fern,English
-184077,helecho gigante,Common name
-184081,umbrella fern,Common name
-184082,Mexican umbrella fern,Common name
+184077,helecho gigante,English
+184081,umbrella fern,English
+184082,Mexican umbrella fern,English
 184093,monarch climbing fern,Common name
 184096,cypress-pine,English
 184098,Rottnest Island pine,English
@@ -43194,12 +43198,12 @@ taxonID,vernacularName,language
 192073,bartramiopsis moss,Common name
 192074,Lescur's bartramiopsis moss,Common name
 192076,daltonia moss,Common name
-192079,danafern,Common name
-192080,Caribbean danafern,Common name
-192081,Jamaican danafern,Common name
-192082,Puerto Rico danafern,Common name
-192083,nodeless danafern,Common name
-192084,forest danafern,Common name
+192079,danafern,English
+192080,Caribbean danafern,English
+192081,Jamaican danafern,English
+192082,Puerto Rico danafern,English
+192083,nodeless danafern,English
+192084,forest danafern,English
 192095,eared spleenwort,English
 192096,eared spleenwort,English
 192101,ebony spleenwort,English
@@ -43237,9 +43241,9 @@ taxonID,vernacularName,language
 192174,alpine ladyfern,English
 192175,athyrie alpestre sous-espèce américaine,French
 192179,plantainleaf halberd fern,English
-192183,necklace fern,Common name
-192186,woodland necklace fern,Common name
-192199,spiny treefern,Common name
+192183,necklace fern,English
+192186,woodland necklace fern,English
+192199,spiny treefern,English
 192202,astrophytum,Common name
 192203,seaurchin starcactus,Common name
 192204,atrichoseris,English
@@ -43833,7 +43837,7 @@ taxonID,vernacularName,language
 193521,Three-striped Dasher,English
 193523,Metallic Pennant,English
 194766,Alabama maiden fern,English
-194772,elfin tree fern,Common name
+194772,elfin tree fern,English
 194774,oyamel de Guatemala,Spanish
 194777,Lutz's spruce,English
 194778,Honduras pine,English
@@ -46265,7 +46269,6 @@ taxonID,vernacularName,language
 500243,dimeresia,English
 500244,viper grass,Common name
 500245,bush monkeyflower,English
-500246,diplopterygium,Common name
 500249,Ceylon gooseberry,English
 500250,doyeria,English
 500251,dyckia,English
@@ -46510,7 +46513,6 @@ taxonID,vernacularName,language
 500777,marantochloa,English
 500778,thaumatococcus,English
 500782,winterfat,English
-500786,helminthostachys,Common name
 500787,festulolium,Common name
 500788,triticosecale,Common name
 500789,amblyopyrum,Common name
@@ -46578,7 +46580,6 @@ taxonID,vernacularName,language
 500870,Kuroiwa grass,Common name
 500871,owl's-clover,English
 500872,desert yellowhead,English
-500881,lindsaeosoria,Common name
 500883,island lacefern,English
 500888,masterwort,English
 500889,marsh parsley,English
@@ -46692,21 +46693,21 @@ taxonID,vernacularName,language
 501013,feathered beardgrass,Common name
 501014,silver beardgrass,Common name
 501015,longspike silver bluestem,Common name
-501016,tailed grapefern,Common name
-501017,upswept moonwort,Common name
+501016,tailed grapefern,English
+501017,upswept moonwort,English
 501018,botryche des champs,French
-501019,crenulate moonwort,Common name
-501020,reflected grape fern,Common name
-501021,western moonwort,Common name
-501022,narrowleaf grapefern,Common name
-501023,mountain moonwort,Common name
-501024,little goblin moonwort,Common name
-501025,peculiar moonwort,Common name
-501026,stalked moonwort,Common name
-501027,northern grapefern,Common name
-501028,false daisyleaf moonwort,Common name
-501029,botryche à limbe rugueux,French
-501030,Waterton grapefern,Common name
+501019,crenulate moonwort,English
+501020,echo moonwort,English
+501021,western moonwort,English
+501022,slender moonwort,English
+501023,western goblin,English
+501024,little goblin moonwort,English
+501025,peculiar moonwort,English
+501026,stalked moonwort,English
+501027,northern grapefern,English
+501028,false daisyleaf moonwort,English
+501029,St. Lawrence grapefern,English
+501030,Waterton grapefern,English
 501031,Santa Rita grama,Common name
 501032,Chino grama,Common name
 501033,Rothrock grama,Common name
@@ -47192,7 +47193,7 @@ taxonID,vernacularName,language
 501518,pintwater rabbitbrush,English
 501519,stickyfruit low rabbitbrush,Common name
 501520,woody bamboo,Common name
-501521,Neal's manfern,Common name
+501521,Neal's manfern,English
 501522,cultivated endive,English
 501523,quinine tree,Common name
 501524,Bolander's woodreed,Common name
@@ -47535,8 +47536,8 @@ taxonID,vernacularName,language
 501866,papery cyanea,English
 501867,pohaku cyanea,English
 501868,Morocco knapweed,Common name
-501869,creeping treefern,Common name
-501870,birdwing treefern,Common name
+501869,creeping treefern,English
+501870,birdwing treefern,English
 501871,Puerto Rico ridgerunner,English
 501872,cat's milk,English
 501873,Iwarancusa grass,Common name
@@ -47714,7 +47715,7 @@ taxonID,vernacularName,language
 502050,Chinese foldwing,English
 502051,Arizona foldwing,English
 502052,sixangle foldwing,English
-502053,tropical forkedfern,Common name
+502053,tropical forkedfern,English
 502054,gasplant,English
 502055,matchwood,Common name
 502056,dumbcane,English
@@ -47757,7 +47758,7 @@ taxonID,vernacularName,language
 502094,Meyen's twinsorus fern,English
 502095,glade fern,English
 502096,Riedel's twinsorus fern,English
-502097,scrambling fern,Common name
+502097,scrambling fern,English
 502098,perennial wallrocket,English
 502099,Indian teasel,English
 502100,dewplant,English
@@ -47992,7 +47993,7 @@ taxonID,vernacularName,language
 502333,pothos,English
 502334,flame violet,English
 502335,balloonbush,English
-502336,ferris horsetail,Common name
+502336,Ferriss' horsetail,English
 502337,Nelson's horsetail,English
 502338,darnel lovegrass,Common name
 502339,field lovegrass,Common name
@@ -48789,7 +48790,7 @@ taxonID,vernacularName,language
 503142,Sierra Madre St. Johnswort,English
 503143,Scouler's St. Johnswort,English
 503144,hairvein fern,English
-503145,ponce beadfern,Common name
+503145,ponce beadfern,English
 503146,common goldstar,English
 503147,fringed yellow star-grass,English
 503148,Mexican yellow star-grass,English
@@ -48852,11 +48853,10 @@ taxonID,vernacularName,language
 503208,Rusby's goldenbush,English
 503209,burrow goldenweed,Common name
 503210,jimmyweed,Common name
-503211,Acadian quillwort,Common name
-503212,Boom's quillwort,Common name
+503211,Acadian quillwort,English
+503212,Boom's quillwort,English
 503213,Britton's quillwort,English
-503214,rock quillwort,English
-503215,spike quillwort,Common name
+503215,spike quillwort,English
 503216,fly marshelder,Common name
 503217,Texas marshelder,Common name
 503218,Gordon's ivesia,English
@@ -49121,11 +49121,11 @@ taxonID,vernacularName,language
 503481,lesser butter and eggs,English
 503482,sparrow false pimpernel,English
 503483,spreading false pimpernel,English
-503484,graceful necklace fern,Common name
-503485,Puerto Rico necklace fern,Common name
-503486,mountain necklace fern,Common name
-503487,creeping necklace fern,Common name
-503488,smallstalk necklace fern,Common name
+503484,graceful necklace fern,English
+503485,Puerto Rico necklace fern,English
+503486,mountain necklace fern,English
+503487,creeping necklace fern,English
+503488,smallstalk necklace fern,English
 503489,Asian flax,English
 503490,Berlandier's yellow flax,English
 503491,Wyoming flax,English
@@ -49330,7 +49330,7 @@ taxonID,vernacularName,language
 503692,garlicvine,English
 503693,palo de cana,Spanish
 503694,arrowroot,English
-503695,smooth potato fern,Common name
+503695,smooth potato fern,English
 503696,una de gato,English
 503697,Arizona milkvine,English
 503698,Balbis' milkvine,English
@@ -49458,7 +49458,7 @@ taxonID,vernacularName,language
 503821,rough potato,English
 503822,camasey de costilla,English
 503823,hairy johnnyberry,English
-503824,limpleaf fern,Common name
+503824,limpleaf fern,English
 503825,Browne's savory,Common name
 503826,wild balata,English
 503827,desert cottonweed,Common name
@@ -49623,7 +49623,7 @@ taxonID,vernacularName,language
 503989,red bartsia,English
 503990,mottled toothedthread,English
 503991,firespike,English
-503992,border creepingfern,Common name
+503992,border creepingfern,English
 503993,corkyfruit waterdropwort,English
 503994,Flaming Gorge evening primrose,English
 503995,longflower evening primrose,English
@@ -49662,9 +49662,9 @@ taxonID,vernacularName,language
 504028,branched false goldenweed,English
 504029,Ward's false goldenweed,English
 504030,St. Thomas lidpod,English
-504031,California adderstongue,Common name
+504031,California adderstongue,English
 504032,adderstongue,English
-504033,northern adder's-tongue,Common name
+504033,northern adder's-tongue,English
 504034,Acapulco grass,Common name
 504035,shortleaf basketgrass,Common name
 504036,Big Bend pricklypear,Common name
@@ -50276,8 +50276,8 @@ taxonID,vernacularName,language
 504654,Kauai wild coffee,English
 504655,Hoffmannsegg's wild coffee,English
 504656,thicket wild coffee,English
-504657,tropical brackenfern,Common name
-504658,southern brackenfern,Common name
+504657,tropical brackenfern,English
+504658,lacy bracken,English
 504659,tree brake,English
 504660,Delchamps' brake,Common name
 504661,Hillebrand's brake,Common name
@@ -50723,11 +50723,11 @@ taxonID,vernacularName,language
 505108,curvedleaf stonecrop,English
 505109,Siebold's stonecrop,Common name
 505110,purple stonecrop,English
-505111,Arizona clubmoss,Common name
-505112,Asian spikemoss,Common name
-505113,stipitate spikemoss,Common name
+505111,Arizona spikemoss,English
+505112,Asian spikemoss,English
+505113,stipitate spikemoss,English
 505114,stalked spikemoss,English
-505115,Willdenow's spikemoss,Common name
+505115,Willdenow's spikemoss,English
 505116,Pitayita-noctirna de culebra,Spanish
 505117,Pitayita-nocturna reina de la noche,Spanish
 505118,Pitayita-nocturna flor de la noche,Spanish
@@ -50984,8 +50984,8 @@ taxonID,vernacularName,language
 505373,linearleaf goldenbush,Common name
 505374,skeleton wirelettuce,Common name
 505375,Panama tree,English
-505376,clothed umbrella fern,Common name
-505377,Hawai'i umbrella fern,Common name
+505376,clothed umbrella fern,English
+505377,Hawai'i umbrella fern,English
 505378,spottedheart,English
 505379,heartleaf Amazonvine,English
 505380,monarch Amazonvine,English
@@ -52133,7 +52133,7 @@ taxonID,vernacularName,language
 506596,Indian aconite,English
 506597,Fischer monkshood,English
 506598,wolfsbane,English
-506599,kamraj,Common name
+506599,kamraj,English
 506600,Japanese torreya,English
 506601,aleppo pine,English
 506602,Merkus pine,English
@@ -52370,9 +52370,9 @@ taxonID,vernacularName,language
 506844,Julian's berberis,English
 506845,European bishop,English
 506846,Cumberland pagoda-plant,English
-506847,Frenchman's Bluff grapefern,Common name
-506848,pale botrychium,Common name
-506849,spathulate botrychium,Common name
+506847,Frenchman's Bluff moonwort,English
+506848,botryche pâle,French
+506849,spathulate botrychium,English
 506850,brachiaria,Common name
 506852,whiteflower kurrajong,English
 506853,smallflower bruguiera,English
@@ -52446,7 +52446,7 @@ taxonID,vernacularName,language
 506922,smooth bedstraw,English
 506924,haha,English
 506925,haha,English
-506926,Cooper's cyathea,Common name
+506926,Cooper's cyathea,English
 506927,cymophora,English
 506928,Packard's cymopterus,Common name
 506929,black swallow-wort,English
@@ -52549,9 +52549,9 @@ taxonID,vernacularName,language
 507027,Aztec goldenbush,English
 507028,Zion goldenbush,English
 507029,Menzies' goldenbush,English
-507030,Carolina quillwort,Common name
-507031,Georgia quillwort,Common name
-507032,Jeffrey's quillwort,Common name
+507030,Carolina quillwort,English
+507031,Georgia quillwort,English
+507032,Jeffrey's quillwort,English
 507033,shorthorn zexmenia,Common name
 507034,seasice rush,English
 507035,Brewer's rush,English
@@ -52773,7 +52773,7 @@ taxonID,vernacularName,language
 507258,white alumroot,English
 507259,Appalachian violet,English
 507260,Doan's grape,English
-507261,Harvey's quillwort,Common name
+507261,Harvey's quillwort,English
 507262,Tucker's oak,English
 507263,scrub oak,English
 507264,acanthus,English
@@ -52927,9 +52927,9 @@ taxonID,vernacularName,language
 507514,ruffled spleenwort,English
 507515,necklace island spleenwort,English
 507516,pale island spleenwort,English
-507517,hapu'u li,Common name
-507519,Maui fern,Common name
-507520,Chinese creepingfern,Common name
+507517,hapu'u li,English
+507519,Maui fern,English
+507520,Chinese creepingfern,English
 507521,Santa Cruz Island hollyfern,English
 507524,Kauaikinana woodfern,English
 507525,Ainahou Valley woodfern,English
@@ -52941,9 +52941,9 @@ taxonID,vernacularName,language
 507537,Forbes' dwarf polypody,English
 507540,weft fern,English
 507541,Kauai fern,English
-507544,Hawai'i quillwort,Common name
-507545,evergreenquillwort,Common name
-507546,spiny-spore quillwort,Common name
+507544,Hawai'i quillwort,English
+507545,evergreen quillwort,English
+507546,spiny-spore quillwort,English
 507547,Appalachian clubmoss,English
 507548,one-cone clubmoss,English
 507553,Takeuch's lipfern,English
@@ -53439,7 +53439,7 @@ taxonID,vernacularName,language
 508146,Schoenoplectus,Common name
 508147,bristleleaf bulrush,English
 508148,streambank bulrush,English
-508149,spiny spikemoss,Common name
+508149,spiny spikemoss,English
 508151,stiff goldenrod,English
 508153,California goldenbanner,English
 508154,slender goldenbanner,English
@@ -53602,6 +53602,7 @@ taxonID,vernacularName,language
 511827,Clokey's cryptantha,English
 511838,Schoolcraft's cryptantha,English
 511869,Warner's dodder,English
+511900,deepwoods fern,English
 511902,giant sumpweed,English
 511908,cranichis-like ladies'-tresses,English
 511909,tall ladies'-tresses,English
@@ -53830,7 +53831,7 @@ taxonID,vernacularName,language
 515227,Abbeville iris,English
 515253,savanna iris,English
 515269,fluxweed,English
-515292,sugar quillwort,Common name
+515292,sugar quillwort,English
 515368,common rush,English
 515383,common rush,English
 515429,neverdie,English
@@ -53927,6 +53928,7 @@ taxonID,vernacularName,language
 517745,Toumey's sundrops,English
 517747,Texas sundrops,English
 517767,shiny goldenrod,Common name
+517791,hand fern,English
 517815,golden pricklypear,Common name
 517831,smallfruit pricklypear,Common name
 517839,Nopal puerco espín,Spanish
@@ -54847,7 +54849,7 @@ taxonID,vernacularName,language
 524245,Mt. Tedoc linanthus,English
 524246,Dalmation toadflax,Common name
 524247,Dalmation toadflax,Common name
-524248,mountain necklace fern,Common name
+524248,mountain necklace fern,English
 524249,twinflower,English
 524250,longtube twinflower,English
 524251,cardinalflower,Common name
@@ -55761,6 +55763,7 @@ taxonID,vernacularName,language
 525523,curvepod fumewort,English
 525567,Payson's tansymustard,English
 525590,shortleaf liveforever,English
+525635,scouringrush horsetail,English
 525649,bitter fleabane,Common name
 525661,vergerette de Philadelphie sous-espèce de Provancher,French
 525745,Kaweah fawn lily,English
@@ -55917,10 +55920,10 @@ taxonID,vernacularName,language
 526946,pitted beardgrass,Common name
 526947,King Ranch bluestem,Common name
 526948,king ranch bluestem,Common name
-526949,lanceleaf grapefern,Common name
-526950,little grapefern,Common name
-526951,little grapefern,Common name
-526952,little grapefern,Common name
+526949,lanceleaf grapefern,English
+526950,little grapefern,English
+526951,little grapefern,English
+526952,little grapefern,English
 526953,Arizona needle grama,Common name
 526954,Arizona needle grama,Common name
 526955,sideoats grama,Common name
@@ -56671,10 +56674,10 @@ taxonID,vernacularName,language
 527705,roughhair rosette grass,Common name
 527706,white-hair rosette grass,Common name
 527707,white-hair rosette grass,Common name
-527708,uluhe,Common name
-527709,uluhe,Common name
-527710,Old World forkedfern,Common name
-527711,Old World forkedfern,Common name
+527708,uluhe,English
+527709,uluhe,English
+527710,Old World forkedfern,English
+527711,Old World forkedfern,English
 527712,purple foxglove,English
 527713,purple foxglove,Common name
 527714,fall witchgrass,Common name
@@ -56853,9 +56856,9 @@ taxonID,vernacularName,language
 527889,Mormon tea,English
 527890,pingpong ball cactus,Common name
 527891,pingpong ball cactus,Common name
-527892,tall scouring-rush,Common name
-527893,giant horsetail,Common name
-527894,Alaskan scouringrush,Common name
+527892,tall scouring-rush,English
+527893,giant horsetail,English
+527894,Alaskan scouringrush,English
 527895,gophertail lovegrass,Common name
 527896,gophertail lovegrass,Common name
 527897,gophertail lovegrass,Common name
@@ -57518,10 +57521,10 @@ taxonID,vernacularName,language
 528568,iris de Virginie variété de Shreve,French
 528569,Virginia iris,English
 528570,jimmyweed,Common name
-528571,Bolander's quillwort,Common name
-528572,pygmy quillwort,Common name
-528573,Ames' quillwort,Common name
-528574,shore quillwort,Common name
+528571,Bolander's quillwort,English
+528572,pygmy quillwort,English
+528573,Ames' quillwort,English
+528574,shore quillwort,English
 528575,annual marshelder,Common name
 528576,annual marshelder,Common name
 528577,annual marshelder,Common name
@@ -57754,8 +57757,8 @@ taxonID,vernacularName,language
 528804,yellowseed false pimpernel,English
 528805,yellow-seed false pimpernel,Common name
 528806,yellowseed false pimpernel,English
-528807,creeping necklace fern,Common name
-528808,smallstalk necklace fern,Common name
+528807,creeping necklace fern,English
+528808,smallstalk necklace fern,English
 528809,southern flax,English
 528810,southern flax,English
 528811,Berlandier's yellow flax,English
@@ -58237,8 +58240,8 @@ taxonID,vernacularName,language
 529293,Raven Ridge false goldenweed,English
 529294,St. Thomas lidpod,English
 529295,St. Thomas lidpod,English
-529296,bulbous adderstongue,Common name
-529297,bulbous adderstongue,Common name
+529296,bulbous adderstongue,English
+529297,bulbous adderstongue,English
 529298,Gander's buckhorn cholla,Common name
 529299,devil's-tongue,Common name
 529300,common pricklypear,Common name
@@ -58252,10 +58255,10 @@ taxonID,vernacularName,language
 529308,red owlclover,English
 529309,devilwood,English
 529310,devilwood,English
-529311,cinnamon fern,Common name
-529312,cinnamon fern,Common name
-529313,cinnamon fern,Common name
-529314,royal fern,Common name
+529311,cinnamon fern,English
+529312,cinnamon fern,English
+529313,cinnamon fern,English
+529314,royal fern,English
 529315,pink woodsorrel,English
 529316,Abrams' oxytheca,English
 529317,Cienega Seca oxytheca,English
@@ -58856,11 +58859,11 @@ taxonID,vernacularName,language
 529915,kopiko 'ula,English
 529916,Hoffmannsegg's wild coffee,English
 529917,island wild coffee,Common name
-529918,Champlain's brackenfern,Common name
-529919,decomposition brackenfern,Common name
-529920,western brackenfern,Common name
-529921,western brackenfern,Common name
-529922,hairy brackenfern,Common name
+529918,Champlain's brackenfern,English
+529919,decomposition brackenfern,English
+529920,eastern bracken,English
+529921,western brackenfern,English
+529922,hairy brackenfern,English
 529923,Cretan brake,English
 529924,Cretan brake,English
 529925,California wavewing,English
@@ -59225,11 +59228,11 @@ taxonID,vernacularName,language
 530290,Mexican bonebract,Common name
 530291,Mexican bonebract,Common name
 530292,broomwort,English
-530293,dense spikemoss,Common name
-530294,Rocky Mountain clubmoss,Common name
-530295,Standley's spikemoss,Common name
-530296,blunt-leaf spike-moss,Common name
-530297,bluntleaf spikemoss,Common name
+530293,lesser spikemoss,English
+530294,Rocky Mountain clubmoss,English
+530295,Standley's spikemoss,English
+530296,bluntleaf spikemoss,English
+530297,bluntleaf spikemoss,English
 530298,showy alpine ragwort,English
 530299,Holm's groundsel,Common name
 530300,Bigelow's ragwort,English
@@ -60879,6 +60882,7 @@ taxonID,vernacularName,language
 537651,veiny monardella,English
 537800,'aiea,English
 537979,onosmodie velue variété hispide,French
+537984,California adder's-tongue,English
 538162,Montana locoweed,English
 538163,Bessey's locoweed,English
 538164,Bessey's locoweed,English
@@ -60923,6 +60927,7 @@ taxonID,vernacularName,language
 539088,Lake Erie pinkweed,English
 539097,stout smartweed,English
 539236,Pennsylvania cinquefoil,English
+539340,lacy bracken,English
 539393,Well's pixie-moss,English
 539465,tundra buttercup,English
 539466,Suksdorf's buttercup,English
@@ -70542,7 +70547,7 @@ taxonID,vernacularName,language
 565023,Japanese laurel,English
 565025,Yunnan bauhinia,English
 565026,narrowleaf midsorus fern,Common name
-565027,leathery grapefern,Common name
+565027,leathery grapefern,English
 565028,Sherring's cup orchid,English
 565029,thinleaf false brome,Common name
 565030,ripgut brome,Common name
@@ -70754,8 +70759,8 @@ taxonID,vernacularName,language
 565244,yellowband iris,English
 565245,Siberian iris,English
 565246,stalkleaf murainagrass,Common name
-565247,Appalachian quillwort,Common name
-565248,strong quillwort,Common name
+565247,Appalachian quillwort,English
+565248,strong quillwort,English
 565250,keeled bulrush,English
 565251,bellflower African cornlily,English
 565252,torch tree,English
@@ -70833,7 +70838,7 @@ taxonID,vernacularName,language
 565330,fourpoint eveningprimrose,English
 565331,stinknet,English
 565332,shrubby mayweed,English
-565333,southern adderstongue,Common name
+565333,southern adder's-tongue,English
 565334,wavyleaf basketgrass,Common name
 565335,California pricklypear,Common name
 565336,Chihuahua pricklypear,Common name
@@ -71141,6 +71146,7 @@ taxonID,vernacularName,language
 565970,Pino colorado,Spanish
 565971,bridal broom,English
 565972,chestnut vine,English
+565974,Cooper's cyathea,English
 565975,Manchurian crab apple,English
 565976,pale biddy-biddy,English
 565977,tropical pickerelweed,English
@@ -80705,6 +80711,7 @@ taxonID,vernacularName,language
 726821,domestic dog,English
 726986,Siberian brown bear,English
 726993,Kodiak bear,English
+727015,Sonoran river otter,English
 727499,Aruba Island Rattlesnake,English
 727511,Greater Fairy Armadillo,English
 727512,Yepes's Mulita,English
@@ -85851,3 +85858,29 @@ taxonID,vernacularName,language
 897779,Neke Fern,English
 897789,Balbis' maiden fern,English
 897790,stately maiden fern,English
+897802,dotted beadfern,English
+897805,western bracken,English
+897806,tailed bracken,English
+897807,eastern bracken,English
+897808,decomposition brackenfern,English
+897813,palapalai,English
+897819,tree fern,English
+897823,hard treefern,English
+897824,Australian treefern,English
+897847,giant horsetail,English
+897848,variegated scouringrush,English
+897893,southwestern otter,English
+897897,thin-wall quillwort,English
+897898,Mattaponi quillwort,English
+897899,rush quillwort,English
+897900,midget quillwort,English
+897902,starry spikemoss,English
+897903,blackfoot quillwort,English
+897904,blackfoot quillwort,English
+897934,rough tree fern,English
+897944,cinnamon fern,English
+897950,tsatsa,English
+897956,large adderstongue,English
+897961,island grapefern,English
+897963,lanceleaf grapefern,English
+897964,northern grape-fern,English
