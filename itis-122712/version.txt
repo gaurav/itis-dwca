@@ -1,0 +1,3 @@
+December 27, 2012
+version_itisMySQL122712
+Extracted from version_itisMySQL122712 on January 11, 2013
