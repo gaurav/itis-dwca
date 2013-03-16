@@ -1795,7 +1795,6 @@ taxonID,vernacularName,language
 18011,watermoss,English
 18013,eared watermoss,English
 18015,cycads,English
-18018,zamia,English
 18019,coontie,English
 18030,pines,English
 18031,fir,English
@@ -26057,6 +26056,8 @@ taxonID,vernacularName,language
 92430,tripunctate gribble,English
 92682,Rye Cove cave isopod,English
 92722,Clifton Cave isopod,English
+92728,Bennets Mill Cave water slater,English
+92738,Franz's isopod,English
 92748,bat cave isopod,English
 92751,Nickajack Cave isopod,English
 93039,Coahuila isopod,English
@@ -26090,7 +26091,7 @@ taxonID,vernacularName,language
 93901,Shenandoah Valley stygobromid,English
 93903,Devils Sinkhole stygobromid,English
 93905,Hay spring stygobromid,English
-93907,Tidewater stygobromid,English
+93907,Tidewater amphipod,English
 93909,long-legged cave stygobromid,English
 93911,Rich Mountain stygobromid,English
 93913,Morrison stygobromid,English
@@ -26105,24 +26106,24 @@ taxonID,vernacularName,language
 93933,subtle stygobromid,English
 93935,minute stygobromid,English
 93937,Norton stygobromid,English
-93939,photophobic stygobromid,English
+93939,rubious cave amphipod,English
 93941,ephemeral cave stygobromid,English
 93943,Tidewater stygobromid,English
 93945,Alabama well stygobromid,English
 93946,Blue Ridge stygobromid,English
-93958,Kansas well bactrurid,English
+93958,Kansas well amphipod,English
 94051,East Pacific beach flea,English
 95082,northern river crangonyctid,English
-95083,large male crangonyctid,English
-95084,Appalachian Valley crangonyctid,English
+95083,Anomalous spring amphipod,English
+95084,Appalachian Valley cave amphipod,English
 95085,Forbes crangonyctid,English
 95086,northern lake crangonyctid,English
-95087,Packard cave crangonyctid,English
+95087,Packard's cave amphipod,English
 95089,Ellis bog crangonyctid,English
 95090,eastern bog crangonyctid,English
-95091,small stream crangonyctid,English
+95091,Minor cave amphipod,English
 95092,Florida cave crangonyctid,English
-95093,Hobbs cave crangonyctid,English
+95093,Hobb's cave amphipod,English
 95094,oblique-hand crangonyctid,English
 95097,hairy-fingered crangonyctid,English
 95098,Shoemaker crangonyctid,English
@@ -28200,7 +28201,7 @@ taxonID,vernacularName,language
 114312,cucujide des grains oléagineux,French
 114313,cucujide dentelé des grains,French
 114314,silken fungus beetles,English
-114316,acute-angled fungus beetle,Common name
+114316,acute-angled fungus beetle,English
 114317,sigmoid fungus beetle,English
 114318,lizard beetles,English
 114320,clover stem borer,Common name
@@ -40806,7 +40807,7 @@ taxonID,vernacularName,language
 179988,petite chauve-souris brune,French
 179989,Keen's myotis,English
 179990,Miotis pata larga,Spanish
-179991,California myotis,English
+179991,California Myotis,English
 179992,Miotis orejudo,Spanish
 179993,southeastern myotis,English
 179994,Miotis cara negra,Spanish
@@ -42113,7 +42114,6 @@ taxonID,vernacularName,language
 182869,straightline dragonfish,English
 182906,parrot grenadier,English
 182910,bigscale,English
-183245,macrozamia,English
 183257,cycad,English
 183258,sago palm,English
 183259,queen sago,English
@@ -42903,6 +42903,7 @@ taxonID,vernacularName,language
 185480,Gerrard's aristea,English
 185486,Maguey áspero,Spanish
 185494,bamboo orchid,English
+185829,Kauai cave amphipod,English
 185977,aeshne du Canada,French
 185978,Lake Darner,English
 185979,Variable Darner,English
@@ -73717,7 +73718,7 @@ taxonID,vernacularName,language
 593381,Broad-tailed Shadowdragon,English
 593382,Plateau Dragonlet,English
 593495,Ontario stream crangonyctid,English
-593499,Pennsylvania cave crangonyctid,English
+593499,Dearolf's cave amphipod,English
 597943,striped woodlouse,English
 609767,northern birch mouse,English
 609777,southern birch mouse,English
@@ -74174,7 +74175,7 @@ taxonID,vernacularName,language
 621611,Biggers cave stygobromid,English
 621613,New England stygobromid,English
 621615,Castleguard Cave stygobromid,English
-621616,Carolina stygobromid,English
+621616,Yancey sideswimmer,English
 621618,Colorado stygobromid,English
 621620,Culver cave stygobromid,English
 621621,Cumberland stygobromid,English
@@ -74184,7 +74185,7 @@ taxonID,vernacularName,language
 621627,Cades Cove cave stygobromid,English
 621628,Montgomery stygobromid,English
 621629,English Cave stygobromid,English
-621631,Franz stygobromid,English
+621631,Franz's amphipod,English
 621634,Grady stygobromid,English
 621635,Graham stygobromid,English
 621636,Parker Cave stygobromid,English
@@ -74193,6 +74194,7 @@ taxonID,vernacularName,language
 621640,Holsinger stygobromid,English
 621644,Meadows Cave stygobromid,English
 621645,Murder Hole stygobromid,English
+621647,Iowa amphipod,English
 621650,Rock Creek stygobromid,English
 621651,deep lake stygobromid,English
 621654,Lee stygobromid,English
@@ -74200,17 +74202,17 @@ taxonID,vernacularName,language
 621657,Pettijohn Cave stygobromid,English
 621658,Montana stygobromid,English
 621660,northern California stygobromid,English
-621661,Piddling Pit stygobromid,English
+621661,Pocahontas cave amphipod,English
 621662,Pittsylvania stygobromid,English
 621663,unknown stygobromid,English
 621664,Oregon stygobromid,English
 621665,Pennak stygobromid,English
-621666,northern Virginia stygobromid,English
+621666,Virginia well amphipod,English
 621667,least cave stygobromid,English
 621668,Luray Caverns stygobromid,English
 621670,Montana well amphipod,English
 621671,Vancouver stygobromid,English
-621673,Patton Cave stygobromid,English
+621673,Redacted cave amphipod,English
 621676,Cordilleran stygobromid,English
 621677,Sierra stygobromid,English
 621679,Gregory Cave stygobromid,English
@@ -78597,7 +78599,7 @@ taxonID,vernacularName,language
 656772,aberrant crangonyctid,English
 656773,alpine lake crangonyctid,English
 656837,Illinois cave amphipod,English
-656838,Bousfield amphipod,English
+656838,Bousfield's amphipod,English
 656839,Bitter Lakes amphipod,English
 656840,diminutive amphipod,English
 657306,Hershler groundwater sebid,English
