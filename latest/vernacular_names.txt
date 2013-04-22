@@ -89,7 +89,6 @@ taxonID,vernacularName,language
 14452,sphagnum cephalozia,Common name
 14464,odontoschisma,Common name
 14482,cylindrocolea,Common name
-14492,cephaloziella,Common name
 14545,lophocolea,English
 14559,chiloscyphus,English
 14569,leptoscyphus,English
@@ -156,7 +155,7 @@ taxonID,vernacularName,language
 15191,ascidiota,Common name
 15193,ascidiota,Common name
 15194,Alaskan ascidiota,Common name
-15200,frullania,Common name
+81777,Pacific geoduck,English
 15232,jubula,Common name
 15240,neurolejeunea,Common name
 15242,ptychocoleus,Common name
@@ -25671,7 +25670,6 @@ taxonID,vernacularName,language
 81773,bering roughmya,Common name
 81774,ample roughmya,English
 81778,Atlantic geoduck,English
-81779,Pacific geoduck,English
 81782,elongate saxicave,English
 81786,Pilsbry piddock,English
 81787,great piddock,English
@@ -28062,9 +28060,8 @@ taxonID,vernacularName,language
 109170,treehoppers,English
 109171,sharpshooters,English
 109172,spittlebugs,English
-109173,fulgores,French
+109173,Planthoppers,English
 109174,cixid planthoppers,English
-109175,delphaeid planthoppers,English
 109176,derbid planthoppers,English
 109178,dictypharid planthoppers,English
 109179,fulgorid planthoppers,English
@@ -41024,69 +41021,68 @@ taxonID,vernacularName,language
 180207,tamia rayé,French
 180208,Townsend's chipmunk,English
 180209,Uinta chipmunk,English
-180210,beavers,English
+180210,Beavers,English
 180211,beavers,English
-180212,Castor americano,Spanish
-180213,pocket gophers,English
-180214,eastern pocket gophers,English
-180215,Tuza arenera,Spanish
-180216,plains pocket gopher,English
-180217,Tuza texana,Spanish
-180218,southeastern pocket gopher,English
-180219,tuzas,English
-180220,yellow-faced pocket gopher,English
-180221,western pocket gophers,English
-180222,Tuza de Botta,Spanish
-180223,Camas pocket gopher,English
-180224,Wyoming pocket gopher,English
-180225,Idaho pocket gopher,English
-180226,western pocket gopher,English
-180227,mountain pocket gopher,English
-180228,northern pocket gopher,English
-180229,Townsend's pocket gopher,English
-180230,Tuza mexicana,Spanish
-180231,heteromyid rodents,English
-180232,kangaroo rats,English
-180233,Rata-canguro ágil,Spanish
-180234,California kangaroo rat,English
-180235,Rata-canguro de Del Padre,Spanish
-180236,Rata-canguro desértica,Spanish
-180237,Texas kangaroo rat,English
-180238,big-eared kangaroo rat,English
-180239,Heermann's kangaroo rat,English
-180240,giant kangaroo rat,English
-180241,Rata-canguro de Merriam,Spanish
-180242,chisel-toothed kangaroo rat,English
-180243,Fresno kangaroo rat,English
-180244,Rata-canguro común,Spanish
-180245,Panamint kangaroo rat,English
-180246,Rata-canguro cola de bandera,Spanish
-180247,Stephens' kangaroo rat,English
-180248,narrow-faced kangaroo rat,English
-180249,spiny pocket mice,English
-180250,Ratón-espinoso mexicano,Spanish
-180251,kangaroo mice,English
-180252,dark kangaroo mouse,English
-180253,pale kangaroo mouse,English
-180254,silky pocket mice,English
-180255,white-eared pocket mouse,English
-180256,Ratón-de abazones de Arizona,Spanish
+180212,Castor Americano,Spanish
+180213,Pocket Gophers,English
+180214,Eastern Pocket Gophers,English
+180215,Desert Pocket Gopher,English
+180216,Plains Pocket Gopher,English
+180217,Texas Pocket Gopher,English
+180218,Southeastern Pocket Gopher,English
+180219,Mexican Pocket Gophers,English
+180220,Yellow-faced Pocket Gopher,English
+180221,Western Pocket Gophers,English
+180222,Botta's Pocket Gopher,English
+180223,Camas Pocket Gopher,English
+180224,Wyoming Pocket Gopher,English
+180225,Idaho Pocket Gopher,English
+180226,Western Pocket Gopher,English
+180227,Mountain Pocket Gopher,English
+180228,Northern Pocket Gopher,English
+180229,Townsend's Pocket Gopher,English
+180230,Southern Pocket Gopher,English
+180231,Pocket Mice,English
+180232,Kangaroo Rats,English
+180233,Agile Kangaroo Rat,English
+180234,California Kangaroo Rat,English
+180235,Gulf Coast Kangaroo Rat,English
+180236,Desert Kangaroo Rat,English
+180237,Texas Kangaroo Rat,English
+180238,Big-eared Kangaroo Rat,English
+180239,Heermann's Kangaroo Rat,English
+180240,Giant Kangaroo Rat,English
+180241,Merriam's Kangaroo Rat,English
+180242,Chisel-toothed Kangaroo Rat,English
+180243,Fresno Kangaroo Rat,English
+180244,Ord's Kangaroo Rat,English
+180245,Panamint Kangaroo Rat,English
+180246,Banner-tailed Kangaroo Rat,English
+180247,Stephens's Kangaroo Rat,English
+180248,Narrow-faced Kangaroo Rat,English
+180249,Spiny Pocket Mice,English
+180250,Mexican Spiny Pocket Mouse,English
+180251,Kangaroo Mice,English
+180252,Dark Kangaroo Mouse,English
+180253,Pale Kangaroo Mouse,English
+180254,Silky Pocket Mice,English
+180255,White-eared Pocket Mouse,English
+180256,Arizona Pocket Mouse,English
 180257,Bailey's pocket mouse,English
 180258,California pocket mouse,English
 180259,San Diego pocket mouse,English
-180260,olive-backed pocket mouse,English
-180261,Ratón-de abazones de pradera,Spanish
-180262,Ratón-de abazones sedoso,Spanish
+180260,Olive-backed Pocket Mouse,English
+180261,Plains Pocket Mouse,English
+180262,Silky Pocket Mouse,English
 180263,long-tailed pocket mouse,English
 180264,hispid pocket mouse,English
-180265,San Joaquin pocket mouse,English
+180265,San Joaquin Pocket Mouse,English
 180266,rock pocket mouse,English
-180267,Ratón-de abazones menor,Spanish
+180267,Little Pocket Mouse,English
 180268,Nelson's pocket mouse,English
-180269,Great Basin pocket mouse,English
+180269,Great Basin Pocket Mouse,English
 180270,desert pocket mouse,English
 180271,spiny pocket mouse,English
-180272,yellow-eared pocket mouse,English
 180273,rats,English
 180275,white-footed mice,English
 180276,souris sylvestre,French
@@ -44763,7 +44759,7 @@ taxonID,vernacularName,language
 200033,bean leafhopper,Common name
 200139,cercope des prés,French
 200447,corn leafhopper,English
-200449,sugarcane leafhopper,Common name
+200449,sugarcane leafhopper,English
 200467,torpedo bug,Common name
 200542,oxalis white fly,Common name
 200543,iris white fly,Common name
@@ -45262,6 +45258,7 @@ taxonID,vernacularName,language
 203454,Virginia big-eared bat,English
 203459,Rodrigues fruit bat,English
 203462,pygmy rabbits,English
+203490,Short-nosed kangaroo rat,English
 203502,St. Andrew beach mouse,English
 203535,sagebrush voles,English
 203550,Mexican bobcat,English
@@ -63043,7 +63040,7 @@ taxonID,vernacularName,language
 552349,moles,English
 552350,capuchin monkeys,English
 552371,American spotted cats,English
-552372,hispid pocket mice,English
+552372,Coarse-haired Pocket Mice,English
 552373,jaguarundis,English
 552374,vervet monkeys,English
 552375,pumas,English
@@ -63127,16 +63124,16 @@ taxonID,vernacularName,language
 552479,mountain lion,English
 552480,Mogollon vole,English
 552481,little red bat,English
-552482,long-tailed pocket mouse,English
-552483,hispid pocket mouse,English
-552484,rock pocket mouse,English
-552485,Nelson's pocket mouse,English
-552486,desert pocket mouse,English
-552487,spiny pocket mouse,English
-552488,Merriam's pocket mouse,English
+552482,Long-tailed Pocket Mouse,English
+552483,Ratón-de abazones crespo,Spanish
+552484,Rock Pocket Mouse,English
+552485,Ratón-de abazones de Nelson,Spanish
+552486,Desert Pocket Mouse,English
+552487,Ratón-de abazones de Baja California,Spanish
+552488,Merriam's Pocket Mouse,English
 552489,eastern desert pocket mouse,English
 552490,sagebrush vole,English
-552491,California pocket mouse,English
+552491,California Pocket Mouse,English
 552492,Ungava vole,English
 552493,Himalayan rat,English
 552494,Arizona woodrat,English
@@ -63155,17 +63152,17 @@ taxonID,vernacularName,language
 552507,Asian minute shrew,English
 552508,Sonoma shrew,English
 552509,Barren Ground Shrew,English
-552510,San Diego pocket mouse,English
+552510,San Diego Pocket Mouse,English
 552511,lièvre arctique,French
 552512,western red bat,English
 552513,Beringian hare,English
 552514,Appalachian Cottontail,English
 552515,green monkey,English
-552516,Attwater's pocket gopher,English
-552517,Baird's pocket gopher,English
+552516,Attwater's Pocket Gopher,English
+552517,Baird's Pocket Gopher,English
 552518,Jones' pocket gopher,English
-552519,Llano pocket gopher,English
-552520,Bailey's pocket mouse,English
+552519,Llano Pocket Gopher,English
+552520,Ratón-de abazones Sonorense,Spanish
 552521,Pygmy Rabbit,English
 552522,Short-beaked Echidna,English
 552523,Western Long-beaked Echidna,English
@@ -65371,7 +65368,7 @@ taxonID,vernacularName,language
 555657,New Mexico Shrew,English
 555658,Davis Mountain cottontail,English
 555659,Japanese macaque,English
-555660,Dulzura kangaroo rat,English
+555660,Dulzura Kangaroo Rat,English
 555661,Appalachian woodrat,English
 555663,Alaska tiny shrew,English
 555664,southeastern big-eared bat,English
@@ -72732,6 +72729,7 @@ taxonID,vernacularName,language
 573081,pygmy chimpanzee,English
 573082,chimpanzee,English
 573083,orangutan,English
+573165,Eurasian Beaver,English
 573209,Smooth-tailed Tree Shrews,English
 573210,Tree Shrews,English
 573214,Madras Treeshrew,English
@@ -74915,53 +74913,55 @@ taxonID,vernacularName,language
 625191,Cedros Island mule deer,English
 625196,Rocky Mountain mule deer,English
 625197,caribou,English
-625199,giant pocket gophers,English
-625201,forest spiny pocket mice,English
-625202,tropical pocket gopher,English
-625203,Chiriqui pocket gopher,English
-625204,Cherrie's pocket gopher,English
-625205,Oaxacan pocket gopher,English
-625206,Darien pocket gopher,English
-625207,giant pocket gopher,English
-625208,variable pocket gopher,English
-625209,hispid pocket gopher,English
-625210,big pocket gopher,English
-625211,Nicaraguan pocket gopher,English
-625212,Thaeler's pocket gopher,English
-625213,Underwood's pocket gopher,English
-625214,Alcorn's pocket gopher,English
-625215,Buller's pocket gopher,English
-625216,smoky pocket gopher,English
-625217,Llano pocket gopher,English
-625218,Merriam's pocket gopher,English
-625219,Querétaro pocket gopher,English
-625220,naked-nosed pocket gopher,English
-625221,Zinser's pocket gopher,English
-625222,Michoacan pocket gopher,English
-625223,San Quintin kangaroo rat,English
-625224,San Jose Island kangaroo rat,English
-625225,Margarita Island kangaroo rat,English
-625226,Nelson's kangaroo rat,English
-625227,Phillips's kangaroo rat,English
-625228,Trinidad spiny pocket mouse,English
-625229,southern spiny pocket mouse,English
-625230,Desmarest's spiny pocket mouse,English
-625231,Gaumer's spiny pocket mouse,English
-625232,Goldman's spiny pocket mouse,English
-625233,Nelson's spiny pocket mouse,English
-625234,mountain spiny pocket mouse,English
-625235,Panamanian spiny pocket mouse,English
-625236,Painted spiny pocket mouse,English
-625237,Salvin's spiny pocket mouse,English
-625238,Jaliscan spiny pocket mouse,English
-625239,little desert pocket mouse,English
-625240,narrow-skulled pocket mouse,English
-625241,Goldman's pocket mouse,English
-625242,lined pocket mouse,English
-625243,Sinaloan pocket mouse,English
+625199,Giant Pocket Gophers,English
+625201,Forest Spiny Pocket Mice,English
+625202,Tropical Pocket Gopher,English
+625203,Chiriqui Pocket Gopher,English
+625204,Cherrie's Pocket Gopher,English
+625205,Oaxacan Pocket Gopher,English
+625206,Darien Pocket Gopher,English
+625207,Giant Pocket Gopher,English
+625208,Variable Pocket Gopher,English
+625209,Hispid Pocket Gopher,English
+625210,Big Pocket Gopher,English
+625211,Nicaraguan Pocket Gopher,English
+625212,Thaeler's Pocket Gopher,English
+625213,Underwood's Pocket Gopher,English
+625214,Alcorn's Pocket Gopher,English
+625215,Buller's Pocket Gopher,English
+625216,Smoky Pocket Gopher,English
+625217,Llano Pocket Gopher,English
+625218,Merriam's Pocket Gopher,English
+625219,Querétaro Pocket Gopher,English
+625220,Naked-nosed Pocket Gopher,English
+625221,Zinser's Pocket Gopher,English
+625222,Michoacan Pocket Gopher,English
+625223,San Quintin Kangaroo Rat,English
+625224,San Jose Island Kangaroo Rat,English
+625225,Margarita Island Kangaroo Rat,English
+625226,Nelson's Kangaroo Rat,English
+625227,Phillips' Kangaroo Rat,English
+625228,Trinidad Spiny Pocket Mouse,English
+625229,Southern Spiny Pocket Mouse,English
+625230,Desmarest's Spiny Pocket Mouse,English
+625231,Gaumer's Spiny Pocket Mouse,English
+625232,Goldman's Spiny Pocket Mouse,English
+625233,Nelson's Spiny Pocket Mouse,English
+625234,Mountain Spiny Pocket Mouse,English
+625235,Peters' Spiny Pocket Mouse,English
+625236,Painted Spiny Pocket Mouse,English
+625237,Salvin's Spiny Pocket Mouse,English
+625238,Jaliscan Spiny Pocket Mouse,English
+625239,Sand Pocket Mouse,English
+625240,Narrow-skulled Pocket Mouse,English
+625241,Goldman's Pocket Mouse,English
+625242,Lined Pocket Mouse,English
+625243,Sinaloan Pocket Mouse,English
 625244,San Bernardino Merriam's kangaroo rat,English
 625245,Pacific pocket mouse,English
-625254,yellow-eared pocket mouse,English
+625246,Marble Canyon kangaroo rat,English
+625252,big-eared kangaroo rat,English
+625254,Yellow-eared Pocket Mouse,English
 625257,rouch-head dories,English
 625258,look-down dories,English
 625259,dwarf dory,English
@@ -75003,7 +75003,7 @@ taxonID,vernacularName,language
 625341,Korean Hare,English
 625342,Corsican Hare,English
 625343,Ethiopian Hare,English
-625344,Tehuantepec Jackrabbit,English
+625344,Tropical Hare,English
 625345,Granada Hare,English
 625346,Hainan Hare,English
 625347,Black Jackrabbit,English
@@ -80749,6 +80749,7 @@ taxonID,vernacularName,language
 727751,Desert Hare,English
 727752,Manzano Mountain Cottontail,English
 727753,Venezuelan Lowland Rabbit,English
+727824,Western Desert Jackrabbit,English
 728007,Small Indian Civet,English
 728008,Indian Pangolin,English
 729197,Kokako,English
@@ -86055,3 +86056,159 @@ taxonID,vernacularName,language
 899175,pigmy clubmoss,English
 899183,false pepperwort,English
 899195,maidenhair creeper,English
+900127,Scandinavian beaver,English
+900128,Rhone beaver,English
+900129,Elbe beaver,English
+900130,Vistula beaver,English
+900131,Uralian beaver,English
+900132,Mongolian beaver,English
+900133,Yenisei beaver,English
+900134,Belorussian beaver,English
+900135,Eastern European beaver,English
+900158,Yellow-faced Pocket Gopher,English
+900159,Goldman's Yellow-faced Pocket Gopher,English
+900160,Smoky Pocket Gopher,English
+900161,Llano Pocket Gopher,English
+900162,Merriam's Pocket Gopher,English
+900163,Querétaro Pocket Gopher,English
+900164,Naked-nosed Pocket Gopher,English
+900165,Zinser's Pocket Gopher,English
+900166,Strecker's Pocket Gopher,English
+900167,Colonial pocket gopher,English
+900168,Cumberland pocket gopher,English
+900170,Cofre de Perote Pocket Gopher,English
+900174,Oriental Basin Pocket Gopher,English
+900193,Black-and-Brown Pocket Gopher,English
+900242,White Sands pocket gopher,English
+900259,Maritime Texas pocket gopher,English
+900261,Strecker's Pocket Gopher,English
+900265,Cumberland pocket gopher,English
+900267,Sherman's southeastern pocket gopher,English
+900269,Baker's Llano pocket gopher,English
+900318,Fish Spring pocket gopher,English
+900335,Bonneville southern pocket gopher,English
+900354,Clear Lake pocket gopher,English
+900357,San Antonio pocket gopher,English
+900360,Pistol River pocket gopher,English
+900361,Mount Ellen pocket gopher,English
+900366,Guadalupe southern pocket gopher,English
+900383,Limpia southern pocket gopher,English
+900389,Mearns' southern pocket gopher,English
+900391,Stansbury Island pocket gopher,English
+900397,Antelope Island pocket gopher,English
+900403,Cebolleta southern pocket gopher,English
+900415,Salt Gulch pocket gopher,English
+900421,Skull Valley pocket gopher,English
+900429,Swasey Spring pocket gopher,English
+900437,Harquahala southern pocket gopher,English
+900438,Limpia Creek pocket gopher,English
+900453,Shelton pocket gopher,English
+900454,Roy Prairie pocket gopher,English
+900455,Goldbeach western pocket gopher,English
+900457,Cathlamet pocket gopher,English
+900458,Olympic pocket gopher,English
+900463,Olympia pocket gopher,English
+900464,Tacoma pocket gopher,English
+900465,Tenino pocket gopher,English
+900466,Yelm pocket gopher,English
+900479,Brush Prairie pocket gopher,English
+900493,Douglas County pocket gopher,English
+900531,Animas southern pocket gopher,English
+900556,Goff's southeastern pocket gopher,English
+900557,desert pocket gopher,English
+900558,Mer Rouge pocket gopher,English
+900559,Graham Mountains pocket gopher,English
+900560,Fish Spring pocket gopher,English
+900561,Bonneville southern pocket gopher,English
+900562,Amargosa southern pocket gopher,English
+900563,Clear Lake pocket gopher,English
+900564,San Antonio pocket gopher,English
+900565,Pistol River pocket gopher,English
+900566,Mount Ellen pocket gopher,English
+900567,Guadalupe southern pocket gopher,English
+900568,Hualapai southern pocket gopher,English
+900569,Limpia southern pocket gopher,English
+900570,Mearns' southern pocket gopher,English
+900571,Stansbury Island pocket gopher,English
+900572,Prospect Valley pocket gopher,English
+900573,Antelope Island pocket gopher,English
+900574,Cebolleta southern pocket gopher,English
+900575,Salt Gulch pocket gopher,English
+900576,Pajarito southern pocket gopher,English
+900577,Skull Valley pocket gopher,English
+900578,Swasey Spring pocket gopher,English
+900579,Limpia Creek pocket gopher,English
+900580,Harquahala southern pocket gopher,English
+900581,Searchlight southern pocket gopher,English
+900582,Brush Prairie pocket gopher,English
+900640,Paraguaná Spiny Pocket Mouse,English
+900641,Ecuadoran Spiny Pocket Mouse,English
+900642,Dalquest's Pocket Mouse,English
+900643,Baja California Pocket Mouse,English
+900644,White-eared Pocket Mouse,English
+900646,Overlook Spiny Pocket Mouse,English
+900647,Eastern Desert Pocket-mouse,English
+900649,Cloud-dwelling Spiny Pocket Mouse,English
+900650,Yellow-eared Pocket Mouse,English
+900651,San Diego Pocket-mouse,English
+900653,Plateau Kangaroo Rat,English
+900659,Marysville California Kangaroo Rat,English
+900661,Padre Island Kangaroo Rat,English
+900668,Berkeley Kangaroo Rat,English
+900669,Merced Kangaroo Rat,English
+900679,Earthquake Merriam's Kangaroo Rat,English
+900680,Virgin Merriam's kangaroo rat,English
+900681,San Jose Island Kangaroo Rat,English
+900682,Margarita Island Kangaroo Rat,English
+900691,Gunnison Island kangaroo rat,English
+900694,Chisel-toothed Kangaroo Rat,English
+900700,Dolphin Island chisel-toothed kangaroo rat,English
+900706,Dolphin Island Ord's kangaroo rat,English
+900734,Panamint Kangaroo Rat,English
+900735,Argus Mountains Kangaroo Rat,English
+900753,Desert Valley kangaroo mouse,English
+900759,Fletcher dark kangaroo mouse,English
+900781,Goldman's spiny pocket mouse,English
+900820,Dulzura Pocket Mouse,English
+900826,Northwestern San Diego Pocket Mouse,English
+900830,Pallid San Diego Pocket Mouse,English
+900885,White-eared Pocket Mouse,English
+900886,Tehachapi Pocket Mouse,English
+900887,Yavapai Arizona pocket mouse,English
+900888,Wupatki Arizona pocket mouse,English
+900898,Apache pocket mouse,English
+900899,Plains Pocket Mouse,English
+900906,Silky pocket mouse,English
+900915,San Joaquin Pocket Mouse,English
+900916,Mckittrick Pocket Mouse,English
+900917,Salinas Pocket Mouse,English
+900920,Bangs's Pocket-mouse,English
+900922,Los Angeles little pocket mouse,English
+900924,Jacumba little pocket mouse,English
+900948,Apache Pocket Mouse,English
+900949,White-eared pocket mouse,English
+900950,Tehachapi white-eared pocket mouse,English
+900951,Coconino Arizona pocket mouse,English
+900952,Dulzura California pocket mouse,English
+900953,pallid pocketmouse,English
+900954,Northwestern San Diego pocket mouse,English
+900955,Black Mountain pocket mouse,English
+900956,Berkeley kangaroo rat,English
+900970,Hidalgo Jack Rabbit,English
+900972,Sierra Nevada snowshoe hare,English
+900973,San Diego black-tailed jackrabbit,English
+900981,Alta Mira Jack Rabbit,English
+900982,Alta Mira Jack Rabbit,English
+900986,Hidalgo Jack Rabbit,English
+900995,Eastern Desert Jackrabbit,English
+900996,Western Desert Jackrabbit,English
+109175,delphacid planthoppers,English
+200293,Mount Tantalus short-wing fern planthopper,English
+200296,Iao Valley nesosydne planthopper,English
+200309,Bridewell's nesosydne planthopper,English
+200345,Kusche's nesosydne planthopper,English
+200350,Diamond Head nesosydne planthopper,English
+200353,long-footed nesosydne planthopper,English
+200404,Keanae nesosydne planthopper,English
+200319,Glenwood nesosydne planthopper,English
+903470,Nahiku nesosydne planthopper,English
