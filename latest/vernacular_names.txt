@@ -155,7 +155,6 @@ taxonID,vernacularName,language
 15191,ascidiota,Common name
 15193,ascidiota,Common name
 15194,Alaskan ascidiota,Common name
-81777,Pacific geoduck,English
 15232,jubula,Common name
 15240,neurolejeunea,Common name
 15242,ptychocoleus,Common name
@@ -3029,35 +3028,35 @@ taxonID,vernacularName,language
 19680,largebract spiderling,English
 19681,alena,English
 19683,paperflower,English
-19685,cactus,French
-19686,prickly pear species,Common name
+19685,cacti,English
+19686,cholla,English
 19688,buckhorn cholla,Common name
 19689,pencil cholla,Common name
-19690,sand pricklypear,Common name
+19690,sand prickly-pear,English
 19692,border pricklypear,Common name
-19693,beavertail pricklypear,Common name
+19693,beavertail pricklypear,English
 19694,teddybear cholla,Common name
-19695,Brazilian pricklypear,Common name
+19695,Brazilian pricklypear,English
 19697,pancake pricklypear,Common name
 19698,club cholla,Common name
-19699,cochineal nopal cactus,Common name
+19699,cochineal nopal cactus,English
 19700,bullsuckers,Common name
 19701,pricklypear,Common name
 19704,golden cholla,Common name
-19705,Mohave pricklypear cactus,Common name
-19706,Indian-fig,Common name
-19707,little pricklypear cactus,Common name
+19705,Mohave pricklypear,English
+19706,Indian-fig,English
+19707,brittle pricklypear,English
 19708,Cholla brillante,Spanish
 19710,pricklypear,Common name
-19711,Cholla,Common name
-19712,Kelvin pricklypear,Common name
+19711,walkingstick cholla,English
+19712,Kelvin's pricklypear,English
 19713,Klein pencil cholla,Common name
-19714,tesajo cactus (christmastree cacti),Common name
+19714,tesajo cactus,English
 19715,arborescent pricklypear,Common name
 19716,Nopal arrastrado,Spanish
-19717,coastal prickly-pear,Common name
-19718,plains twistspine pricklypear,Common name
-19719,Munz's cholla,Common name
+19717,coastal pricklypear,English
+19718,plains twistspine pricklypear,English
+19719,Munz cholla,English
 19720,Navajo Bridge pricklypear,Common name
 19721,pricklypear,Common name
 19722,chaparral pricklypear,Common name
@@ -3065,9 +3064,9 @@ taxonID,vernacularName,language
 19724,brownspine pricklypear,Common name
 19726,plains pricklypear,Common name
 19727,coastal cholla,Common name
-19728,sand cholla,Common name
+19728,sand cholla,English
 19729,cockspur pricklypear,Common name
-19730,pencil cholla,Common name
+19730,pencil cholla,English
 19731,blind pricklypear,Common name
 19732,dog cactus,Common name
 19734,semaphore pricklypear,Common name
@@ -3077,80 +3076,80 @@ taxonID,vernacularName,language
 19739,woollyjoint pricklypear,Common name
 19740,Spanish lady,Common name
 19741,abrojo,Common name
-19742,staghorn cholla,Common name
-19745,Whipple's cholla,Common name
+19742,staghorn cholla,English
+19745,Whipple's cholla,English
 19748,Nopal espinudo,Spanish
-19750,tuna,Common name
+19750,tuna,English
 19751,roving pricklypear,Common name
-19752,sour pricklypear,Common name
-19753,pereskia,Common name
+19752,sour pricklypear,English
 19754,Barbados shrub,Common name
 19755,rose cactus,Common name
-19756,rhipsalis,Common name
-19757,mistletoe cactus,Common name
-19758,fishhook cactus,Common name
-19759,Uinta Basin hookless cactus,English
-19760,mesa verde cactus,Common name
-19761,Small flower fishook cactus,Common name
-19762,Mojave fishhook cactus,Common name
-19763,Great Basin fishook cactus,Common name
+19757,mistletoe cactus,English
+19758,fishhook cactus,English
+19759,Colorado hookless cactus,English
+19760,Mesa Verde cactus,English
+19761,smallflower fishhook cactus,English
+19762,Mohave fishhook cactus,English
+19763,Great Basin fishhook cactus,English
 19764,desert valley fish-hook cactus,Common name
-19765,whipple fishhook cactus,Common name
-19766,wright fishhook cactus,Common name
-19767,thelocactus,Common name
+19765,Whipple's fishhook cactus,English
+19766,Wright's fishhook cactus,English
 19768,Biznaga-pezón bicolor,Spanish
-19769,hedgehog cactus,Common name
-19770,Brady pediocactus,Common name
-19771,Knowlton's miniature cactus,Common name
-19773,park hedgehog cactus,Common name
-19774,Navajo pincushion cactus,Common name
-19775,Siler's pincushion cactus,Common name
-19776,Simpson's hedgehog cactus,Common name
-19777,Winkler's pincushion cactus,Common name
-19778,fishhook cactus,Common name
+19769,hedgehog cactus,English
+19770,Brady's pincushion cactus,English
+19771,Knowlton's cactus,English
+19772,paper-spined cactus,English
+19773,Kaibab plains cactus,English
+19774,Navajo pincushion cactus,English
+19775,Siler's pincushion cactus,English
+19776,Simpson's hedgehog cactus,English
+19777,Winkler cactus,English
+19778,fishhook cactus,English
 19779,strawberry cactus,Common name
-19780,Graham's nipple cactus,Common name
-19781,little nipple cactus,Common name
+19780,Graham's nipple cactus,English
+19781,little nipple cactus,English
 19782,lacespine nipple cactus,Common name
 19784,counterclockwise nipple cactus,Common name
-19786,rattail nipple cactus,Common name
+19786,rattail nipple cactus,English
 19787,Texas nipple cactus,Common name
 19788,common fishhook cactus,Common name
-19789,Thornber's nipple cactus,Common name
-19790,greenflower nipple cactus,Common name
-19791,Wright's nipple cactus,Common name
-19792,pingpong ball cactus,Common name
-19793,Biznaga-blanca de Boquillas,Spanish
+19789,Thornber's nipple cactus,English
+19790,greenflower nipple cactus,English
+19791,Wright's nipple cactus,English
+19792,pingpong ball cactus,English
+19793,Boke's button cactus,English
 19794,pingpong ball cactus,Common name
-19795,barrel cactus,Common name
-19799,turkshead,Common name
-19801,San Diego barrelcactus,Common name
-19803,hedgehog cactus,Common name
+19795,barrel cactus,English
+19799,Turk's head,English
+19801,coast barrel cactus,English
+19803,hedgehog cactus,English
 19804,Berlandier's hedgehog cactus,Common name
 19805,brownspine hedgehog cactus,Common name
-19806,strawberry cactus,Common name
+19806,strawberry cactus,English
 19807,smallspine pitaya,Common name
 19808,Órgano-pequeño de manojos,Spanish
-19809,Fendler hedgehog cactus,Common name
+19809,Fendler's hedgehog cactus,English
 19811,Lloyd's hedgehog cactus,English
 19812,rainbow cactus,Common name
 19813,ladyfinger cactus,Common name
 19814,lace hedgehog cactus,Common name
-19815,Mojave mound cactus,Common name
+19815,Mojave mound cactus,English
 19816,green pitaya,Common name
-19817,barrel cactus,Common name
-19819,turkshead cactus,Common name
+19817,barrel cactus,English
+19819,Turk's head cactus,English
 19820,cottontop barrel cactus,Common name
 19822,devil's pincushion,Common name
-19823,coryphantha cactus,Common name
+19823,beehive cactus,English
 19824,rhinoceros cactus,Common name
+19826,Duncan's cory cactus,English
+19827,Hester's cory cactus,English
 19828,nipple beehive cactus,Common name
-19829,nellie cory cactus,Common name
-19832,whiskerbush,Common name
-19833,Santa Cruz beehive cactus,Common name
+19829,Nellie Cory cactus,English
+19832,bunched cory cactus,English
+19833,Santa Cruz beehive cactus,English
 19835,Cochise pincushion cactus,Common name
 19836,beehive coryphantha,Common name
-19837,sneed pincushion cactus,Common name
+19837,Sneed pincushion cactus,English
 19839,finger cactus,Common name
 19841,stinging serpent,English
 19842,stinging-serpent,English
@@ -3158,27 +3157,24 @@ taxonID,vernacularName,language
 19844,yellow stingbush,English
 19845,rock stingbush,English
 19846,desert stingbush,English
-19847,neolloydia,Common name
 19848,Chihuahuan beehive,Common name
-19853,lloyd's mariposa cactus,Common name
-19855,tree cactus,Common name
-19857,leptocereus,Common name
+19850,Gaut's butterfly cactus,English
+19853,Lloyd's Mariposa cactus,English
+19855,tree cactus,English
 19858,sebucan,Common name
-19861,nightblooming cactus,Common name
+19861,nightblooming cactus,English
 19862,strawberry-pear,Common name
-19863,applecactus,Common name
-19864,Puerto Rico applecactus,Common name
-19867,melocactus,Common name
-19868,Turk's cap,Common name
-19869,schlumbergera,Common name
+19863,applecactus,English
+19864,higo chumbo,English
+19868,Turk's cap,English
 19870,false Christmas cactus,Common name
-19873,Tobusch fishhook cactus,Common name
-19875,livingrock,Common name
+19873,Tobusch fishhook cactus,English
+19875,livingrock,English
 19876,Biznaga peyotillo,Spanish
-19877,sweetpotato cactus,Common name
-19880,saguaro,Common name
-19887,key tree cactus,Common name
-19889,deering tree cactus,Common name
+19877,sweetpotato cactus,English
+19880,saguaro,English
+19887,Key tree cactus,English
+19889,Deering's tree cactus,English
 19897,iceplants,English
 19898,carpetweed,English
 19899,carpet-weed,English
@@ -24798,7 +24794,7 @@ taxonID,vernacularName,language
 79919,triangle floater,English
 79920,brook floater,English
 79921,Altamaha arcmussel,English
-79923,coosa elktoe,English
+79923,Coosa elktoe,English
 79924,Appalachian elktoe,English
 79925,southern elktoe,English
 79926,Ochlockonee arcmussel,English
@@ -24807,19 +24803,19 @@ taxonID,vernacularName,language
 79931,Yukon floater,English
 79933,eastern floater,English
 79934,Newfoundland floater,English
-79935,gaspe floater,Common name
-79936,giant floater,Common name
-79940,paper pondshell,Common name
+79935,Gaspe floater,English
+79936,giant floater,English
+79940,paper pondshell,English
 79941,alewife floater,English
 79942,western floater,English
-79943,winged floater,Common name
+79943,winged floater,English
 79944,California floater,English
 79945,flat floater,English
 79946,barrel floater,English
 79947,woebegone floater,English
-79948,inflated floater,Common name
+79948,inflated floater,English
 79949,Oregon floater,English
-79950,florida floater,Common name
+79950,Florida floater,English
 79952,eastern elliptio,English
 79953,spike,English
 79954,delicate spike,English
@@ -24841,15 +24837,15 @@ taxonID,vernacularName,language
 79973,Carolina lance,English
 79974,Alabama spike,English
 79975,Florida shiny spike,English
-79976,box spike,Common name
+79976,box spike,English
 79977,Satilla elephantear,English
 79978,northern lance,English
 79979,pod lance,English
-79980,fluted elephant-ear,Common name
+79980,fluted elephant-ear,English
 79981,Atlantic spike,English
 79982,Carolina spike,English
 79983,Roanoke slabshell,English
-79984,tar spinymussel,Common name
+79984,Tar spinymussel,English
 79985,Florida lance,English
 79987,pocketbook,English
 79991,yellow lampmussel,English
@@ -24863,7 +24859,7 @@ taxonID,vernacularName,language
 80001,Altamaha pocketbook,English
 80003,Haddleton lampmussel,English
 80004,Louisiana fatmucket,English
-80005,pink mucket pearly mussel,Common name
+80005,pink mucket pearly mussel,English
 80006,yellow sandshell,English
 80008,Alabama lampmussel,English
 80009,rough fatmucket,English
@@ -24887,7 +24883,7 @@ taxonID,vernacularName,language
 80028,fatmucket,English
 80030,rayed pink fatmucket,English
 80033,western ridged mussel,English
-80035,threeridge,English
+80035,three-ridge,English
 80036,three-ridge,English
 80037,roundlake,English
 80038,fat threeridge,English
@@ -24895,7 +24891,7 @@ taxonID,vernacularName,language
 80042,Texas pigtoe,English
 80043,Tennessee pigtoe,English
 80044,shiny pigtoe,English
-80045,finerayed pigtoe,English
+80045,fine-rayed pigtoe,English
 80046,ebonyshell,English
 80047,narrow pigtoe,English
 80048,triangle pigtoe,English
@@ -24927,21 +24923,21 @@ taxonID,vernacularName,language
 80082,Appalachian monkeyface pearly mussel,English
 80083,rough rockshell,English
 80085,purple wartyback,English
-80087,round pigtoe,Common name
+80087,round pigtoe,English
 80089,highnut,English
 80090,hazel pigtoe,English
 80091,painted clubshell,English
 80092,clubshell,English
-80093,virginia spinymussel,Common name
+80093,Virginia spinymussel,English
 80094,Ohio pigtoe,English
-80096,curtus' mussel,Common name
+80096,Curtus' mussel,English
 80097,southern clubshell,English
 80098,yellow pigtoe,English
 80099,dark pigtoe,English
 80100,southern pigtoe,English
-80101,georgia pigtoe,Common name
+80101,Georgia pigtoe,English
 80102,Alabama pigtoe,English
-80103,marshall's mussel,Common name
+80103,Marshall's mussel,English
 80105,Coosa pigtoe,English
 80106,longnut,English
 80107,Tennessee clubshell,English
@@ -24952,13 +24948,13 @@ taxonID,vernacularName,language
 80115,true pigtoe,English
 80117,brown pigtoe,English
 80120,ovate clubshell,English
-80125,mississippi pigtoe,Common name
+80125,Mississippi pigtoe,English
 80126,Scioto pigtoe,English
-80127,cumberland pigtoe mussel,Common name
-80128,louisiana pigtoe,Common name
-80129,judge tait's mussel,Common name
+80127,Cumberland pigtoe mussel,English
+80128,Louisiana pigtoe,English
+80129,Judge Tait's mussel,English
 80130,rough pigtoe,English
-80132,pyramid pigtoe,Common name
+80132,pyramid pigtoe,English
 80135,white heelsplitter,English
 80136,white heelsplitter,English
 80138,creek heelsplitter,English
@@ -24973,7 +24969,7 @@ taxonID,vernacularName,language
 80154,southern creekmussel,English
 80156,Alabama creekmussel,English
 80158,kidneyshell,English
-80159,triangular kidneyshell,Common name
+80159,triangular kidneyshell,English
 80160,southern kidneyshell,English
 80161,Ouachita kidneyshell,English
 80162,fluted kidneyshell,English
@@ -24984,7 +24980,7 @@ taxonID,vernacularName,language
 80169,Mexican fawnsfoot,English
 80173,hickorynut,English
 80174,round hickorynut,English
-80175,ring pink mussel,Common name
+80175,ring pink mussel,English
 80178,round ebonyshell,English
 80179,Alabama hickorynut,English
 80180,southern hickorynut,English
@@ -25015,45 +25011,45 @@ taxonID,vernacularName,language
 80218,Ouachita creekshell,English
 80219,purple bean,English
 80220,Carolina creekshell,English
-80227,white wartyback pearly mussel,Common name
+80227,white wartyback pearly mussel,English
 80228,orangefoot pimpleback,English
 80229,sheepnose,English
 80231,bankclimber,English
 80233,pondhorn,English
-80234,florida pondhorn,Common name
+80234,Florida pondhorn,English
 80235,tapered pondhorn,English
-80236,polished pondhorn,Common name
-80237,southern pondhorn,Common name
+80236,polished pondhorn,English
+80237,southern pondhorn,English
 80239,rock pocketbook,English
 80241,Ouachita rock pocketbook,English
-80243,Tampico pearlymussel,English
-80245,dromedary pearlymussel,English
+80243,Tampico pearly mussel,English
+80245,dromedary pearly mussel,English
 80250,butterfly,English
 80253,round pearlshell,English
-80255,birdwing pearlymussel,English
-80257,slabside pearlymussel,English
+80255,birdwing pearly mussel,English
+80257,slabside pearly mussel,English
 80260,Virginia pigtoe,English
 80262,Alabama moccasinshell,English
 80263,Cumberland moccasinshell,English
-80264,tombigbee moccasinshell,Common name
+80264,Tombigbee moccasinshell,English
 80265,Coosa moccasinshell,English
 80266,Gulf moccasinshell,English
 80267,Ochlockonee moccasinshell,English
 80268,Suwannee moccasinshell,English
-80271,texas hornshell,Common name
+80271,Texas hornshell,English
 80273,western fanshell,English
 80277,fanshell,English
 80279,washboard,English
-80280,round washboard,Common name
+80280,round washboard,English
 80282,pink heelsplitter,English
 80284,fat pocketbook,English
 80286,Texas heelsplitter,English
-80287,inflated heelsplitter,Common name
+80287,inflated heelsplitter,English
 80288,pink papershell,English
 80289,bleufer,English
 80293,pistolgrip,English
 80295,ellipse,English
-80296,bleedingtooth mussel,Common name
+80296,bleedingtooth mussel,English
 80298,purple bankclimber,English
 80300,sugarspoon,English
 80302,angled riffleshell,English
@@ -25062,7 +25058,7 @@ taxonID,vernacularName,language
 80308,leafshell,English
 80310,yellow blossom,English
 80312,yellow blossom pearly mussel,English
-80313,pearlymussel,English
+80313,Curtis' pearly mussel,English
 80314,tan riffleshell,English
 80315,acornshell,English
 80317,narrow catspaw,English
@@ -25083,19 +25079,19 @@ taxonID,vernacularName,language
 80343,northern riffleshell,English
 80345,snuffbox,English
 80347,turgid blossom pearly mussel,English
-80350,cracking pearlymussel,English
-80352,littlewing pearlymussel,English
+80350,cracking pearly mussel,English
+80352,little-wing pearly mussel,English
 80355,tapered pigtoe,English
 80356,sculptured pigtoe,English
 80357,false spike,English
 80360,southern purple lilliput,English
-80361,pale lilliput pearly mussel,Common name
+80361,pale lilliput pearly mussel,English
 80362,purple lilliput,English
 80363,western lilliput,English
 80364,lilliput,English
 80366,iridescent lilliput,English
 80367,Savannah lilliput,English
-80369,texas lilliput,Common name
+80369,Texas lilliput,English
 80371,eastern pearlshell,English
 80372,western pearlshell,English
 80373,Louisiana pearlshell,English
@@ -25669,6 +25665,7 @@ taxonID,vernacularName,language
 81772,arctic roughmya,Common name
 81773,bering roughmya,Common name
 81774,ample roughmya,English
+81777,Pacific geoduck,English
 81778,Atlantic geoduck,English
 81782,elongate saxicave,English
 81786,Pilsbry piddock,English
@@ -28062,6 +28059,7 @@ taxonID,vernacularName,language
 109172,spittlebugs,English
 109173,Planthoppers,English
 109174,cixid planthoppers,English
+109175,delphacid planthoppers,English
 109176,derbid planthoppers,English
 109178,dictypharid planthoppers,English
 109179,fulgorid planthoppers,English
@@ -28707,7 +28705,7 @@ taxonID,vernacularName,language
 124071,spruce cone gall midge,English
 124073,spruce cone axis midge,English
 124082,mouche de Hesse,French
-124089,jumping tip midge,Common name
+124089,juniper tip midge,Common name
 124140,willow beakedgall midge,English
 124148,willow potatogall midge,English
 124151,willow cabbagegall midge,English
@@ -41607,13 +41605,12 @@ taxonID,vernacularName,language
 181896,variable pink sand verbena,English
 181897,whiteflower sand verbena,English
 181898,clay sand verbena,English
-181900,old man's beard,Common name
-181902,turk's cap,Common name
-181904,triangle cactus,Common name
+181900,mistletoe cactus,English
+181902,Turk's cap,English
+181904,triangle cactus,English
 181908,Órgano-alado de pitaya,Spanish
-181909,climbing cactus,Common name
+181909,climbing cactus,English
 181910,Nopalillo de Hooker,Spanish
-181913,night-blooming cereus,Common name
 181917,kuawawaenohu,English
 181918,climbing alsinidendron,English
 181920,heartleaf madeiravine,English
@@ -43245,11 +43242,10 @@ taxonID,vernacularName,language
 192183,necklace fern,English
 192186,woodland necklace fern,English
 192199,spiny treefern,English
-192202,astrophytum,Common name
-192203,seaurchin starcactus,Common name
+192203,star cactus,English
 192204,atrichoseris,English
 192205,gravel ghost,Common name
-192206,snakecactus,Common name
+192206,snakecactus,English
 192207,Órgano aterciopelado,Spanish
 192210,Ceylon spinach,English
 192216,spear saltbush,Common name
@@ -44048,108 +44044,106 @@ taxonID,vernacularName,language
 195253,buckhorn cholla,Common name
 195254,Colorado buckhorn cholla,Common name
 195256,slender joint buckhorn cholla,Common name
-195257,Thornber buckhorn cholla,Common name
+195257,Thornber's buckhorn cholla,English
 195258,beavertail pricklypear,Common name
 195259,golden pricklypear,Common name
-195260,beavertail pricklypear,Common name
-195261,Heil's beavertail pricklypear,Common name
+195260,short-jointed beavertail cactus,English
+195261,Heil's beavertail pricklypear,English
 195262,Grand Canyon beavertail cactus,Common name
-195263,Trelease's beavertail pricklypear,Common name
+195263,Trelease's beavertail pricklypear,English
 195264,Woodbury's beavertail pricklypear,Common name
 195265,teddybear cholla,Common name
-195270,staghorn cholla,Common name
+195266,Hoffmann's cactus,English
+195270,staghorn cholla,English
 195272,grizzlybear pricklypear,Common name
-195273,grizzleybear pricklypear,Common name
-195274,porcupine pricklypear cactus,Common name
-195275,grizzlybear pricklypear cactus,Common name
-195276,Utah pricklypear cactus,Common name
-195277,pygmy pricklypear,Common name
+195273,grizzlybear pricklypear,English
+195274,porcupine pricklypear,English
+195275,grizzlybear pricklypear,English
+195276,Utah pricklypear,English
+195277,pygmy pricklypear,English
 195279,jumping cholla,Common name
 195280,compact jumping cholla,Common name
 195281,walkingstick cholla,Common name
-195282,walkingstick cholla,Common name
+195282,silver cholla,English
 195283,coastal pricklypear,Common name
 195284,coastal pricklypear,Common name
-195285,coastal prickly-pear,Common name
+195285,coastal pricklypear,English
 195286,coastal pricklypear,Common name
 195287,bigflower pricklypear,Common name
-195288,Potts pricklypear cactus,Common name
+195288,Potts pricklypear cactus,English
 195289,brownspined pricklypear,Common name
-195290,serpentine cholla,Common name
+195290,snake cholla,English
 195291,tulip pricklypear,Common name
 195292,brownspine pricklypear,Common name
-195293,smooth pricklypear cactus,Common name
-195294,great pricklypear cactus,Common name
+195293,smooth pricklypear,English
+195294,great pricklypear,English
 195295,Wooton's pricklypear,Common name
-195296,hair-spine prickly-pear,Common name
-195297,Juniper prickly-pear,Common name
-195298,red-spine pricklypear cactus,Common name
-195299,threadspine pricklypear cactus,Common name
+195296,hairspine pricklypear,English
+195297,Juniper pricklypear,English
+195298,red-spine pricklypear,English
+195299,threadspine pricklypear,English
 195300,erect pricklypear,Common name
 195301,erect pricklypear,Common name
 195302,thistle cholla,Common name
 195303,Jeff Davis cholla,Common name
-195305,staghorn cholla,Common name
 195306,Whipple cholla,Common name
-195307,rattail cholla,Common name
-195309,Rio Grande pricklypear,Common name
+195307,blue diamond cholla,English
+195309,golden-spined prickly-pear,English
 195310,Texas pricklypear,Common name
 195311,Chisos Mountain pricklypear,Common name
 195312,searchlight pricklypear,Common name
 195313,grassland pricklypear,Common name
 195314,Edwards' pricklypear,Common name
 195315,tigertongue,Common name
-195316,Engelmann pricklypear,Common name
-195317,desert pricklypear,Common name
+195316,Engelmann's pricklypear,English
+195317,desert pricklypear,English
 195318,cactus apple,Common name
-195319,Engelman pricklypear,Common name
-195320,cactus apple,Common name
-195321,Texas prickly pear,Common name
+195319,Engelmann's pricklypear,English
+195320,few-spined marble-seeded prickly-pear,English
+195321,Texas pricklypear,English
 195322,tongue pricklypear,Common name
 195323,violet pricklypear,Common name
 195325,Heacock's pricklypear,Common name
 195326,dogturd cholla,Common name
-195327,purple prickly-pear,Common name
-195328,longspine pricklypear,Common name
-195329,purple pricklypear,Common name
+195327,purple pricklypear,English
+195328,longspine pricklypear,English
+195329,purple pricklypear,English
 195330,coastal pricklypear,Common name
 195331,smallfruit cactus,Common name
 195333,matted cholla,Common name
 195334,Santa Rita pricklypear,Common name
 195335,pricklypear,Common name
-195336,Kingman prickly-pear,Common name
-195337,Tucson prickly-pear,Common name
-195353,Navajo pincushion cactus,Common name
-195354,Navajo pincushion cactus,Common name
+195336,Kingman pricklypear,English
+195337,Tucson pricklypear,English
+195353,Peebles Navajo cactus,English
+195354,Fickeisen plains cactus,English
 195355,Navajo pincushion cactus,Common name
 195358,Simpson's hedgehog cactus,Common name
 195359,snowball cactus,Common name
 195360,snowball cactus,Common name
-195361,Despain's pincushion cactus,Common name
-195363,Fendler's hedgehog cactus,Common name
+195361,San Rafael cactus,English
+195363,Fendler's hedgehog cactus,English
 195364,strawberry cactus,Common name
-195365,Kuenzler's hedgehog cactus,Common name
-195366,Leding hedgehog cactus,Common name
+195365,Kuenzler's hedgehog cactus,English
+195366,Leding's hedgehog cactus,English
 195369,Reichenbach's hedgehog cactus,Common name
-195370,black lace cactus,Common name
+195370,black lace cactus,English
 195371,kingcup cactus,Common name
-195372,arizona hedgehog cactus,Common name
-195374,spineless hedgehog cactus,Common name
+195372,Arizona hedgehog cactus,English
+195374,spineless hedgehog cactus,English
 195377,nylon hedgehog cactus,Common name
-195378,Davis' hedgehog cactus,Common name
+195378,Davis' green pitaya,English
 195380,Correll's hedgehog cactus,Common name
-195382,chisos mountain hedgehog cactus,Common name
-195385,Nichol turkshead,Common name
+195385,Nichols Turks head cactus,English
 195390,Cochise foxtail cactus,English
 195391,carpet foxtail cactus,Common name
-195393,Sneed pincushion cactus,Common name
-195394,lee pincushion cactus,Common name
-195398,Lloyd's Mariposa cactus,Common name
-195400,prickly applecactus,Common name
+195394,Lee pincushion cactus,English
+195398,Lloyd's Mariposa cactus,English
+195400,aboriginal pricklyapple,English
 195401,Caribbean applecactus,Common name
 195402,mooncactus,Common name
 195403,Simpson's applecactus,Common name
-195407,Fragrant prickly-apple,Common name
+195407,fragrant prickly-apple,English
 195408,cliffface catchfly,English
 195409,Cumberland sandwort,English
 195411,tinytim,English
@@ -44746,9 +44740,9 @@ taxonID,vernacularName,language
 198378,Socorro springsnail,English
 198382,kanab ambersnail,Common name
 198384,manus island tree snail,Common name
-198386,shiny pigtoe,Common name
-198391,nicklin's pearly mussel,Common name
-198394,tan riffle shell,Common name
+198386,shiny pigtoe,English
+198391,Nicklin's pearly mussel,English
+198394,tan riffleshell,English
 198961,Tooth Cave pseudoscorpion,English
 199910,tooth cave spider,Common name
 199948,banded spiny lobster,English
@@ -44758,6 +44752,14 @@ taxonID,vernacularName,language
 200026,cicadelle de la betterave,French
 200033,bean leafhopper,Common name
 200139,cercope des prés,French
+200293,Mount Tantalus short-wing fern planthopper,English
+200296,Iao Valley nesosydne planthopper,English
+200309,Bridewell's nesosydne planthopper,English
+200319,Glenwood nesosydne planthopper,English
+200345,Kusche's nesosydne planthopper,English
+200350,Diamond Head nesosydne planthopper,English
+200353,long-footed nesosydne planthopper,English
+200404,Keanae nesosydne planthopper,English
 200447,corn leafhopper,English
 200449,sugarcane leafhopper,English
 200467,torpedo bug,Common name
@@ -45205,11 +45207,10 @@ taxonID,vernacularName,language
 202452,fir club moss,English
 202453,wawae`iole,English
 202457,fall buttercup,English
-202460,Bakersfield cactus,Common name
-202461,tobusch fishhook cactus,Common name
+202460,Bakersfield cactus,English
 202462,Fitch's hedgehog cactus,English
-202465,pincushion cactus,Common name
-202466,white-column foxtail cactus,Common name
+202465,pincushion cactus,English
+202466,white column foxtail cactus,English
 202469,blazingstar,English
 202470,tropical blazingstar,English
 202471,Ash Meadows blazingstar,English
@@ -46231,7 +46232,6 @@ taxonID,vernacularName,language
 500177,bellflower,English
 500178,jackbean,English
 500180,wrightwort,English
-500181,saguaro,Common name
 500182,distaff thistle,English
 500183,fishtail palm,English
 500186,castalis,English
@@ -46356,7 +46356,6 @@ taxonID,vernacularName,language
 500385,livistona,English
 500386,calico,English
 500388,semaphoregrass,Common name
-500389,lophophora,Common name
 500395,clubmoss,English
 500396,lycoris,English
 500397,skeletonweed,Common name
@@ -46389,12 +46388,10 @@ taxonID,vernacularName,language
 500455,orthilia,English
 500456,osmadenia,English
 500458,daisybush,English
-500460,pachycereus,Common name
 500461,pancratium,English
 500462,screwpine,English
 500464,wheatgrass,Common name
 500466,rockcap fern,English
-500467,peniocereus,Common name
 500468,pygmydaisy,English
 500469,goldback fern,English
 500471,cinquefoil,Common name
@@ -46441,7 +46438,7 @@ taxonID,vernacularName,language
 500546,swampfire,English
 500547,snowplant,English
 500550,mock stonecrop,English
-500551,moonlight cactus,Common name
+500551,moonlight cactus,English
 500552,houseleek,English
 500554,plumeless saw-wort,English
 500559,bully,English
@@ -46450,7 +46447,6 @@ taxonID,vernacularName,language
 500563,dogwoodleaf,English
 500564,false spirea,English
 500565,stanfordia,English
-500568,stenocereus,Common name
 500570,stenotus,Common name
 500572,water soldiers,English
 500573,stroganowia,English
@@ -46493,7 +46489,7 @@ taxonID,vernacularName,language
 500689,tea,English
 500690,pentadesma,English
 500691,platonia,English
-500694,saguaro,Common name
+500694,saguaro,English
 500696,cannonball tree,English
 500699,feijoa,English
 500706,ironwood,English
@@ -46978,7 +46974,6 @@ taxonID,vernacularName,language
 501296,Trans-Pecos wrightwort,English
 501297,Texas wrightwort,English
 501298,Torrey's wrightwort,English
-501299,saguaro,Common name
 501300,pineland chaffhead,English
 501301,vanillaleaf,English
 501302,hairy chaffhead,English
@@ -47049,7 +47044,7 @@ taxonID,vernacularName,language
 501367,blue leadwood,English
 501368,katsura tree,English
 501369,lady of the night cactus,Common name
-501370,spine tree cactus,Common name
+501370,spine tree cactus,English
 501371,honeywort,English
 501372,orange jessamine,English
 501373,alpine pincushion,Common name
@@ -47867,9 +47862,9 @@ taxonID,vernacularName,language
 502198,amberlily,Common name
 502199,reflexed craglily,English
 502200,desert savior,English
-502201,chisos lace cactus,Common name
+502201,chisos lace cactus,English
 502202,scarlet hedgehog cactus,Common name
-502203,Nichol hedgehog cactus,Common name
+502203,Nichol's hedgehog cactus,English
 502204,Allicoche hedgehog cactus,Common name
 502205,Mojave mound cactus,Common name
 502206,dahlia hedgehog cactus,Common name
@@ -48107,15 +48102,15 @@ taxonID,vernacularName,language
 502445,cushion foxtail cactus,Common name
 502446,Big Bend foxtail cactus,Common name
 502447,junior Tom Thumb cactus,Common name
-502448,Guadalupe Mountain foxtail cac,Common name
+502448,Guadalupe pincushion cactus,English
 502449,Hester's foxtail cactus,Common name
 502450,small coryphantha,Common name
-502451,Missouri fox-tail cactus,Common name
+502451,Missouri foxtail cactus,English
 502452,Orcutt's foxtail cactus,Common name
 502453,Organ Mountain foxtail cactus,Common name
 502454,San Andres Mountain foxtail cactus,Common name
-502455,Sacramento Mountain foxtail ca,Common name
-502456,spinystar,Common name
+502455,Villard's pincushion cactus,English
+502456,spinystar,English
 502457,waxflower,English
 502458,torch-ginger,English
 502459,tapeworm-plant,English
@@ -48251,9 +48246,9 @@ taxonID,vernacularName,language
 502590,European beech,English
 502591,hairy crabweed,English
 502592,stiff fendlerbush,English
-502593,California barrelcactus,Common name
-502594,Emory's barrel cactus,Common name
-502595,fishhook barrel cactus,Common name
+502593,California barrel cactus,English
+502594,Emory's barrel cactus,English
+502595,fishhook barrel cactus,English
 502596,tufted fescue,Common name
 502597,field fescue,Common name
 502598,Alaska fescue,Common name
@@ -49674,13 +49669,13 @@ taxonID,vernacularName,language
 504035,shortleaf basketgrass,Common name
 504036,Big Bend pricklypear,Common name
 504037,Hoffmann's teddybear cholla,Common name
-504038,olaga,Common name
+504038,olaga,English
 504039,Argentine pricklypear,Common name
 504040,devil cholla,Common name
 504041,common pricklypear,Common name
 504042,cane cholla,Common name
-504043,rattail cholla,Common name
-504044,Wiggins cholla,Common name
+504043,Santa Fe cholla,English
+504044,Wiggin's cholla,English
 504045,Piedmont leather-root,English
 504046,bigleaf scurfpea,English
 504047,French-grass,English
@@ -49828,8 +49823,8 @@ taxonID,vernacularName,language
 504193,spiny cliffbrake,English
 504194,horsebush,English
 504195,yellow poinciana,English
-504196,nightblooming cereus,Common name
-504197,gearstem cactus,Common name
+504196,nightblooming cereus,English
+504197,gearstem cactus,English
 504198,buffelgrass,Common name
 504199,African feathergrass,Common name
 504200,kyasuma-grass,Common name
@@ -50027,7 +50022,7 @@ taxonID,vernacularName,language
 504395,musgo,English
 504396,artillery plant,English
 504397,wild pennyroyal,English
-504398,Key tree cactus,Common name
+504398,Key tree cactus,English
 504399,Royen's tree cactus,Common name
 504400,fevertree,English
 504401,bejuco de agua,English
@@ -50692,15 +50687,15 @@ taxonID,vernacularName,language
 505071,Muehlenberg's nutrush,English
 505072,mosquito nutrush,English
 505073,fly nutrush,English
-505074,Blain's fishook cactus,Common name
+505074,Blaine's fishhook cactus,English
 505075,Canyonlands fishhook cactus,Common name
 505076,Biznaga-bola de centrales erectas,Spanish
 505077,Biznaga-bola entretejida,Spanish
-505078,pygmy barrel cactus,Common name
-505079,Biznaga-bola de mariposa,Spanish
+505078,pygmy barrel cactus,English
+505079,silver column cactus,English
 505080,Biznaga-bola de espinas de papel,Spanish
-505081,tobusch fishhook cactus,Common name
-505082,Schlesser's fishook cactus,Common name
+505081,Tobusch fishhook cactus,English
+505082,Schlesser's fishhook cactus,English
 505083,longspine fishhook cactus,Common name
 505084,Biznaga-bola uncinada,Spanish
 505085,Biznaga-bola amarilla,Spanish
@@ -50736,7 +50731,7 @@ taxonID,vernacularName,language
 505116,Pitayita-noctirna de culebra,Spanish
 505117,Pitayita-nocturna reina de la noche,Spanish
 505118,Pitayita-nocturna flor de la noche,Spanish
-505119,nightblooming cereus,Common name
+505119,nightblooming cereus,English
 505120,common houseleek,English
 505121,silver ragwort,Common name
 505122,Aleutian ragwort,Common name
@@ -51731,8 +51726,8 @@ taxonID,vernacularName,language
 506146,jarilla,English
 506149,oakleaf carica,English
 506150,akalbir,English
-506151,saguaro,Common name
-506152,elephantear pricklypear,Common name
+506151,saguaro,English
+506152,elephantear pricklypear,English
 506153,lacebark,English
 506154,cannonball tree,English
 506155,lecythis,English
@@ -53079,7 +53074,7 @@ taxonID,vernacularName,language
 507707,Dutchman's pipe cactus,Common name
 507709,Costa Rica nightblooming cactus,Common name
 507710,Big Bend pricklypear,Common name
-507711,shorthook fishhook cactus,Common name
+507711,shorthook fishhook cactus,English
 507713,Koolau Range rollandia,English
 507714,haha,English
 507715,Oahu rollandia,English
@@ -53555,6 +53550,7 @@ taxonID,vernacularName,language
 510587,large field mouse-ear chickweed,English
 510590,western field mouse-ear chickweed,English
 510609,Florida hornwort,English
+510628,Sebucan,English
 510756,fireweed,English
 510758,dwarf fireweed,English
 510821,Molokai goosefoot,English
@@ -53578,6 +53574,7 @@ taxonID,vernacularName,language
 511205,eared hedgemustard,English
 511235,Blue Ridge horsebalm,English
 511282,blue mistflower,English
+511287,Florida semaphore cactus,English
 511301,sweet potato,Common name
 511321,hedge false bindweed,Common name
 511322,elephant creeper,Common name
@@ -53589,6 +53586,8 @@ taxonID,vernacularName,language
 511432,hairy bugseed,English
 511438,Siberian dogwood,English
 511442,silky dogwood,English
+511467,white column cory cactus,English
+511471,Chaffey's cory cactus,English
 511473,rhinoceros cactus,Common name
 511479,Biznaga-partida de espinas gruesas,Spanish
 511483,golden chamomile,English
@@ -53666,7 +53665,7 @@ taxonID,vernacularName,language
 512628,Conejo dudleya,English
 512631,Santa Clara Valley dudleya,English
 512689,spiny hedgehog cactus,Common name
-512700,brownspine hedgehog cactus,Common name
+512700,rusty hedgehog cactus,English
 512703,rice barnyardgrass,Common name
 512730,Oriental paperbush,English
 512755,two-tone spikerush,English
@@ -55666,7 +55665,7 @@ taxonID,vernacularName,language
 525072,curly wallflower,English
 525073,clasping jewelflower,English
 525074,clasping jewelflower,English
-525076,shorthook fishhook cactus,Common name
+525076,shorthook fishhook cactus,English
 525079,American black elderberry,English
 525080,elderberry,English
 525081,European black elderberry,English
@@ -56482,12 +56481,12 @@ taxonID,vernacularName,language
 527502,rhinoceros cactus,Common name
 527503,nipple beehive cactus,Common name
 527504,Runyon's beehive cactus,Common name
-527505,Pima pineapple cactus,Common name
-527506,Scheer beehive cactus,Common name
+527505,Pima pineapple cactus,English
+527506,Scheer's beehive cactus,English
 527507,Scheer's beehive cactus,Common name
 527508,pineapple cactus,Common name
-527509,Nickels' cactus,Common name
-527510,pineapple cactus,Common name
+527509,Nickels' cory cactus,English
+527510,pineapple cactus,English
 527511,cana de India,Spanish
 527512,anil falso,English
 527513,anil falso,English
@@ -56781,35 +56780,35 @@ taxonID,vernacularName,language
 527802,strigose blacksamson,Common name
 527803,Bush's purple coneflower,English
 527804,Bush's purple coneflower,English
-527805,turkshead barrel cactus,Common name
+527805,Turk's head barrel cactus,English
 527806,cottontop cactus,Common name
 527807,cottontop cactus,Common name
 527808,brownspine hedgehog cactus,Common name
 527809,brownspine hedgehog cactus,Common name
-527810,brownspine hedgehog cactus,Common name
+527810,golden-spined hedgehog cactus,English
 527811,brownspine hedgehog cactus,Common name
 527812,Arizona hedgehog,Common name
 527813,Bisbee cactus,Common name
 527814,strawberry cactus,Common name
 527815,scarlet hedgehog cactus,Common name
-527816,needle hedgehog cactus,Common name
-527817,Saint's cactus,Common name
-527818,saint's hedgehog cactus,Common name
-527819,Engelmann's cactus,Common name
-527820,Howe's cactus,Common name
-527821,Munz's hedgehog cactus,Common name
-527822,Engelmann's hedgehog cactus,Common name
-527823,varigated hedgehog cactus,Common name
+527816,needle hedgehog cactus,English
+527817,Saint's cactus,English
+527818,Saint's hedgehog cactus,English
+527819,Engelmann's cactus,English
+527820,Howe's hedgehog cactus,English
+527821,Munz's hedgehog cactus,English
+527822,Engelmann's hedgehog cactus,English
+527823,varigated hedgehog cactus,English
 527824,pitaya,Common name
 527825,pitaya,Common name
 527826,pinkflower hedgehog cactus,Common name
 527827,Boyce Thompson hedgehog cactus,Common name
-527828,right-angled spine hedgehog,Common name
-527829,Allicoche hedgehog cactus,Common name
+527828,right-angled spine hedgehog,English
+527829,small papillosus,English
 527830,Allicoche hedgehog cactus,Common name
 527831,rainbow cactus,Common name
 527832,rainbow cactus,Common name
-527833,Weniger's cactus,Common name
+527833,Weniger's cactus,English
 527834,Bailey's hedgehog cactus,Common name
 527835,lace hedgehog cactus,Common name
 527836,Mohave hedgehog cactus,Common name
@@ -57062,20 +57061,20 @@ taxonID,vernacularName,language
 528084,Chaffey's foxtail cactus,Common name
 528085,Big Bend foxtail cactus,Common name
 528086,Duncan's foxtail cactus,Common name
-528087,Marston foxtail cactus,Common name
-528088,Missouri fox-tail cactus,Common name
+528087,Marston's foxtail cactus,English
+528088,Missouri foxtail cactus,English
 528089,Missouri foxtail cactus,Common name
 528090,carpet foxtail cactus,Common name
 528091,Sneed's foxtail cactus,Common name
 528092,Arizona pincushion cactus,Common name
 528093,Bisbee spinystar,Common name
-528094,spinystar,Common name
+528094,spinystar,English
 528095,desert spinystar,Common name
 528096,Kaibab spinystar,Common name
 528097,New Mexico spinystar,Common name
 528098,spinystar,Common name
 528099,spinystar pincushion cactus,Common name
-528100,spinystar cactus,Common name
+528100,spinystar cactus,English
 528101,spotted hideseed,English
 528102,spotted hideseed,English
 528103,lathberry,English
@@ -57135,8 +57134,8 @@ taxonID,vernacularName,language
 528157,Utah fendlerbush,English
 528158,campus barrel cactus,Common name
 528159,yellowspine barrel cactus,Common name
-528160,Leconte's barrelcactus,Common name
-528161,turk's head,Common name
+528160,redspine barrel cactus,English
+528161,Turk's head,English
 528162,Turk's head,Common name
 528163,California fescue,Common name
 528164,California fescue,Common name
@@ -58044,16 +58043,16 @@ taxonID,vernacularName,language
 529085,sweet crabapple,Common name
 529086,prairie crab apple,English
 529087,Texas crabapple,Common name
-529088,Graham's nipple cactus,Common name
-529089,Graham's nipple cactus,Common name
-529090,little nipple cactus,Common name
+529088,Graham's nipple cactus,English
+529089,Graham's nipple cactus,English
+529090,little nipple cactus,English
 529091,little nipple cactus,Common name
-529092,Heyder's nipple cactus,Common name
-529093,Macdougal's nipple cactus,Common name
+529092,Heyder's nipple cactus,English
+529093,Macdougal's nipple cactus,English
 529094,little nipple cactus,Common name
-529095,Texas nipple cactus,Common name
-529096,Wilcox's nipple cactus,Common name
-529097,Wright's nipple cactus,Common name
+529095,Texas nipple cactus,English
+529096,Wilcox's nipple cactus,English
+529097,Wright's nipple cactus,English
 529098,California manroot,English
 529099,California manroot,English
 529100,Cucamonga manroot,English
@@ -58256,7 +58255,7 @@ taxonID,vernacularName,language
 529298,Gander's buckhorn cholla,Common name
 529299,devil's-tongue,Common name
 529300,common pricklypear,Common name
-529301,Brach pricklypear cactus,Common name
+529301,Brach pricklypear cactus,English
 529302,babyroot scurfpea,Common name
 529303,Sampson's snakeroot,English
 529304,johnnynip,Common name
@@ -58407,7 +58406,7 @@ taxonID,vernacularName,language
 529449,Intermountain Indian breadroot,English
 529450,Intermountain Indian breadroot,English
 529452,small Indian breadroot,Common name
-529454,nightblooming cereus,Common name
+529454,Gregg's nightblooming cereus,English
 529455,nightblooming cereus,Common name
 529456,sharpleaf penstemon,English
 529457,sharpleaf penstemon,English
@@ -58617,7 +58616,7 @@ taxonID,vernacularName,language
 529661,Montana chaparral pea,Common name
 529662,Deam's clearweed,English
 529663,Canadian clearweed,English
-529664,Deering's tree cactus,Common name
+529664,Deering's tree cactus,English
 529665,Key tree cactus,Common name
 529666,bayrumtree,English
 529667,bayrumtree,English
@@ -59228,7 +59227,7 @@ taxonID,vernacularName,language
 530279,cortadora blanca,Spanish
 530280,netted nutrush,Common name
 530281,white fishhook cactus,Common name
-530282,white fishhook cactus,Common name
+530282,white fishhook cactus,English
 530283,intermediate fishhook cactus,Common name
 530284,smallflower fishhook cactus,Common name
 530285,Chihuahuan fishhook cactus,Common name
@@ -59586,7 +59585,7 @@ taxonID,vernacularName,language
 530640,stiff greenthread,Common name
 530641,Navajo-tea,Common name
 530642,Navajo tea,Common name
-530643,glory of Texas,Common name
+530643,glory of Texas,English
 530644,glory of Texas,Common name
 530645,Long Valley tumblemustard,English
 530646,long valley tumble-mustard,Common name
@@ -60754,6 +60753,7 @@ taxonID,vernacularName,language
 533252,squaw carpet,English
 533280,squarrose knapweed,Common name
 533301,field chickweed,English
+533325,Simpson's prickly-apple,English
 533357,sleepingplant,Common name
 533465,Rocky Mountain goosefoot,English
 533479,marshland goosefoot,English
@@ -60781,6 +60781,7 @@ taxonID,vernacularName,language
 533829,common sandaster,Common name
 533830,common sandaster,Common name
 533831,common sandaster,Common name
+533863,Alverson's foxtail cactus,English
 533899,Piper's hawthorn,English
 533911,cockspur hawthorn,English
 533912,cockspur hawthorn,English
@@ -60805,7 +60806,8 @@ taxonID,vernacularName,language
 534584,dolomite draba,English
 534599,drave glabre variété à graines imbriquées,French
 534609,little snow draba,English
-534755,nylon hedgehog cactus,Common name
+534755,nylon hedgehog cactus,English
+534770,acuna cactus,English
 534794,bright green spikerush,English
 534903,dollar orchid,English
 534937,hairy willow-herb,English
@@ -60898,6 +60900,7 @@ taxonID,vernacularName,language
 537800,'aiea,English
 537979,onosmodie velue variété hispide,French
 537984,California adder's-tongue,English
+538021,cow-tongue prickly-pear,English
 538162,Montana locoweed,English
 538163,Bessey's locoweed,English
 538164,Bessey's locoweed,English
@@ -70514,7 +70517,7 @@ taxonID,vernacularName,language
 564910,bonnet orchid,English
 564911,sea aster,English
 564912,springstar,English
-564913,top cactus,Common name
+564913,top cactus,English
 564914,brazosmint,English
 564915,calammophila,Common name
 564916,white stickpea,English
@@ -70632,7 +70635,7 @@ taxonID,vernacularName,language
 565094,cornejo macho,English
 565095,white crownvetch,English
 565096,Corymborkis selvática,Spanish
-565097,Nickels' cactus,Common name
+565097,Nickels' cactus,English
 565098,spreading cotoneaster,English
 565099,milkflower cotoneaster,English
 565100,shiny cotoneaster,English
@@ -71015,7 +71018,7 @@ taxonID,vernacularName,language
 565500,smooth bogrush,English
 565501,drooping bulrush,English
 565502,lakeshore nutrush,English
-565503,shortspine fishhook cactus,Common name
+565503,Pariette cactus,English
 565504,Clover's fishhook cactus,Common name
 565505,Nye County fishhook cactus,Common name
 565506,maricao,English
@@ -71130,7 +71133,7 @@ taxonID,vernacularName,language
 565624,Caucasian pincushion flower,English
 565625,hybrid yew,English
 565626,marabu,Common name
-565627,moon cactus,Common name
+565627,moon cactus,English
 565664,soft goldenaster,English
 565680,gayfeather,English
 565709,Santa Maria,English
@@ -71193,7 +71196,7 @@ taxonID,vernacularName,language
 566001,mesquite,Common name
 566002,mesquite,Common name
 566003,serrated tussock,Common name
-566004,jointed prickly pear,Common name
+566004,jointed pricklypear,English
 566005,red rice,Common name
 566006,giant salvinia,English
 566007,ye gu,English
@@ -71900,7 +71903,7 @@ taxonID,vernacularName,language
 567519,lirate elimia,English
 567523,ornate elimia,English
 567524,carved elimia,English
-567525,oval elliptio,English
+567525,oval Elliptio,English
 567526,brown elliptio,English
 567527,plicate spike,English
 567528,sad elliptio,English
@@ -72471,7 +72474,7 @@ taxonID,vernacularName,language
 568478,California yoldia,English
 568480,beautiful dovesnail,English
 568482,chestnut cowrie,English
-568489,Curtis pearlymussel,English
+568489,Curtis' pearly mussel,English
 568490,checkered pheasant,English
 568491,stained pheasant,English
 568492,channeled sundial,English
@@ -86202,13 +86205,35 @@ taxonID,vernacularName,language
 900986,Hidalgo Jack Rabbit,English
 900995,Eastern Desert Jackrabbit,English
 900996,Western Desert Jackrabbit,English
-109175,delphacid planthoppers,English
-200293,Mount Tantalus short-wing fern planthopper,English
-200296,Iao Valley nesosydne planthopper,English
-200309,Bridewell's nesosydne planthopper,English
-200345,Kusche's nesosydne planthopper,English
-200350,Diamond Head nesosydne planthopper,English
-200353,long-footed nesosydne planthopper,English
-200404,Keanae nesosydne planthopper,English
-200319,Glenwood nesosydne planthopper,English
 903470,Nahiku nesosydne planthopper,English
+906908,Cherokee pigtoe,English
+906911,Coosa pigtoe,English
+906912,Tennessee pigtoe,English
+906914,slabside pearly mussel,English
+906915,Cumberland pigtoe,English
+906917,iridescent lilliput,English
+906918,lilliput,English
+906919,Texas lilliput,English
+906920,purple lilliput,English
+906922,Apalachicola ebonyshell,English
+906923,highnut,English
+906924,finelined pocketbook,English
+906925,southern sandshell,English
+906926,orange-nacre mucket,English
+906927,shiny-rayed pocketbook,English
+906928,Cumberland Papershell,English
+906954,Texas lilliput,English
+907283,nightblooming cereus,English
+907705,Peach Springs cholla,English
+907718,Christmas cactus,English
+907934,Cochise pincushion cactus,English
+908403,Uinta Basin hookless cactus,English
+909770,Cochise pincushion cactus,English
+911540,Schleser's fishhook cactus,English
+912747,Chisos Mountain hedgehog cactus,English
+913069,nylon hedgehog cactus,English
+913478,viznaga,English
+913587,Chisos Mountain hedgehog cactus,English
+913592,Sneed pincushion cactus,English
+913611,aboriginal prickly-apple,English
+913612,desert nightblooming cereus,English
