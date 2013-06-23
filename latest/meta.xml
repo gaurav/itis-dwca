@@ -8,8 +8,9 @@
     <field term="http://rs.tdwg.org/dwc/terms/parentNameUsageID" index="1"/>
     <field term="http://rs.tdwg.org/dwc/terms/acceptedNameUsageID" index="2"/>
     <field term="http://rs.tdwg.org/dwc/terms/scientificName" index="3"/>
-    <field term="http://rs.tdwg.org/dwc/terms/taxonomicStatus" index="4"/>
-    <field term="http://rs.tdwg.org/dwc/terms/taxonRank" index="5"/>
+    <field term="http://rs.tdwg.org/ontology/voc/TaxonName#nameComplete" index="4"/>
+    <field term="http://rs.tdwg.org/dwc/terms/taxonomicStatus" index="5"/>
+    <field term="http://rs.tdwg.org/dwc/terms/taxonRank" index="6"/>
   </core>
   <extension encoding="UTF-8" fieldsTerminatedBy="," fieldsEnclosedBy="&quot;" linesTerminatedBy="&#10;" rowType="http://rs.gbif.org/terms/1.0/VernacularName" ignoreHeaderLines="1">
     <files>
