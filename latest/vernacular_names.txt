@@ -13368,7 +13368,7 @@ taxonID,vernacularName,language
 33185,red turtlehead,English
 33189,hedgehyssop,English
 33190,golden hedgehyssop,English
-33191,Virginia hedgehyssop,Common name
+33191,Virginia hedgehyssop,English
 33192,sticky hedgehyssop,English
 33193,bractless hedgehyssop,English
 33194,yellow hedgehyssop,English
@@ -18546,7 +18546,9 @@ taxonID,vernacularName,language
 40118,ditch fimbry,English
 40119,hurricanegrass,English
 40120,hot springs fimbry,English
+621961,Olingo,English
 40121,woolly fimbry,English
+914142,Olinguito,Spanish
 40122,Vahl's fimbry,English
 40123,tropical fimbry,English
 40124,Hawai'i fimbry,English
@@ -29326,20 +29328,20 @@ taxonID,vernacularName,language
 159697,lampreys,English
 159701,Arctic lamprey,English
 159704,river lamprey,English
-159705,least brook lamprey,English
-159707,western brook lamprey,English
+159705,petite lamproie de ruisseau,French
+159707,lamproie de ruisseau occidentale,French
 159708,lamproie de l'est,French
 159709,Kern brook lamprey,English
 159710,Pit-Klamath brook lamprey,English
 159711,Miller Lake lamprey,English
-159712,Pacific brook lamprey,English
+159712,lamproie de ruisseau du Pacifique,French
 159713,Pacific lamprey,English
-159722,lamproie marine,French
-159724,Ohio lamprey,English
+159722,lake lamprey,English
+159724,lamproie de l'Ohio,French
 159725,lamproie brune,French
-159726,lamproie du nord,French
-159727,southern brook lamprey,English
-159728,mountain brook lamprey,English
+159726,lamproie de ruisseau septentrionale,French
+159727,lamproie de ruisseau méridionale,French
+159728,lamproie de ruisseau d'Allegheny,French
 159730,lamproie argentée,French
 159753,hagfishes,English
 159756,bruja pecosa,Spanish
@@ -30355,7 +30357,7 @@ taxonID,vernacularName,language
 161937,humpback whitefish,English
 161938,least cisco,English
 161939,least cisco,English
-161940,white sea cisco,Common name
+161940,white sea cisco,English
 161941,grand corégone,French
 161942,lake herring,English
 161943,bloater,English
@@ -30379,9 +30381,11 @@ taxonID,vernacularName,language
 161974,Pacific salmon,English
 161975,saumon rose,French
 161976,chum salmon,English
-161977,saumon coho,French
+161977,silver salmon,English
+174001,Slippery-backed Mabuya,English
 161978,masu salmon,English
 161979,saumon rouge,French
+173984,Lawes' Skink,English
 161980,saumon chinook,French
 161981,Arizona trout,English
 161983,truite fardée,French
@@ -30396,7 +30400,7 @@ taxonID,vernacularName,language
 162000,Dolly Varden,English
 162001,omble chevalier,French
 162002,touladi,French
-162003,omble de fontaine,French
+162003,coaster brook trout,English
 162004,bull trout,English
 162005,inconnus,English
 162006,inconnu,English
@@ -30869,6 +30873,7 @@ taxonID,vernacularName,language
 163392,river chub,English
 163393,bluehead chub,English
 163394,redspot chub,English
+914051,Sabine Map Turtle,English
 163395,hornyhead chub,English
 163396,redtail chub,English
 163397,bigmouth chub,English
@@ -31059,7 +31064,7 @@ taxonID,vernacularName,language
 163600,woundfin,English
 163601,splittails,English
 163602,Clear Lake splittail,English
-163603,splittail,English
+163603,Sacramento splittail,English
 163604,relict daces,English
 163605,relict dace,English
 163606,bitterling,English
@@ -31210,15 +31215,15 @@ taxonID,vernacularName,language
 163856,mountain shiner,English
 163857,cherryfin shiner,English
 163858,cherryfin shiner,English
-163859,Ouachita shiner,English
+163859,Ouachita Mountain shiner,English
 163861,redfin shiner,English
 163862,redfin shiner,English
 163863,blacktail chubs,English
 163864,carpa pecosa,Spanish
 163865,speckled chub,English
-163866,sturgeon chub,English
+163866,sicklefin chub,English
 163867,sturgeon chub,English
-163868,sicklefin chub,English
+163868,sturgeon chub,English
 163869,sicklefin chub,English
 163870,silver chub,English
 163871,silver chub,English
@@ -31247,7 +31252,7 @@ taxonID,vernacularName,language
 163900,matalote yaqui,Spanish
 163901,matalote del desierto,Spanish
 163902,bluehead sucker,English
-163903,webug sucker,English
+163903,Webug sucker,English
 163904,Owens sucker,English
 163905,matalote de Sonora,Spanish
 163906,flannelmouth sucker,English
@@ -32008,7 +32013,7 @@ taxonID,vernacularName,language
 165630,pupfishes,English
 165631,sheepshead pupfish,English
 165632,Leon Springs pupfish,English
-165633,Devils Hole pupfish,English
+165633,Devil's Hole pupfish,English
 165634,Comanche Springs pupfish,English
 165635,cachorrito del Conchos,Spanish
 165636,Lake Eustis pupfish,English
@@ -32210,6 +32215,7 @@ taxonID,vernacularName,language
 165933,metallic topminnow,English
 165937,merry widow,English
 165938,orange-dorsal livebearer,English
+913987,leatherside chub,English
 165940,spotted livebearer,English
 165945,blackbelly limia,English
 165946,striped mudfish,English
@@ -32506,25 +32512,30 @@ taxonID,vernacularName,language
 166492,caballito hocico largo,Spanish
 166493,caballito enano,Spanish
 166494,caballito del Pacífico,Spanish
+913986,Lowland Shiner,English
 166495,yellow seahorse,English
 166496,thorny seahorse,English
+914008,Monterey Roach,English
 166497,seahorse,English
 166498,common seahorse,English
+914007,Gualala Roach,English
 166499,large seahorse,English
 166500,shortnosed seahorse,English
 166501,giraffe seahorse,Common name
+914006,Navarro Roach,English
 166502,Knysna seahorse,English
 166503,horned seahorse,English
+914005,pit roach,English
 166504,Japan seahorse,English
 166505,crowned seahorse,English
 166506,lowcrowned seahorse,English
 166507,spiny seahorse,English
+913984,Western Creek Chubsucker,English
 166508,longnose seahorse,English
 166510,pipehorse,English
 166519,Bermuda pipefish,English
-166520,crested pipefish,Common name
 166521,harlequin pipefish,English
-166522,banded pipefish,Common name
+166522,banded pipefish,English
 166524,West Indian pipefish,English
 166525,banded pipefish,English
 166528,harlequin pipefish,English
@@ -32570,9 +32581,9 @@ taxonID,vernacularName,language
 166632,freshwater pipefish,English
 166634,elegant pipefish,English
 166636,worm pipefish,English
-166637,leafy sea dragon,English
+690338,Lahontan Creek tui chub,English
 166638,leafy seahorse,English
-166639,Lucas' seadragon,English
+639152,tui chubs,English
 166640,fluvial pipefishes,English
 166641,fluvial pipefish,English
 166643,red and gold seahorse,English
@@ -33674,6 +33685,7 @@ taxonID,vernacularName,language
 168503,saddleback darter,English
 168505,pikeperches,English
 168506,walleye,English
+553282,Arkansas chub,English
 168507,blue pike,English
 168508,walleye,English
 168509,doré noir,French
@@ -33735,7 +33747,7 @@ taxonID,vernacularName,language
 168588,horse mackerel,English
 168596,greenback horse mackerel,English
 168598,maasbanker,Afrikaans
-168599,jack mackerel,English
+168599,jack mackerel,Common name
 168600,threadfishes,English
 168601,African pompano,English
 168602,pámpano de hebra,Spanish
@@ -33753,6 +33765,7 @@ taxonID,vernacularName,language
 168615,bar jack,English
 168616,whitetongued crevalle,English
 168617,whitemouth jack,English
+201937,ikan temolek,English
 168618,lowly trevally,English
 168619,bluefin trevally,English
 168620,bigeye trevally,English
@@ -33787,7 +33800,8 @@ taxonID,vernacularName,language
 168651,bludger,English
 168652,thinscaled trevally,English
 168653,trevally,English
-168654,hunchback trevally,English
+201929,Umpqua chub,English
+201924,Virgin Spinedace,English
 168655,malam trevally,English
 168656,Pacific horse-eye jack,English
 168657,white travally,English
@@ -33797,7 +33811,7 @@ taxonID,vernacularName,language
 168662,obliquebanded trevally,English
 168663,longsnouted trevally,English
 168664,brownbacked trevally,English
-168665,greenback trevally,English
+201919,Mohave tui chub,English
 168666,starry trevally,English
 168667,onion kingfish,English
 168668,yellowtail kingfish,English
@@ -33873,6 +33887,7 @@ taxonID,vernacularName,language
 168756,yellowspotted crevalle,English
 168757,whitefinned crevalle,English
 168759,island jack,English
+201912,Rio Grande bluntnose shiner,English
 168760,white ulua,English
 168762,finletted mackerel scad,English
 168763,leatherjackets,English
@@ -33883,6 +33898,7 @@ taxonID,vernacularName,language
 168775,leatherjackets,English
 168776,largemouthed leatherskin,English
 168777,slender leatherskin,English
+201911,cheat dace,English
 168778,deep queenfish,English
 168779,slender queenfish,English
 168780,fivebarred leatherskin,English
@@ -35182,7 +35198,7 @@ taxonID,vernacularName,language
 170852,dotted-finned parrotfish,English
 170853,redbarred parrotfish,English
 170854,fivesaddle parrotfish,English
-170855,palenose parrotfish,English
+170855,Palenose parrotfish,English
 170857,loro chimuelo,Spanish
 170858,halftoothed parrotfish,English
 170860,loro esmeralda,Spanish
@@ -35838,7 +35854,7 @@ taxonID,vernacularName,language
 171936,esmeralda negra,Spanish
 171939,african fusegoby,Common name
 171942,Hiukole gobies,English
-171943,Hiukole goby,English
+171943,O'opu alamo'o,Hawaiian
 171945,arrowfin gobies,English
 171947,spangled arrowfin goby,English
 171948,lace goby,Common name
@@ -37308,7 +37324,6 @@ taxonID,vernacularName,language
 173981,Marianas Blue-tailed Emoia,English
 173982,Blue-bellied Emoia,English
 173983,Copper-tailed Copper-striped Emoia,English
-173984,Lawes' Skink,English
 173985,Mivart's Emoia,English
 173986,Black Emoia,English
 173987,Ponape Forest Emoia,English
@@ -37325,7 +37340,6 @@ taxonID,vernacularName,language
 173998,Palau Pandanus Skink,English
 173999,Moth Skink,English
 174000,Mabuyas,English
-174001,Slippery-backed Mabuya,English
 174002,Many-keeled Mabuya,English
 174003,Many-striped Skink,English
 174004,Florida Sand Skinks,English
@@ -37397,7 +37411,7 @@ taxonID,vernacularName,language
 174073,Cotton Ginner Gecko,English
 174074,Navassa Island Dwarf Gecko,English
 174075,Ashy Gecko,English
-174076,Gaige's Dwarf Gecko,English
+174076,Pandura's Gecko,English
 174077,Klauber's Dwarf Gecko,English
 174078,Desecheo Dwarf Gecko,English
 174079,Common Dwarf Gecko,English
@@ -37416,7 +37430,7 @@ taxonID,vernacularName,language
 174092,Lagartija-escofina de desierto,Spanish
 174093,Glass Lizards,English
 174094,North American Legless Lizards,English
-174095,California Legless Lizard,English
+174095,Silvery Legless Lizard,English
 174096,Galliwasps,English
 174097,Costate Galliwasp,English
 174098,Puerto Rican Galliwasp,English
@@ -37464,7 +37478,7 @@ taxonID,vernacularName,language
 174145,Northwestern Garter Snake,English
 174146,Culebra-listonada occidental,Spanish
 174147,Plains Garter Snake,English
-174148,Narrow-headed Garter Snake,English
+174148,Narrowhead Garter Snake,English
 174149,Earthsnakes,English
 174150,Rough Earthsnake,English
 174151,Smooth Earthsnake,English
@@ -37495,7 +37509,7 @@ taxonID,vernacularName,language
 174177,Texas Ratsnake,English
 174178,Black Rat Snake,English
 174179,Culebra-ratonera de Baird,Spanish
-174183,Foxsnake,English
+174183,Western Foxsnake,English
 174184,Milk Snakes,English
 174185,Yellow-bellied Kingsnake,English
 174186,Mole Kingsnake,English
@@ -37598,7 +37612,7 @@ taxonID,vernacularName,language
 174293,Lined Snake,English
 174294,Vipers,English
 174295,Cottonmouths,English
-174296,Cantil cobrizo,Spanish
+174296,Northern Copperhead,English
 174297,Northern Copperhead,English
 174298,Southern Copperhead,English
 174299,Cottonmouth,English
@@ -44866,14 +44880,12 @@ taxonID,vernacularName,language
 201908,Independence Valley speckled dace,English
 201909,Kendall Warm Springs dace,English
 201910,Umatilla dace,English
-201911,cheat dace,English
 201913,Pecos bluntnose shiner,English
 201914,roseate shiner,English
 201915,Yazoo shiner,English
 201916,redface shiner,English
 201917,pallid chub,English
 201918,clear chub,English
-201919,Mohave tui chub,English
 201920,Owens tui chub,English
 201922,Pahranagut roundtail chub,English
 201923,Virgin River chub,English
@@ -44881,10 +44893,8 @@ taxonID,vernacularName,language
 201926,pinewoods shiner,English
 201927,Warrior shiner,English
 201928,scarlet shiner,English
-201929,Umpqua chub,English
 201931,cicek,English
 201935,Tokyo bitterling,English
-201937,ikan temolek,English
 201938,flagfin shiners,English
 201939,broadstripe shiner,English
 201940,bluehead shiner,English
@@ -45014,7 +45024,7 @@ taxonID,vernacularName,language
 202146,Jamaican Iguana,English
 202148,Turks Iguana,English
 202149,Mayaguana Iguana,English
-202150,Mona Ground Iguana,English
+202150,Mona Island Iguana,English
 202153,Barrington Island Iguana,English
 202155,Fiji Banded Iguana,English
 202156,Fiji Crested Iguana,English
@@ -45835,7 +45845,7 @@ taxonID,vernacularName,language
 208923,Giant Spotted Whiptail,English
 208925,Plateau Striped Whiptail,English
 208926,Texas Spotted Whiptail,English
-208927,Belding's Orange-throated Whiptail,English
+208927,Orange-throated Whiptail,English
 208929,Cape Orange-throated Whiptail,English
 208930,Arizona Striped Whiptail,English
 208931,Little Striped Whiptail,English
@@ -62382,7 +62392,6 @@ taxonID,vernacularName,language
 551068,Marquesan grouper,English
 551070,striped grouper,English
 551071,mystery grouper,English
-551072,streakyspot grouper,English
 551073,snubnose grouper,English
 551074,star-studed grouper,English
 551075,speckled grouper,English
@@ -63647,8 +63656,7 @@ taxonID,vernacularName,language
 553279,Red River chub,English
 553280,central chub,English
 553281,Guadaloupe chub,English
-553282,Arkansas chub,English
-553283,palezone shiner,English
+553283,Palezone shiner,English
 553284,rocky shiner,English
 553285,spotted barb,English
 553286,blackspot barb,English
@@ -63725,7 +63733,7 @@ taxonID,vernacularName,language
 553357,blue riffle goby,English
 553358,green riffle goby,English
 553359,Palauan riffle goby,English
-553360,tan worm goby,English
+163546,Cow Head tui chub,English
 553361,shimofuri goby,English
 553362,dogtooth toxic goby,English
 553363,yellowfin toxic goby,English
@@ -63778,11 +63786,11 @@ taxonID,vernacularName,language
 553410,Indo-Pacific bonefish,English
 553411,spotfin dualspot goby,English
 553412,yellowfin fantail goby,English
-553416,Yellowstone cutthroat throat,English
+553416,Yellowstone cutthroat trout,English
 553417,yellowfin cutthroat trout,English
 553418,Columbia River redband trout,English
 553419,California golden trout,English
-553420,Kern golden trout,English
+553420,Kern River rainbow trout,English
 553421,Sacramento golden trout,English
 553422,coastal rainbow trout,English
 553423,Kamchatkan rainbow trout,English
@@ -70253,7 +70261,7 @@ taxonID,vernacularName,language
 563879,Pemba White-eye,English
 563880,Belted White-eye,English
 563881,Yellow-ringed White-eye,English
-563885,miriápode,Portuguese
+563885,myriapods,English
 563886,hexapods,English
 563887,traça saltadora,Portuguese
 563890,"modern, wing-folding insects",English
@@ -70443,11 +70451,11 @@ taxonID,vernacularName,language
 564591,Cope's Leopard Lizard,English
 564592,Serpent Island Gecko,English
 564593,Giant Micronesian Gecko,English
-564594,Greater Short-horned Lizard,English
+564594,Hernandez's Short-horned Lizard,English
 564596,Common Chuckwalla,English
 564597,Slevin's Bunchgrass Lizard,English
 564599,Arizona Striped Whiptail,English
-564600,Red-backed Whiptail,English
+564600,Red-back Whiptail,English
 564608,Eastern Marbled Whiptail,English
 564609,Blue Spiny Lizard,English
 564610,shoal bass,English
@@ -74366,9 +74374,8 @@ taxonID,vernacularName,language
 621956,Back-striped Weasel,English
 621957,African Striped Weasel,English
 621958,Marbled Polecat,English
-621959,Allen's Olingo,English
+621959,Eastern Lowland Olingo,English
 621960,Beddard's Olingo,English
-621961,Olingo,English
 621962,Harris's Olingo,English
 621963,Chiriqui Olingo,English
 621964,Kinkajou,English
@@ -74465,7 +74472,7 @@ taxonID,vernacularName,language
 622221,silver roughy,English
 622223,hagfishes,English
 622244,Pacific hagfish,English
-622248,river lamprey,English
+622248,lamproie de rivière de l'ouest,French
 622254,Guadalupe hagfish,English
 622258,shorthead hagfish,English
 622262,Cortez hagfish,English
@@ -86237,3 +86244,135 @@ taxonID,vernacularName,language
 913592,Sneed pincushion cactus,English
 913611,aboriginal prickly-apple,English
 913612,desert nightblooming cereus,English
+913655,house centipedes,English
+913888,Hilgard's suncup,English
+650164,Eastern sand darter,English
+913970,Russian River tule perch,English
+913909,Guadalupe bass,English
+647295,San Felipe gambusia,English
+913907,Cumberland darter,English
+913966,Cumberland arrow darter,English
+913917,bluemask darter,English
+913981,Santa Ana threespine stickleback,English
+913980,Santa Ana threespine stickleback,English
+913921,Halloween darter,English
+913922,diamond darter,English
+642024,greenback trevally,English
+642026,hunchback trevally,English
+642029,jack mackerel,English
+642027,slender leatherskin,English
+643198,longspine grouper,English
+913947,leafy sea dragon,English
+913948,Lucas' seadragon,English
+914009,Lahontan Creek tui chub,English
+913988,Alvord chub,English
+913989,tui chub,English
+913990,Borax Lake chub,English
+914010,Sheldon tui chub,English
+914011,Independence Valley tui chub,English
+914012,Mohave tui chub,English
+914013,Klamath tui chub,English
+914014,Owens tui chub,English
+914015,Cowhead tui chub,English
+914016,Sheldon tui chub,English
+914017,Independence Valley tui chub,English
+914018,Lahontan Lake tui chub,English
+914019,Lahontan Lake tui chub,English
+914020,Goose Lake tui chub,English
+914021,Goose Lake tui chub,English
+914022,Big Smokey Valley Speckled Dace,English
+914023,Moapa speckled dace,English
+914024,Pahranagat speckled dace,English
+914025,Eastern Slim Minnow,English
+914026,Western Slim Minnow,English
+914027,Arkansas River speckled chub,English
+914028,Clear Lake Hitch,English
+914029,Central Valley Hitch,English
+914030,Pajaro Hitch,English
+914031,Goose Lake Sucker,English
+914032,Fish Creek Spings tui chub,English
+914033,Fish Creek Spings tui chub,English
+914034,Newark Valley tui chub,English
+914035,Newark Valley tui chub,English
+914036,Maravillas red shiner,English
+913991,White River desert sucker,English
+914037,White River desert sucker,English
+914038,Oregon Lakes tui chub,English
+914039,Oregon Lakes tui chub,English
+913992,blackside dace,English
+913993,ventre rouge du nord,French
+913994,Southern redbelly dace,English
+913995,ventre citron,French
+913996,mountain redbelly dace,English
+913997,laurel dace,English
+913998,Tennessee dace,English
+914040,Zuni bluehead sucker,English
+914041,Columbia tui chub,English
+914042,Grass Valley speckled dace,English
+914043,Bonneville speckled dace,English
+914044,blackside speckled dace,English
+914045,Green River speckled dace,English
+914046,naseux des rapides,French
+914047,western longnose dace,English
+914048,Banff longnose dace,English
+914050,Ouachita Map Turtle,English
+914049,Pearl River Map Turtle,English
+622287,lamproie arctique,French
+914064,lamproie de ruisseau de Californie septentrionale,French
+159732,lamproie caspienne,French
+914068,lamproie de ruisseau de Californie,French
+914060,Pit-Klamath brook lamprey,English
+914059,lamproie de l'île de Vancouver,French
+914063,lamproie du lac Miller,French
+914058,lamproie de la rivière Klamath,French
+159699,lamproie du Pacifique,French
+159734,lamproie carpathique,French
+914056,Macedonia brook lamprey,English
+622284,lamproie de ruisseau grecque,French
+159737,lamproie de ruisseau ukrainienne,French
+159738,lamproie coréene,French
+159719,Flußneunauge,German
+622247,lamproie de ruisseau turque,English
+159720,Bachneunauge,German
+914055,lamproie de ruisseau d'Alaska,French
+159696,lamproies,French
+914061,lamproie de ruisseau américaine,French
+914069,Arctic lamprey,English
+622288,Siberian lamprey,English
+914057,lamproie de ruisseau de la Transcaucasie occidentale,French
+622243,lamproie de ruisseau de l'Extrême-Orient,French
+622249,lamproie de ruisseau de Lombardie,French
+159742,lamprea de Jacona,Spanish
+159741,Mexican lamprey,English
+914070,lamprea de Jacona,Spanish
+914071,lamprea de Chapala,Spanish
+159744,lamproie saccifère,French
+159749,lamproie du Chili,French
+159747,lamproie australienne,French
+159748,lamproie de ruisseau australienne,French
+161949,longjaw cisco,English
+914089,desert redband trout,English
+914079,coastal cutthroat trout,English
+914081,westslope cutthroat trout,English
+914078,Yellowstone cutthroat trout,English
+914082,Colorado River cutthroat trout,English
+914085,Bonneville cutthroat trout,English
+914080,Lahontan cutthroat trout,English
+914087,Eagle Lake rainbow trout,English
+914086,Rio Grande cutthroat trout,English
+914090,Snake River finespotted cutthroat trout,English
+914093,Blackfin cisco,English
+914094,interior redband trout,English
+914075,onega cisco,English
+914099,Pai Striped Whiptail,English
+914117,Coastal Whiptail,English
+914103,Southeastern  Colorado Whiptail,English
+914104,Arizona Night Lizard,English
+914122,Hernandez's Short-horned Lizard,English
+914123,Blue Racer,English
+914108,New Mexico Threadsnake,English
+914110,Pandura's gecko,English
+914126,'ala'a,English
+914127,Maui pilo kea,English
+914144,Western Lowland Olingo,English
+621816,Olingos,English
