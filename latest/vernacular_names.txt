@@ -1215,7 +1215,7 @@ taxonID,vernacularName,language
 17248,dotted polypody,English
 17250,maiden fern,English
 17251,eastern marsh fern,English
-17253,abrupttip maiden fern,English
+17253,abrupt-tip maiden fern,English
 17254,downy maiden fern,English
 17256,roughhairy maiden fern,English
 17257,Willdenow's maiden fern,English
@@ -1556,7 +1556,7 @@ taxonID,vernacularName,language
 17684,Kruckeberg's hollyfern,English
 17685,Lemmon's hollyfern,English
 17686,northern hollyfern,English
-17687,attu hollyfern,English
+17687,Attu hollyfern,English
 17689,mountain hollyfern,English
 17690,Alaska hollyfern,English
 17691,rusty swordfern,English
@@ -1634,7 +1634,7 @@ taxonID,vernacularName,language
 17784,Martinique tonguefern,English
 17785,Maxon's tonguefern,English
 17787,stiff tonguefern,English
-17788,cerro de punta jayuya,English
+17788,Cerro de Punta tonguefern,English
 17789,Antilles tonguefern,English
 17790,creeping tonguefern,English
 17791,tall tonguefern,English
@@ -18546,9 +18546,7 @@ taxonID,vernacularName,language
 40118,ditch fimbry,English
 40119,hurricanegrass,English
 40120,hot springs fimbry,English
-621961,Olingo,English
 40121,woolly fimbry,English
-914142,Olinguito,Spanish
 40122,Vahl's fimbry,English
 40123,tropical fimbry,English
 40124,Hawai'i fimbry,English
@@ -21525,8 +21523,8 @@ taxonID,vernacularName,language
 53917,sea walnut,English
 53938,venus girdle,English
 53963,platelminte,Portuguese
-53964,turbelário,Portuguese
-54073,polyclads,Common name
+53964,turbellarians,English
+54073,polyclads,English
 54468,triclads,Common name
 54556,fascíola,Portuguese
 57307,tapeworms,Common name
@@ -28277,9 +28275,9 @@ taxonID,vernacularName,language
 114483,powder-post beetles,English
 114485,powder-post beetle,English
 114487,stag beetles,English
-114489,stag beetle,Common name
+114489,stag beetle,English
 114490,bess beetles,English
-114492,bessbug,Common name
+114492,bessbug,English
 114493,scarab beetles,English
 114497,longicornes,French
 114504,seed beetles,English
@@ -29219,7 +29217,7 @@ taxonID,vernacularName,language
 154409,millipèdes,French
 154425,pauropodans,English
 154431,onychophorans,English
-154451,pogonóforo,Portuguese
+154451,pogonophores,English
 154520,sipunculans,English
 154521,sipunculids,English
 154596,golfingiids,English
@@ -29314,18 +29312,20 @@ taxonID,vernacularName,language
 158563,swimming sea lily,English
 158566,black and white sea lily,Common name
 158616,hemicordado,Portuguese
-158617,acorn worms,Common name
+158617,acorn-worms,English
 158650,chaetognaths,English
 158852,chordates,English
-158853,urocordado,Portuguese
+158853,ascidies,French
 158854,tuniqués sessiles,French
 159632,taliáceo,Portuguese
-159643,salps,Common name
+159643,salps,English
 159664,oikopleura,Portuguese
 159679,lancelets,English
 159693,peixe,Portuguese
 159694,lampreys,English
+159696,lamproies,French
 159697,lampreys,English
+159699,lamproie du Pacifique,French
 159701,Arctic lamprey,English
 159704,river lamprey,English
 159705,petite lamproie de ruisseau,French
@@ -29336,6 +29336,8 @@ taxonID,vernacularName,language
 159711,Miller Lake lamprey,English
 159712,lamproie de ruisseau du Pacifique,French
 159713,Pacific lamprey,English
+159719,Flußneunauge,German
+159720,Bachneunauge,German
 159722,lake lamprey,English
 159724,lamproie de l'Ohio,French
 159725,lamproie brune,French
@@ -29343,6 +29345,16 @@ taxonID,vernacularName,language
 159727,lamproie de ruisseau méridionale,French
 159728,lamproie de ruisseau d'Allegheny,French
 159730,lamproie argentée,French
+159732,lamproie caspienne,French
+159734,lamproie carpathique,French
+159737,lamproie de ruisseau ukrainienne,French
+159738,lamproie coréene,French
+159741,Mexican lamprey,English
+159742,lamprea de Jacona,Spanish
+159744,lamproie saccifère,French
+159747,lamproie australienne,French
+159748,lamproie de ruisseau australienne,French
+159749,lamproie du Chili,French
 159753,hagfishes,English
 159756,bruja pecosa,Spanish
 159757,Pacific hagfish,English
@@ -30366,6 +30378,7 @@ taxonID,vernacularName,language
 161946,blackfin cisco,English
 161947,shortnose cisco,English
 161948,shortjaw cisco,English
+161949,longjaw cisco,English
 161950,powan,English
 161952,powan,English
 161959,Ladoga whitefish,English
@@ -30382,10 +30395,8 @@ taxonID,vernacularName,language
 161975,saumon rose,French
 161976,chum salmon,English
 161977,silver salmon,English
-174001,Slippery-backed Mabuya,English
 161978,masu salmon,English
 161979,saumon rouge,French
-173984,Lawes' Skink,English
 161980,saumon chinook,French
 161981,Arizona trout,English
 161983,truite fardée,French
@@ -30873,7 +30884,6 @@ taxonID,vernacularName,language
 163392,river chub,English
 163393,bluehead chub,English
 163394,redspot chub,English
-914051,Sabine Map Turtle,English
 163395,hornyhead chub,English
 163396,redtail chub,English
 163397,bigmouth chub,English
@@ -31016,6 +31026,7 @@ taxonID,vernacularName,language
 163542,Alvord chub,English
 163543,Utah chub,English
 163544,tui chub,English
+163546,Cow Head tui chub,English
 163547,Borax Lake chub,English
 163548,blue chub,English
 163549,leatherside chub,English
@@ -32215,7 +32226,6 @@ taxonID,vernacularName,language
 165933,metallic topminnow,English
 165937,merry widow,English
 165938,orange-dorsal livebearer,English
-913987,leatherside chub,English
 165940,spotted livebearer,English
 165945,blackbelly limia,English
 165946,striped mudfish,English
@@ -32512,25 +32522,19 @@ taxonID,vernacularName,language
 166492,caballito hocico largo,Spanish
 166493,caballito enano,Spanish
 166494,caballito del Pacífico,Spanish
-913986,Lowland Shiner,English
 166495,yellow seahorse,English
 166496,thorny seahorse,English
-914008,Monterey Roach,English
 166497,seahorse,English
 166498,common seahorse,English
-914007,Gualala Roach,English
 166499,large seahorse,English
 166500,shortnosed seahorse,English
 166501,giraffe seahorse,Common name
-914006,Navarro Roach,English
 166502,Knysna seahorse,English
 166503,horned seahorse,English
-914005,pit roach,English
 166504,Japan seahorse,English
 166505,crowned seahorse,English
 166506,lowcrowned seahorse,English
 166507,spiny seahorse,English
-913984,Western Creek Chubsucker,English
 166508,longnose seahorse,English
 166510,pipehorse,English
 166519,Bermuda pipefish,English
@@ -32581,9 +32585,7 @@ taxonID,vernacularName,language
 166632,freshwater pipefish,English
 166634,elegant pipefish,English
 166636,worm pipefish,English
-690338,Lahontan Creek tui chub,English
 166638,leafy seahorse,English
-639152,tui chubs,English
 166640,fluvial pipefishes,English
 166641,fluvial pipefish,English
 166643,red and gold seahorse,English
@@ -33685,7 +33687,6 @@ taxonID,vernacularName,language
 168503,saddleback darter,English
 168505,pikeperches,English
 168506,walleye,English
-553282,Arkansas chub,English
 168507,blue pike,English
 168508,walleye,English
 168509,doré noir,French
@@ -33765,7 +33766,6 @@ taxonID,vernacularName,language
 168615,bar jack,English
 168616,whitetongued crevalle,English
 168617,whitemouth jack,English
-201937,ikan temolek,English
 168618,lowly trevally,English
 168619,bluefin trevally,English
 168620,bigeye trevally,English
@@ -33800,8 +33800,6 @@ taxonID,vernacularName,language
 168651,bludger,English
 168652,thinscaled trevally,English
 168653,trevally,English
-201929,Umpqua chub,English
-201924,Virgin Spinedace,English
 168655,malam trevally,English
 168656,Pacific horse-eye jack,English
 168657,white travally,English
@@ -33811,7 +33809,6 @@ taxonID,vernacularName,language
 168662,obliquebanded trevally,English
 168663,longsnouted trevally,English
 168664,brownbacked trevally,English
-201919,Mohave tui chub,English
 168666,starry trevally,English
 168667,onion kingfish,English
 168668,yellowtail kingfish,English
@@ -33887,7 +33884,6 @@ taxonID,vernacularName,language
 168756,yellowspotted crevalle,English
 168757,whitefinned crevalle,English
 168759,island jack,English
-201912,Rio Grande bluntnose shiner,English
 168760,white ulua,English
 168762,finletted mackerel scad,English
 168763,leatherjackets,English
@@ -33898,7 +33894,6 @@ taxonID,vernacularName,language
 168775,leatherjackets,English
 168776,largemouthed leatherskin,English
 168777,slender leatherskin,English
-201911,cheat dace,English
 168778,deep queenfish,English
 168779,slender queenfish,English
 168780,fivebarred leatherskin,English
@@ -37324,6 +37319,7 @@ taxonID,vernacularName,language
 173981,Marianas Blue-tailed Emoia,English
 173982,Blue-bellied Emoia,English
 173983,Copper-tailed Copper-striped Emoia,English
+173984,Pili Oua,English
 173985,Mivart's Emoia,English
 173986,Black Emoia,English
 173987,Ponape Forest Emoia,English
@@ -37340,6 +37336,7 @@ taxonID,vernacularName,language
 173998,Palau Pandanus Skink,English
 173999,Moth Skink,English
 174000,Mabuyas,English
+174001,Slippery Back Skink,English
 174002,Many-keeled Mabuya,English
 174003,Many-striped Skink,English
 174004,Florida Sand Skinks,English
@@ -40073,42 +40070,42 @@ taxonID,vernacularName,language
 178382,Variegated Flycatcher,English
 178383,Becards,English
 178384,Mosquero-cabezón degollado,Spanish
-178396,Larks,Common name
-178397,Skylarks,Common name
+178396,Larks,English
+178397,Skylarks,English
 178398,Sky Lark,English
-178400,Horned Larks,Common name
-178423,Swallows,Common name
-178426,Tree Swallows,Common name
+178400,Horned Larks,English
+178412,streaked horned lark,English
+178417,California horned lark,English
+178426,Tree Swallows,English
 178427,Golondrina verdemar,Spanish
 178431,hirondelle bicolore,French
 178432,Bahama Swallow,English
-178435,Bank Swallows,Common name
+178435,Bank Swallows,English
 178436,Sand Martin,English
-178439,Rough-winged Swallows,Common name
+178439,Rough-winged Swallows,English
 178440,Southern Rough-winged Swallow,English
 178443,hirondelle à ailes hérissées,French
-178444,House-Martins,Common name
-178445,Common House-Martin,Common name
-178447,Barn Swallows,Common name
+178444,House-Martins,English
+178445,Common House-Martin,English
+178447,Barn Swallows,English
 178448,hirondelle rustique,French
 178452,Golondrina pueblera,Spanish
 178453,Golondrina risquera,Spanish
 178455,American Cliff Swallow,English
 178460,Cave Swallow,English
-178463,Purple Martins,Common name
 178464,hirondelle noire,French
 178467,Cuban Martin,English
 178468,Grey-breasted Martin,English
 178470,Caribbean Martin,English
-178472,Brown Martins,English
 178473,Brown-chested Martin,English
-178474,Wagtails,Common name
-178475,Wagtails,Common name
+178474,Wagtails,English
+178475,Wagtails,English
 178476,White Wagtail,English
+178479,Black-backed Wagtail,English
 178480,Grey Wagtail,English
 178483,Western Yellow Wagtail,English
-178487,Black-backed Wagtail,Common name
-178488,Pipits,Common name
+178487,Black-backed Wagtail,English
+178488,Pipits,English
 178489,Water Pipit,English
 178495,Olive-backed Pipit,English
 178496,Pechora Pipit,English
@@ -40116,51 +40113,56 @@ taxonID,vernacularName,language
 178498,Bisbita garganta roja,Spanish
 178499,Bisbita llanera,Spanish
 178500,Tree Pipit,English
-178501,Cuckoo-Shrikes,Common name
-178502,Cuckoo-Shrikes,Common name
+178501,Cuckooshrikes,English
+178502,Cuckoo-Shrikes,English
 178503,Common Cicadabird,English
-178504,bulbuls,French
-178505,Bulbuls,Common name
+178504,Bulbuls,English
+178505,Bulbuls,English
 178506,Red-vented Bulbul,English
 178507,Red-whiskered Bulbul,English
-178509,Shrikes,Common name
-178510,Shrikes,Common name
+178509,Shrikes,English
+178510,Shrikes,English
 178511,Great Grey Shrike,English
 178515,pie-grièche migratrice,French
-178522,San Clemente Loggerhead Shrike,Common name
+178516,Migrant loggerhead shrike,English
+178522,San Clemente Loggerhead Shrike,English
 178525,Brown Shrike,English
 178527,Waxwings,English
-178528,Waxwings,Common name
+178528,Waxwings,English
 178529,jaseur boréal,French
 178532,jaseur d'Amérique,French
-178534,Dippers,Common name
-178535,Dippers,Common name
+178534,Dippers,English
+178535,Dippers,English
 178536,Mirlo-acuático norteamericano,Spanish
-178539,Wrens,Common name
-178540,House Wrens,Common name
+178537,American dipper,English
+178539,Wrens,English
+178540,Wrens,English
 178541,troglodyte familier,French
 178545,Chivirín garganta café,Spanish
 178547,troglodyte mignon,French
-178561,Bewick's Wrens,Common name
+178561,Bewick's Wrens,English
 178562,Bewick's Wren,English
-178580,Carolina Wrens,Common name
+178564,Appalachian Bewick's wren,English
+178575,San Clemente Bewick's wren,English
+178580,Wrens,English
 178581,troglodyte de Caroline,French
-178586,Cactus Wrens,Common name
-178587,Cactus Wren,Spanish
-178604,Marsh Wrens,Common name
+178586,Cactus Wrens,English
+178587,Cactus Wren,English
+178588,San Diego cactus wren,English
+178604,Marsh Wrens,English
 178605,troglodyte à bec court,French
 178608,troglodyte des marais,French
-178609,Canyon Wren,Common name
+178609,Canyon Wren,English
 178610,Chivirín barranqueño,Spanish
-178613,Rock Wrens,Common name
+178613,Rock Wrens,English
 178614,Chivirín saltarroca,Spanish
-178618,Thrashers,Common name
-178619,Mockingbirds,Common name
+178618,Thrashers,English
+178619,Mockingbirds,English
 178620,moqueur polyglotte,French
 178623,Bahama Mockingbird,English
-178624,Catbirds,Common name
+178624,Catbirds,English
 178625,Grey Catbird,English
-178626,American Thrashers,Common name
+178626,American Thrashers,English
 178627,Brown Thrasher,English
 178630,Cuitlacoche pico largo,Spanish
 178633,Gray Thrasher,English
@@ -40169,49 +40171,48 @@ taxonID,vernacularName,language
 178642,Cuitlacoche californiano,Spanish
 178645,Cuitlacoche pálido,Spanish
 178652,Cuitlacoche crisal,Spanish
-178653,Sage Thrashers,Common name
+178653,Sage Thrashers,English
 178654,Cuitlacoche de chías,Spanish
-178655,Antillean Thrashers,Common name
+178655,Antillean Thrashers,English
 178656,Pearly-eyed Thrasher,English
-178657,Accentors,Common name
-178658,Accentors,Common name
+178657,Accentors,English
+178658,Accentors,English
 178660,Siberian Accentor,English
-178663,Old World Flycatchers,Common name
-178664,Old World Flycatchers,Common name
+178663,Chats,English
+178664,Old World Flycatchers,English
 178665,Gray-streaked Flycatcher,English
 178666,Dark-sided Flycatcher,English
-178667,Reed-Warblers,Common name
+178667,Reed-Warblers,English
 178668,Millerbird,English
-178669,Nightingale Reed-Warbler,Common name
-178670,Bush-Warblers,Common name
+178669,Nightingale Reed-Warbler,English
+178670,Bush-Warblers,English
 178671,Palau Bush Warbler,English
 178672,Japanese Bush Warbler,English
-178673,Narcissus Flycatchers,Common name
 178674,Narcissus Flycatcher,English
 178675,Red-breasted Flycatcher,English
-178676,'Elepaios,Common name
+178676,'Elepaios,English
 178677,Elepaio,English
-178678,Shrikebills,Common name
+178678,Shrikebills,English
 178679,Fiji Shrikebill,English
-178680,Truk Monarchs,Common name
+178680,Truk Monarchs,English
 178681,Chuuk Monarch,English
-178682,Monarchs,Common name
+178682,Monarchs,English
 178683,Yap Monarch,English
 178684,Tinian Monarch,English
-178685,Broadbills,Common name
+178685,Flycatchers,English
 178686,Palau Flycatcher,English
 178687,Guam Flycatcher,English
 178688,Oceanic Flycatcher,English
-178689,Pohnpei Flycatcher,English
-178690,Fantails,Common name
-178691,Palau Fantail,English
+178689,Pohnpei Broadbill,English
+178690,Fantails,English
+178691,Palau fantail flycatcher,English
 178692,Rufous Fantail,English
-178693,Morning Birds,Common name
-178694,Palau Morning Bird,Common name
-178695,Long-tailed Tits,Common name
-178696,Verdins,Common name
-178697,Titmice,Common name
-178698,Titmice,Common name
+178693,Morning Birds,English
+178694,Palau Morning Bird,English
+178695,Bushtits,English
+178696,Verdins,English
+178697,Tits,English
+178698,Tits,English
 178699,Black-capped Chickadee,English
 178709,Carolina Chickadee,English
 178715,Carbonero mexicano,Spanish
@@ -40222,24 +40223,23 @@ taxonID,vernacularName,language
 178738,Carbonero cresta negra,Spanish
 178744,Carbonero sencillo,Spanish
 178755,Carbonero embridado,Spanish
-178758,Verdins,Common name
 178759,Baloncillo,Spanish
-178763,Bushtits,Common name
+178763,Bushtits,English
 178764,American Bushtit,English
-178773,Nuthatches,Common name
-178774,Nuthatches,Common name
+178773,Nuthatches,English
+178774,Nuthatches,English
 178775,sittelle à poitrine blanche,French
 178784,sittelle à poitrine rousse,French
 178785,Brown-headed Nuthatch,English
 178788,Pygmy Nuthatch,English
 178793,grimpereaux,French
-178794,Creepers,Common name
+178794,Creepers,English
 178795,Eurasian Treecreeper,English
 178803,grimpereau brun,French
 178808,Honeyeaters,English
 178809,Kioeas,English
 178810,Kioea,English
-178811,Golden Honeyeaters,Common name
+178811,Golden Honeyeaters,English
 178812,Golden White-eye,English
 178813,Wattled Honeyeaters,English
 178814,Wattled Honeyeater,English
@@ -40252,12 +40252,12 @@ taxonID,vernacularName,language
 178821,Hawaii Oo,English
 178822,Cardinal Honeyeaters,English
 178823,Cardinal Myzomela,English
-178825,Wrentits,Common name
+178825,Wrentits,English
 178826,Camea,Spanish
-178833,Laughing Thrushes,Common name
+178833,Laughing Thrushes,English
 178834,Hwamei,English
 178835,Greater Necklaced Laughingthrush,English
-178836,Leiothrixes,Common name
+178836,Leiothrixes,English
 178837,Red-billed Leiothrix,English
 178838,New World Sparrows,English
 178839,Basileuterine Warblers,English
@@ -40339,12 +40339,14 @@ taxonID,vernacularName,language
 178984,Painted Redstarts,English
 178985,Slate-throated Whitestart,English
 178986,Painted Whitestart,English
-178988,Vireos,Common name
-178989,Vireos,Common name
+178988,Vireos,English
+178989,Vireos,English
+178990,Vireo gorra negra,Spanish
 178991,viréo aux yeux blancs,French
 178997,Vireo reyezuelo,Spanish
 179003,Vireo de Bell,Spanish
-179007,Least Bell's Vireo,Common name
+179006,Arizona Bell's vireo,English
+179007,Least Bell's Vireo,English
 179008,Grey Vireo,English
 179009,viréo à gorge jaune,French
 179010,viréo à tête bleue,French
@@ -40581,68 +40583,66 @@ taxonID,vernacularName,language
 179599,Laysan Finches,English
 179602,'I'iwis,Common name
 179603,Iiwi,English
-179604,Waxbills,Common name
-179605,Avadavats,Common name
+179604,Munias,English
+179605,Avadavats,English
 179606,Red Avadavat,English
-179607,Parrot-Finches,Common name
+179607,Parrot-Finches,English
 179608,Blue-faced Parrot-Finch,English
-179609,Waxbills,Common name
+179609,Waxbills,English
 179610,Common Waxbill,English
 179611,Lavender Waxbill,English
 179612,Orange-cheeked Waxbill,English
 179613,Black-rumped Waxbill,English
-179614,Mannikins,Common name
+179614,Mannikins,English
 179615,Bronze Mannikin,English
 179616,Mottled Munia,English
-179617,Indian Silverbill,English
+179617,Warbling Silverbill,English
 179618,Tricolored Munia,English
 179619,Scaly-breasted Munia,English
-179620,Java Sparrows,Common name
 179621,Java Sparrow,English
-179622,Cordonbleus,Common name
+179622,Cordonbleus,English
 179623,Red-cheeked Cordon-bleu,English
-179624,Whydahs,Common name
+179624,Whydahs,English
 179625,Pin-tailed Whydah,English
-179626,Weavers,Common name
-179627,Old World Sparrows,Common name
+179626,Widowbirds,English
+179627,Old World Sparrows,English
 179628,moineau domestique,French
 179630,Eurasian Tree Sparrow,English
-179632,Bishops,Common name
+179632,Bishops,English
 179633,Yellow-crowned Bishop,English
 179634,Southern Red Bishop,English
-179635,Starlings,Common name
-179636,Starlings,Common name
+179635,Starlings,English
+179636,Starlings,English
 179637,Common Starling,English
 179639,White-cheeked Starling,English
 179640,Chestnut-cheeked Starling,English
-179641,Crested Mynas,Common name
 179642,Crested Myna,English
-179645,Glossy Starlings,Common name
-179651,Hill Mynas,Common name
+179651,Hill Mynas,English
 179652,Common Hill Myna,English
-179654,Drongos,Common name
-179655,Drongos,Common name
+179654,Drongos,English
+179655,Drongos,English
 179656,Black Drongo,English
-179659,Wood-Swallows,Common name
-179660,Wood-Swallows,Common name
+179659,Woodswallows,English
+179660,Wood-Swallows,English
 179663,Bowerbirds,English
 179665,pies,French
-179666,Gray Jays,Common name
+179666,Gray Jays,English
 179667,Grey Jay,English
-179679,Blue Jays,Common name
+179679,Blue Jays,English
 179680,Chara azul,Spanish
 179685,geai de Steller,French
-179692,Scrub Jays,Common name
+179692,Scrub Jays,English
 179693,Florida Scrub-Jay,English
-179694,Florida Scrub Jay,Common name
+179694,Florida Scrub Jay,English
+179702,Eagle Mountain scrub jay,English
 179707,Mexican Jay,English
-179711,Tufted Jays,Common name
+179711,Tufted Jays,English
 179712,Inca Jay,English
 179715,Chara papán,Spanish
-179719,Magpies,Common name
+179719,Magpies,English
 179720,Eurasian Magpie,English
 179723,Yellow-billed Magpie,English
-179724,Crows,Common name
+179724,Crows,English
 179725,Northern Raven,English
 179730,Cuervo llanero,Spanish
 179731,corneille d'Amérique,French
@@ -40654,70 +40654,68 @@ taxonID,vernacularName,language
 179744,Mariana Crow,English
 179745,White-necked Crow,English
 179746,Western Jackdaw,English
-179747,Pinyon Jays,Common name
+179747,Pinyon Jay,English
 179748,Chara piñonera,Spanish
-179749,Nutcrackers,Common name
+179749,Nutcrackers,English
 179750,Cascanueces americano,Spanish
-179752,Robins,Common name
+179752,Robins,English
 179756,Naumann's Thrush,English
 179757,Common Blackbird,English
 179759,merle d'Amérique,French
 179766,grive litorne,French
 179767,Eyebrowed Thrush,English
 179768,Clay-colored Thrush,English
-179769,Redwing,English
 179770,Red-legged Thrush,English
 179771,Mirlo dorso rufo,Spanish
-179772,Varied Thrushes,Common name
+179772,Varied Thrushes,English
 179773,grive à collier,French
-179776,Wood Thrushes,Common name
+179776,Wood Thrushes,English
 179777,grive des bois,French
-179778,Verrys,Common name
 179779,grive solitaire,French
 179788,grive à dos olive,French
 179793,Grey-cheeked Thrush,English
 179796,grive fauve,French
-179800,Bluebirds,Common name
+179800,Bluebirds,English
 179801,merlebleu de l'est,French
 179806,merle-bleu de l'ouest,French
 179811,merlebleu azuré,French
 179812,Wheatears,English
 179814,traquet motteux,French
-179817,Rubythroats,Common name
+179817,Rubythroats,English
 179818,Bluethroat,English
 179820,Siberian Rubythroat,English
-179823,Solitaires,Common name
+179823,Solitaires,English
 179824,solitaire de Townsend,French
 179826,Olomao,English
-179827,Large Kauai Thrush,Common name
+179827,Large Kauai Thrush,English
 179829,Omao,English
-179830,Small Kauai Thrush,Common name
-179831,Shamas,Common name
+179830,Small Kauai Thrush,English
+179831,Shamas,English
 179832,White-rumped Shama,English
-179833,Rock-Thrushes,Common name
+179833,Rock-Thrushes,English
 179834,Blue Rock Thrush,English
-179835,Aztec Thrushes,Common name
-179836,Aztec Thrush,Common name
-179837,Bluetails,Common name
+179835,Aztec Thrushes,English
+179836,Aztec Thrush,English
+179837,Bluetails,English
 179838,Red-flanked Bluetail,English
-179839,Old World Warblers,Common name
-179840,Willow Warblers,Common name
+179839,Sylviid Babblers,English
+179840,Willow Warblers,English
 179841,Willow Warbler,English
 179843,Arctic Warbler,English
 179846,Dusky Warbler,English
 179847,Wood Warbler,English
-179848,Grasshopper-Warbler,Common name
+179848,Grasshopper-Warbler,English
 179849,Middendorff's Grasshopper Warbler,English
 179851,Lanceolated Warbler,English
-179852,Gnatcatchers,Common name
+179852,Gnatcatchers,English
 179853,Blue-grey Gnatcatcher,English
 179857,Black-tailed Gnatcatcher,English
 179863,Perlita sinaloense,Spanish
-179864,Kinglets,Common name
+179864,Kinglets,English
 179865,roitelet à couronne dorée,French
 179870,roitelet à couronne rubis,French
-179875,Silky-Flycatchers,Common name
-179876,Phainopeplas,Common name
+179875,Silky-Flycatchers,English
+179876,Phainopeplas,English
 179877,Capulinero negro,Spanish
 179880,Tanagers,English
 179881,Northern Tanagers,English
@@ -40736,13 +40734,13 @@ taxonID,vernacularName,language
 179898,Bananaquit,English
 179899,Bananaquits,English
 179900,Reinita-mielera,Spanish
-179903,White-eyes,Common name
-179904,Greater White-eyes,Common name
+179903,White-eyes,English
+179904,Greater White-eyes,English
 179905,Long-billed White-eye,English
-179906,Yap Greater White-eye,Common name
-179907,Palau Greater White-eye,Common name
+179906,Yap Greater White-eye,English
+179907,Palau Greater White-eye,English
 179908,Teardrop White-eye,English
-179909,Lesser White-eyes,Common name
+179909,Lesser White-eyes,English
 179910,Grey-brown White-eye,English
 179911,Bridled White-eye,English
 179912,Japanese White-eye,English
@@ -41474,11 +41472,11 @@ taxonID,vernacularName,language
 180684,Caribbean manatee,English
 180685,West African manatee,English
 180686,Amazon manatee,English
-180687,odd-toed ungulates,English
-180688,horses,English
-180689,horses,English
-180690,burro (feral),English
-180691,horse (feral),English
+180687,Odd-toed Ungulates,English
+180688,Zebras,English
+180689,Horses,English
+180690,Ass,English
+180691,Horse,English
 180692,even-toed ungulates,English
 180693,wapiti,English
 180694,wapiti,English
@@ -42953,6 +42951,7 @@ taxonID,vernacularName,language
 187247,tribolium brun de la farine,French
 187464,perceur (petit) des céréales,French
 187477,southern lyctus beetle,English
+187482,Kauai flightless stag beetle,English
 187538,plumeria borer,English
 187543,cucurbit longicorn,English
 187549,bamboo borer,English
@@ -44880,21 +44879,27 @@ taxonID,vernacularName,language
 201908,Independence Valley speckled dace,English
 201909,Kendall Warm Springs dace,English
 201910,Umatilla dace,English
+201911,Cheat minnow,English
+201912,Rio Grande bluntnose shiner,English
 201913,Pecos bluntnose shiner,English
 201914,roseate shiner,English
 201915,Yazoo shiner,English
 201916,redface shiner,English
 201917,pallid chub,English
 201918,clear chub,English
+201919,Mohave chub,English
 201920,Owens tui chub,English
 201922,Pahranagut roundtail chub,English
 201923,Virgin River chub,English
+201924,Virgin Spinedace,English
 201925,Big Spring spinedace,English
 201926,pinewoods shiner,English
 201927,Warrior shiner,English
 201928,scarlet shiner,English
+201929,Umpqua Oregon chub,English
 201931,cicek,English
 201935,Tokyo bitterling,English
+201937,Ikan temoleh,English
 201938,flagfin shiners,English
 201939,broadstripe shiner,English
 201940,bluehead shiner,English
@@ -45124,10 +45129,10 @@ taxonID,vernacularName,language
 202281,Tristam's Woodpecker,Common name
 202284,Carpintero imperial,Spanish
 202287,Euler's Flycatcher,English
-202288,Guadeloupe House Wren,Common name
-202289,St Lucia House Wren,Common name
-202290,Millerbird,Common name
-202291,Old World Warbler,Common name
+202288,Guadeloupe House Wren,English
+202289,St Lucia House Wren,English
+202290,Millerbird,English
+202291,Nihoa Millerbird,English
 202292,Barbados Yellow Wood Warbler,English
 202293,Sao Miguel Bullfinch,English
 202307,California Towhee,English
@@ -45138,11 +45143,11 @@ taxonID,vernacularName,language
 202321,Maui Akepa,English
 202328,Piping Crow,English
 202331,Reunion Cuckooshrike,English
-202333,Molokai Thrush,Common name
-202337,Seychelles Thrush,Common name
+202333,Molokai Thrush,English
+202337,Seychelles Thrush,English
 202338,White-vented Shama,English
-202340,Cebu Black Thrush,Common name
-202341,White-chested White-eye,English
+202340,Cebu Black Thrush,English
+202341,white-breasted silvereye,English
 202342,Seychelles White-eye,English
 202344,Hawaiian hoary bat,English
 202345,Townsend's big-eared bat,English
@@ -45192,10 +45197,10 @@ taxonID,vernacularName,language
 202397,San Joaquin kit fox,English
 202398,swift fox,English
 202399,northern swift fox,English
-202400,Grevy's zebra,English
-202401,zebra,English
-202402,mountain zebra,English
-202403,Hartmann's mountain zebra,English
+202400,Grévy's Zebra,English
+202401,Mountain Zebra,English
+202402,Cape Mountain Zebra,English
+202403,Hartmann's Zebra,English
 202404,wapiti,English
 202405,Barbary stag,English
 202406,Kashmir stag,English
@@ -52456,7 +52461,7 @@ taxonID,vernacularName,language
 506922,smooth bedstraw,English
 506924,haha,English
 506925,haha,English
-506926,Cooper's cyathea,English
+506926,scaly tree fern,English
 506927,cymophora,English
 506928,Packard's cymopterus,Common name
 506929,black swallow-wort,English
@@ -63656,6 +63661,7 @@ taxonID,vernacularName,language
 553279,Red River chub,English
 553280,central chub,English
 553281,Guadaloupe chub,English
+553282,Arkansas chub,English
 553283,Palezone shiner,English
 553284,rocky shiner,English
 553285,spotted barb,English
@@ -63733,7 +63739,6 @@ taxonID,vernacularName,language
 553357,blue riffle goby,English
 553358,green riffle goby,English
 553359,Palauan riffle goby,English
-163546,Cow Head tui chub,English
 553361,shimofuri goby,English
 553362,dogtooth toxic goby,English
 553363,yellowfin toxic goby,English
@@ -63808,6 +63813,7 @@ taxonID,vernacularName,language
 553441,Magpie-Goose,English
 553443,Cardinal-Grosbeaks,English
 553447,Olive Warbler,English
+553448,roitelets,French
 553453,Ground Hornbills,English
 553454,Scimitarbills,English
 553455,Ground Rollers,English
@@ -64102,15 +64108,15 @@ taxonID,vernacularName,language
 554129,Island Scrub Jay,English
 554130,Samoan Starling,English
 554131,Kosrae Starling,English
-554132,Micronesian Starling,Common name
+554132,Micronesian Starling,English
 554133,Pohnpei Starling,English
-554134,Polynesian Starling,Common name
+554134,Polynesian Starling,English
 554135,Grande Aigrette,French
 554136,White-breasted Woodswallow,English
 554137,Gray Hawk,English
-554138,Tufted Titmouse,English
+554138,Carbonero cresta negra,Spanish
 554140,Oak Titmouse,English
-554141,Bridled Titmouse,English
+554141,Carbonero embridado,Spanish
 554142,Stripe-crowned Warbler,English
 554143,Guillemot à long bec,French
 554144,Bulwer's Petrel,English
@@ -64185,7 +64191,7 @@ taxonID,vernacularName,language
 554216,Spot-flanked Barbet,English
 554217,Black-throated Barbet,English
 554219,Eastern Marsh Harrier,English
-554220,Morningbird,English
+554220,Palau Morning Bird,English
 554221,moucherolle à côtés olive,French
 554222,Hispaniolan Pewee,English
 554223,Asian House Martin,English
@@ -64338,7 +64344,7 @@ taxonID,vernacularName,language
 554381,Pluvier fauve,French
 554382,mésange à tête noire,French
 554383,Carolina Chickadee,English
-554384,Gray-headed Chickadee,English
+554384,Siberian Tit,English
 554385,Mountain Chickadee,English
 554386,mésange à tête brune,French
 554387,Chestnut-backed Chickadee,English
@@ -65512,7 +65518,6 @@ taxonID,vernacularName,language
 558504,Grey-cheeked Fulvetta,English
 558505,Nepal Fulvetta,English
 558506,Mountain Fulvetta,English
-558507,Brown-cheeked Fulvetta,English
 558508,Javan Fulvetta,English
 558509,Spectacled Fulvetta,English
 558510,Rufous-throated Fulvetta,English
@@ -65577,10 +65582,10 @@ taxonID,vernacularName,language
 558587,Yellow-whiskered Greenbul,English
 558588,Shelley's Greenbul,English
 558589,Stripe-cheeked Greenbul,English
-558590,Cameroon Greenbul,English
+558590,Cameroon Montane Greenbul,English
 558591,Mountain Greenbul,English
 558592,Olive-headed Greenbul,English
-558593,Western Greenbul,English
+558593,Grey-throated Greenbul,English
 558594,Little Greenbul,English
 558595,Papuan Whipbird,English
 558596,Scarlet-bellied Mountain Tanager,English
@@ -65644,7 +65649,6 @@ taxonID,vernacularName,language
 558665,Paddyfield Pipit,English
 558667,Long-billed Pipit,English
 558668,Sokoke Pipit,English
-558669,Upland Pipit,English
 558670,Buffy Pipit,English
 558671,Helmeted Manakin,English
 558672,Firewood-gatherer,English
@@ -65703,11 +65707,13 @@ taxonID,vernacularName,language
 558732,Yellow-eared Spiderhunter,English
 558733,Naked-faced Spiderhunter,English
 558734,Thick-billed Spiderhunter,English
+558735,Bornean Spiderhunter,English
 558736,Spectacled Spiderhunter,English
 558737,Whitehead's Spiderhunter,English
 558738,Little Spiderhunter,English
 558739,Streaked Spiderhunter,English
 558740,Long-billed Spiderhunter,English
+558741,dappled mountain robin,English
 558742,Archbold's Bowerbird,English
 558744,White-bellied Heron,English
 558745,Great-billed Heron,English
@@ -65856,6 +65862,8 @@ taxonID,vernacularName,language
 558895,Pririt Batis,English
 558897,Senegal Batis,English
 558898,Pale Batis,English
+558899,Rodrigues Warbler,English
+558900,Seychelles Warbler,English
 558901,Point-tailed Palmcreeper,English
 558903,Black-and-white Flycatcher,English
 558904,White-bearded Antshrike,English
@@ -66052,7 +66060,6 @@ taxonID,vernacularName,language
 559117,Black Antbird,English
 559118,Dusky Antbird,English
 559119,Sombre Rock Chat,English
-559120,Familiar Chat,English
 559121,Brown Rock Chat,English
 559122,Blackstart,English
 559123,Karoo Chat,English
@@ -66061,7 +66068,6 @@ taxonID,vernacularName,language
 559126,Moorland Chat,English
 559127,Tractrac Chat,English
 559128,Miombo Scrub Robin,English
-559129,Karoo Scrub Robin,English
 559130,Rufous-tailed Scrub Robin,English
 559131,Brown-backed Scrub Robin,English
 559132,White-browed Scrub Robin,English
@@ -66323,7 +66329,7 @@ taxonID,vernacularName,language
 559427,Ochraceous Pewee,English
 559428,Jamaican Pewee,English
 559429,Madagascar Magpie-Robin,English
-559430,Black Shama,English
+559430,Cebu Black Shama,English
 559431,White-browed Shama,English
 559432,Oriental Magpie-Robin,English
 559433,White-crowned Shama,English
@@ -66377,7 +66383,6 @@ taxonID,vernacularName,language
 559481,White-ruffed Manakin,English
 559482,White-throated Manakin,English
 559483,White-ruffed Manakin,English
-559484,White-winged Chough,English
 559486,Papuan Treecreeper,English
 559487,Yellow-billed Shrike,English
 559489,White-necked Raven,English
@@ -66572,7 +66577,6 @@ taxonID,vernacularName,language
 559696,Trepatroncos rojizo,Spanish
 559697,White-chinned Woodcreeper,English
 559699,Tyrannine Woodcreeper,English
-559700,Andaman Treepie,English
 559701,Grey Treepie,English
 559702,Collared Treepie,English
 559703,White-bellied Treepie,English
@@ -66692,7 +66696,6 @@ taxonID,vernacularName,language
 559821,Scaled Antbird,English
 559822,Scimitar-billed Woodcreeper,English
 559823,Pink-footed Puffback,English
-559824,Black-backed Puffback,English
 559825,Northern Puffback,English
 559826,Pringle's Puffback,English
 559827,Sabine's Puffback,English
@@ -66900,10 +66903,8 @@ taxonID,vernacularName,language
 560044,Jackson's Widowbird,English
 560046,Zanzibar Red Bishop,English
 560047,Long-tailed Widowbird,English
-560048,Montane Widowbird,English
 560052,Rüppell's Korhaan,English
 560054,Southern White-crowned Shrike,English
-560055,Northern White-crowned Shrike,English
 560056,Helmet Vanga,English
 560057,Banded Broadbill,English
 560058,Black-and-yellow Broadbill,English
@@ -66966,6 +66967,7 @@ taxonID,vernacularName,language
 560117,Fraser's Forest Flycatcher,English
 560118,Undulated Antshrike,English
 560119,Black-throated Antshrike,English
+560120,Hoopoe Starling,English
 560121,Blue Chaffinch,English
 560122,Andean Coot,English
 560123,Crested Hornero,English
@@ -67247,7 +67249,6 @@ taxonID,vernacularName,language
 560426,Rudd's Lark,English
 560427,Sidamo Lark,English
 560428,Pictorella Munia,English
-560431,Rufous-backed Sibia,English
 560432,White-eared Sibia,English
 560433,Rufous Sibia,English
 560434,Grey Sibia,English
@@ -67283,7 +67284,6 @@ taxonID,vernacularName,language
 560487,Wire-tailed Swallow,English
 560490,Pacific Swallow,English
 560491,Rufous-tailed Weaver,English
-560492,White-bellied Redstart,English
 560493,Dohrn's Thrush-Babbler,English
 560494,Humblot's Flycatcher,English
 560498,Red-billed Woodcreeper,English
@@ -67504,7 +67504,6 @@ taxonID,vernacularName,language
 560730,Masked Shrike,English
 560731,Long-tailed Shrike,English
 560732,Woodchat Shrike,English
-560733,Somali Fiscal,English
 560734,Souza's Shrike,English
 560735,Chinese Grey Shrike,English
 560736,Grey-backed Shrike,English
@@ -67549,7 +67548,7 @@ taxonID,vernacularName,language
 560776,Andean Negrito,English
 560777,Patagonian Negrito,English
 560778,Semper's Warbler,English
-560779,Bali Myna,English
+560779,Rothschild's starling,English
 560780,Brandt's Mountain Finch,English
 560781,Plain Mountain Finch,English
 560782,Sillem's Mountain Finch,English
@@ -67628,6 +67627,7 @@ taxonID,vernacularName,language
 560861,Grey-crowned Munia,English
 560863,Red-backed Mannikin,English
 560864,Pale-headed Munia,English
+560865,Cream-bellied Munia,English
 560866,Five-colored Munia,English
 560867,Hooded Munia,English
 560868,White-rumped Munia,English
@@ -67667,7 +67667,7 @@ taxonID,vernacularName,language
 560903,Paradise-crow,English
 560904,Olive Finch,English
 560905,Sooty-faced Finch,English
-560906,Macgregor's Lappetface,English
+560906,MacGregor's Honeyeater,English
 560907,Yellow-breasted Boatbill,English
 560908,Black-breasted Boatbill,English
 560909,Club-winged Manakin,English
@@ -67677,8 +67677,6 @@ taxonID,vernacularName,language
 560914,Tufted Antshrike,English
 560915,Golden-tufted Mountain Grackle,English
 560916,Colombian Mountain Grackle,English
-560917,Grey-cheeked Tit-Babbler,English
-560918,Striped Tit-Babbler,English
 560919,Grey-faced Tit-Babbler,English
 560920,Fluffy-backed Tit-Babbler,English
 560921,Brown Tit-Babbler,English
@@ -67687,7 +67685,6 @@ taxonID,vernacularName,language
 560924,Cape Longclaw,English
 560925,Yellow-throated Longclaw,English
 560926,Abyssinian Longclaw,English
-560927,Fülleborn's Longclaw,English
 560928,Grimwood's Longclaw,English
 560931,Grey Longbill,English
 560932,Yellow Longbill,English
@@ -67766,7 +67763,7 @@ taxonID,vernacularName,language
 561014,Fly River Grassbird,English
 561015,Little Grassbird,English
 561016,Striated Grassbird,English
-561018,New Zealand Fernbird,English
+561018,Fernbird,English
 561019,Chatham Fernbird,English
 561020,Tawny Grassbird,English
 561021,Luis pico grueso,Spanish
@@ -67956,12 +67953,10 @@ taxonID,vernacularName,language
 561220,White-winged Snowfinch,English
 561224,Cape Gannet,English
 561225,Australasian Gannet,English
-561226,African Pied Wagtail,English
 561227,Cape Wagtail,English
 561228,Mountain Wagtail,English
 561229,Madagascar Wagtail,English
 561230,Japanese Wagtail,English
-561231,White-browed Wagtail,English
 561232,African Dusky Flycatcher,English
 561233,Swamp Flycatcher,English
 561234,Böhm's Flycatcher,English
@@ -68106,7 +68101,6 @@ taxonID,vernacularName,language
 561385,Anteater Chat,English
 561386,White-fronted Black Chat,English
 561387,Arnot's Chat,English
-561388,Ant-eating Chat,English
 561389,Rüppell's Black Chat,English
 561390,Sooty Chat,English
 561391,Congo Moor Chat,English
@@ -68187,11 +68181,15 @@ taxonID,vernacularName,language
 561472,Rabor's Wren-Babbler,English
 561473,Rusty-breasted Wren-Babbler,English
 561474,Long-billed Woodcreeper,English
+561475,Rodrigues Starling,English
 561476,Hooded Vulture,English
+561484,Bannerman's Sunbird,English
+561485,Bates's Sunbird,English
 561487,Bocage's Sunbird,English
 561501,Malachite Sunbird,English
 561509,Scarlet-tufted Sunbird,English
 561511,Bronzy Sunbird,English
+561531,Marungu sunbird,English
 561533,Purple-breasted Sunbird,English
 561548,Tacazze Sunbird,English
 561557,Hooded Tanager,English
@@ -68320,7 +68318,6 @@ taxonID,vernacularName,language
 561690,White-lored Oriole,English
 561691,African Golden Oriole,English
 561692,Black-eared Oriole,English
-561693,Western Oriole,English
 561694,Black-naped Oriole,English
 561695,Green-headed Oriole,English
 561696,Sao Tome Oriole,English
@@ -68466,7 +68463,6 @@ taxonID,vernacularName,language
 561851,Flame-throated Warbler,English
 561852,Grey Tit,English
 561853,White-bellied Tit,English
-561854,Turkestan Tit,English
 561855,Ashy Tit,English
 561856,Stripe-breasted Tit,English
 561857,Red-throated Tit,English
@@ -68551,7 +68547,7 @@ taxonID,vernacularName,language
 561943,Flame Robin,English
 561944,Pink Robin,English
 561945,Rose Robin,English
-561946,Black Robin,English
+561946,Chatham Island Robin,English
 561948,Rock Sparrow,English
 561952,Large-footed Finch,English
 561953,Chestnut-backed Thornbird,English
@@ -68719,7 +68715,7 @@ taxonID,vernacularName,language
 562162,Peruvian Plantcutter,English
 562163,Rufous-tailed Plantcutter,English
 562164,White-tipped Plantcutter,English
-562165,White-necked Picathartes,English
+562165,White-necked Rock-fowl,English
 562166,Grey-necked Picathartes,English
 562167,Cinereous Finch,English
 562168,Rufous-rumped Lark,English
@@ -68823,7 +68819,6 @@ taxonID,vernacularName,language
 562285,Baglafecht Weaver,English
 562286,Bannerman's Weaver,English
 562287,Bates's Weaver,English
-562288,Black-breasted Weaver,English
 562289,Bertram's Weaver,English
 562290,Dark-backed Weaver,English
 562291,Golden Palm Weaver,English
@@ -68832,7 +68827,6 @@ taxonID,vernacularName,language
 562294,Taveta Weaver,English
 562295,Northern Brown-throated Weaver,English
 562296,Village Weaver,English
-562297,Juba Weaver,English
 562298,Yellow-capped Weaver,English
 562299,Rüppell's Weaver,English
 562300,Clarke's Weaver,English
@@ -68852,9 +68846,7 @@ taxonID,vernacularName,language
 562314,Usambara Weaver,English
 562315,Vieillot's Black Weaver,English
 562316,Black-necked Weaver,English
-562318,Spectacled Weaver,English
 562319,Olive-headed Weaver,English
-562320,Slender-billed Weaver,English
 562321,Baya Weaver,English
 562322,Preuss's Weaver,English
 562323,Principe Weaver,English
@@ -68885,6 +68877,7 @@ taxonID,vernacularName,language
 562350,Pleske's Ground Jay,English
 562351,Pere David's Tit,English
 562352,Sombre Tit,English
+562353,Willow Tit,English
 562354,Marsh Tit,English
 562355,White-browed Tit,English
 562356,Black-throated Robin,English
@@ -68898,7 +68891,7 @@ taxonID,vernacularName,language
 562364,Kenrick's Starling,English
 562365,Narrow-tailed Starling,English
 562366,Stuhlmann's Starling,English
-562367,Violet-eared Waxbill,English
+562367,Long-tailed Finch,English
 562368,Black-throated Finch,English
 562369,Masked Finch,English
 562370,White-starred Robin,English
@@ -68919,7 +68912,7 @@ taxonID,vernacularName,language
 562385,Rarotonga Monarch,English
 562386,Iphis Monarch,English
 562387,Marquesan Monarch,English
-562388,Tahiti Monarch,English
+562388,Tahiti flycatcher,English
 562389,Fatuhiva Monarch,English
 562390,Spot-breasted Scimitar Babbler,English
 562391,Rusty-cheeked Scimitar Babbler,English
@@ -69656,7 +69649,6 @@ taxonID,vernacularName,language
 563199,Menetries's Warbler,English
 563200,Asian Desert Warbler,English
 563201,Barred Warbler,English
-563202,Rüppell's Warbler,English
 563203,Marmora's Warbler,English
 563205,Dartford Warbler,English
 563206,Northern Crombec,English
@@ -69803,7 +69795,7 @@ taxonID,vernacularName,language
 563363,Bedford's Paradise Flycatcher,English
 563364,Mascarene Paradise Flycatcher,English
 563365,Rufous Paradise Flycatcher,English
-563366,Seychelles Paradise Flycatcher,English
+563366,Seychelles black flycatcher,English
 563367,Blue Paradise Flycatcher,English
 563368,Malagasy Paradise Flycatcher,English
 563369,Asian Paradise Flycatcher,English
@@ -69940,6 +69932,7 @@ taxonID,vernacularName,language
 563514,Ferruginous Babbler,English
 563515,Sulawesi Babbler,English
 563516,White-chested Babbler,English
+563519,long-legged thicketbird,English
 563520,White-streaked Honeyeater,English
 563521,Hairy-backed Bulbul,English
 563522,Black-goggled Tanager,English
@@ -70171,7 +70164,6 @@ taxonID,vernacularName,language
 563778,Peruvian Tyrannulet,English
 563779,Rufous-collared Sparrow,English
 563780,Sunda Thrush,English
-563781,Black-eared Ground Thrush,English
 563782,Ashy Thrush,English
 563783,Orange-headed Thrush,English
 563784,Crossley's Ground Thrush,English
@@ -70206,7 +70198,6 @@ taxonID,vernacularName,language
 563818,Black-ringed White-eye,English
 563820,Cream-throated White-eye,English
 563821,Black-crowned White-eye,English
-563822,Reunion Grey White-eye,English
 563823,Buru White-eye,English
 563824,Sri Lanka White-eye,English
 563825,Lemon-bellied White-eye,English
@@ -70228,7 +70219,7 @@ taxonID,vernacularName,language
 563843,Ambon White-eye,English
 563844,New Georgia White-eye,English
 563845,Silvereye,English
-563846,Yellow-billed White-eye,English
+563846,Ghizo white-eye,English
 563847,Canary White-eye,English
 563848,Madagascar White-eye,English
 563849,Mayotte White-eye,English
@@ -70244,7 +70235,7 @@ taxonID,vernacularName,language
 563859,Christmas White-eye,English
 563860,Yellowish White-eye,English
 563861,Papuan White-eye,English
-563862,Olive-colored White-eye,English
+563862,Yap Greater White-eye,English
 563863,Reunion Olive White-eye,English
 563864,Cape White-eye,English
 563865,Oriental White-eye,English
@@ -74260,6 +74251,7 @@ taxonID,vernacularName,language
 621754,Mearns' neonotonia,English
 621755,Wight's neonotonia,English
 621756,Hyenas,English
+621816,Olingos,English
 621845,Giant Panda,English
 621846,Red Panda,English
 621847,Sun bear,English
@@ -74376,6 +74368,7 @@ taxonID,vernacularName,language
 621958,Marbled Polecat,English
 621959,Eastern Lowland Olingo,English
 621960,Beddard's Olingo,English
+621961,Olingo,English
 621962,Harris's Olingo,English
 621963,Chiriqui Olingo,English
 621964,Kinkajou,English
@@ -74471,11 +74464,17 @@ taxonID,vernacularName,language
 622220,silver roughy,English
 622221,silver roughy,English
 622223,hagfishes,English
+622243,lamproie de ruisseau de l'Extrême-Orient,French
 622244,Pacific hagfish,English
-622248,lamproie de rivière de l'ouest,French
+622247,lamproie de ruisseau turque,English
+622248,river lamprey,English
+622249,lamproie de ruisseau de Lombardie,French
 622254,Guadalupe hagfish,English
 622258,shorthead hagfish,English
 622262,Cortez hagfish,English
+622284,lamproie de ruisseau grecque,French
+622287,lamproie arctique,French
+622288,Siberian lamprey,English
 622313,poissons étoilés,French
 622315,marine hatchetfishes,English
 622316,snaggletooths,English
@@ -74692,8 +74691,8 @@ taxonID,vernacularName,language
 624911,Giant Anteater,English
 624912,Northern Tamandua,English
 624913,Southern Tamandua,English
-624915,tapirs,English
-624916,rhinoceroses,English
+624915,Tapirs,English
+624916,rhinos,English
 624917,hippopotamuses,English
 624918,camels,English
 624919,chevrotains,English
@@ -74724,20 +74723,20 @@ taxonID,vernacularName,language
 624988,sable antelopes,English
 624989,Oryxes,English
 624991,reedbucks,English
-624992,Burchell's zebra,English
-624993,kulan,English
-624994,kiang,English
-624995,onager,English
-624996,quagga,English
-624997,Central American tapir,English
-624998,Malayan tapir,English
-624999,mountain tapir,English
-625000,South American tapir,English
-625001,white rhinoceros,English
-625002,Sumatran rhinoceros,English
-625003,black rhinoceros,English
-625004,Javan rhinoceros,English
-625005,Indian rhinoceros,English
+624992,Plains Zebra,English
+624993,Kulan,English
+624994,Kiang,English
+624995,Onager,English
+624996,Quagga,English
+624997,Baird's Tapir,English
+624998,Asian tapir,English
+624999,Mountain Tapir,English
+625000,Brazilian Tapir,English
+625001,White Rhinoceros,English
+625002,Badak Sumbu,English
+625003,Black Rhinoceros,English
+625004,Javan one-horned rhinoceros,English
+625005,great Indian rhinoceros,English
 625006,babirusa,English
 625007,desert warthog,English
 625008,warthog,English
@@ -77722,6 +77721,7 @@ taxonID,vernacularName,language
 638800,airsac catfishes,English
 638802,sandfishes,English
 638813,flat loaches,English
+639152,tui chubs,English
 639365,cicek,English
 639372,bagre cuinchi,Spanish
 639373,clown barb,English
@@ -77853,6 +77853,10 @@ taxonID,vernacularName,language
 641997,medregal fortuno,Spanish
 641998,blackbanded amberjack,English
 642006,steel pompano,English
+642024,greenback trevally,English
+642026,hunchback trevally,English
+642027,slender leatherskin,English
+642029,jack mackerel,English
 642050,Elliot's cardinalfish,English
 642051,ninespot cardinalfish,English
 642052,blackbanded cardinalfish,English
@@ -77928,6 +77932,7 @@ taxonID,vernacularName,language
 643161,yellowcheek basslet,English
 643162,cabrilleta cinteada,Spanish
 643163,yellowbar basslet,English
+643198,longspine grouper,English
 643241,serrano carabonita,Spanish
 643242,serrano extranjero,Spanish
 643243,serrano espinudo,Spanish
@@ -78371,6 +78376,7 @@ taxonID,vernacularName,language
 647289,yellowfin gambusia,English
 647290,guayacón de San Luis,Spanish
 647291,guayacón dorado,Spanish
+647295,San Felipe gambusia,English
 647297,widemouth gambusia,English
 647299,guayacón de Hacienda de Dolores,Spanish
 647300,spotfin gambusia,English
@@ -78541,6 +78547,7 @@ taxonID,vernacularName,language
 650153,longtail spiny eel,English
 650162,pikeperches,English
 650163,southern sand darter,English
+650164,Eastern sand darter,English
 650166,brook darter,English
 650167,Buffalo darter,English
 650168,percarina,English
@@ -78837,6 +78844,7 @@ taxonID,vernacularName,language
 666733,Maya cockroach,English
 666735,pallid cockroach,English
 666754,Peary caribou,English
+666755,phasmids,English
 666758,timemas,English
 666811,web-spinners,English
 666831,cypress aphid,English
@@ -79331,6 +79339,7 @@ taxonID,vernacularName,language
 690288,tricolor shiner,English
 690289,steelcolor shiner,English
 690290,carpita del Balsas,Spanish
+690338,Lahontan Creek tui chub,English
 690357,Commerson's frogfish,English
 690362,sapo mexicano,Spanish
 690365,sapo peludo,Spanish
@@ -80657,13 +80666,13 @@ taxonID,vernacularName,language
 726051,Whiskered Tern,English
 726052,Plumbeous Hawk,English
 726053,Buse semiplombée,French
+726110,Centzontle de Socorro,Spanish
 726111,Gray-headed Chickadee,English
-726112,Boreal Chickadee,English
+726113,Blue-and-white Swallow,English
 726117,Black-billed Magpie,English
 726119,Nepal House Martin,English
 726120,Peruvian Martin,English
 726121,Willow Tit,English
-726122,White-browed Tit,English
 726123,Amazonian Antwren,English
 726185,Hispaniolan Spindalis,English
 726186,Puerto Rican Spindalis,English
@@ -86246,28 +86255,36 @@ taxonID,vernacularName,language
 913612,desert nightblooming cereus,English
 913655,house centipedes,English
 913888,Hilgard's suncup,English
-650164,Eastern sand darter,English
-913970,Russian River tule perch,English
-913909,Guadalupe bass,English
-647295,San Felipe gambusia,English
 913907,Cumberland darter,English
-913966,Cumberland arrow darter,English
+913909,Guadalupe bass,English
 913917,bluemask darter,English
-913981,Santa Ana threespine stickleback,English
-913980,Santa Ana threespine stickleback,English
 913921,Halloween darter,English
 913922,diamond darter,English
-642024,greenback trevally,English
-642026,hunchback trevally,English
-642029,jack mackerel,English
-642027,slender leatherskin,English
-643198,longspine grouper,English
 913947,leafy sea dragon,English
 913948,Lucas' seadragon,English
-914009,Lahontan Creek tui chub,English
+913966,Cumberland arrow darter,English
+913970,Russian River tule perch,English
+913980,Santa Ana threespine stickleback,English
+913981,Santa Ana threespine stickleback,English
+913984,Western Creek Chubsucker,English
+913986,Lowland Shiner,English
+913987,northern leatherside chub,English
 913988,Alvord chub,English
 913989,tui chub,English
 913990,Borax Lake chub,English
+913991,White River desert sucker,English
+913992,blackside dace,English
+913993,ventre rouge du nord,French
+913994,Southern redbelly dace,English
+913995,ventre citron,French
+913996,mountain redbelly dace,English
+913997,laurel dace,English
+913998,Tennessee dace,English
+914005,pit roach,English
+914006,Navarro Roach,English
+914007,Gualala Roach,English
+914008,Monterey Roach,English
+914009,Lahontan Creek tui chub,English
 914010,Sheldon tui chub,English
 914011,Independence Valley tui chub,English
 914012,Mohave tui chub,English
@@ -86295,17 +86312,9 @@ taxonID,vernacularName,language
 914034,Newark Valley tui chub,English
 914035,Newark Valley tui chub,English
 914036,Maravillas red shiner,English
-913991,White River desert sucker,English
 914037,White River desert sucker,English
 914038,Oregon Lakes tui chub,English
 914039,Oregon Lakes tui chub,English
-913992,blackside dace,English
-913993,ventre rouge du nord,French
-913994,Southern redbelly dace,English
-913995,ventre citron,French
-913996,mountain redbelly dace,English
-913997,laurel dace,English
-913998,Tennessee dace,English
 914040,Zuni bluehead sucker,English
 914041,Columbia tui chub,English
 914042,Grass Valley speckled dace,English
@@ -86315,64 +86324,479 @@ taxonID,vernacularName,language
 914046,naseux des rapides,French
 914047,western longnose dace,English
 914048,Banff longnose dace,English
-914050,Ouachita Map Turtle,English
 914049,Pearl River Map Turtle,English
-622287,lamproie arctique,French
-914064,lamproie de ruisseau de Californie septentrionale,French
-159732,lamproie caspienne,French
-914068,lamproie de ruisseau de Californie,French
-914060,Pit-Klamath brook lamprey,English
-914059,lamproie de l'île de Vancouver,French
-914063,lamproie du lac Miller,French
-914058,lamproie de la rivière Klamath,French
-159699,lamproie du Pacifique,French
-159734,lamproie carpathique,French
-914056,Macedonia brook lamprey,English
-622284,lamproie de ruisseau grecque,French
-159737,lamproie de ruisseau ukrainienne,French
-159738,lamproie coréene,French
-159719,Flußneunauge,German
-622247,lamproie de ruisseau turque,English
-159720,Bachneunauge,German
+914050,Ouachita Map Turtle,English
+914051,Sabine Map Turtle,English
 914055,lamproie de ruisseau d'Alaska,French
-159696,lamproies,French
-914061,lamproie de ruisseau américaine,French
-914069,Arctic lamprey,English
-622288,Siberian lamprey,English
+914056,Macedonia brook lamprey,English
 914057,lamproie de ruisseau de la Transcaucasie occidentale,French
-622243,lamproie de ruisseau de l'Extrême-Orient,French
-622249,lamproie de ruisseau de Lombardie,French
-159742,lamprea de Jacona,Spanish
-159741,Mexican lamprey,English
+914058,lamproie de la rivière Klamath,French
+914059,lamproie de l'île de Vancouver,French
+914060,Pit-Klamath brook lamprey,English
+914061,lamproie de ruisseau américaine,French
+914063,lamproie du lac Miller,French
+914064,Northern California brook lamprey,English
+914068,lamproie de ruisseau de Californie,French
+914069,Arctic lamprey,English
 914070,lamprea de Jacona,Spanish
 914071,lamprea de Chapala,Spanish
-159744,lamproie saccifère,French
-159749,lamproie du Chili,French
-159747,lamproie australienne,French
-159748,lamproie de ruisseau australienne,French
-161949,longjaw cisco,English
-914089,desert redband trout,English
-914079,coastal cutthroat trout,English
-914081,westslope cutthroat trout,English
+914075,onega cisco,English
 914078,Yellowstone cutthroat trout,English
+914079,coastal cutthroat trout,English
+914080,Lahontan cutthroat trout,English
+914081,westslope cutthroat trout,English
 914082,Colorado River cutthroat trout,English
 914085,Bonneville cutthroat trout,English
-914080,Lahontan cutthroat trout,English
-914087,Eagle Lake rainbow trout,English
 914086,Rio Grande cutthroat trout,English
+914087,Eagle Lake rainbow trout,English
+914089,desert redband trout,English
 914090,Snake River finespotted cutthroat trout,English
 914093,Blackfin cisco,English
 914094,interior redband trout,English
-914075,onega cisco,English
 914099,Pai Striped Whiptail,English
-914117,Coastal Whiptail,English
 914103,Southeastern  Colorado Whiptail,English
 914104,Arizona Night Lizard,English
-914122,Hernandez's Short-horned Lizard,English
-914123,Blue Racer,English
 914108,New Mexico Threadsnake,English
 914110,Pandura's gecko,English
+914117,Coastal Whiptail,English
+914122,Hernandez's Short-horned Lizard,English
+914123,Blue Racer,English
 914126,'ala'a,English
 914127,Maui pilo kea,English
+914142,Olinguito,Spanish
 914144,Western Lowland Olingo,English
-621816,Olingos,English
+914170,anfioxo,Portuguese
+914219,termites,English
+914266,Norfolk tree fern,English
+914341,wig tree fern,English
+914440,ponga,English
+914447,slender tree fern,English
+914792,soft tree fern,English
+914950,black tree fern,English
+914957,skirted tree fern,English
+914962,slender tree fern,English
+914999,prickly tree fern,English
+915074,black tree fern,English
+915660,brown marmorated stink bug,English
+915676,gobe-mouches,French
+915692,Oos,English
+915825,Chestnut-faced Babbler,English
+915826,Luzon Striped Babbler,English
+915827,Panay Striped Babbler,English
+915828,Negros Striped Babbler,English
+915829,Palawan Striped Babbler,English
+915830,Palau Greater White-eye,English
+915831,Flame-templed Babbler,English
+915832,Mindanao Pygmy Babbler,English
+915834,Golden-crowned Babbler,English
+915835,Black-crowned Babbler,English
+915836,Rusty-crowned Babbler,English
+915837,Principe Speirops,English
+915838,Rota bridled white-eye,English
+915875,Vinous-breasted Starling,English
+915876,Red-billed Starling,English
+915877,White-cheeked Starling,English
+915878,Black-collared Starling,English
+915879,Pied Myna,English
+915880,Daurian Starling,English
+915881,Chestnut-cheeked Starling,English
+915882,White-shouldered Starling,English
+915883,Chestnut-tailed Starling,English
+915884,White-headed Starling,English
+915886,Brahminy Starling,English
+915888,Rosy Starling,English
+915889,Black-bellied Starling,English
+915890,Purple-headed Starling,English
+915891,Copper-tailed Starling,English
+915892,Emerald Starling,English
+915896,Fischer's Starling,English
+915897,Pied Starling,English
+915898,White-crowned Starling,English
+915899,Madagascar Starling,English
+915902,Abbott's Starling,English
+915909,Rüppell's Warbler,English
+915911,Golden-breasted Fulvetta,English
+915913,White-browed Fulvetta,English
+915914,Chinese Fulvetta,English
+915915,Spectacled Fulvetta,English
+915917,Brown-throated Fulvetta,English
+915922,Three-toed Parrotbill,English
+915923,Brown Parrotbill,English
+915924,Spectacled Parrotbill,English
+915925,Vinous-throated Parrotbill,English
+915926,Ashy-throated Parrotbill,English
+915927,Brown-winged Parrotbill,English
+915928,Grey-hooded Parrotbill,English
+915929,Przevalski's Parrotbill,English
+915930,Fulvous Parrotbill,English
+915931,Black-throated Parrotbill,English
+915932,Golden Parrotbill,English
+915933,Short-tailed Parrotbill,English
+915934,Lesser Rufous-headed Parrotbill,English
+915935,Greater Rufous-headed Parrotbill,English
+915937,Grey-headed Parrotbill,English
+915944,Black-throated Wren,English
+915945,Sooty-headed Wren,English
+915946,Black-bellied Wren,English
+915947,Plain-tailed Wren,English
+915948,Inca Wren,English
+915949,Moustached Wren,English
+915950,Whiskered Wren,English
+915951,Coraya Wren,English
+915952,Chivirín feliz,Spanish
+915953,Chivirín moteado,Spanish
+915954,Rufous-breasted Wren,English
+915955,Speckle-breasted Wren,English
+915956,Banded Wren,English
+915957,Chivirín rojizo,Spanish
+915958,Niceforo's Wren,English
+915959,Chivirín sinaloense,Spanish
+915960,Chivirín modesto,Spanish
+915961,Buff-breasted Wren,English
+915962,Superciliated Wren,English
+915963,Fawn-breasted Wren,English
+915964,Long-billed Wren,English
+915965,Riverside Wren,English
+915966,Bay Wren,English
+915967,Stripe-breasted Wren,English
+915968,Stripe-throated Wren,English
+915969,Chivirín chochín,Spanish
+915971,Pacific Wren,English
+915973,Chivirín de Socorro,Spanish
+915976,Undulated Antshrike,English
+915978,Collared Antshrike,English
+915979,Black-backed Antshrike,English
+915980,Band-tailed Antshrike,English
+915989,Checker-throated Antwren,English
+915990,Brown-bellied Antwren,English
+915991,White-eyed Antwren,English
+915992,Stipple-throated Antwren,English
+915994,Foothill Antwren,English
+915995,Ornate Antwren,English
+915996,Rufous-tailed Antwren,English
+916031,Pale-faced Antbird,English
+916034,White-breasted Tapaculo,English
+916035,Bahia Tapaculo,English
+916050,Slender-billed Scimitar Babbler,English
+916056,Stachyris striolata,English
+916057,Deignan's Babbler,English
+916058,Rufous-fronted Babbler,English
+916059,Buff-chested Babbler,English
+916060,Rufous-capped Babbler,English
+916061,Black-chinned Babbler,English
+916062,Golden Babbler,English
+916063,Striped Tit-Babbler,English
+916065,Grey-cheeked Tit-Babbler,English
+916066,Grey-faced Tit-Babbler,English
+916067,Brown Tit-Babbler,English
+916068,Fluffy-backed Tit-Babbler,English
+916082,Rabor's Wren-Babbler,English
+916108,Nilgiri Laughingthrush,English
+916110,Streaked Laughingthrush,English
+916112,Striped Laughingthrush,English
+916113,Brown-capped Laughingthrush,English
+916114,Blue-winged Laughingthrush,English
+916115,Scaly Laughingthrush,English
+916116,Elliot's Laughingthrush,English
+916117,Brown-cheeked Laughingthrush,English
+916118,Black-faced Laughingthrush,English
+916119,White-whiskered Laughingthrush,English
+916120,Variegated Laughingthrush,English
+916121,Chestnut-crowned Laughingthrush,English
+916122,Assam laughingthrush,English
+916126,Collared Laughingthrush,English
+916127,Red-winged Laughingthrush,English
+916128,Red-tailed Laughingthrush,English
+916133,Rufous-backed Sibia,English
+916152,Black-eared Ground Thrush,English
+916158,Yellow-legged Thrush,English
+916159,Pale-eyed Thrush,English
+916160,Kurrichane Thrush,English
+916172,Forest Thrush,English
+916173,Gould's Shortwing,English
+916175,Red-throated Alethe,English
+916176,Brown-chested Alethe,English
+916177,White-chested Alethe,English
+916178,Thyolo Alethe,English
+916189,Juba Weaver,English
+916194,Montane Widowbird,English
+916203,Shelley's Greenbul,English
+916204,Kakamega Greenbul,English
+916205,Cameroon Greenbul,English
+916206,Western Greenbul,English
+916208,Mountain Greenbul,English
+916211,Yellow-throated Greenbul,English
+916212,Stripe-cheeked Greenbul,English
+916213,Olive-headed Greenbul,English
+916215,Slender-billed Greenbul,English
+916216,Little Greenbul,English
+916217,Little Grey Greenbul,English
+916218,Ansorge's Greenbul,English
+916219,Plain Greenbul,English
+916220,Yellow-whiskered Greenbul,English
+916221,Golden Greenbul,English
+916222,Yellow-throated Leaflove,English
+916241,Philippine Bulbul,English
+916244,Zamboanga Bulbul,English
+916245,Streak-breasted Bulbul,English
+916246,Yellowish Bulbul,English
+916250,Madeira Firecrest,English
+916253,Northern White-crowned Shrike,English
+916264,Rosy-patched Bushshrike,English
+916273,Galapagos Mockingbird,English
+916274,Floreana Mockingbird,English
+916275,Hood Mockingbird,English
+916276,San Cristobal Mockingbird,English
+916280,Oahu Elepaio,English
+916286,Black Monarch,English
+916287,Spot-winged Monarch,English
+916288,Black-bibbed Monarch,English
+916289,Flores Monarch,English
+916290,Black-chinned Monarch,English
+916291,Spectacled Monarch,English
+916293,White-tailed Monarch,English
+916294,White-tipped Monarch,English
+916295,Black-tipped Monarch,English
+916296,Kofiau Monarch,English
+916297,Biak Monarch,English
+916298,Hooded Monarch,English
+916299,Manus Monarch,English
+916300,Mussau Monarch,English
+916301,Black-tailed Monarch,English
+916302,Solomons Monarch,English
+916303,Kulambangra Monarch,English
+916304,White-collared Monarch,English
+916305,White-eared Monarch,English
+916306,White-naped Monarch,English
+916307,Golden Monarch,English
+916310,Torrentlark,English
+916313,White-browed Wagtail,English
+916315,Fülleborn's Longclaw,English
+916321,White-crowned Robin-Chat,English
+916322,Forest Scrub Robin,English
+916323,Miombo Scrub Robin,English
+916324,Eastern Bearded Scrub Robin,English
+916325,Brown Scrub Robin,English
+916326,Brown-backed Scrub Robin,English
+916327,White-browed Scrub Robin,English
+916328,Rufous-tailed Scrub Robin,English
+916329,Kalahari Scrub Robin,English
+916330,Karoo Scrub Robin,English
+916338,White-bellied Redstart,English
+916342,White-bellied Shortwing,English
+916351,Buff-streaked Chat,English
+916354,Moorland Chat,English
+916355,White-fronted Black Chat,English
+916356,Arnot's Chat,English
+916359,Forest Rock Thrush,English
+916378,White-gorgeted Flycatcher,English
+916379,Rufous-browed Flycatcher,English
+916398,Bannerman's Sunbird,English
+916401,Blue-headed Sunbird,English
+916404,Buff-throated Sunbird,English
+916407,Amethyst Sunbird,English
+916410,Socotra Sunbird,English
+916416,Copper-throated Sunbird,English
+916418,Olive-bellied Sunbird,English
+916421,Southern Double-collared Sunbird,English
+916442,Common Purple-banded Sunbird,English
+916446,Orange-tufted Sunbird,English
+916449,Splendid Sunbird,English
+916458,Bates's Sunbird,English
+916460,Purple Sunbird,English
+916462,Apricot-breasted Sunbird,English
+916485,Western Oriole,English
+916502,Black Sicklebill,English
+916537,Yellow-bellied Flyrobin,French
+916547,Fawn-colored Lark,English
+916548,Foxy Lark,English
+916549,Pink-breasted Lark,English
+916550,Sabota Lark,English
+916551,Karoo Lark,English
+916552,Dune Lark,English
+916554,Red Lark,English
+916562,Gray's Lark,English
+916563,Stark's Lark,English
+916567,White-breasted Wood-Swallow,English
+916605,Black-collared Apalis,English
+916606,Ruwenzori Apalis,English
+916617,White-winged Chough,English
+916619,Chara enana,Spanish
+916625,Red-billed Blue Magpie,English
+916627,Andaman Treepie,English
+916629,choucas des tours,French
+916630,Daurian Jackdaw,English
+916637,Yellow-bellied Flowerpecker,English
+916647,Violet-eared Waxbill,English
+916648,Yellow-bellied Waxbill,English
+916649,Swee Waxbill,English
+916652,Locust Finch,English
+916654,African Silverbill,English
+916655,Warbling Silverbill,English
+916657,Timor Sparrow,English
+916658,Java Sparrow,English
+916660,Grey-rumped Swallow,English
+916664,Chilean Swallow,English
+916665,Andean Swallow,English
+916667,Eurasian Crag Martin,English
+916669,Rock Martin,English
+916670,Dusky Crag Martin,English
+916672,Lesser Striped Swallow,English
+916673,Rufous-chested Swallow,English
+916675,Red-rumped Swallow,English
+916678,Striated Swallow,English
+916680,Red-throated Swallow,English
+916681,Preuss's Swallow,English
+916682,Red Sea Swallow,English
+916683,South African Swallow,English
+916684,Forest Swallow,English
+916685,Streak-throated Swallow,English
+916686,Fairy Martin,English
+916687,Tree Martin,English
+916688,Chestnut-collared Swallow,English
+916740,Chestnut-rumped Heathwren,English
+916741,Shy Heathwren,English
+916742,Western Fieldwren,English
+916749,Pipipi,English
+916765,Yellow-bellied Fantail,English
+916767,White-bellied Crested Flycatcher,English
+916778,Nightingale Reed-Warbler,English
+916785,Thick-billed Warbler,English
+916786,Dark-capped Yellow Warbler,English
+916787,Mountain Yellow Warbler,English
+916788,Booted Warbler,English
+916789,Sykes's Warbler,English
+916790,Eastern Olivaceous Warbler,English
+916792,Papyrus Yellow Warbler,English
+916800,Pale Spiderhunter,English
+916801,Orange-tufted Spiderhunter,English
+916804,Pacific Wren,English
+916816,Upland Pipit,English
+916817,Reunion Grey White-eye,English
+916818,Black-backed Puffback,English
+916819,Slender-billed Weaver,English
+916820,Familiar Chat,English
+916821,Ant-eating Chat,English
+916822,Spectacled Weaver,English
+916823,Somali Fiscal,English
+916824,African Pied Wagtail,English
+916882,Cucarachero Paisa,Spanish
+916884,Aldabra Warbler,English
+916886,Tapaculo de Junín,Spanish
+916887,Tororoi de Urrao,Spanish
+916888,Tororoi de Urrao,Spanish
+916889,Torom-de-alta floresta,Portuguese
+916890,Sierra Madre Ground-Warbler,English
+917244,Streaked Fantail,English
+917275,Guam rufous-fronted fantail,English
+917385,Micronesian starling,English
+917898,Chivirín garganta café,Spanish
+919030,Grey-breasted Laughingthrush,English
+919429,grey-headed blackbird,English
+919535,Grayson's Thrush,English
+920581,San Joaquin LeConte's thrasher,English
+921013,Alexander's Robin,English
+922693,Scarlet-breasted Robin,English
+922851,Degodi Bushlark,English
+924268,Lord Howe pied currawong,English
+924682,Palau blue-faced parrotfinch,English
+925072,coastal California gnatcatcher,English
+925402,Western rufous bristlebird,English
+925631,Chatham Fernbird,English
+925861,Eiao Marquesas reed-warbler,English
+925917,Apache Brown-Throated Wren,English
+925965,O'ahu 'elepaio,English
+925977,Palau white-breasted wood-swallow,English
+925987,Martinique brown trembler,English
+925994,Mauritius olivaceous Bulbul,English
+926005,Taita thrush,English
+926006,Moorea reed-warbler,English
+926007,Ua Pu flycatcher,English
+926011,Codfish Island fernbird,English
+926012,St. Lucia forest thrush,English
+926085,Horses,English
+926086,Asses,English
+926087,Zebras,English
+926142,Wild Ass,English
+926143,Tarpan,English
+926144,takhi,English
+926148,Hartmann's zebra,English
+926157,Khur,English
+926158,Achdari,English
+926160,Baird's Tapir,English
+926161,Malay Tapir,English
+926164,Northern White Rhinoceros,English
+926165,Donkey,English
+926166,wild ass,English
+926167,Somali Wild Ass,English
+926168,Burchell's Zebra,English
+926169,Grant's Zebra,English
+926170,Crawshay's Zebra,English
+926172,Chapman's Zebra,English
+926173,Domestic Horse,English
+926174,Tarpan,English
+926175,Mongolian Wild Horse,English
+926176,Mongolian wild ass,English
+926179,Turkmenistani onager,English
+926181,Onager,English
+926182,Western Kiang,English
+926183,Eastern Kiang,English
+926184,Southern Kiang,English
+926192,northern white rhinoceros,English
+926234,Nubian Wild Ass,English
+926236,Somali Wild Ass,English
+926237,Tarpan,English
+926238,Domestic Horse,English
+926239,Przewalski's Horse,English
+926244,Somali Wild Ass,English
+926245,Quagga,English
+926246,Bontequagga,English
+926247,Chapman's Zebra,English
+926248,Crawshay's Zebra,English
+926249,Grant's Zebra,English
+926250,Half-maned Zebra,English
+926712,Ciervo aegialian scarab,English
+926718,Crescent Dunes aegialian scarab,English
+926722,Hardy's aegialian scarab,English
+926727,large aegialian scarab,English
+927314,Woodruff's ataenius dung beetle,English
+927340,Big Pine Key ataenius dung beetle,English
+927515,Copris tortoise commensal scarab,English
+927598,Onthophagus tortoise commensal scarab,English
+927695,Crescent Dunes serican scarab,English
+927740,Frost's spring serican scarab,English
+927792,Tantula serican scarab,English
+927833,Casey's June beetle,English
+927837,Spiny Florida sandhill scarab,English
+928229,Saline Valley snow-front June beetle,English
+928231,Spotted Warner Valley Dunes June beetle,English
+928232,Mount Hermon June beetle,English
+928264,Death Valley June beetle,English
+928293,Atascodero June beetle,English
+928299,Wooly Gulf dune scarab,English
+928305,Delta June beetle,English
+928549,San Clemente Island coenonycha beetle,English
+928790,Andrews' dune scarab beetle,English
+928791,Giuliani's dune scarab,English
+928829,Exiguous anomalan scarab,English
+928830,Archbold anomalan scarab,English
+928842,Hardy's dune beetle,English
+928880,Tibial scarab,English
+928987,Miami roundhead scarab,English
+929517,Robinson's rain scarab beetle,English
+929518,Ford's aphodius scarab,English
+929519,Aphodius tortoise commensal scarab,English
+929520,Wooly Gulf dune scarab,English
+929521,Scrub palmetto flower scarab,English
+929522,Sand Mountain serican scarab,English
+929870,Scrub Island burrowing scarab,English
+929876,Ocala burrowing scarab,English
+929878,bessbug,English
+929944,Caracara commensal scarab,English
+930011,Kelso Dune glaresis scarab,English
+930039,stag beetle,English
+930123,White sand bear scarab,English
+930131,Bumblebee scarab,English
+930137,White sand bear scarab,English
+930138,Caracara commensal scarab,English
+930178,Santa Cruz rain beetle,English
