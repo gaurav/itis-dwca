@@ -40959,78 +40959,78 @@ taxonID,vernacularName,language
 180133,mountain beaver,English
 180134,squirrels,English
 180135,chipmunks,English
-180136,marmots,English
-180137,marmotte commune,French
-180138,Alaska marmot,English
-180139,hoary marmot,English
-180140,yellow-bellied marmot,English
-180141,Olympic marmot,English
-180142,Vancouver marmot,English
-180145,ground squirrels,English
-180146,Arctic ground squirrel,English
-180147,Uinta ground squirrel,English
-180148,Ardillón de California,Spanish
-180149,Belding's ground squirrel,English
-180150,Idaho ground squirrel,English
-180151,Columbian ground squirrel,English
-180152,Wyoming ground squirrel,English
-180153,Franklin's ground squirrel,English
-180154,golden-mantled ground squirrel,English
-180155,Ardillón mexicano,Spanish
-180156,Mohave ground squirrel,English
-180157,Richardson's ground squirrel,English
-180158,Cascade golden-mantled ground squirrel,English
-180159,Ardillón punteado,Spanish
-180160,Ardillón cola redonda,Spanish
-180161,Townsend's ground squirrel,English
-180162,thirteen-lined ground squirrel,English
-180163,Ardillón de roca,Spanish
-180164,Washington ground squirrel,English
-180165,red squirrels,English
-180166,écureuil roux,French
-180167,Douglas' squirrel,English
-180168,American flying squirrels,English
-180169,grand polatouche,French
-180170,Ardilla-voladora del sur,Spanish
+180136,Marmots,English
+180137,Groundhog,English
+180138,Alaska Marmot,English
+180139,Hoary Marmot,English
+180140,Yellow-bellied Marmot,English
+180141,Olympic Marmot,English
+180142,Vancouver Island Marmot,English
+180145,old world ground squirrels,English
+180146,Arctic Ground Squirrel,English
+180147,Uinta Ground Squirrel,English
+180148,California Ground Squirrel,English
+180149,Belding's Ground Squirrel,English
+180150,Idaho Ground Squirrel,English
+180151,Columbian Ground Squirrel,English
+180152,Wyoming Ground Squirrel,English
+180153,Franklin's Ground Squirrel,English
+180154,Golden-mantled Ground Squirrel,English
+180155,Mexican Ground Squirrel,English
+180156,Mohave Ground Squirrel,English
+180157,Richardson's Ground Squirrel,English
+180158,Cascade Golden-mantled Ground Squirrel,English
+180159,Spotted Ground Squirrel,English
+180160,Round-tailed Ground Squirrel,English
+180161,Townsend's Ground Squirrel,English
+180162,Thirteen-lined Ground Squirrel,English
+180163,Rock Squirrel,English
+180164,Washington Ground Squirrel,English
+180165,Red Squirrels,English
+180166,Red Squirrel,English
+180167,Douglas's Squirrel,English
+180168,New World Flying Squirrels,English
+180169,Northern Flying Squirrel,English
+180170,Southern Flying Squirrel,English
 180171,tree squirrels,English
-180172,Ardilla zorra,Spanish
-180173,Ardilla de Albert,Spanish
-180174,Ardilla de Arizona,Spanish
-180175,écureuil gris,French
-180176,Ardilla gris,Spanish
-180177,Ardilla de Nayarit,Spanish
-180178,antelope squirrels,English
-180179,Ardilla-antilope de Sonora,Spanish
-180180,Ardilla-antilope texana,Spanish
-180181,Ardilla-antílope cola blanca,Spanish
-180182,Nelson's antelope squirrel,English
-180183,prairie dogs,English
-180184,Gunnison's prairie dog,English
-180185,white-tailed prairie dog,English
-180186,Perro-llanero cola negra,Spanish
-180187,Utah prairie dog,English
-180188,chipmunks,English
-180189,alpine chipmunk,English
-180190,yellow-pine chipmunk,English
-180191,gray-footed chipmunk,English
-180192,gray-collared chipmunk,English
-180193,cliff chipmunk,English
-180194,Merriam's chipmunk,English
-180195,tamia mineur,French
-180196,California chipmunk,English
-180197,yellow-cheeked chipmunk,English
-180198,Palmer's chipmunk,English
-180199,panamint chipmunk,English
-180200,long-eared chipmunk,English
-180201,Colorado chipmunk,English
-180202,red-tailed chipmunk,English
-180203,Allen's chipmunk,English
-180204,Siskiyou chipmunk,English
-180205,Sonoma chipmunk,English
-180206,lodgepole chipmunk,English
-180207,tamia rayé,French
-180208,Townsend's chipmunk,English
-180209,Uinta chipmunk,English
+180172,Eastern Fox Squirrel,English
+180173,Abert's Squirrel,English
+180174,Arizona Gray Squirrel,English
+180175,Eastern Gray Squirrel,English
+180176,Western Gray Squirrel,English
+180177,Mexican Fox Squirrel,English
+180178,Antelope Squirrels,English
+180179,Harris's Antelope Squirrel,English
+180180,Texas Antelope Squirrel,English
+180181,White-tailed Antelope Squirrel,English
+180182,Nelson's antelope ground squirrel,English
+180183,Prairie Dogs,English
+180184,Gunnison's Prairie Dog,English
+180185,White-tailed Prairie Dog,English
+180186,Black-tailed Prairie Dog,English
+180187,Utah Prairie Dog,English
+180188,Chipmunks,English
+180189,Alpine Chipmunk,English
+180190,Yellow-pine Chipmunk,English
+180191,Gray-footed Chipmunk,English
+180192,Gray-collared Chipmunk,English
+180193,Cliff Chipmunk,English
+180194,Merriam's Chipmunk,English
+180195,Least Chipmunk,English
+180196,Dusky Chipmunk,English
+180197,Redwood Chipmunk,English
+180198,Palmer's Chipmunk,English
+180199,Panamint Chipmunk,English
+180200,Long-eared Chipmunk,English
+180201,Colorado Chipmunk,English
+180202,Red-tailed Chipmunk,English
+180203,Shadow Chipmunk,English
+180204,Siskiyou Chipmunk,English
+180205,Sonoma Chipmunk,English
+180206,Lodgepole Chipmunk,English
+180207,Eastern Chipmunk,English
+180208,Townsend's Chipmunk,English
+180209,Uinta Chipmunk,English
 180210,Beavers,English
 180211,beavers,English
 180212,Castor Americano,Spanish
@@ -45156,7 +45156,7 @@ taxonID,vernacularName,language
 202349,Lower Keys rabbit,English
 202351,Point Arena mountain beaver,English
 202353,Mount Graham red squirrel,English
-202354,northern flying squirrel,English
+202354,Hudson Bay flying squirrel,English
 202355,Carolina northern flying squirrel,English
 202356,Virginia northern flying squirrel,English
 202357,fox squirrel,English
@@ -63157,13 +63157,13 @@ taxonID,vernacularName,language
 552495,Ratón de Tlalpan,Spanish
 552496,rock mouse,English
 552497,Keen's mouse,English
-552498,Mexican gray squirrel,English
+552498,Red-bellied Squirrel,English
 552499,gray ground squirrel,English
 552500,Ogilvie collared lemming,English
 552501,brown hare,English
 552502,western yellow bat,English
-552503,Hopi chipmunk,English
-552504,Piute ground squirrel,English
+552503,Hopi Chipmunk,English
+552504,Piute Ground Squirrel,English
 552505,Sonoma tree vole,English
 552506,Baird's shrew,English
 552507,Asian minute shrew,English
@@ -76050,213 +76050,240 @@ taxonID,vernacularName,language
 632274,Bobrinski's serotine,English
 632275,desert long-eared bat,English
 632277,sheath-tailed bat,English
-632323,Espiritu Santo Island antelope squirrel,English
-632324,Barbary ground squirrel,English
-632325,ear-spot squirrel,English
+632282,Oriental Tree Squirrels,English
+632283,Red-cheeked Squirrels,English
+632284,African Palm Squirrels,English
+632285,Pygmy Squirrels,English
+632286,Asiatic Palm Squirrels,English
+632287,Rope Squirrels,English
+632289,Sun Squirrels,English
+632290,Sulawesi Long-nosed Squirrels,English
+632291,Striped Ground Squirrels,English
+632293,Dwarf Squirrels,English
+632296,Bush Squirrels,English
+632297,Sulawesi Dwarf Squirrels,English
+632298,African Giant Squirrels,English
+632299,Oriental Giant Squirrels,English
+632304,Asian Rock Squirrels,English
+632306,Sunda Squirrels,English
+632308,Asiatic Striped Squirrels,English
+632309,African Ground Squirrels,English
+632311,Large Black Flying Squirrels,English
+632315,Arrow-tailed Flying Squirrels,English
+632316,Horsfield's Flying Squirrels,English
+632317,Pygmy Flying Squirrels,English
+632318,Giant Flying Squirrels,English
+632319,Dwarf Flying Squirrels,English
+632320,Eurasian Flying Squirrels,English
+632323,Espiritu Santo Island Antelope Squirrel,English
+632324,Barbary Ground Squirrel,English
+632325,Ear-spot Squirrel,English
 632326,Kloss squirrel,English
-632327,Kinabalu squirrel,English
-632328,gray-bellied squirrel,English
-632329,Pallas's squirrel,English
-632330,Finlayson's squirrel,English
-632331,inornate squirrel,English
-632332,Mentawai squirrel,English
-632333,black-striped squirrel,English
-632334,plantain squirrel,English
-632335,Borneo black-banded squirrel,English
-632336,Phayre's squirrel,English
-632337,Prevost's squirrel,English
-632338,Irrawaddy squirrel,English
-632339,Anderson's squirrel,English
+632327,Kinabalu Squirrel,English
+632328,Gray-bellied Squirrel,English
+632329,Pallas's Squirrel,English
+632330,Finlayson's Squirrel,English
+632331,Inornate Squirrel,English
+632332,Mentawai Squirrel,English
+632333,Black-striped Squirrel,English
+632334,Plantain Squirrel,English
+632335,Borneo Black-banded Squirrel,English
+632336,Phayre's Squirrel,English
+632337,Prevost's Squirrel,English
+632338,Irrawaddy Squirrel,English
+632339,Anderson's Squirrel,English
 632340,Mexican prairie marmot,English
-632341,Bornean mountain ground squirrel,English
-632342,orange-bellied Himalayan squirrel,English
-632343,Perny's long-nosed squirrel,English
-632344,red-hipped squirrel,English
-632345,Asian red-cheeked squirrel,English
-632346,western palm squirrel,English
-632347,Biafran palm squirrel,English
-632348,Philippine pygmy squirrel,English
-632349,least pygmy squirrel,English
-632350,tufted pygmy squirrel,English
-632351,Layard's palm squirrel,English
-632352,Indian palm squirrel,English
-632353,northern palm squirrel,English
-632354,dusky palm squirrel,English
+632341,Bornean Mountain Ground Squirrel,English
+632342,Orange-bellied Himalayan Squirrel,English
+632343,Perny's Long-nosed Squirrel,English
+632344,Red-hipped Squirrel,English
+632345,Asian Red-cheeked Squirrel,English
+632346,Temminck's giant squirrel,English
+632347,Biafran Palm Squirrel,English
+632348,Philippine Pygmy Squirrel,English
+632349,Least Pygmy Squirrel,English
+632350,Tufted Pygmy Squirrel,English
+632351,Layard's Palm Squirrel,English
+632352,Indian Palm Squirrel,English
+632353,Northern Palm Squirrel,English
+632354,Dusky Palm Squirrel,English
 632355,western ghats squirrel,English
-632356,Thomas's rope squirrel,English
-632357,Lunda rope squirrel,English
-632358,Carruther's mountain squirrel,English
-632359,Congo rope squirrel,English
-632360,Lady Burton's rope squirrel,English
-632361,ribboned rope squirrel,English
-632362,red-cheeked rope squirrel,English
-632363,fire-footed rope squirrel,English
-632364,Kintampo rope squirrel,English
-632365,Sculptor squirrel,English
-632366,Gambian sun squirrel,English
-632367,mutable sun squirrel,English
-632368,small sun squirrel,English
-632369,red-legged sun squirrel,English
-632370,Ruwenzori sun squirrel,English
-632371,Zanj sun squirrel,English
-632372,montane long-nosed squirrel,English
-632373,lowland long-nosed squirrel,English
-632374,four-striped ground squirrel,English
-632375,three-striped ground squirrel,English
-632376,Niobe ground squirrel,English
-632377,Mentawai three-striped squirrel,English
-632378,gray marmot,English
-632379,Bobak marmot,English
-632380,black-capped marmot,English
-632381,long-tailed marmot,English
-632382,Himalayan marmot,English
-632383,alpine marmot,English
-632384,Menzbier's marmot,English
-632385,Tarbagan marmot,English
-632386,Indochinese ground squirrel,English
-632387,Central American dwarf squirrel,English
-632388,Amazon dwarf squirrel,English
-632389,western dwarf squirrel,English
-632390,Santander dwarf squirrel,English
-632391,African pygmy squirrel,English
-632392,black-eared squirrel,English
-632393,Alexander's bush squirrel,English
-632394,Boehm's bush squirrel,English
-632395,Smith's bush squirrel,English
-632396,Cooper's mountain squirrel,English
-632397,striped bush squirrel,English
-632398,black and red bush squirrel,English
-632399,ochre bush squirrel,English
-632400,red bush squirrel,English
-632401,green bush squirrel,English
-632402,Svynnerton's bush squirrel,English
-632403,Vincent's bush squirrel,English
-632404,secretive dwarf squirrel,English
-632405,whitish dwarf squirrel,English
-632406,Celebes dwarf squirrel,English
-632407,Weber's dwarf squirrel,English
-632408,slender-tailed squirrel,English
-632409,forest giant squirrel,English
-632410,pale giant squirrel,English
-632411,black giant squirrel,English
-632412,Indian giant squirrel,English
-632413,Sri Lankan giant squirrel,English
-632414,tufted ground squirrel,English
-632415,shrew-faced squirrel,English
-632416,Sulawesi giant squirrel,English
-632417,neotropical pygmy squirrel,English
-632418,Père David's rock squirrel,English
-632419,Forrest's rock squirrel,English
-632420,Guianan squirrel,English
-632421,Allen's squirrel,English
-632422,Caucasian squirrel,English
-632423,Collie's squirrel,English
-632424,Deppe's squirrel,English
-632425,Fiery squirrel,English
-632426,yellow-throated squirrel,English
-632427,red-tailed squirrel,English
-632428,Bolivian squirrel,English
-632429,northern Amazon red squirrel,English
-632430,Japanese squirrel,English
-632431,Peters's squirrel,English
-632432,Andean squirrel,English
-632433,Junín red squirrel,English
-632434,Richmond's squirrel,English
-632435,Sanborn's squirrel,English
-632436,southern Amazon red squirrel,English
-632437,Guayaquil squirrel,English
-632438,variegated squirrel,English
-632439,Eurasian red squirrel,English
-632440,Yucatan squirrel,English
-632441,long-clawed ground squirrel,English
-632442,tropical ground squirrel,English
-632443,Alashan ground squirrel,English
-632444,ring-tailed ground squirrel,English
-632445,Baja California rock squirrel,English
-632446,European ground squirrel,English
-632447,Daurian ground squirrel,English
-632448,red-cheeked ground squirrel,English
-632449,yellow ground squirrel,English
-632450,Sierra Madre ground squirrel,English
-632451,russet ground squirrel,English
-632452,Caucasian mountain ground squirrel,English
-632453,Perote ground squirrel,English
-632454,little ground squirrel,English
-632455,Tien Shan ground squirrel,English
-632456,speckled ground squirrel,English
-632457,long-tailed ground squirrel,English
-632458,Asia Minor ground squirrel,English
-632459,Brooke's squirrel,English
-632460,Davao squirrel,English
-632461,horse-tailed squirrel,English
-632462,Busuanga squirrel,English
-632463,Jentink's squirrel,English
-632464,northern Palawan tree squirrel,English
-632465,Low's squirrel,English
-632466,Mindanao squirrel,English
-632467,Culion tree squirrel,English
-632468,Philippine tree squirrel,English
-632469,Palawan montane squirrel,English
-632470,Samar squirrel,English
-632471,southern Palawan tree squirrel,English
-632472,slender squirrel,English
-632473,fraternal squirrel,English
-632474,Bangs's mountain squirrel,English
-632475,Buller's chipmunk,English
-632476,Durango chipmunk,English
-632477,Siberian chipmunk,English
-632478,Mearns's squirrel,English
-632479,maritime striped squirrel,English
-632480,Himalayan striped squirrel,English
-632481,Cambodian striped squirrel,English
-632482,Swinhoe's striped squirrel,English
-632483,striped ground squirrel,English
-632484,South African ground squirrel,English
-632485,Damara ground squirrel,English
-632486,unstriped ground squirrel,English
-632487,north Chinese flying squirrel,English
-632488,black flying squirrel,English
-632489,Thomas's flying squirrel,English
-632490,hairy-footed flying squirrel,English
-632491,Namdapha flying squirrel,English
-632492,woolly flying squirrel,English
-632493,particolored flying squirrel,English
+632356,Thomas's Rope Squirrel,English
+632357,Lunda Rope Squirrel,English
+632358,Carruther's Mountain Squirrel,English
+632359,Congo Rope Squirrel,English
+632360,Lady Burton's Rope Squirrel,English
+632361,Ribboned Rope Squirrel,English
+632362,Red-cheeked Rope Squirrel,English
+632363,Fire-footed Rope Squirrel,English
+632364,Kintampo Rope Squirrel,English
+632365,Sculptor Squirrel,English
+632366,Gambian Sun Squirrel,English
+632367,Mutable Sun Squirrel,English
+632368,Small Sun Squirrel,English
+632369,Red-legged Sun Squirrel,English
+632370,Ruwenzori Sun Squirrel,English
+632371,Zanj Sun Squirrel,English
+632372,Montane Long-nosed Squirrel,English
+632373,Lowland Long-nosed Squirrel,English
+632374,Four-striped Ground Squirrel,English
+632375,Three-striped Ground Squirrel,English
+632376,Niobe Ground Squirrel,English
+632377,Mentawai Three-striped Squirrel,English
+632378,Gray Marmot,English
+632379,Bobak Marmot,English
+632380,Black-capped Marmot,English
+632381,Long-tailed Marmot,English
+632382,Himalayan Marmot,English
+632383,Alpine Marmot,English
+632384,Menzbier's Marmot,English
+632385,Tarbagan Marmot,English
+632386,Indochinese Ground Squirrel,English
+632387,Central American Dwarf Squirrel,English
+632388,Amazon Dwarf Squirrel,English
+632389,Western Dwarf Squirrel,English
+632390,Santander Dwarf Squirrel,English
+632391,African Pygmy Squirrel,English
+632392,Black-eared Squirrel,English
+632393,Alexander's Bush Squirrel,English
+632394,Boehm's Bush Squirrel,English
+632395,Smith's Bush Squirrel,English
+632396,Cooper's Mountain Squirrel,English
+632397,Striped Bush Squirrel,English
+632398,Black-and-Red Bush Squirrel,English
+632399,Ochre Bush Squirrel,English
+632400,Red Bush Squirrel,English
+632401,Green Bush Squirrel,English
+632402,Swynnerton's Bush Squirrel,English
+632403,Vincent's Bush Squirrel,English
+632404,Secretive Dwarf Squirrel,English
+632405,Whitish Dwarf Squirrel,English
+632406,Celebes Dwarf Squirrel,English
+632407,Weber's Dwarf Squirrel,English
+632408,Slender-tailed Squirrel,English
+632409,Forest Giant Squirrel,English
+632410,Pale Giant Squirrel,English
+632411,Black Giant Squirrel,English
+632412,Indian Giant Squirrel,English
+632413,Sri Lankan Giant Squirrel,English
+632414,Tufted Ground Squirrel,English
+632415,Shrew-faced Squirrel,English
+632416,Sulawesi Giant Squirrel,English
+632417,Neotropical Pygmy Squirrel,English
+632418,Père David's Rock Squirrel,English
+632419,Forrest's Rock Squirrel,English
+632420,Guianan Squirrel,English
+632421,Allen's Squirrel,English
+632422,Caucasian Squirrel,English
+632423,Collie's Squirrel,English
+632424,Deppe's Squirrel,English
+632425,Fiery Squirrel,English
+632426,Yellow-throated Squirrel,English
+632427,Red-tailed Squirrel,English
+632428,Bolivian Squirrel,English
+632429,Northern Amazon Red Squirrel,English
+632430,Japanese Squirrel,English
+632431,Peters's Squirrel,English
+632432,Andean Squirrel,English
+632433,Junin Red Squirrel,English
+632434,Richmond's Squirrel,English
+632435,Sanborn's Squirrel,English
+632436,Southern Amazon Red Squirrel,English
+632437,Guayaquil Squirrel,English
+632438,Variegated Squirrel,English
+632439,Eurasian Red Squirrel,English
+632440,Yucatan Squirrel,English
+632441,Long-clawed Ground Squirrel,English
+632442,Tropical Ground Squirrel,English
+632443,Alashan Ground Squirrel,English
+632444,Ring-tailed Ground Squirrel,English
+632445,Baja California Rock Squirrel,English
+632446,European Souslik,English
+632447,Daurian Ground Squirrel,English
+632448,Red-cheeked Ground Squirrel,English
+632449,Yellow Ground Squirrel,English
+632450,Sierra Madre Ground Squirrel,English
+632451,Russet Ground Squirrel,English
+632452,Caucasian Mountain Ground Squirrel,English
+632453,Perote Ground Squirrel,English
+632454,Little Ground Squirrel,English
+632455,Relict Ground Squirrel,English
+632456,Suslik,English
+632457,Long-tailed Ground Squirrel,English
+632458,Asia Minor Ground Squirrel,English
+632459,Brooke's Squirrel,English
+632460,Davao Squirrel,English
+632461,Horse-tailed Squirrel,English
+632462,Busuanga Squirrel,English
+632463,Jentinck's Squirrel,English
+632464,Northern Palawan Tree Squirrel,English
+632465,Low's Squirrel,English
+632466,Mindanao Squirrel,English
+632467,Culion Tree Squirrel,English
+632468,Philippine Tree Squirrel,English
+632469,Palawan Montane Squirrel,English
+632470,Samar Squirrel,English
+632471,Southern Palawan Tree Squirrel,English
+632472,Slender Squirrel,English
+632473,Fraternal Squirrel,English
+632474,Bangs's Mountain Squirrel,English
+632475,Buller's Chipmunk,English
+632476,Durango Chipmunk,English
+632477,Siberian Chipmunk,English
+632478,Mearns's Squirrel,English
+632479,Maritime Striped Squirrel,English
+632480,Himalayan Striped Squirrel,English
+632481,Cambodian Striped Squirrel,English
+632482,Swinhoe's Striped Squirrel,English
+632483,Striped Ground Squirrel,English
+632484,South African Ground Squirrel,English
+632485,Damara Ground Squirrel,English
+632486,Unstriped Ground Squirrel,English
+632487,groove-toothed flying squirrel,English
+632488,Black Flying Squirrel,English
+632489,Thomas's Flying Squirrel,English
+632490,Hairy-footed Flying Squirrel,English
+632491,Namdapha Flying Squirrel,English
+632492,Woolly Flying Squirrel,English
+632493,Particolored Flying Squirrel,English
 632494,Afghan flying squirrel,English
-632495,Bartel's flying squirrel,English
-632496,Kashmir flying squirrel,English
-632497,gray-cheeked flying squirrel,English
-632498,Palawan flying squirrel,English
-632499,Indochinese flying squirrel,English
-632500,Sipora flying squirrel,English
-632501,red-cheeked flying squirrel,English
-632502,Sumatran flying squirrel,English
-632503,Javanese flying squirrel,English
-632504,Mentawi flying squirrel,English
-632505,lesser pygmy flying squirrel,English
-632506,Hose's pygmy flying squirrel,English
-632507,Selangor pygmy flying squirrel,English
-632508,red and white giant flying squirrel,English
-632509,spotted giant flying squirrel,English
-632510,Japanese giant flying squirrel,English
-632511,Hodgson's giant flying squirrel,English
-632512,Bhutan giant flying squirrel,English
-632513,red giant flying squirrel,English
-632514,Indian giant flying squirrel,English
-632515,Chinese giant flying squirrel,English
-632516,Mindanao flying squirrel,English
-632517,Travancore flying squirrel,English
-632518,whiskered flying squirrel,English
-632519,Hagen's flying squirrel,English
-632520,Siberut flying squirrel,English
+632495,Bartels's Flying Squirrel,English
+632496,Kashmir Flying Squirrel,English
+632497,Pink-cheeked flying squirrel,English
+632498,Palawan Flying Squirrel,English
+632499,Phayre's Flying Squirrel,English
+632500,Sipora Flying Squirrel,English
+632501,Red-cheeked Flying Squirrel,English
+632502,Sumatran Flying Squirrel,English
+632503,Javanese Flying Squirrel,English
+632504,Mentawai Flying Squirrel,English
+632505,Lesser Pygmy Flying Squirrel,English
+632506,Hose's Pygmy Flying Squirrel,English
+632507,Selangor Pygmy Flying Squirrel,English
+632508,Red-and-White Giant Flying Squirrel,English
+632509,Spotted Giant Flying Squirrel,English
+632510,Japanese Giant Flying Squirrel,English
+632511,Hodgson's Giant Flying Squirrel,English
+632512,Bhutan Giant Flying Squirrel,English
+632513,Red Giant Flying Squirrel,English
+632514,Indian Giant Flying Squirrel,English
+632515,Chinese Giant Flying Squirrel,English
+632516,Basilan Flying Squirrel,English
+632517,Travancore Flying Squirrel,English
+632518,Whiskered Flying Squirrel,English
+632519,Hagen's Flying Squirrel,English
+632520,Sipora Flying Squirrel,English
 632521,arrow flying squirrel,English
-632522,Temminck's flying squirrel,English
-632523,Vordermann's flying squirrel,English
-632524,Japanese flying squirrel,English
-632525,Siberian flying squirrel,English
-632526,smoky flying squirrel,English
-632527,complex-toothed flying squirrel,English
-632528,Javanese flying squirrel,English
+632522,Temminck's Flying Squirrel,English
+632523,Vordermann's Flying Squirrel,English
+632524,Japanese Flying Squirrel,English
+632525,Siberian Flying Squirrel,English
+632526,Smoky Flying Squirrel,English
+632527,Complex-Toothed Flying Squirrel,English
+632528,Javanese Flying Squirrel,English
 632529,Coachella Valley round-tailed ground squirrel,English
+632531,Penñasco least chipmunk,English
+632534,small eastern flying squirrel,English
 632536,Prince of Wales Island flying squirrel,English
 632537,San Bernardino flying squirrel,English
 632538,Montague Island hoary marmot,English
@@ -85967,7 +85994,7 @@ taxonID,vernacularName,language
 898226,Grant's Gazelle,English
 898227,Sömmerring's gazelle,English
 898228,Mongolian Saiga,English
-898229,Siola,English
+898229,Vu Quang ox,English
 898230,Japanese Serow,English
 898231,Chinese Serow,English
 898232,Red Serow,English
@@ -86800,3 +86827,110 @@ taxonID,vernacularName,language
 930137,White sand bear scarab,English
 930138,Caracara commensal scarab,English
 930178,Santa Cruz rain beetle,English
+930203,giant tree squirrels,English
+930204,South American pygmy squirrels,English
+930205,Southern Asian tree squirrels,English
+930208,Holarctic tree squirrels,English
+930209,flying squirrels,English
+930210,African ground squirrels,English
+930211,African tree squirrels,English
+930212,Holarctic ground squirrels,English
+930214,rock squirrels,English
+930215,pygmy ground squirrels,English
+930216,lined ground squirrels,English
+930217,Franklin's ground squirrel,English
+930218,Golden-mantled Ground Squirrels,English
+930228,tropical ground squirrels,English
+930231,Holarctic ground squirrels,English
+930259,Kashmir Flying Squirrel,English
+930260,Jentink's Flying Squirrel,English
+930261,Mindanao Flying Squirrel,English
+930262,Red-throated Squirrel,English
+930263,Sanghir Squirrel,English
+930264,Himalayan Striped Squirrel,English
+930265,Cambodian Striped Squirrel,English
+930266,Brandt's Ground Squirrel,English
+930267,Rio Grande Ground Squirrel,English
+930268,Pallid Ground Squirrel,English
+930269,Tien Shan Ground Squirrel,English
+930298,Tropical Ground Squirrel,English
+930299,Ring-tailed Ground Squirrel,English
+930300,Baja California Rock Squirrel,English
+930301,California Ground Squirrel,English
+930302,Rock Squirrel,English
+930303,Sierra Madre Ground Squirrel,English
+930304,Cascade Golden-mantled Ground Squirrel,English
+930305,Golden-mantled Ground Squirrel,English
+930306,Taurus Ground Squirrel,English
+930307,Ardillón mexicano,Spanish
+930308,Thirteen-lined Ground Squirrel,English
+930309,Franklin's Ground Squirrel,English
+930310,Mohave Ground Squirrel,English
+930311,Perote Ground Squirrel,English
+930312,Spotted Ground Squirrel,English
+930313,Round-tailed Ground Squirrel,English
+930314,Uinta Ground Squirrel,English
+930315,Belding's Ground Squirrel,English
+930316,Idaho Ground Squirrel,English
+930317,Merriam's Ground Squirrel,English
+930318,Columbian Ground Squirrel,English
+930319,Wyoming Ground Squirrel,English
+930320,Piute Ground Squirrel,English
+930321,Arctic Ground Squirrel,English
+930322,Richardson's Ground Squirrel,English
+930323,Townsend's Ground Squirrel,English
+930324,Long-tailed Ground Squirrel,English
+930325,Washington Ground Squirrel,English
+930326,Palmer's chipmunk,English
+930328,Gray-headed Flying Squirrel,English
+930329,Alston's Squirrel,English
+930330,Mount Topapu Squirrel,English
+930331,Sumatran Mountain Squirrel,English
+930332,Upland Squirrel,English
+930333,Du Chaillu's Rope Squirrel,English
+930334,Forest Steppe Marmot,English
+930360,Laotian Giant Flying Squirrel,English
+930427,Santa Catalina Mountains squirrel,English
+930491,Chiricahua Nayarit squirrel,English
+930497,Sherman's fox squirrel,English
+930581,Afghan flying squirrel,English
+930582,Richardson flying squirrel,English
+930583,Bangs flying squirrel,English
+930585,Okanagan flying squirrel,English
+930586,yellow-bellied flying squirrel,English
+930587,Cascade flying squirrel,English
+930590,Klamath flying squirrel,English
+930591,Sierra flying squirrel,English
+930592,broad-footed flying squirrel,English
+930594,Mearns flying squirrel,English
+930595,Laborador flying squirrel,English
+930597,Bachman flying squirrel,English
+930598,Atnarko flying squirrel,English
+930599,California coast flying squirrel,English
+930600,Yukon flying squirrel,English
+930601,Alaska coast flying squirrel,English
+930606,Florida flying squirrel,English
+930607,southeastern flying squirrel,English
+930608,Texas flying squirrel,English
+930859,Biafran palm squirrel,English
+930996,Arizona black-tailed prairie dog,English
+931008,golden marmot,English
+931015,Wet Mountains yellow-bellied marmot,English
+931110,Allen's 13-lined ground squirrel,English
+931114,White Mountains ground squirrel,English
+931197,lodgepole chipmunk,English
+931219,Hidden Forest Uinta chipmunk,English
+931220,Mount Ellen Uinta chipmunk,English
+931242,Caucasian mountain ground squirrel,English
+931243,Palm Springs round-tailed ground squirrel,English
+931245,northern Idaho ground squirrel,English
+931247,Big Cypress fox squirrel,English
+931256,northern Idaho ground squirrel,English
+931257,southern Idaho ground squirrel,English
+931261,Hidden Forest Uinta chipmunk,English
+931262,Organ Mountains Colorado chipmunk,English
+931263,Allen's 13-lined ground squirrel,English
+931282,Kloss's squirrel,English
+931312,Organ Mountains Colorado chipmunk,English
+931313,Oscura Mountain Colorado Chipmunk,English
+931338,speckled sage squirrel,English
