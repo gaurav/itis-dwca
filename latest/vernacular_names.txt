@@ -28094,11 +28094,11 @@ taxonID,vernacularName,language
 109230,tiger beetles,English
 109232,Six-spotted Tiger Beetle,English
 109233,Hairy-necked Tiger Beetle,English
-109234,carabes,French
+109234,carabids,English
 109395,calosome chaud,French
-109570,delta green ground beetle,Common name
-109611,slender seedcorn beetle,Common name
-110234,carabe pygmée,French
+109570,Delta Green Ground Beetle,English
+109611,slender seedcorn beetle,English
+110234,stinking beetle,English
 111077,seedcorn beetle,English
 111857,crawling water beetles,English
 111952,trout-stream beetles,English
@@ -44839,7 +44839,7 @@ taxonID,vernacularName,language
 200989,false armoured scales,English
 200992,Eastern Beach Tiger Beetle,English
 200993,Puritan Tiger Beetle,English
-200995,tooth cave ground beetle,Common name
+200995,Tooth Cave Ground Beetle,English
 200997,giant carrion beetle,English
 201252,elder borer,English
 201256,California elder borer,English
@@ -63266,14 +63266,14 @@ taxonID,vernacularName,language
 552608,Northern Quoll,English
 552609,Tiger Quoll,English
 552610,Bronze Quoll,English
-552611,Eastern Quoll,English
+552611,Eastern native-cat,English
 552612,Short-furred Dasyure,English
 552614,Three-striped Dasyure,English
 552615,Speckled Dasyure,English
 552616,Wongai Ningaui,English
 552617,Pilbara Ningaui,English
 552618,Southern Ningaui,English
-552619,Southern Dibbler,English
+552619,Dibbler,English
 552621,Red-tailed Phascogale,English
 552622,Brush-tailed Phascogale,English
 552623,Red-bellied Marsupial Shrew,English
@@ -63282,7 +63282,7 @@ taxonID,vernacularName,language
 552626,Paucident Planigale,English
 552627,Pygmy Planigale,English
 552628,New Guinean Planigale,English
-552629,Narrow-nosed Planigale,English
+552629,southern planigale,English
 552630,Fat-tailed False Antechinus,English
 552631,Ningbing False Antechinus,English
 552632,Woolley's False Antechinus,English
@@ -63298,11 +63298,11 @@ taxonID,vernacularName,language
 552643,Gray-bellied Dunnart,English
 552644,Hairy-footed Dunnart,English
 552646,White-footed Dunnart,English
-552647,Long-tailed Dunnart,English
+552647,long tailed marsupial-mouse,English
 552648,Stripe-faced Dunnart,English
 552649,Slender-tailed Dunnart,English
 552650,Ooldea Dunnart,English
-552651,Sandhill Dunnart,English
+552651,large desert marsupial-mouse,English
 552652,Red-cheeked Dunnart,English
 552653,Lesser Hairy-footed Dunnart,English
 552654,Pig-footed Bandicoot,English
@@ -79522,7 +79522,7 @@ taxonID,vernacularName,language
 697662,Montane Giant Tiger Beetle,English
 697663,Great Plains Giant Tiger Beetle,English
 697664,South Texas Giant Tiger Beetle,English
-697665,Plateau GiantTiger Beetle,English
+697665,Plateau Giant Tiger Beetle,English
 697666,Mojave Giant Tiger Beetle,English
 697667,Eastern Pinebarrens Tiger Beetle,English
 697668,Coral Pink Dunes Tiger Beetle,English
@@ -79602,7 +79602,7 @@ taxonID,vernacularName,language
 697742,Short-legged Tiger Beetle,English
 697743,Thin-lined Tiger Beetle,English
 697744,Variable Tiger Beetle,English
-697745,Colorado Tiger Beetle,English
+697745,Colorado Dune Tiger Beetle,English
 697746,White-cloaked Tiger Beetle,English
 697747,Oblique-lined Tiger Beetle,English
 697748,S-banded Tiger Beetle,English
@@ -79610,7 +79610,7 @@ taxonID,vernacularName,language
 697750,Velvet Tiger Beetle,English
 697751,Pygmy Tiger Beetle,English
 697752,White Sand Tiger Beetle,English
-697753,Bruneau Tiger Beetle,English
+697753,Bruneau Dune Tiger Beetle,English
 697754,Sonoran Tiger Beetle,English
 697755,Williston's Tiger Beetle,English
 697756,Audouin's Night-stalking Tiger Beetle,English
@@ -79621,12 +79621,13 @@ taxonID,vernacularName,language
 697761,Upland Big-headed Tiger Beetle,English
 697762,Pan-American Big-headed Tiger Beetle,English
 697763,Virginia Big-headed Tiger Beetle,English
+697774,Virginia Metallic Tiger Beetle,English
 697778,California Tiger Beetle,English
 697783,Eastern Pinebarrens Tiger Beetle,English
 697784,Great Basin Tiger Beetle,English
-697785,Great Basin Tiger Beetle,English
+697785,Nye Tiger Beetle,English
 697786,Pacific Coast Tiger Beetle,English
-697787,Pacific Coast Tiger Beetle,English
+697787,Frechin's Tiger Beetle,English
 697788,California Tiger Beetle,English
 697789,California Tiger Beetle,English
 697790,Smyth's Tiger Beetle,English
@@ -79634,54 +79635,49 @@ taxonID,vernacularName,language
 697792,Cream-edged Tiger Beetle,English
 697793,Cream-edged Tiger Beetle,English
 697794,Dispirited Tiger Beetle,English
-697795,Dispirited Tiger Beetle,English
+697795,Eureka Tiger Beetle,English
 697796,Northeastern Beach Tiger Beetle,English
 697797,White Tiger Beetle,English
 697798,Eastern Beach Tiger Beetle,English
 697799,Eastern Beach Tiger Beetle,English
 697800,Big Sand Tiger Beetle,English
-697801,Big Sand Tiger Beetle,English
-697802,Big Sand Tiger Beetle,English
+697801,Eastern Sand Tiger Beetle,English
+697802,Gibson's Sand Tiger Beetle,English
 697803,Big Sand Tiger Beetle,English
-697804,Big Sand Tiger Beetle,English
-697805,Big Sand Tiger Beetle,English
+697804,Reddish-green Sand Tiger Beetle,English
+697805,Mescalero Sand Tiger Beetle,English
 697806,Crimson Saltflat Tiger Beetle,English
-697807,Crimson Saltflat Tiger Beetle,English
-697808,Crimson Saltflat Tiger Beetle,English
-697809,Crimson Saltflat Tiger Beetle,English
-697810,Crimson Saltflat Tiger Beetle,English
-697811,Crimson Saltflat Tiger Beetle,English
+697807,Alkaline Tiger Beetle,English
+697809,Westbourne's Tiger Beetle,English
 697812,Glittering Tiger Beetle,English
 697813,Glittering Tiger Beetle,English
 697814,Glittering Tiger Beetle,English
-697815,Wetsalts Tiger Beetle,English
 697816,Wetsalts Tiger Beetle,English
 697817,Wetsalts Tiger Beetle,English
 697818,Coastal Tiger Beetle,English
 697819,Coastal Tiger Beetle,English
-697820,Hairy-necked Tiger Beetle,English
-697821,Hairy-necked Tiger Beetle,English
-697822,Hairy-necked Tiger Beetle,English
-697823,Hairy-necked Tiger Beetle,English
-697824,Hairy-necked Tiger Beetle,English
-697825,Hairy-necked Tiger Beetle,English
+697820,Sacramento Valley Hairy-necked Tiger Beetle,English
+697821,Athabascan Tiger Beetle,English
+697822,Colorado River Tiger Beetle,English
+697823,Southwest Hairy-necked Tiger Beetle,English
+697824,Coulee Tiger Beetle,English
+697825,Pacific Hairy-necked Tiger Beetle,English
 697826,Hairy-necked Tiger Beetle,English
-697827,Hairy-necked Tiger Beetle,English
-697828,Hairy-necked Tiger Beetle,English
-697829,Hairy-necked Tiger Beetle,English
+697827,Rhode's Tiger Beetle,English
+697828,Shelford's Tiger Beetle,English
+697829,Northwest Hairy-necked Tiger Beetle,English
 697830,Western Beach Tiger Beetle,English
-697831,Western Beach Tiger Beetle,English
 697832,White-striped Tiger Beetle,English
 697833,White-striped Tiger Beetle,English
-697834,Blowout Tiger Beetle,English
-697835,Blowout Tiger Beetle,English
-697836,Sandy Tiger Beetle,English
-697837,Sandy Tiger Beetle,English
+697834,Jorda's Tiger Beetle,English
+697835,Adroit Tiger Beetle,English
+697836,Hyperboreal Tiger Beetle,English
+697837,Labrador Tiger Beetle,English
 697838,Sandy Tiger Beetle,English
-697839,Sandy Tiger Beetle,English
-697840,Boreal Long-lipped Tiger Beetle,English
+697839,Nymphal Tiger Beetle,English
+697840,Laurent's Long-lipped Tiger Beetle,English
 697841,Boreal Long-lipped Tiger Beetle,English
-697842,Boreal Long-lipped Tiger Beetle,English
+697842,Green Long-lipped Tiger Beetle,English
 697843,Sandy Stream Tiger Beetle,English
 697844,Sandy Stream Tiger Beetle,English
 697845,Sandy Stream Tiger Beetle,English
@@ -79692,56 +79688,53 @@ taxonID,vernacularName,language
 697850,Nevada Tiger Beetle,English
 697851,Los Olmos Tiger Beetle,English
 697852,Nevada Tiger Beetle,English
-697853,Black Sky Tiger Beetle,English
+697853,Bowditch's Tiger Beetle,English
 697854,Black Sky Tiger Beetle,English
-697855,Subtropical Black Sky Tiger Beetle,English
+697855,Subtropic Tiger Beetle,English
 697856,Neojuvenile Tiger Beetle,English
 697857,Large Grassland Tiger Beetle,English
-697858,Large Grassland Tiger Beetle,English
-697859,Large Grassland Tiger Beetle,English
+697858,Santa Clara Grassland Tiger Beetle,English
+697859,Prairie Tiger Beetle,English
 697860,Ocellated Tiger Beetle,English
-697861,Ocellated Tiger Beetle,English
-697862,Western Tiger Beetle,English
+697861,Dark-abdomened Tiger Beetle,English
+697862,Dappled Tiger Beetle,English
 697863,Maricopa Tiger Beetle,English
-697864,Western Tiger Beetle,English
+697864,Navajo Tiger Beetle,English
 697865,Western Tiger Beetle,English
 697866,Dark Saltflat Tiger Beetle,English
-697867,Dark Saltflat Tiger Beetle,English
-697868,Dark Saltflat Tiger Beetle,English
-697869,Dark Saltflat Tiger Beetle,English
-697870,New Jersey Pine Barrens Tiger Beetle,English
-697871,Northern Barrens Tiger Beetle,English
+697867,Platt Tiger Beetle,English
+697869,Wallis' Tiger Beetle,English
+697870,Consenta's Tiger Beetle,English
 697872,Northern Barrens Tiger Beetle,English
-697873,Alpine Tiger Beetle,English
 697874,Alpine Tiger Beetle,English
 697875,Barbara Anne's Tiger Beetle,English
-697876,Guadalupe Mountains Tiger Beetle,English
+697876,Rock-loving Tiger Beetle,English
 697877,Limestone Tiger Beetle,English
-697878,Limestone Tiger Beetle,English
+697878,Green Mountain Tiger Beetle,English
 697879,Riparian Tiger Beetle,English
 697880,Riparian Tiger Beetle,English
-697881,Beautiful Tiger Beetle,English
+697881,Dorothy's Tiger Beetle,English
 697882,Beautiful Tiger Beetle,English
-697883,Punctured Tiger Beetle,English
+697883,Chihuahua Tiger Beetle,English
 697884,Punctured Tiger Beetle,English
-697885,Cow Path Tiger Beetle,English
-697886,Cow Path Tiger Beetle,English
-697887,Cow Path Tiger Beetle,English
-697888,Cow Path Tiger Beetle,English
+697885,Audubon's Tiger Beetle,English
+697886,Cimarron Tiger Beetle,English
+697887,Hatch's Tiger Beetle,English
+697888,Elegant Tiger Beetle,English
 697889,Cow Path Tiger Beetle,English
-697890,Bronzed Tiger Beetle,English
+697890,Nova Scotia Tiger Beetle,English
 697891,Bronzed Tiger Beetle,English
-697892,Bronzed Tiger Beetle,English
-697893,Eastern Red-bellied Tiger Beetle,English
-697894,Eastern Red-bellied Tiger Beetle,English
+697892,Tanner's Tiger Beetle,English
+697893,Mexican Red-bellied Tiger Beetle,English
+697894,Hentz's Tiger Beetle,English
 697895,Eastern Red-bellied Tiger Beetle,English
-697896,Festive Tiger Beetle,English
-697897,Festive Tiger Beetle,English
-697898,Festive Tiger Beetle,English
-697899,Festive Tiger Beetle,English
+697896,Chartreuse Tiger Beetle,English
+697897,LeConte's Tiger Beetle,English
+697898,Rugate Tiger Beetle,English
+697899,Wrinkle-fronted Tiger Beetle,English
 697900,Festive Tiger Beetle,English
-697901,Festive Tiger Beetle,English
-697902,Festive Tiger Beetle,English
+697901,Unicolored Tiger Beetle,English
+697902,Yampa Tiger Beetle,English
 697903,Rio Grande Tiger Beetle,English
 697904,Rio Grande Tiger Beetle,English
 697905,Variable Tiger Beetle,English
@@ -79752,34 +79745,28 @@ taxonID,vernacularName,language
 697910,White-cloaked Tiger Beetle,English
 697911,White-cloaked Tiger Beetle,English
 697912,White-cloaked Tiger Beetle,English
-697913,Oblique-lined Tiger Beetle,English
-697914,Oblique-lined Tiger Beetle,English
-697915,Oblique-lined Tiger Beetle,English
-697916,Oblique-lined Tiger Beetle,English
-697917,Oblique-lined Tiger Beetle,English
-697918,Oblique-lined Tiger Beetle,English
-697919,Oblique-lined Tiger Beetle,English
+697915,Diffracted Tiger Beetle,English
+697917,Kirby's Tiger Beetle,English
 697920,Oblique-lined Tiger Beetle,English
-697921,Oblique-lined Tiger Beetle,English
-697922,Oblique-lined Tiger Beetle,English
+697922,Sierra Tiger Beetle,English
 697923,Oblique-lined Tiger Beetle,English
-697924,Oblique-lined Tiger Beetle,English
+697924,Wealed Tiger Beetle,English
 697925,Greenest Tiger Beetle,English
-697926,S-banded Tiger Beetle,English
+697926,Ascendant Tiger Beetle,English
 697927,S-banded Tiger Beetle,English
 697928,Pygmy Tiger Beetle,English
-697929,Williston's Tiger Beetle,English
-697930,Williston's Tiger Beetle,English
-697931,Williston's Tiger Beetle,English
-697932,Williston's Tiger Beetle,English
-697933,Williston's Tiger Beetle,English
-697934,Williston's Tiger Beetle,English
-697935,Williston's Tiger Beetle,English
+697929,Echo Tiger Beetle,English
+697930,Torrance Tiger Beetle,English
+697931,Funaro's Tiger Beetle,English
+697932,Hairy-fronted Tiger Beetle,English
+697933,Augured Tiger Beetle,English
+697934,Owens Lake Tiger Beetle,English
+697935,Sulphur Valley Tiger Beetle,English
 697936,Williston's Tiger Beetle,English
-697937,California Night-stalking Tiger Beetle,English
+697937,Narrow Night-stalking Tiger Beetle,English
 697938,California Night-stalking Tiger Beetle,English
-697939,California Night-stalking Tiger Beetle,English
-697940,California Night-stalking Tiger Beetle,English
+697939,Intermediate Night-stalking Tiger Beetle,English
+697940,Subcylindrical Night-stalking Tiger Beetle,English
 697941,Upland Big-headed Tiger Beetle,English
 697942,Pan-American Big-headed Tiger Beetle,English
 697943,Pan-American Big-headed Tiger Beetle,English
@@ -80231,7 +80218,7 @@ taxonID,vernacularName,language
 709384,Buff-bellied Fat-tailed Mouse Opossum,English
 709385,Gray Mouse Opossum,English
 709386,Andean Caenolestid,English
-709387,Kultarr,English
+709387,Eastern Jerboa marsupial,English
 709388,Tropical Antechinus,English
 709389,Agile Antechinus,English
 709390,Subtropical Antechinus,English
@@ -86934,3 +86921,87 @@ taxonID,vernacularName,language
 931312,Organ Mountains Colorado chipmunk,English
 931313,Oscura Mountain Colorado Chipmunk,English
 931338,speckled sage squirrel,English
+931844,Florida Metallic Tiger Beetle,English
+931845,Upland Metallic Tiger Beetle,English
+931846,Swift Tiger Beetle,English
+931847,Ant-like Tiger Beetle,English
+931848,Grass-runner Tiger Beetle,English
+931849,Meadow Tiger Beetle,English
+931850,One-spotted Tiger Beetle,English
+931851,Sandbar Tiger Beetle,English
+931852,Coppery Tiger Beetle,English
+931853,Whitish Tiger Beetle,English
+931854,Moustached Tiger Beetle,English
+931855,Ghost Tiger Beetle,English
+931856,Margined Tiger Beetle,English
+931857,Puritan Tiger Beetle,English
+931858,Aridland Tiger Beetle,English
+931859,White-sand Tiger Beetle,English
+931860,Olive Tiger Beetle,English
+931861,Sonoran Tiger Beetle,English
+931862,Loamy-ground Dromo Tiger Beetle,English
+931863,Cajun Dromo Tiger Beetle,English
+931864,Frosted Dromo Tiger Beetle,English
+931865,Velvet Dromo Tiger Beetle,English
+931866,Western Tidal Flat Tiger Beetle,English
+931867,Gulfshore Tiger Beetle,English
+931868,Saltmarsh Tiger Beetle,English
+931869,Elusive Tiger Beetle,English
+931871,Death Valley Tiger Beetle,English
+932508,tule beetle,English
+933070,Pan-American Bigheaded Tiger Beetle,English
+933071,White-striped Tiger Beetle,English
+933072,Rouged Tiger Beetle,English
+933073,Belted-winged Tiger Beetle,English
+933074,Interior Tiger Beetle,English
+933075,Imperfect Tiger Beetle,English
+933076,Kaibab Tiger Beetle,English
+933077,Susan's Tiger Beetle,English
+933078,Variable Tiger Beetle,English
+933079,Pygmy Tiger Beetle,English
+933080,Gulf Beach Tiger Beetle,English
+933081,Coastal Tiger Beetle,English
+933082,Denton Tiger Beetle,English
+933083,Panhandle Tiger Beetle,English
+933084,Sandy Stream Tiger Beetle,English
+933085,Chiracahua Tiger Beetle,English
+933086,Knaus's Tiger Beetle,English
+933087,Salt Creek Nevada Tiger Beetle,English
+933088,Indian Creek Tiger Beetle,English
+933089,Nevada Tiger Beetle,English
+933090,Olmos Creek Tiger Beetle,English
+933091,Tube Tiger Beetle,English
+933092,Inquisitor Tiger Beetle,English
+933093,Rio Grande Tiger Beetle,English
+933094,Smyth's Beach Tiger Beetle,English
+933095,California Tiger Beetle,English
+933096,Inland Tiger Beetle,English
+933097,Cream-edged Tiger Beetle,English
+933098,Johnson's Tiger Beetle,English
+933099,Pembina Tiger Beetle,English
+933100,Eastern Beach Tiger Beetle,English
+933101,Eastern Beach Tiger Beetle,English
+933102,Saulcy's Beach Tiger Beetle,English
+933103,Gulf Beach Tiger Beetle,English
+933104,Pale Tiger Beetle,English
+933105,Willcox Tiger Beetle,English
+933106,Glittering Tiger Beetle,English
+933107,Virgin River Tiger Beetle,English
+933108,Riparian Tiger Beetle,English
+933109,Salt Flat Tiger Beetle,English
+933110,Alkali Tiger Beetle,English
+933111,White-cloaked Tiger Beetle,English
+933112,Grand Canyon Tiger Beetle,English
+933113,Wetsalts Tiger Beetle,English
+933114,Horn's Tiger Beetle,English
+933115,Barbaraann's Tiger Beetle,English
+933116,Tascoa Tiger Beetle,English
+933117,Western Red-bellied Tiger Beetle,English
+933119,Badlands Tiger Beetle,English
+933122,Blowout Tiger Beetle,English
+933123,Nogahabar Tiger Beetle,English
+933125,Joaquin Tiger Beetle,English
+933372,Buff-footed Antechinus,English
+933373,Silver-headed Antechinus,English
+933374,dibbler,English
+933378,kabomani tapir,English
