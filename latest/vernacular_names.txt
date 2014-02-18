@@ -28096,9 +28096,37 @@ taxonID,vernacularName,language
 109233,Hairy-necked Tiger Beetle,English
 109234,carabids,English
 109395,calosome chaud,French
+109480,Humboldt ground beetle,English
 109570,Delta Green Ground Beetle,English
 109611,slender seedcorn beetle,English
+110115,Nelson's cave beetle,English
+110116,Natural Bridge cave beetle,English
+110117,spotted cave beetle,English
+110119,Cudjo's Cave beetle,English
+110120,Hubricht's cave beetle,English
+110122,Narrows Cave beetle,English
+110124,Dry Fork Valley cave beetle,English
+110125,Timber Ridge Cave beetle,English
+110126,Hubbard's cave beetle,English
+110128,Avernus cave beetle,English
+110129,thin-neck cave beetle,English
+110130,crossroads cave beetle,English
+110132,Petrunkevitch's cave beetle,English
+110134,garden cave beetle,English
+110137,Grassy Cove cave beetle,English
+110139,Holsinger's cave beetle,English
+110141,Meridith Cave beetle,English
+110147,Indian Grave Point cave beetle,English
+110166,surprising cave beetle,English
+110169,Illinois cave beetle,English
+110185,Ohio cave beetle,English
+110189,Kramer's cave beetle,English
+110190,greater Adams cave beetle,English
+110193,Tatum cave beetle,English
+110196,Louisville cave beetle,English
 110234,stinking beetle,English
+110256,Beller's ground beetle,English
+110627,Roth's blind ground beetle,English
 111077,seedcorn beetle,English
 111857,crawling water beetles,English
 111952,trout-stream beetles,English
@@ -30411,7 +30439,7 @@ taxonID,vernacularName,language
 162000,Dolly Varden,English
 162001,omble chevalier,French
 162002,touladi,French
-162003,coaster brook trout,English
+162003,omble aurora,French
 162004,bull trout,English
 162005,inconnus,English
 162006,inconnu,English
@@ -40774,7 +40802,7 @@ taxonID,vernacularName,language
 179944,Gaspé Shrew,English
 179945,Prairie Shrew,English
 179946,American Pygmy Shrew,English
-179947,Pribilof Island shrew,English
+179947,Pribilof Islands shrew,English
 179948,Mt. Lyell Shrew,English
 179949,Merriam's Shrew,English
 179950,Dusky Shrew,English
@@ -41320,7 +41348,7 @@ taxonID,vernacularName,language
 180517,Ballena-picuda de Blainsville,Spanish
 180519,gray whales,English
 180520,gray whales,English
-180521,Ballena gris,Spanish
+180521,grey whale,English
 180522,rorquals,English
 180523,baleen whales,English
 180524,petit rorqual,French
@@ -41366,7 +41394,7 @@ taxonID,vernacularName,language
 180564,American badgers,English
 180565,Tlalcoyote,Spanish
 180566,hog-nosed skunks,English
-180567,Zorrillo-narigón occidental,Spanish
+180567,Texas skunk,English
 180568,Zorrillo-narigón norteño,Spanish
 180569,spotted skunks,English
 180570,Zorrillo-manchado común,Spanish
@@ -42933,6 +42961,14 @@ taxonID,vernacularName,language
 186074,head louse,English
 186075,pou de l'homme,French
 186076,pou de l'homme,French
+186145,transient atelothrus ground beetle,English
+186156,Oahu Blackburnia ground beetle,English
+186185,Haleakala deropristus ground beetle,English
+186198,Kauai disenochus ground beetle,English
+186326,heavy metromenus ground,English
+186330,Wedge-winged metromenus ground beetle,English
+186343,oceanic metromenus ground beetle,English
+186357,Haleakala pseudobroscus ground beetle,English
 186413,hairy rove beetle,English
 186982,spider mite destroyer,English
 187017,steelblue lady beetle,English
@@ -45278,7 +45314,10 @@ taxonID,vernacularName,language
 203502,St. Andrew beach mouse,English
 203535,sagebrush voles,English
 203550,Mexican bobcat,English
+203564,Kaibab Mountain Lion,English
 203587,margay,English
+203593,Oaxaca Long-tailed Tiger Cat,English
+203599,Yucatan Long-tailed Tiger Cat,English
 203618,bison,English
 203634,Delaware County cave crayfish,English
 203635,little brown mudbug,English
@@ -49996,7 +50035,7 @@ taxonID,vernacularName,language
 504353,gale of the wind,English
 504354,purple mountain heather,English
 504355,toothed surfgrass,English
-504356,yellow grove bamboo,Common name
+504356,yellow groove bamboo,Common name
 504357,Japanese timber bamboo,Common name
 504358,drooping timber bamboo,Common name
 504359,Meyer's bamboo,Common name
@@ -63165,7 +63204,7 @@ taxonID,vernacularName,language
 552503,Hopi Chipmunk,English
 552504,Piute Ground Squirrel,English
 552505,Sonoma tree vole,English
-552506,Baird's shrew,English
+552506,Baird's Shrew,English
 552507,Asian minute shrew,English
 552508,Sonoma shrew,English
 552509,Barren Ground Shrew,English
@@ -74252,9 +74291,9 @@ taxonID,vernacularName,language
 621755,Wight's neonotonia,English
 621756,Hyenas,English
 621816,Olingos,English
-621845,Giant Panda,English
+621845,White Bear,English
 621846,Red Panda,English
-621847,Sun bear,English
+621847,Malayan Sun Bear,English
 621848,Sloth Bear,English
 621849,Spectacled Bear,English
 621850,Asian Black Bear,English
@@ -74334,7 +74373,7 @@ taxonID,vernacularName,language
 621924,Chinese Ferret-badger,English
 621925,Javan Ferret-badger,English
 621926,Burmese Ferret-badger,English
-621927,Sunda Stink Badger,English
+621927,Indonesian Stink Badger,English
 621928,Palawan Stink Badger,English
 621929,Honey Badger,English
 621930,Molina's Hog-nosed Skunk,English
@@ -74440,8 +74479,9 @@ taxonID,vernacularName,language
 622036,Cameroon clawless otter,English
 622037,Formosan yellow-throated marten,English
 622038,northern sea otter,English
-622053,striped hyena,English
+622059,Atlas lion,English
 622064,Saimaa seal,English
+622091,Oaxaca Long-tailed Tiger Cat,English
 622093,eastern puma,English
 622096,spinyfins,English
 622109,deepwater squirrelfish,English
@@ -77005,13 +77045,13 @@ taxonID,vernacularName,language
 633482,Marcano's Solenodon,English
 633483,Haitian solenodon,English
 633484,Puerto Rican Nesophontes,English
-633485,Atalaye nesophontes,English
+633485,Atalaya Nesophontes,English
 633486,Slender Cuban Nesophontes,English
 633487,Greater Cuban Nesophontes,English
 633488,Western Cuban Nesophontes,English
 633489,Lesser Cuban Nesophontes,English
 633490,Haitian Nesophontes,English
-633491,St. Michel nesophontes,English
+633491,St. Michel Nesophontes,English
 633492,Large-eared Tenrec,English
 633493,aquatic tenrec,English
 633494,Short-tailed Shrew Tenrec,English
@@ -77072,33 +77112,33 @@ taxonID,vernacularName,language
 633549,Moonrat,English
 633550,Dinagat Gymnure,English
 633551,Mindanao Gymnure,English
-633552,Poll's shrew,English
-633553,Alexandrian shrew,English
-633554,highland shrew,English
+633552,Poll's Shrew,English
+633553,Alexandrian Shrew,English
+633554,Highland Shrew,English
 633555,Andaman Shrew,English
 633556,Ansell's Shrew,English
 633557,Arabian Shrew,English
 633558,Armenian Shrew,English
-633559,Indochinese shrew,English
+633559,Indochinese Shrew,English
 633560,Hun Shrew,English
 633561,Bailey's Shrew,English
-633562,Bates's shrew,English
+633562,Bates's Shrew,English
 633563,Mindanao Shrew,English
 633564,Beccari's Shrew,English
 633565,Bottego's Shrew,English
 633566,Bale Shrew,English
 633567,Buettikofer's Shrew,English
-633568,African foggy shrew,English
-633569,Canary shrew,English
+633568,African Foggy Shrew,English
+633569,Canary Shrew,English
 633570,Cinderella Shrew,English
-633571,Congo shrew,English
-633572,Pantellerian shrew,English
+633571,Congo Shrew,English
+633572,Pantellerian Shrew,English
 633573,Long-footed Shrew,English
 633574,Crosse's Shrew,English
 633575,Reddish-gray Musk Shrew,English
 633576,Dent's Shrew,English
 633577,Desperate Shrew,English
-633578,Dhofarian shrew,English
+633578,Dhofarian Shrew,English
 633579,Long-tailed Musk Shrew,English
 633580,Doucet's Musk Shrew,English
 633581,Dsinezumi Shrew,English
@@ -77113,16 +77153,16 @@ taxonID,vernacularName,language
 633590,Southeast Asian Shrew,English
 633591,Savanna Shrew,English
 633592,Smoky White-toothed Shrew,English
-633593,tiny musk shrew,English
+633593,Tiny Musk Shrew,English
 633594,Glass's Shrew,English
 633595,Goliath Shrew,English
 633596,Peters's Musk Shrew,English
 633597,Large-headed Shrew,English
-633598,Mt. Malindang shrew,English
+633598,Mt. Malindang Shrew,English
 633599,Grasse's Shrew,English
 633600,Luzon Shrew,English
 633601,Greenwood's Shrew,English
-633602,Gueldenstaedt's shrew,English
+633602,Gueldenstaedt's Shrew,English
 633603,Harenna Shrew,English
 633604,Hildegarde's Shrew,English
 633605,Lesser Red Musk Shrew,English
@@ -77132,189 +77172,188 @@ taxonID,vernacularName,language
 633609,Jenkin's Shrew,English
 633610,Kivu Shrew,English
 633611,Lamotte's Shrew,English
-633612,lemara shrew,English
-633613,Ussuri shrew,English
-633614,Latona shrew,English
+633612,Lemara Shrew,English
+633613,Ussuri Shrew,English
+633614,Latona Shrew,English
 633615,Sulawesi Shrew,English
 633616,Bicolored Shrew,English
-633617,Celebes shrew,English
-633618,Butiaba naked-tailed shrew,English
+633617,Celebes Shrew,English
+633618,Butiaba Naked-tailed Shrew,English
 633619,Savanna Swamp Shrew,English
-633620,moorland shrew,English
-633621,dramatic shrew,English
-633622,greater gray-brown musk shrew,English
+633620,Moorland Shrew,English
+633621,Dramatic Shrew,English
+633622,Greater Gray-brown Musk Shrew,English
 633623,Mauritanian Shrew,English
 633624,MacArthur's Shrew,English
 633625,MacMillan's Shrew,English
-633626,Macow's shrew,English
+633626,Macow's Shrew,English
 633627,Malayan Shrew,English
 633628,Manenguba Shrew,English
-633629,Maquassie musk shrew,English
+633629,Maquassie Musk Shrew,English
 633630,Swamp Musk Shrew,English
-633631,dark shrew,English
-633632,Max's shrew,English
+633631,Dark Shrew,English
+633632,Max's Shrew,English
 633633,Mindoro Shrew,English
-633634,minute shrew,English
+633634,Minute Shrew,English
 633635,Sri Lankan Long-tailed Shrew,English
-633636,Rombo shrew,English
+633636,Rombo Shrew,English
 633637,Sunda Shrew,English
 633638,Montane White-toothed Shrew,English
-633639,mouse-tailed shrew,English
-633640,Uganda large-toothed shrew,English
-633641,dwarf white-toothed shrew,English
-633642,tiny white-toothed shrew,English
-633643,neglected shrew,English
+633639,Mouse-tailed Shrew,English
+633640,Uganda Large-toothed Shrew,English
+633641,Dwarf White-toothed Shrew,English
+633642,Tiny White-toothed Shrew,English
+633643,Neglected Shrew,English
 633644,Negros Shrew,English
 633645,Nicobar Shrew,English
 633646,Nigerian Shrew,English
-633647,black white-toothed shrew,English
+633647,Black White-toothed Shrew,English
 633648,Black-footed Shrew,English
-633649,Tenebrous shrew,English
+633649,Tenebrous Shrew,English
 633650,Nimba Shrew,English
-633651,stony shrew,English
-633652,obscure white-toothed shrew,English
-633653,Olivier's shrew,English
-633654,Amami shrew,English
-633655,Osorio shrew,English
+633651,Stony Shrew,English
+633652,Obscure White-toothed Shrew,English
+633653,Olivier's Shrew,English
+633654,Amami Shrew,English
+633655,Osorio Shrew,English
 633656,Palawan Shrew,English
-633657,paradox shrew,English
+633657,Paradox Shrew,English
 633658,Small-footed Shrew,English
-633659,Pasha shrew,English
+633659,Pasha Shrew,English
 633660,Pale Gray Shrew,English
 633661,Guramba Shrew,English
-633662,pitch shrew,English
+633662,Pitch Shrew,English
 633663,Pitman's Shrew,English
 633664,Flat-headed Shrew,English
 633665,Fraser's Musk Shrew,English
-633666,fuscous shrew,English
-633667,dusky shrew,English
-633668,Rainey shrew,English
+633666,Fuscous Shrew,English
+633667,Dusky Shrew,English
+633668,Rainey Shrew,English
 633669,Egyptian Pygmy Shrew,English
-633670,temboan shrew,English
+633670,Temboan Shrew,English
 633671,Roosevelt's Shrew,English
-633672,white-toothed shrew,English
-633673,moon shrew,English
-633674,Serezkaya shrew,English
+633672,White-toothed Shrew,English
+633673,Moon Shrew,English
+633674,Serezkaya Shrew,English
 633675,Siberian Shrew,English
 633676,Sicilian Shrew,English
 633677,Lesser Gray-brown Musk Shrew,English
 633678,Desert Musk Shrew,English
 633679,Somali Shrew,English
-633680,narrow-headed shrew,English
-633681,lesser shrew,English
+633680,Narrow-headed Shrew,English
+633681,Lesser Shrew,English
 633682,Iranian Shrew,English
 633683,Tanzanian Shrew,English
-633684,Ugandan shrew,English
-633685,Tarfaya shrew,English
+633684,Ugandan Shrew,English
+633685,Tarfaya Shrew,English
 633686,Telford's Shrew,English
-633687,thin shrew,English
-633688,Thalia shrew,English
+633687,Thin Shrew,English
+633688,Thalia Shrew,English
 633689,Therese's Shrew,English
-633690,Sao Tomé shrew,English
-633691,tumultuous shrew,English
+633690,São Tomé Shrew,English
+633691,Tumultuous Shrew,English
 633692,Ultimate Shrew,English
 633693,Usambara Shrew,English
 633694,Savanna Path Shrew,English
 633695,Voi Shrew,English
 633696,Whitaker's Shrew,English
 633697,Wimmer's Shrew,English
-633698,vermiculate shrew,English
+633698,Vermiculate Shrew,English
 633699,Yankari Shrew,English
 633700,Zaphir's Shrew,English
-633701,Zarudny's shrew,English
-633702,Zimmer's shrew,English
-633703,Zimmermann's shrew,English
+633701,Zarudny's Shrew,English
+633702,Zimmer's Shrew,English
+633703,Zimmermann's Shrew,English
 633704,Piebald Shrew,English
 633705,Kelaart's Long-clawed Shrew,English
 633706,Babault's Mouse Shrew,English
 633707,Montane Mouse Shrew,English
-633708,dark-footed forest shrew,English
+633708,Dark-footed Forest Shrew,English
 633709,Eisentraut's Mouse Shrew,English
 633710,Geata Mouse Shrew,English
 633711,Long-tailed Forest Shrew,English
 633712,Oku Mouse Shrew,English
 633713,Rumpi Mouse Shrew,English
 633714,Schaller's Mouse Shrew,English
-633715,Sclater's tiny mouse shrew,English
+633715,Sclater's Tiny Mouse Shrew,English
 633716,Thin Mouse Shrew,English
 633717,Forest Shrew,English
-633718,Grauer's shrew,English
-633719,greater shrew,English
-633720,Schouteden's shrew,English
+633718,Grauer's Shrew,English
+633719,Greater Shrew,English
+633720,Schouteden's Shrew,English
 633721,Ruwenzori Shrew,English
 633722,Armored Shrew,English
 633723,Pearson's Long-clawed Shrew,English
 633724,Black Shrew,English
 633725,Day's Shrew,English
-633726,white-toothed pygmy shrew,English
-633727,Sri Lanka shrew,English
-633728,Hose's shrew,English
+633726,White-toothed Pygmy Shrew,English
+633727,Sri Lanka Shrew,English
+633728,Hose's Shrew,English
 633729,Least Dwarf Shrew,English
 633730,Greater Dwarf Shrew,English
-633731,Madagascan shrew,English
-633732,Malayan pygmy shrew,English
+633731,Madagascan Shrew,English
 633733,Flores Shrew,English
-633734,Sri Lanka highland shrew,English
-633735,Remy's shrew,English
+633734,Sri Lanka Highland Shrew,English
+633735,Remy's Shrew,English
 633736,Anderson's Shrew,English
 633737,Lesser Dwarf Shrew,English
 633738,Jungle Shrew,English
-633739,Aberdare shrew,English
-633740,Mt. Kenya shrew,English
-633741,Grant's shrew,English
-633742,Howell's shrew,English
-633743,Isabella shrew,English
-633744,Johnston's shrew,English
-633745,crescent shrew,English
-633746,climbing shrew,English
-633747,arrogant shrew,English
-633748,forest muskshrew,English
-633749,mountain shrew,English
+633739,Aberdare Shrew,English
+633740,Mt. Kenya Shrew,English
+633741,Grant's Shrew,English
+633742,Howell's Shrew,English
+633743,Isabella Shrew,English
+633744,Johnston's Shrew,English
+633745,Crescent Shrew,English
+633746,Climbing Shrew,English
+633747,Arrogant Shrew,English
+633748,Forest Muskshrew,English
+633749,Mountain Shrew,English
 633750,Volcano Shrew,English
-633751,mole shrew,English
-633752,Sichuan short-tailed shrew,English
-633753,Ward's short-tailed shrew,English
-633754,hantu water shrew,English
+633751,Mole Shrew,English
+633752,Sichuan Short-tailed Shrew,English
+633753,Ward's Short-tailed Shrew,English
+633754,Hantu Water Shrew,English
 633755,Himalayan Water Shrew,English
-633756,Sunda water shrew,English
-633757,flat-headed water shrew,English
-633758,Styan's water shrew,English
-633759,Sumatra water shrew,English
-633760,Andean small-eared shrew,English
+633756,Sunda Water Shrew,English
+633757,Flat-headed Water Shrew,English
+633758,Styan's Water Shrew,English
+633759,Sumatra Water Shrew,English
+633760,Andean Small-eared Shrew,English
 633761,Enders's Small-eared Shrew,English
-633762,Goldman's small-eared shrew,English
-633763,Goodwin's small-eared shrew,English
+633762,Goldman's Small-eared Shrew,English
+633763,Goodwin's Small-eared Shrew,English
 633764,Talamancan Small-eared Shrew,English
 633765,Honduran Small-eared Shrew,English
-633766,big small-eared shrew,English
+633766,Big Small-eared Shrew,English
 633767,Merida Small-eared Shrew,English
 633768,Mexican Small-eared Shrew,English
-633769,Ecuadorean small-eared shrew,English
+633769,Ecuadorean Small-eared Shrew,English
 633770,Blackish Small-eared Shrew,English
-633771,scaly-footed small-eared shrew,English
-633772,Thomas's small-eared shrew,English
+633771,Scaly-footed Small-eared Shrew,English
+633772,Thomas' Small-eared Shrew,English
 633773,Mexican Shrew,English
 633774,Elegant Water Shrew,English
-633775,southern water shrew,English
+633775,Southern Water Shrew,English
 633776,Eurasian Water Shrew,English
-633777,transcaucasian water shrew,English
+633777,Transcaucasian Water Shrew,English
 633778,Alpine Shrew,English
-633779,Eurasian shrew,English
+633779,Eurasian Shrew,English
 633780,Tien Shan Shrew,English
 633781,Lesser Striped Shrew,English
-633782,Pamir shrew,English
+633782,Pamir Shrew,English
 633783,Laxmann's Shrew,English
 633784,Kamchatka Shrew,English
 633785,Gansu Shrew,English
-633786,crowned shrew,English
+633786,Crowned Shrew,English
 633787,Stripe-backed Shrew,English
-633788,large-toothed Siberian shrew,English
+633788,Large-toothed Siberian Shrew,English
 633789,Zacatecas Shrew,English
-633790,lofty shrew,English
+633790,Lofty Shrew,English
 633791,Slender Shrew,English
-633792,Lagranja shrew,English
+633792,Lagranja Shrew,English
 633793,Azumi Shrew,English
-633794,even-toothed shrew,English
+633794,Even-toothed Shrew,English
 633795,Kozlov's Shrew,English
 633796,Paramushir Shrew,English
 633797,Large-toothed Shrew,English
@@ -77322,11 +77361,11 @@ taxonID,vernacularName,language
 633799,Eurasian Pygmy Shrew,English
 633800,Ussuri Shrew,English
 633801,Mexican Long-tailed Shrew,English
-633802,Kashmir shrew,English
+633802,Kashmir Shrew,English
 633803,Portenko's Shrew,English
 633804,Radde's Shrew,English
 633805,Flat-skulled Shrew,English
-633806,Sado shrew,English
+633806,Sado Shrew,English
 633807,Apennine Shrew,English
 633808,Caucasian Shrew,English
 633809,Saussure's Shrew,English
@@ -77339,16 +77378,16 @@ taxonID,vernacularName,language
 633816,Chestnut-bellied Shrew,English
 633817,Verapaz Shrew,English
 633818,Caucasian Pygmy Shrew,English
-633819,Hodgson's brown-toothed shrew,English
-633820,Taiwan brown-toothed shrew,English
-633821,De Winton's shrew,English
-633822,lamulate shrew,English
-633823,long-tailed brown-toothed shrew,English
-633824,long-tailed mountain shrew,English
+633819,Hodgson's Brown-toothed Shrew,English
+633820,Taiwan Brown-toothed Shrew,English
+633821,De Winton's Shrew,English
+633822,Lamulate Shrew,English
+633823,Long-tailed Brown-toothed Shrew,English
+633824,Long-tailed Mountain Shrew,English
 633825,Himalayan Shrew,English
-633826,Lowe's shrew,English
-633827,Salenski's shrew,English
-633828,Smith's shrew,English
+633826,Lowe's Shrew,English
+633827,Salenski's Shrew,English
+633828,Smith's Shrew,English
 633829,Russian Desman,English
 633830,Pyrenean Desman,English
 633831,Greater Chinese Mole,English
@@ -77357,34 +77396,34 @@ taxonID,vernacularName,language
 633834,Himalayan Mole,English
 633835,Japanese Mountain Mole,English
 633836,Small-toothed Mole,English
-633837,echigo mole,English
+633837,Echigo Mole,English
 633838,Insular Mole,English
-633839,Kobe mole,English
-633840,small Japanese mole,English
-633841,large mole,English
-633842,Tokuda's mole,English
+633839,Kobe Mole,English
+633840,Small Japanese Mole,English
+633841,Large Mole,English
+633842,Tokuda's Mole,English
 633843,Japanese Mole,English
-633844,Ryukyu mole,English
+633844,Ryukyu Mole,English
 633845,White-tailed Mole,English
 633846,Gansu Mole,English
 633847,Short-faced Mole,English
 633848,Long-tailed Mole,English
-633849,Siberian mole,English
-633850,Mediterranean mole,English
+633849,Siberian Mole,English
+633850,Mediterranean Mole,English
 633851,Caucasian Mole,English
 633852,European Mole,English
-633853,Levantine mole,English
-633854,Iberian mole,English
+633853,Levantine Mole,English
+633854,Iberian Mole,English
 633855,Roman Mole,English
-633856,Stankovic's mole,English
-633857,Persian mole,English
-633858,True's shrew mole,English
+633856,Stankovic's Mole,English
+633857,Persian Mole,English
+633858,True's Shrew Mole,English
 633859,Japanese Shrew Mole,English
 633860,Anderson's Shrew Mole,English
 633861,Gracile Shrew Mole,English
 633862,Inquisitive Shrew Mole,English
 633863,Chinese Shrew Mole,English
-633864,Buena Vista Lake ornate shrew,English
+633864,Buena Vista Lake shrew,English
 633869,New Mexico shrew,English
 633879,fangtooths,English
 633908,stenotritids,English
@@ -79528,7 +79567,7 @@ taxonID,vernacularName,language
 697668,Coral Pink Dunes Tiger Beetle,English
 697669,Great Basin Tiger Beetle,English
 697670,Appalachian Tiger Beetle,English
-697671,St. Anthony Dune Tiger Beetle,English
+697671,Idaho dunes tiger beetle,English
 697672,Loamy-ground Tiger Beetle,English
 697673,Pacific Coast Tiger Beetle,English
 697674,Sandbar Tiger Beetle,English
@@ -79667,6 +79706,7 @@ taxonID,vernacularName,language
 697828,Shelford's Tiger Beetle,English
 697829,Northwest Hairy-necked Tiger Beetle,English
 697830,Western Beach Tiger Beetle,English
+697831,Oblivious tiger beetle,English
 697832,White-striped Tiger Beetle,English
 697833,White-striped Tiger Beetle,English
 697834,Jorda's Tiger Beetle,English
@@ -79690,7 +79730,7 @@ taxonID,vernacularName,language
 697852,Nevada Tiger Beetle,English
 697853,Bowditch's Tiger Beetle,English
 697854,Black Sky Tiger Beetle,English
-697855,Subtropic Tiger Beetle,English
+697855,Subtropical blue-black tiger beetle,English
 697856,Neojuvenile Tiger Beetle,English
 697857,Large Grassland Tiger Beetle,English
 697858,Santa Clara Grassland Tiger Beetle,English
@@ -79707,7 +79747,7 @@ taxonID,vernacularName,language
 697870,Consenta's Tiger Beetle,English
 697872,Northern Barrens Tiger Beetle,English
 697874,Alpine Tiger Beetle,English
-697875,Barbara Anne's Tiger Beetle,English
+697875,Barbara Ann's tiger beetle,English
 697876,Rock-loving Tiger Beetle,English
 697877,Limestone Tiger Beetle,English
 697878,Green Mountain Tiger Beetle,English
@@ -80354,12 +80394,12 @@ taxonID,vernacularName,language
 709788,Tamá Small-eared Shrew,English
 709789,Tropical Small-eared Shrew,English
 709790,True's Shrew Mole,English
-709791,Hodgsons's Brown-toothed Shrew,English
-709792,Taiwanese Brown-toothed Shrew,English
+709791,Hodgson's Brown-toothed Shrew,English
+709792,Taiwan Brown-toothed Shrew,English
 709793,Long-tailed Brown-toothed Shrew,English
 709794,Long-tailed Mountain Shrew,English
 709795,Small Japanese Mole,English
-709796,Senkaku Mole,English
+709796,Ryukyu Mole,English
 709797,Kihaule's Mouse Shrew,English
 709798,Kilimanjaro Mouse Shrew,English
 709799,Transcaucasian Water Shrew,English
@@ -80383,6 +80423,28 @@ taxonID,vernacularName,language
 709817,Kongana Shrew,English
 709818,Rain Forest Shrew,English
 709819,Père David's Mole,English
+709885,Martha's Vineyard short-tailed shrew,English
+709889,Nantucket short-tailed shrew,English
+709895,Dismal Swamp short-tailed shrew,English
+709898,Sherman's short-tailed shrew,English
+709900,Aransas short-tailed shrew,English
+709949,Osorio shrew,English
+709981,Echigo mole,English
+709983,Large Mole,English
+709995,Englewood mole,English
+710005,Presidio mole,English
+710016,Alameda Island mole,English
+710033,eastern shrew,English
+710056,southern pygmy shrew,English
+710066,San Bernardino dusky shrew,English
+710073,Monterey ornate shrew,English
+710074,salt marsh ornate shrew,English
+710075,Suisun ornate shrew,English
+710076,Santa Catalina ornate shrew,English
+710086,southern water shrew,English
+710090,Sado shrew,English
+710095,Destruction Island shrew,English
+710100,salt marsh vagrant shrew,English
 711469,Yellow-bellied Sunbird-Asity,English
 711471,Blue-banded Pitta,English
 711472,Blue-crowned Manakin,English
@@ -80750,9 +80812,18 @@ taxonID,vernacularName,language
 726283,Sea mink,English
 726284,American Mink,English
 726285,Southern Spotted Skunk,English
-726286,Oriental Small-clawed Otter,English
+726286,Asian Small-clawed Otter,English
 726287,Saharan Striped Polecat,English
+726379,Yucatan Long-tailed Tiger Cat,English
 726382,North African Serval,English
+726452,South African Cape Lion,English
+726455,East Brazilian Jaguar,English
+726456,Arizona Jaguar,English
+726457,Central American Jaguar,English
+726458,Yucatan Peninsula Jaguar,English
+726459,West Mexican Jaguar,English
+726461,Paraguay Jaguar,English
+726462,Peruvian Jaguar,English
 726472,Amur tiger,English
 726473,South China tiger,English
 726474,Balinese tiger,English
@@ -80764,7 +80835,9 @@ taxonID,vernacularName,language
 726821,domestic dog,English
 726986,Siberian brown bear,English
 726993,Kodiak bear,English
+727004,Cameroon clawless otter,English
 727015,Sonoran river otter,English
+727490,Congo clawless otter,English
 727499,Aruba Island Rattlesnake,English
 727511,Greater Fairy Armadillo,English
 727512,Yepes's Mulita,English
@@ -86921,6 +86994,7 @@ taxonID,vernacularName,language
 931312,Organ Mountains Colorado chipmunk,English
 931313,Oscura Mountain Colorado Chipmunk,English
 931338,speckled sage squirrel,English
+931798,South Forks ground beetle,English
 931844,Florida Metallic Tiger Beetle,English
 931845,Upland Metallic Tiger Beetle,English
 931846,Swift Tiger Beetle,English
@@ -86948,7 +87022,55 @@ taxonID,vernacularName,language
 931868,Saltmarsh Tiger Beetle,English
 931869,Elusive Tiger Beetle,English
 931871,Death Valley Tiger Beetle,English
+931977,snail shell cave beetle,English
+931979,West Wills Valley cave beetle,English
+931981,Benderman's cave beetle,English
+931982,Clifton cave beetle,English
+931983,Limestone Cave beetle,English
+931984,Catherine's cave beetle,English
+931986,Coleman cave beetle,English
+931987,Little Kennedy Cave beetle,English
+931989,deceptive cave beetle,English
+931992,Engelhardt's cave beetle,English
+931993,tapered cave beetle,English
+931995,Fowler's cave beetle,English
+931996,Icebox Cave beetle,English
+931997,Georgian cave beetle,English
+931999,stone-dwelling cave beetle,English
+932000,inquirer cave beetle,English
+932001,Baker Station cave beetle,English
+932002,Rich Mountain cave beetle,English
+932003,Lallemant's cave beetle,English
+932004,Shenandoah cave beetle,English
+932006,long-headed cave beetle,English
+932008,beaver cave beetle,English
+932010,Nickajack Cave beetle,English
+932011,Norton's cave beetle,English
+932012,Cane Creek cave beetle,English
+932014,pale cave beetle,English
+932015,sensabush cave beetle,English
+932016,Noblett's cave beetle,English
+932017,Payne's cave beetle,English
+932020,overlooked cave beetle,English
+932024,Martin cave beetle,English
+932025,Straley's Cave beetle,English
+932026,Roger's cave beetle,English
+932027,Saint Paul cave beetle,English
+932028,Sawmill Hollow cave beetle,English
+932029,New Mammoth Cave cave beetle,English
+932032,Sequoyah Caverns cave beetle,English
+932033,silken cave beetle,English
+932034,Flyn's hick cave beetle,English
+932039,Thomas' cave beetle,English
+932041,Duck River cave beetle,English
+932042,Union County cave beetle,English
+932044,Pseudanophthalmus ventus,English
+932045,Maiden Spring cave beetle,English
+932046,Wallace's cave beetle,English
+932213,Arbuckle Cave ground beetle,English
 932508,tule beetle,English
+932994,Trinity Alps gound beetle,English
+933002,Siskiyou ground beetle,English
 933070,Pan-American Bigheaded Tiger Beetle,English
 933071,White-striped Tiger Beetle,English
 933072,Rouged Tiger Beetle,English
@@ -87001,7 +87123,21 @@ taxonID,vernacularName,language
 933122,Blowout Tiger Beetle,English
 933123,Nogahabar Tiger Beetle,English
 933125,Joaquin Tiger Beetle,English
+933147,Greenbrier Valley cave beetle,English
+933371,Seneca cave beetle,English
 933372,Buff-footed Antechinus,English
 933373,Silver-headed Antechinus,English
 933374,dibbler,English
 933378,kabomani tapir,English
+933412,gracile anchotefflus ground beetle,English
+933417,lesser Adams cave beetle,English
+933418,South Branch Valley cave beetle,English
+933425,Northeastern Jaguar,English
+933450,Sao Paula Puma,English
+933455,Venezuelan Puma,English
+933456,East Brazilian Puma,English
+933460,Boto-do-Araguaia,Portuguese
+933469,southern pygmy shrew,English
+933470,Homossassa shrew,English
+933471,Sherman's short-tailed shrew,English
+933472,Tuckahoe masked shrew,English
