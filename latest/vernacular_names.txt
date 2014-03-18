@@ -53663,7 +53663,6 @@ taxonID,vernacularName,language
 511838,Schoolcraft's cryptantha,English
 511869,Warner's dodder,English
 511900,deepwoods fern,English
-511902,giant sumpweed,English
 511908,cranichis-like ladies'-tresses,English
 511909,tall ladies'-tresses,English
 511937,Louis' swallow-wort,English
@@ -79057,6 +79056,7 @@ taxonID,vernacularName,language
 678328,The travertine beetles,English
 678367,polypore fungus beetles,English
 678380,antlike leaf beetles,English
+678449,small carrion beetles,English
 678803,hispines,English
 678853,tiger beetles,English
 678962,Kurrichane Buttonquail,English
@@ -80957,6 +80957,7 @@ taxonID,vernacularName,language
 770799,beaked whales,English
 770889,Omurai's Whale,English
 770938,costero,Spanish
+770986,Deraniyagala's Beaked Whale,English
 771132,Australian snubfin dolphin,English
 771133,Southern Sei Whale,English
 771137,Black Sea Common Dolphin,English
@@ -87141,3 +87142,6 @@ taxonID,vernacularName,language
 933470,Homossassa shrew,English
 933471,Sherman's short-tailed shrew,English
 933472,Tuckahoe masked shrew,English
+933475,giant sumpweed,English
+933476,giant sumpweed,English
+934083,Walleye Pollock,English
