@@ -28406,8 +28406,8 @@ taxonID,vernacularName,language
 115070,snakeflies,English
 115071,raphidiid snakeflies,English
 115072,inocelliid snakeflies,English
-115075,dusty-wings,English
-115077,ithonid lacewings,English
+115075,dusty lacewings,English
+115077,moth lacewings,English
 115079,mantidflies,English
 115080,brown lacewings,English
 115081,green lacewings,English
@@ -78865,6 +78865,8 @@ taxonID,vernacularName,language
 665414,Dusky Gopher Frog,English
 665702,Baumgardner's Snouted Treefrog,English
 666109,snakeflies,English
+666231,San Francisco lacewing,English
+666430,Cheese-weed moth lacewing,English
 666677,hustler cockroach,English
 666678,smokybrown cockroach,English
 666679,Apache sand cockroach,English
@@ -87145,3 +87147,10 @@ taxonID,vernacularName,language
 933475,giant sumpweed,English
 933476,giant sumpweed,English
 934083,Walleye Pollock,English
+935733,Cookes' brown lacewing,English
+935740,Haleakala micromus brown lacewing,English
+935742,lobe-wing brown lacewing,English
+935749,Swezey's brown lacewing,English
+935750,Usinger's brown lacewing,English
+935825,Usinger's brown lacewing,English
+935862,Molokai antlion,English
