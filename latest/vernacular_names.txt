@@ -25934,6 +25934,11 @@ taxonID,vernacularName,language
 82721,pseudoscorpions,French
 82731,sun spiders,English
 82732,arañas,Spanish
+82737,orbweavers,English
+82738,garden orbweavers,English
+82739,silver garden spider,English
+82740,cobweb weavers,English
+82743,sheetweb weavers,English
 82753,tabijuá,Portuguese
 82754,tiques,French
 82765,ticks,English
@@ -28462,7 +28467,7 @@ taxonID,vernacularName,language
 117288,Eufala Skipper,English
 117290,Long-tailed Skipper,English
 117291,giant skippers,English
-117293,sphinx moths,Common name
+117293,sphinx moths,English
 117295,wasp moths,English
 117296,nolid moths,Common name
 117297,tiger moths,Common name
@@ -28559,17 +28564,17 @@ taxonID,vernacularName,language
 117494,Harris threespot,English
 117507,pericopid moths,English
 117508,oakworms,English
-117510,california oakworm,Common name
-117511,prominents,Common name
-117513,chenille du noyer,French
-117514,azalea caterpillar,Common name
-117515,chenille à col jaune,French
-117517,hétérocampe de l'érable,French
-117518,variable oakleaf caterpillar,Common name
-117520,poplar tentmaker,Common name
-117522,chenille à bosse rouge,French
-117523,chenille licorne,French
-117525,chenille à bosse orangée,French
+117510,California oakworm,English
+117511,prominents,English
+117513,Walnut Caterpillar Moth,English
+117514,Major Datana,English
+117515,Yellow-necked Caterpillar Moth,English
+117517,Maple Prominent,English
+117518,variable oakleaf caterpillar,English
+117520,poplar tentmaker,English
+117522,Red-humped Caterpillar Moth,English
+117523,Unicorn Caterpillar Moth,English
+117525,Orange-humped Mapleworm,English
 117526,tussock moths,English
 117528,gypsy moth,English
 117530,satin moth,English
@@ -28587,7 +28592,7 @@ taxonID,vernacularName,language
 117547,southwestern tent caterpillar,Common name
 117548,sonoran tent caterpillar,Common name
 117550,papillon à épaulettes,French
-117551,royal moths,Common name
+117551,royal moths,English
 117553,thyatirid moths,English
 117554,hook-tip moths,English
 117556,géomètres,French
@@ -33440,19 +33445,19 @@ taxonID,vernacularName,language
 168113,bluespotted sunfish,English
 168117,little sunfish,English
 168130,eared sunfishes,English
-168131,redbreast sunfish,English
-168132,pez sol,Spanish
-168138,warmouth,English
+168131,crapet rouge,French
+168132,crapet vert,French
+168138,Warmouth,English
 168139,warmouth,English
-168141,crapet arlequin,French
-168144,crapet-soleil,French
-168151,orangespotted sunfish,English
-168152,dollar sunfish,English
-168153,crapet à longues oreilles,French
-168154,mojarra oreja roja,Spanish
-168155,spotted sunfish,English
-168156,bantam sunfish,English
-168157,redspotted sunfish,English
+168141,Bluegill,English
+168144,Pumpkinseed,English
+168151,Orangespotted Sunfish,English
+168152,Dollar Sunfish,English
+168153,Longear Sunfish,English
+168154,Redear Sunfish,English
+168155,mojarra manchada,Spanish
+168156,Bantam Sunfish,English
+168157,Redspotted Sunfish,English
 168158,largemouth basses,English
 168159,smallmouth bass,English
 168160,achigan à grande bouche,French
@@ -41538,6 +41543,8 @@ taxonID,vernacularName,language
 180723,peccaries,English
 180724,peccaries,English
 180725,Pecari de collar,Spanish
+181129,nursery web spiders,English
+181130,fishing spiders,English
 181151,coral gall crab,English
 181178,Red Rock Skimmer,English
 181183,Little Bluet,English
@@ -42936,6 +42943,8 @@ taxonID,vernacularName,language
 185480,Gerrard's aristea,English
 185486,Maguey áspero,Spanish
 185494,bamboo orchid,English
+185556,stealthy ground spiders,English
+185802,parson spider,English
 185829,Kauai cave amphipod,English
 185977,aeshne du Canada,French
 185978,Lake Darner,English
@@ -43077,20 +43086,19 @@ taxonID,vernacularName,language
 188611,Common Branded Skipper,English
 188613,hespérie boréale,French
 188615,peck's skipper,English
-188617,sweet-potato hornworm,Common name
-188619,waved sphinx,English
-188621,sphinx du Canada,French
+188617,Sweet-potato Hornworm,English
+188619,Waved Sphinx,English
+188621,Canadian Sphinx,English
 188622,sphinx du laurier,French
 188623,sphinx du pommier,French
 188624,sphinx du cerisier,French
-188626,twinspot sphinx,English
-188627,sphinx du saule,French
+188626,Twin Spotted Sphinx,English
+188627,One-eyed Sphinx,English
 188629,sphinx aveugle,French
-188631,modest sphinx,Common name
-188633,sphinx colibri,French
-188635,yellowbanded day sphinx,English
-188637,sphinx du gaillet,French
-188639,dark-veined deilephila,Common name
+188633,Hummingbird Clearwing,English
+188635,Yellowbanded Day Sphinx,English
+188637,Galium Sphinx,English
+188639,Dark-veined Deilephila,English
 188645,spotted tussock moth,Common name
 188646,spotless fall webworm,Common name
 188649,yellow-edges lexis,Common name
@@ -43163,8 +43171,8 @@ taxonID,vernacularName,language
 189022,découpure,French
 189038,spruce harlequin,English
 189041,marsh oblique-barred moth,Common name
-189044,oak-maple humped caterpillar,English
-189053,yellowlined caterpillar,English
+189044,Morning-glory Prominent,English
+189053,White-dotted Prominent,English
 189057,polyphème d'Amérique,French
 189065,masked birch caterpillar,English
 189066,warty birch caterpillar,English
@@ -44793,7 +44801,7 @@ taxonID,vernacularName,language
 198391,Nicklin's pearly mussel,English
 198394,tan riffleshell,English
 198961,Tooth Cave pseudoscorpion,English
-199910,tooth cave spider,Common name
+199908,cave spiders,English
 199948,banded spiny lobster,English
 199949,ula hiwa,Hawaiian
 199950,Aesop slipper lobster,English
@@ -44892,6 +44900,8 @@ taxonID,vernacularName,language
 201288,Uncompahgre fritillary Butterfly,English
 201290,Edith's Checkerspot,English
 201292,bay checkerspot Butterfly,English
+201313,Kern Primrose Sphinx Moth,English
+201315,Wiest's Sphinx Moth,English
 201869,tiger fish (holothurian),Common name
 201871,lolly fish (holothurian),Common name
 201876,sand fish,Common name
@@ -85388,6 +85398,321 @@ taxonID,vernacularName,language
 847696,prostrate blue violet,English
 847702,three-lobe violet,English
 847704,nani wai'ale'ale,English
+847705,mouse spiders,English
+847706,anapid spiders,English
+847707,foldingdoor spiders,English
+847708,archaeid spiders,English
+847709,purseweb spiders,English
+847710,austrochilid spiders,English
+847711,brushfooted trapdoor spiders,English
+847712,caponiid spiders,English
+847713,trapdoor spiders,English
+847714,cyatholipid spiders,English
+847715,cyrtaucheiid spiders,English
+847716,ogrefaced spiders,English
+847717,desertshrub spiders,English
+847718,funnelweb spiders,English
+847719,drymusid spiders,English
+847720,dysderid spiders,English
+847721,eresid spiders,English
+847722,crevice weavers,English
+847723,gradungulid spiders,English
+847724,longspinneret spiders,English
+847725,Australian funnelweb spiders,English
+847726,holarchaeid spiders,English
+847727,huttoniid spiders,English
+847728,lampshade weavers,English
+847729,armored trapdoor spiders,English
+847730,segmented trapdoor spiders,English
+847731,wolf spiders,English
+847732,shield spiders,English
+847733,mecicobothriid spiders,English
+847734,mecysmaucheniid spiders,English
+847735,micropholcommatid spiders,English
+847736,microstigmatid spiders,English
+847737,tree trapdoor spiders,English
+847738,pirate spiders,English
+847739,dwarf cobweb weavers,English
+847740,tubetrapdoor spiders,English
+847742,cave cobweb spiders,English
+847743,ochyroceratid spiders,English
+847744,flatmesh weavers,English
+847745,dwarf sixeyed spiders,English
+847746,orsolobid spiders,English
+847747,palpimanid spiders,English
+847748,pararchaeid spiders,English
+847749,baldlegged spiders,English
+847750,periegopid spiders,English
+847751,cellar spiders,English
+847752,pimoid spiders,English
+847753,plectreurid spiders,English
+847754,spitting spiders,English
+847755,tunnel spiders,English
+847756,sixeyed sicariid spiders,English
+847758,stenochilid spiders,English
+847759,dwarf orbweavers,English
+847761,synotaxid spiders,English
+847762,telemid spiders,English
+847763,tetrablemmid spiders,English
+847764,longjawed orbweavers,English
+847765,tarantulas,English
+847766,ray orbweavers,English
+847767,hackled orbweavers,English
+847901,angulate orbweavers,English
+847913,dewdrop spiders,English
+848180,trashline orbweavers,English
+848196,tentweb weavers,English
+848405,burrowing wolf spiders,English
+848644,widow spiders,English
+848684,recluse spiders,English
+848735,bolas spiders,English
+848908,spotted orbweavers,English
+849026,thickjawed orbweavers,English
+849078,thinlegged wolf spiders,English
+849140,pirate wolf spiders,English
+849351,sand recluse spiders,English
+849361,striped orbweavers,English
+849511,longjawed orbweavers,English
+849767,starbellied orbweaver,English
+849840,whitebanded tarantula,English
+851047,turret spider,English
+851061,Texas tan tarantula,English
+851068,Mexican bloodleg tarantula,English
+851073,Costa Rican chestnutzebra tarantula,English
+851075,desert blond tarantula,English
+851089,California ebony tarantula,English
+851098,Texas brown tarantula,English
+851112,Rio Grande gold tarantula,English
+851135,Costa Rican zebra tarantula,English
+851346,barn orbweaver,English
+851395,cross orbweaver,English
+851555,marbled orbweaver,English
+851781,lattice orbweaver,English
+851795,shamrock orbweaver,English
+851857,sixspotted orbweaver,English
+852097,yellow garden spider,English
+852119,Florida garden spider,English
+852161,banded garden spider,English
+852467,twospotted cobweb spider,English
+852538,Sydney funnelweb spider,English
+852659,pinktoe tarantula,English
+852679,yellowbanded tarantula,English
+852682,whitetoe tarantula,English
+852690,Ecuadorian purple tarantula,English
+852702,Peruvian pinktoe tarantula,English
+852704,Antilles pinktoe tarantula,English
+852965,California trapdoor spider,English
+852979,curlyhair tarantula,English
+852981,Costa Rican red tarantula,English
+852983,Mexican flameknee tarantula,English
+852985,Mexican orangebeauty tarantula,English
+852986,Mexican fireleg tarantula,English
+852988,Mexican redleg tarantula,English
+852989,Yucatan rustrump tarantula,English
+852993,Mexican pink tarantula,English
+852996,Mexican redknee tarantula,English
+852997,Mexican redrump tarantula,English
+853605,greaterhorned tarantula,English
+853610,straighthorned tarantula,English
+853706,Burmese mustard tarantula,English
+853727,Asian mustard tarantula,English
+853761,greenbottle blue tarantula,English
+853995,king baboon tarantula,English
+854169,cinnamon tarantula,English
+854494,Costa Rican tigerrump tarantula,English
+854549,Asian chevron tarantula,English
+854680,global tentweb weaver,English
+855822,marbled cobweb spider,English
+855899,skeleton tarantula,English
+856357,whitecollared tarantula,English
+856440,humpbacked orbweaver,English
+856773,bowl and doily weaver,English
+856886,spinybacked orbweaver,English
+857256,Brazilian graysmoke tarantula,English
+857259,Argentinean rose tarantula,English
+857264,Pampas tawnyred tarantula,English
+857265,Entre Rios tarantula,English
+857271,Brazilian black tarantula,English
+857273,Chilean rose tarantula,English
+857389,cobalt blue tarantula,English
+857391,Thailand black tarantula,English
+857825,Togo starburst tarantula,English
+858219,marbled cellar spider,English
+858223,Trinidad olive tarantula,English
+858398,triangle weaver,English
+858412,Cameroon brown tarantula,English
+858415,Cameroon red tarantula,English
+858420,Nigerian rustred tarantula,English
+858635,Brazilian purple tarantula,English
+858860,southern house spider,English
+859034,furrow orbweaver,English
+859037,bridge orbweaver,English
+859082,Brazilian salmon tarantula,English
+859097,stripeleg tarantula,English
+859122,red widow,English
+859130,brown widow,English
+859132,western black widow,English
+859138,southern black widow,English
+859150,northern black widow,English
+859587,orchard orbweaver,English
+859842,Apache recluse,English
+859845,Arizona recluse,English
+859852,Big Bend recluse,English
+859863,desert recluse,English
+859864,Texas recluse,English
+859884,Grand Canyon recluse,English
+859887,Chilean recluse,English
+859892,Martha recluse,English
+859901,Baja recluse,English
+859907,brown recluse,English
+859911,Mediterranean recluse,English
+859913,Russell recluse,English
+859914,Tucson recluse,English
+860342,lined orbweaver,English
+860370,greenlegged orbweaver,English
+860406,tuftlegged orbweaver,English
+860714,basilica orbweaver,English
+860761,Costa Rican redleg tarantula,English
+860763,Colombian giant tarantula,English
+860765,Ecuadorian brownvelvet tarantula,English
+861379,labyrinth orbweaver,English
+861425,Costa Rican suntiger tarantula,English
+861555,spined micrathena,English
+861576,white micrathena,English
+861596,arrowshaped micrathena,English
+862424,Government Canyon Bat Cave spider,English
+862426,Tooth Cave spider,English
+862467,arabesque orbweaver,English
+862508,western spotted orbweaver,English
+862585,golden silk orbweaver,English
+862657,filmy dome spider,English
+863604,Asian mahogany tarantula,English
+863961,Bolivian blueleg tarantula,English
+863965,Colombian brown tarantula,English
+863967,Colombian purplebloom tarantula,English
+863968,common bluebloom tarantula,English
+863969,Colombian pinkbloom tarantula,English
+863972,redbloom tarantula,English
+864144,common house spider,English
+865102,longbodied cellar spider,English
+865189,Haitian brown tarantula,English
+865481,hammock spider,English
+865616,Sri Lankan ornamental tarantula,English
+865617,Salem ornamental tarantula,English
+865622,fringed ornamental tarantula,English
+865625,Indian ornamental tarantula,English
+865626,redslate ornamental tarantula,English
+865629,ivory ornamental tarantula,English
+865875,Trinidad chevron tarantula,English
+865879,suntiger tarantula,English
+865883,Costa Rican orangemouth tarantula,English
+866025,Mombasa golden starburst tarantula,English
+866821,Javan yellowknee tarantula,English
+866826,New Guinea brown tarantula,English
+867225,shortbodied cellar spider,English
+867517,false black widow,English
+867992,orange chevron tarantula,English
+867994,Trinidad mahogany tarantula,English
+868385,silver longjawed orbweaver,English
+868631,goliath pinkfoot tarantula,English
+868632,goliath birdeater tarantula,English
+869999,featherlegged orbweaver,English
+870583,Colombian lesserblack tarantula,English
+871419,featherleg tarantula,English
+871511,funnel weavers,English
+871512,hackledmesh weavers,English
+871513,ammoxenid spiders,English
+871514,amphinectid spiders,English
+871515,ghost spiders,English
+871516,chummid spiders,English
+871517,cithaeronid spiders,English
+871518,sac spiders,English
+871519,antmimic spiders,English
+871520,wandering spiders,English
+871521,water spiders,English
+871522,scuttling spiders,English
+871523,desid spiders,English
+871524,meshweavers,English
+871525,gallieniellid spiders,English
+871526,hahniid spiders,English
+871527,dusty desert spiders,English
+871528,whitetailed spiders,English
+871529,liocranid spiders,English
+871530,prowling spiders,English
+871531,nicodamid spiders,English
+871532,lynx spiders,English
+871533,running crab spiders,English
+871534,phyxelidid spiders,English
+871535,prodidomid spiders,English
+871536,psechrid spiders,English
+871537,jumping spiders,English
+871538,selenopid crab spiders,English
+871539,senoculid spiders,English
+871540,giant crab spiders,English
+871541,stiphidiid spiders,English
+871542,tengellid spiders,English
+871543,crab spiders,English
+871544,titanoecid spiders,English
+871545,trechaleid spiders,English
+871546,trochanteriid spiders,English
+871547,zodariid spiders,English
+871548,zorid spiders,English
+871549,zorocratid spiders,English
+871550,zoropsid spiders,English
+871575,grass spiders,English
+871749,bark crab spiders,English
+871868,longlegged sac spiders,English
+871898,leafcurling sac spiders,English
+872401,translucent green jumpers,English
+872521,flower crab spiders,English
+872670,leaflitter crab spiders,English
+873205,slender crab spiders,English
+873341,ground crab spiders,English
+874490,European water spider,English
+875519,twobanded antmimic,English
+875530,redspotted antmimic,English
+875545,Gertsch antmimic,English
+875900,agrarian sac spider,English
+876148,Robber Baron Cave meshweaver,English
+876193,Madla Cave meshweaver,English
+876262,Braken Bat Cave meshweaver,English
+876263,Government Canyon Bat Cave meshweaver,English
+876265,Warton meshweaver,English
+876501,Kaston sac spider,English
+877450,Florida false wolf spider,English
+878558,sixspotted fishing spider,English
+879457,bronze jumper,English
+881327,huntsman spider,English
+881342,garden ghost spider,English
+881457,corner funnel weaver,English
+882732,magnolia green jumper,English
+882778,dimorphic jumper,English
+883105,Pike slender jumper,English
+883230,northern crab spider,English
+883236,celer crab spider,English
+883371,gray wall jumper,English
+883786,goldenrod crab spider,English
+883799,whitebanded crab spider,English
+884914,golden huntsman spider,English
+885521,striped lynx spider,English
+885523,western lynx spider,English
+886122,antmimic jumper,English
+886159,peppered jumper,English
+886368,green lynx spider,English
+886433,apex mesh weaver,English
+886506,bold jumper,English
+886516,cardinal jumper,English
+886532,Johnson jumper,English
+886554,regal jumper,English
+887219,nursery web spider,English
+887361,pantropical jumper,English
+888389,zebra jumper,English
+890118,hobo spider,English
+890143,barn funnel weaver,English
+890145,giant house spider,English
+892127,elegant crab spider,English
+892350,threebanded crab spider,English
+893295,hammerjawed jumper,English
 893776,Persian carpet flower,English
 893779,desert rose,English
 893801,plateau rocktrumpet,English
@@ -87154,3 +87479,208 @@ taxonID,vernacularName,language
 935750,Usinger's brown lacewing,English
 935825,Usinger's brown lacewing,English
 935862,Molokai antlion,English
+935940,cryptothelid spiders,English
+935941,halid spiders,English
+935942,neolanid spiders,English
+935943,African redrump tarantula,English
+935944,celer crab spider,English
+935945,common house spider,English
+935946,curvedhorn tarantula,English
+935947,northern crab spider,English
+935948,turret spider,English
+935949,twospotted cobweb spider,English
+936015,Blanchard's Sphinx Moth,English
+936018,Tantalus Sphinx,English
+936019,Titan Sphinx,English
+936020,sweet potato hornworm,English
+936021,Walnut Sphinx,English
+936022,Nessus Sphinx,English
+936025,Grote's Sphinx,English
+936028,Four-horned Sphinx,English
+936029,Catalpa Hornworm,English
+936030,Hagen's Sphinx,English
+936034,Giant Sphinx,English
+936035,Duponchel's Sphinx,English
+936036,Oleander Hawk Moth,English
+936038,Azalea Sphinx,English
+936039,Hog Sphinx,English
+936040,Hydrangea Sphinx,English
+936041,Lettered Sphinx,English
+936042,Elephant Hawk,English
+936043,Pawpaw Sphinx,English
+936044,Hartweg's Sphinx,English
+936045,Mournful Sphinx,English
+936047,Alope Sphinx,English
+936048,Cramer's Sphinx,English
+936050,Ello Sphinx,English
+936053,Obscure Sphinx,English
+936056,Achemon Sphinx,English
+936058,Lesser Vine Sphinx,English
+936059,Intermediate Sphinx,English
+936060,Gaudy Sphinx,English
+936062,Pandora Sphinx,English
+936063,Satellite Sphinx,English
+936065,Vine Sphinx,English
+936068,Snowberry Clearwing,English
+936069,Graceful Clearwing,English
+936070,Rocky Mountain clearwing,English
+936071,Hippotion Sphinx Moth,English
+936072,Vine Hawk Moth,English
+936075,White-lined Sphinx,English
+936076,Perkins' Sphinx,English
+936079,Cypress Sphinx,English
+936080,Northern Pine Sphinx,English
+936081,Southern Pine Sphinx,English
+936082,Gulf Pine Sphinx,English
+936083,Sage Sphinx,English
+936084,Hermit Sphinx,English
+936088,Hummingbird Hawk Moth,English
+936089,False-windowed Sphinx,English
+936091,Blackburn's Sphinx Moth,English
+936094,Ash Sphinx,English
+936098,Tomato Hornworm,English
+936099,Rustic Sphinx,English
+936100,Tobacco Hornworm,English
+936102,Fig Sphinx,English
+936104,Modest Sphinx,English
+936105,Western Poplar Sphinx,English
+936106,Huckleberry Sphinx,English
+936107,Blind-eyed Sphinx,English
+936108,Small-eyed Sphinx,English
+936109,Trumpet Vine Sphinx,English
+936110,Half-blind Sphinx,English
+936113,Proud Sphinx,English
+936115,Terloo's Sphinx,English
+936116,Vega Sphinx,English
+936117,Streaked Sphinx,English
+936119,Gray Hawk Moth,English
+936121,Salicet sphinx,English
+936122,Abbott's Sphinx,English
+936124,Asella Sphinx,English
+936125,Great Ash Sphinx,English
+936128,Franck's Sphinx,English
+936130,Incense Cedar Sphinx,English
+936131,Clemen's Sphinx,English
+936132,Elegant Sphinx,English
+936134,Sequoia Sphinx,English
+936135,Snowberry Sphinx,English
+936136,Yam Hawk Moth,English
+936137,Fabulous Green Sphinx of Kauai,English
+936141,Pluto Sphinx,English
+936143,Tersa Sphinx,English
+936145,Mexican Agapema,English
+936146,Manitoba Oakworm Moth,English
+936147,Pink Striped Oakworm Moth,English
+936148,Peigler's Oakworm Moth,English
+936149,Hornless Oakworm Moth,English
+936150,Florida Oakworm Moth,English
+936151,Tamaulipan Agapema,English
+936152,Randa's Eyed Silkmoth,English
+936153,Rocky Mountain Agapema,English
+936154,Spiny Oakworm Moth,English
+936155,Hualapai Buckmoth,English
+936156,Arizona Polyphemus Moth,English
+936157,Cecrops Eyed Silkmoth,English
+936158,Io Moth,English
+936159,Iris Eyed Silkmoth,English
+936160,Louisiana Eyed Silkmoth,English
+936161,Patagonia Eyed Silkmoth,English
+936164,Oslar's Imperial Moth,English
+936165,Oslar's Oakworm Moth,English
+936166,Imperial Moth,English
+936167,Pandora Pinemoth,English
+936168,Lusk's Pinemoth,English
+936169,Doris' Pinemoth,English
+936170,Splendid Royal Moth,English
+936171,Pine-devil Moth,English
+936172,Hickory Horned Devil,English
+936173,Sweetbay Silkmoth,English
+936174,Tulip Tree Silkmoth,English
+936175,Velda Pinemoth,English
+936176,Burns' Buckmoth,English
+936177,Rosy Maple Moth,English
+936178,Luna Moth,English
+936179,Bisected Honey Locust Moth,English
+936180,Calleta Silkmoth,English
+936181,Western Sheepmoth,English
+936182,Chinati Sheepmoth,English
+936183,Electra Buckmoth,English
+936184,Zephyr Eyed Silkmoth,English
+936185,Hera Sheepmoth,English
+936186,Orange-striped Oakworm Moth,English
+936187,Grote's Buckmoth,English
+936188,Griffin's Sheepmoth,English
+936189,Promethea Silkmoth,English
+936190,Slosser's Buckmoth,English
+936192,Juno Buckmoth,English
+936194,Ceanothus Silkmoth,English
+936195,Columbia Silkmoth,English
+936196,Cecropia Silkmoth,English
+936197,Stone's Buckmoth,English
+936198,Range Caterpillar Moth,English
+936199,Nevada Buckmoth,English
+936200,Eastern Buckmoth,English
+936201,Neumoegen's Buckmoth,English
+936202,New England Buckmoth,English
+936204,Walter's Saturnia Moth,English
+936206,Tricolor Buckmoth,English
+936211,White-streaked Saturnia Moth,English
+936212,Ailanthus Silkmoth,English
+936214,Lebeau's Rothschildia,English
+936215,Nuttall's Sheepmoth,English
+936216,Honey Locust Moth,English
+936217,Honey Locust Moth,English
+936218,Bisected Honey Locust Moth,English
+936232,Sage Sphinx,English
+936241,Hawaiian Sphinx,English
+936251,Imperial Moth,English
+936257,Eastern Buckmoth,English
+936259,Magnificent Sheepmoth,English
+936260,Glover's Silkmoth,English
+936264,Texas Buckmoth,English
+936266,Grote's Buckmoth,English
+936267,Columbia Silkmoth,English
+936268,Imperial Moth,English
+936286,Dawn-land sedge,English
+936691,Chiapan Beaded Lizard,English
+936692,Guatemalan Beaded Lizard,English
+936693,Rio Fuerte Beaded Lizard,English
+936744,Black-Etched Prominent,English
+936745,Sigmoid Prominent,English
+936748,poplar tentmaker,English
+936753,Black-Spotted Prominent,English
+936755,Gray-Patched Prominent,English
+936756,Angus's Datana,English
+936758,Contracted Datana,English
+936760,Drexel's Datana,English
+936763,Spotted Datana,English
+936768,Linden Prominent,English
+936771,White Furcula,English
+936772,Gray Furcula,English
+936776,Zigzag Furcula Moth,English
+936779,Common Gluphisia,English
+936789,Wavy-lined Heterocampa,English
+936794,Oblique Heterocampa,English
+936799,Small Heterocampa,English
+936800,White-blotched Heterocampa,English
+936805,Pink Prominent,English
+936810,Georgian Prominent,English
+936819,Double-lined Prominent,English
+936820,Variable Oakleaf Caterpillar Moth,English
+936822,Mottled Prominent,English
+936823,Drab Prominent,English
+936825,Double-toothed Prominent,English
+936833,Elegant Prominent,English
+936838,White-Streaked Prominent,English
+936843,Red-washed Prominent,English
+936845,Angulose Prominent,English
+936846,Oval-based Prominent,English
+936847,Chocolate Prominent,English
+936848,Black-rimmed Prominent,English
+936855,Plain Schizura,English
+936856,Chestnut Schizura,English
+936859,Black-blotched Schizura,English
+936860,White-headed Prominent,English
+936883,Black-Spotted Prominent,English
+936885,Double-lined Prominent,English
+936897,crapet du nord,French
