@@ -28469,99 +28469,98 @@ taxonID,vernacularName,language
 117291,giant skippers,English
 117293,sphinx moths,English
 117295,wasp moths,English
-117296,nolid moths,Common name
-117297,tiger moths,Common name
+117296,nolid moths,English
+117297,tiger moths,English
 117299,chenille des marais salants,French
-117301,sycamore tussock moth,Common name
-117302,pale tussock moth,Common name
+117301,sycamore tussock moth,English
 117304,chenille à tente estivale,French
-117306,silverspotted tiger moth,Common name
+117306,silverspotted tiger moth,English
 117307,halysidote du caryer,French
-117308,halysidote maculée,French
+117308,Yellow-Spotted Tiger Moth,English
 117310,isia isabelle,French
-117312,diacrisie de Virginie,French
+117312,Virginia tiger moth,English
 117314,tyria,French
 117316,arctiide décoré,French
 117317,forester moths,English
 117318,vers gris,French
-117328,pickerelweed borer,Common name
-117337,croton caterpillar,Common name
-117339,elder shoot borer,Common name
-117341,brown cotton leafworm,Common name
+117328,pickerelweed borer,English
+117337,croton caterpillar,English
+117339,elder shoot borer,English
+117341,brown cotton leafworm,English
 117343,acronycte d'Amérique,French
 117344,acronycte du tremble,French
 117345,smeared dagger moth,English
 117347,légionnaire noire,French
-117349,larger hawaiian cutworm,Common name
-117350,smaller hawaiian cutworm,Common name
-117351,ver-gris argile,French
+117349,Poko Noctuid Moth,English
+117350,Smaller Hawaiian Cutworm,English
+117351,swordsman dart,English
 117352,ver-gris noir,French
-117353,palesided cutworm,Common name
+117353,Rascal Dart,English
 117354,ver-gris orthogonal,French
-117355,granulate cutworm,Common name
-117357,cotton leafworm,English
-117359,alypie à huit points,French
-117361,ilima moth,Common name
+117355,granulate cutworm,English
+117357,Cotton Moth,English
+117359,Eight-spotted Forester,English
+117361,Ilima Moth,English
 117363,autographe du céleri,French
-117365,velvetbean caterpillar,Common name
-117367,ver-gris à tête jaune,French
+117365,velvetbean caterpillar,English
+117367,Yellow-headed Cutworm Moth,English
 117368,ver-gris vitreux,French
-117370,glassy cutworm,Common name
-117372,roughskinned cutworm,Common name
+117370,black witch,English
+117372,roughskinned cutworm,English
 117374,autographe de la luzerne,French
-117376,bean leafskeletonizer,Common name
+117376,bean leafskeletonizer,English
 117378,arpenteuse du trèfle,French
-117380,florida fern caterpillar,Common name
-117382,green garden looper,Common name
+117380,Florida Callopistria Moth,English
+117382,green garden looper,English
 117384,ver-gris du trèfle,French
 117386,légionnaire grise,French
-117387,ver-gris moissonneur,French
+117387,Reaper Dart,English
 117388,ver-gris à dos rouge,French
 117389,ver-gris blanc,French
-117390,ver-gris rayé,French
+117390,tessellate dart moth,English
 117392,légionnaire des épis de blé,French
-117394,dingy cutworm,Common name
-117396,hawaiian bud moth,Common name
-117397,tobacco budworm,Common name
+117394,dingy cutworm,English
+117396,Hawaiian bud moth,English
+117397,tobacco budworm,English
 117398,ver de l'épi du maïs,French
 117400,noctuelle du lin,French
 117402,potato stem borer,English
-117404,hop looper,Common name
-117405,lantana defoliator caterpillar,Common name
+117404,hop looper,English
+117405,lantana defoliator caterpillar,English
 117407,bristly cutworm,English
-117409,noctuelle des fruits verts,French
-117411,western bean cutworm,Common name
+117409,Ashen Pinion,English
+117411,western bean cutworm,English
 117413,perceur de l'iris,French
 117415,légionnaire bertha,French
 117417,chenille zebrée,French
-117419,lantana stick caterpillar,Common name
+117419,lantana stick caterpillar,English
 117421,ver-gris bronzé,French
-117423,sorghum cutworm,Common name
-117426,lines stalk borer,Common name
-117446,perce-tige de la bardane,French
+117423,sorghum cutworm,English
+117446,Burdock Borer Moth,English
 117447,perce-tige tacheté,French
-117448,columbine borer,Common name
-117450,mango shoot borer,Common name
-117452,poinciana looper,Common name
+117448,columbine borer,English
+117450,mango shoot borer,English
+117452,poinciana looper,English
 117454,ver-gris panaché,French
-117456,green cloverworm,Common name
-117458,monkeypod moth,Common name
+117456,green cloverworm,English
+117458,monkeypod moth,English
 117460,légionnaire uniponctuée,French
-117462,soybean looper,Common name
-117464,melastoma borer,Common name
+117462,soybean looper,English
+117464,melastoma borer,English
 117467,western w-marked cutworm,English
-117469,southern armyworm,Common name
-117470,nutgrass armyworm,Common name
+117469,Southern Armyworm Moth,English
+117470,African armyworm,English
 117471,légionnaire de la betterave,French
 117472,légionnaire d'automne,French
-117473,lawn armyworm,Common name
+117473,lawn armyworm,English
 117474,yellowstriped armyworm,English
 117475,western yellowstriped armyworm,English
-117477,eugenia caterpillar,Common name
+117477,eugenia caterpillar,English
 117479,fausse-arpenteuse du chou,French
 117481,chenille rayée des jardins,French
 117489,merveille verte,French
 117494,Harris threespot,English
+117504,Sharp Angle Shades,English
 117507,pericopid moths,English
 117508,oakworms,English
 117510,California oakworm,English
@@ -43099,35 +43098,36 @@ taxonID,vernacularName,language
 188635,Yellowbanded Day Sphinx,English
 188637,Galium Sphinx,English
 188639,Dark-veined Deilephila,English
-188645,spotted tussock moth,Common name
-188646,spotless fall webworm,Common name
-188649,yellow-edges lexis,Common name
-188651,ruby tiger moth,Common name
-188653,virgin tiger moth,Common name
-188656,little virgin moth,Common name
-188658,yellow woolly bear,Common name
-188660,st. lawrence tiger moth,Common name
+188645,spotted tussock moth,English
+188646,spotless fall webworm,English
+188649,yellow-edges lexis,English
+188651,ruby tiger moth,English
+188653,virgin tiger moth,English
+188656,Little Virgin Moth,English
+188658,yellow woolly bear,English
+188660,St. Lawrence tiger moth,English
 188662,great tiger moth,English
-188663,browntailed diver,Common name
+188663,browntailed diver,English
 188664,alder dagger moth,English
 188665,poplar dagger moth,English
-188666,birch dagger moth,English
 188668,gray dagger moth,English
 188670,fragile dagger moth,English
 188672,willow dagger moth,English
 188680,fireweed caterpillar,English
+188687,Bordered Apamea,English
 188693,ver-gris arénicole,French
-188694,polished dart,Common name
-188698,silly dart,Common name
-188699,dissonant dart,Common name
-188702,fillet dart,Common name
-188713,nonconformist,Common name
-188726,close-banded demas,English
-188728,tufted spruce caterpillar,English
+188694,polished dart,English
+188698,silly dart,English
+188699,dissonant dart,English
+188702,fillet dart,English
+188712,Pine Pinion Moth,English
+188713,Thaxter's pinion moth,English
+188719,Bracken Borer Moth,English
+188728,black zigzag moth,English
 188730,yellowmarked caterpillar,English
 188732,great gray dart,English
 188733,great brown dart,English
-188735,flame-shouldered dart,English
+188735,Flame Shoulder,English
 188740,reddish speckled dart,English
 188748,soothsayer dart,English
 188763,spotted cutworm,English
@@ -43138,27 +43138,28 @@ taxonID,vernacularName,language
 188799,fausse-likenée du robinier,French
 188803,red cutworm,English
 188804,greater red dart,English
-188808,clover cutworm,Common name
-188841,small dark yellow underwing,Common name
-188842,broad-bordered white underwing,Common name
+188841,small dark yellow underwing,English
+188842,Broad-bordered White Underwing,English
 188856,noctuelle des graminées,French
 188858,rusty whitesided caterpillar,English
 188859,speckled green fruitworm,English
 188861,zebra caterpillar,English
-188871,goldenrod cutworm,English
+188865,Shoulder-striped Wainscot,English
+188871,intermediate Cucullia,English
 188875,noctuelle du chèvrefeuille,French
-188894,goldenrod brindle,Common name
-188896,red swordgrass moth,Common name
-188897,dot-and-dash swordgrass moth,Common name
-188914,red-lined quaker,Common name
-188920,pin-barred sallow,Common name
+188894,Goldenrod Brindle,English
+188896,American Swordgrass Moth,English
+188897,dot-and-dash swordgrass moth,English
+188914,red-lined quaker,English
+188918,Bicolored Sallow,English
+188920,pin-barred sallow,English
 188927,glassy cutworm,English
-188928,northern arches,Common name
+188928,northern arches,English
 188945,rustic moth,English
 188954,noctuelle cuivrée,French
-188955,mouse,Common name
+188955,mouse moth,English
 188961,noctuelle des atocas,French
-188966,fir harlequin,English
+188966,variegated midget,English
 188973,rose budworm,English
 188994,angulated cutworm,English
 188996,spruce climbing cutworm,English
@@ -43167,10 +43168,10 @@ taxonID,vernacularName,language
 189016,likenée blanche,French
 189017,oncemarried underwing,English
 189018,likenée Briseis,French
-189020,black witch,Common name
-189022,découpure,French
+189020,black witch,English
+189022,the herald,English
 189038,spruce harlequin,English
-189041,marsh oblique-barred moth,Common name
+189041,marsh oblique-barred moth,English
 189044,Morning-glory Prominent,English
 189053,White-dotted Prominent,English
 189057,polyphème d'Amérique,French
@@ -80236,6 +80237,10 @@ taxonID,vernacularName,language
 707816,Masked Finfoot,English
 707817,Blue Crane,English
 708266,sapwood timberworm,English
+709248,satin moth,English
+709249,gypsy moth,English
+709250,Brown-tail,English
+709251,White-marked Tussock Moth,English
 709271,leucospids,English
 709288,platygastrids,English
 709290,ampulicid wasps,English
@@ -80977,10 +80982,13 @@ taxonID,vernacularName,language
 771140,Black Sea Harbor Porpoise,English
 771147,Indo-Pacific common dolphin,English
 771148,long-beaked common dolphin,English
+771359,Coastal Heathland Cutworm,English
+771375,Pale-banded Dart,English
+771397,Venus flytrap noctuid,English
 771417,pink spotted dart,English
 771426,clandestine dart,English
 771442,spotted cutworm,English
-771447,chameleon caterpillar,English
+771447,Southern Variable Dart,English
 771466,rosy dart,English
 772430,Holbiche noire,French
 772457,phascolionids,English
@@ -87684,3 +87692,197 @@ taxonID,vernacularName,language
 936883,Black-Spotted Prominent,English
 936885,Double-lined Prominent,English
 936897,crapet du nord,French
+936901,Aldabra Giant Tortoise,English
+936912,Arnold's Giant Tortoise,English
+936913,Daudin's Giant Tortoise,English
+936914,Aldabra Giant Tortoise,English
+936915,Seychelles Giant Tortoise,English
+936920,Black-tailed Antechinus,English
+937590,Afflicted dagger moth,English
+937591,Barrens Dagger Moth,English
+937596,acronycte du bouleau,French
+937602,Doll's Dagger Moth,English
+937605,Exiled Dagger Moth,English
+937607,Corylus Dagger Moth,English
+937668,Buchholz's dart moth,English
+937680,Old Man Dart,English
+937741,clover cutworm,English
+937765,Green Cutworm,English
+937817,Rice Worm Moth,English
+937839,Wood-colored Apamea Moth,English
+937887,Golden Looper Moth,English
+937961,Straight Lined Mallow Moth,English
+937969,Pale Baileya,English
+938063,Abbreviated Underwing,English
+938066,Alabama Underwing,English
+938068,Three-staff Underwing,English
+938073,Sweetfern Underwing,English
+938083,Yellow Banded Underwing,English
+938094,Sweet Underwing,English
+938098,Mournful Underwing,English
+938106,Pine Barrens Underwing,English
+938107,Magdalen Underwing,English
+938109,Inconsolable Underwing,English
+938111,Jair Underwing,English
+938116,Tearful Underwing,English
+938122,Sad Underwing,English
+938123,Marbled Underwing,English
+938128,Little Underwing,English
+938130,Miranda Underwing,English
+938131,The Little Wife Underwing,English
+938132,Clouded Underwing,English
+938138,Oldwife Underwing,English
+938139,Mother Underwing,English
+938140,The Penitent Underwing,English
+938141,Praeclara Underwing,English
+938143,Residua Underwing,English
+938145,Robinson's Underwing,English
+938150,Sordid Underwing,English
+938157,The Widow,English
+938159,Whitney's Underwing,English
+938170,Bird Dropping Moth,English
+938175,Barrens Chaetaglaea,English
+938187,soybean looper,English
+938214,Kentucky Lichen Moth,English
+938217,Packard's Lichen Moth,English
+938220,Lead Colored Lichen Moth,English
+938226,Little White Lichen Moth,English
+938244,Close-banded Demas,English
+938245,Cadbury's Lichen Moth,English
+938254,The Confederate,English
+938255,Splotched Groundling,English
+938281,Sand-verbena Moth,English
+938300,Grote's Sallow,English
+938303,American dun-bar Moth,English
+938313,Yellow-headed Lichen Moth,English
+938319,Pure Lichen Moth,English
+938342,Red-Shouldered Ctenucha,English
+938383,Unexpected Cycnia,English
+938392,légionnaire des épis de blé,French
+938418,Pink Star Moth,English
+938422,Lantana Moth,English
+938461,Shadowy Arches,English
+938519,yellow-edges lexis,English
+938522,Chalcedony Midget,English
+938543,Pinkpatched Looper Moth,English
+938606,Beautiful Wood-nymph,English
+938643,White-spotted Midget Moth,English
+938749,Obelisk Dart Moth,English
+938804,Fleece-winged Dart,English
+938807,Violet Dart Moth,English
+938811,Pitcher Plant Moth,English
+938830,granulate cutworm,English
+938858,Wedgling Moth,English
+938878,Citrus Leafminer Moth,English
+938899,Figured Tiger Moth,English
+938909,Phyllira Tiger Moth,English
+938910,Placentia Tiger Moth,English
+938912,Bog Tiger Moth,English
+938914,Virgin Tiger Moth,English
+938915,Little Virgin Moth,English
+938959,sycamore tussock moth,English
+938961,Banded Tussock Moth,English
+938988,tobacco budworm,English
+939059,Hop Vine Borer Moth,English
+939078,Dimorphic Bomolocha Moth,English
+939088,Flowing-line Bomolocha Moth,English
+939094,green cloverworm,English
+939152,Common Idia Moth,English
+939157,Tortoise commensal noctuid moth,English
+939161,Glossy Black Idia Moth,English
+939331,False Wainscot,English
+939380,Lemmer's Pinion Moth,English
+939386,Wanton Pinion,English
+939402,Pale Greeen Pinion Moth,English
+939436,Two-striped Cord Grass Moth,English
+939439,Louisiana Macrochilo,English
+939456,Black-bordered Lemon Moth,English
+939478,Coastal Plain Apamea Moth,English
+939498,Newman's Brocade,English
+939501,Multicolored Sedgeminer Moth,English
+939519,Black Fungus Moth,English
+939524,Footpath Sallow Moth,English
+939525,Roadside Sallow,English
+939552,Gray Woodgrain Moth,English
+939565,armyworm,English
+939582,Florida Eucereon,English
+939603,Northern Brocade Moth,English
+939656,Bridgham's Brocade,English
+939730,Autumnal Noctuid Moth,English
+939748,Orange Panopoda,English
+939760,Pitcher Plant Borer Moth,English
+939761,Aralia Shoot Borer Moth,English
+939762,Northern burdock borer moth,English
+939763,Yellow Stoneroot Borer Moth,English
+939764,Aweme Borer Moth,English
+939765,Wild Indigo Borer Moth,English
+939766,Blazing Star Stem Borer,English
+939767,Umbellifer Borer Moth,English
+939768,Golden Borer Moth,English
+939769,Ironweed Borer Moth,English
+939772,Seaside Golden Borer Moth,English
+939773,Dark Stoneroot Borer Moth,English
+939774,Rattlesnake Master Borer,English
+939775,Eupatorium Borer Moth,English
+939776,Ash Tip Borer Moth,English
+939777,Heracleum Stem Borer Moth,English
+939778,Sensitive Fern Borer Moth,English
+939780,Columbine Borer Moth,English
+939783,Loosestrife Borer Moth,English
+939785,Maritime Sunflower Borer Moth,English
+939786,Sunflower Borer Moth,English
+939788,Turtle Head Borer Moth,English
+939791,Rigid Sunflower Borer Moth,English
+939792,Mayapple Borer Moth,English
+939794,Cluvers Root Borer,English
+939795,Silphium Borer Moth,English
+939796,Regal Fern Borer,English
+939797,Chain Fern Borer Moth,English
+939798,Water-willow Stem Borer,English
+939833,Dark-banded Owlet Moth,English
+939841,Common Oak Moth,English
+939851,Carter's noctuid moth,English
+939942,Half Yellow Moth,English
+940007,roughskinned cutworm,English
+940017,Gray Sallow,English
+940023,Hebard's noctuid moth,English
+940073,Southern Ptichodis Moth,English
+940084,Yellow-edged Pygarctia Moth,English
+940092,Sprague's Pygarctica,English
+940095,Annointed Sallow Moth,English
+940099,Aureolaria Seed Borer,English
+940161,Bina Flower Moth,English
+940203,Leadplant Flower Moth,English
+940234,Ragweed Flower Moth,English
+940236,scrub golden aster noctuid moth,English
+940244,Northern Flower Moth,English
+940257,Three-lined Flower Moth,English
+940258,Golden Aster Flower Moth,English
+940313,Dubious Tiger Moth,English
+940321,Sweetpotato Armyworm Moth,English
+940324,Caribbean Armyworm Moth,English
+940327,Southern Spragueia,English
+940379,brown-lined sallow moth,English
+940551,Polka-Dot Wasp Moth,English
+940568,brown cotton leafworm,English
+940676,Joyful Holomelina Moth,English
+940695,Barrens Xylotype,English
+940700,Double-banded Zale,English
+940704,Northeastern Pine Zale,English
+940710,Maple Zale,English
+940721,Okefenokee zale moth,English
+940730,Gray Spring Zale,English
+940740,Yellowish Zanclognatha,English
+940745,Pine Barrens Zanclognatha,English
+941059,small dark yellow underwing,English
+941060,Brown-veined Wainscot,English
+941063,clover cutworm,English
+941065,lines stalk borer,English
+941070,Laysan Agrotis Noctuid Moth,English
+941071,Midway Agrotis Noctuid Moth,English
+941082,Laysan dropseed noctuid moth,English
+941084,Kaholuamano noctuid moth,English
+941251,Bordered Apamea,English
+941274,Gerhard's Underwing,English
+941285,Precious Underwing,English
+941288,Semirelict Underwing Moth,English
