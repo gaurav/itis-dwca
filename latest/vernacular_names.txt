@@ -3810,6 +3810,7 @@ taxonID,vernacularName,language
 20683,Russian pigweed,English
 20685,winged pigweed,English
 20688,hopsage,English
+20689,Brandegee's siltbush,English
 20690,spiny hopsage,English
 20691,saltlover,English
 20692,saltlover,English
@@ -28596,27 +28597,28 @@ taxonID,vernacularName,language
 117554,hook-tip moths,English
 117556,géomètres,French
 117558,arpenteuse d'automne,French
+117560,Pepper and Salt Geometer,English
 117562,pepper-and-salt moth,English
-117564,arpenteuse caténaire,French
-117566,arpenteuse de l'orme,French
-117568,arpenteuse du tilleul,French
-117570,arpenteuse de la vigne,French
+117564,Chain-dotted Geometer,English
+117566,Elm Spanworm Moth,English
+117568,Linden Looper Moth,English
+117570,Lesser Grapevine Looper Moth,English
 117572,fir cone looper,English
 117574,arpenteuse du groseillier,French
-117576,hemlock looper,Common name
+117576,Hemlock Looper Moth,English
 117577,arpenteuse de la pruche,French
 117578,arpenteuse de la pruche de l'ouest,French
 117579,arpenteuse occidentale du chêne,French
-117580,eastern pinelooper,Common name
+117580,eastern pinelooper,English
 117582,nématocampe,French
 117584,arpenteuse (fausse) de la pruche,French
 117585,arpenteuse verte de la pruche,French
-117586,pine conelet looper,Common name
-117588,arpenteuse de Bruce,French
+117586,Southern Neptyia,English
+117588,Bruce spanworm,English
 117589,arpenteuse tardive,French
-117591,arpenteuse du printemps,French
-117593,omnivorous looper,Common name
-117595,koa moth,Common name
+117591,Spring Cankerworm Moth,English
+117593,omnivorous looper,English
+117595,koa moth,English
 117597,epiplemid moths,English
 117599,sack-bearers,Common name
 117602,slug caterpillars,Common name
@@ -40945,16 +40947,16 @@ taxonID,vernacularName,language
 180087,guano bats,English
 180088,Murciélago-cola suelta brasileño,Spanish
 180089,primates,English
-180090,man-like primates,English
+180090,Great Apes,English
 180091,hominoids,English
-180092,human,English
+180092,Human,English
 180093,new world monkeys,English
 180094,squirrel monkeys,English
-180095,common squirrel monkey,English
+180095,Guianan Squirrel Monkey,English
 180096,Old World monkeys,English
 180097,macaques,English
-180098,long-tailed macaque,English
-180099,rhesus monkey,English
+180098,Crab-eating Macaque,English
+180099,Rhesus Macaque,English
 180100,sloths,English
 180101,Armadillos,English
 180102,Long-nosed Armadillos,English
@@ -43177,52 +43179,84 @@ taxonID,vernacularName,language
 189057,polyphème d'Amérique,French
 189065,masked birch caterpillar,English
 189066,warty birch caterpillar,English
-189072,chevron moth,Common name
-189077,gray pug,Common name
-189078,whitespotted pug,Common name
+189072,chevron moth,English
+189075,White Eulithis,English
+189077,gray pug,English
+189078,whitespotted pug,English
 189081,fir needle inchworm,English
 189082,small pine looper,English
 189083,small conifer looper,English
-189089,satyr pug,Common name
-189100,angle barred pug,Common name
-189103,juniper pug,Common name
+189089,satyr pug,English
+189100,angle barred pug,English
+189103,juniper pug,English
 189104,early brown looper,English
 189106,spruce cone looper,English
 189111,arpenteuse (petite) de l'érable,French
 189120,false Bruce spanworm,English
-189122,first born geometer,Common name
-189138,sweet fern geometer,Common name
-189148,scribber,Common name
-189151,twolined aspen looper,English
-189153,white striped black,Common name
-189157,november moth,Common name
-189161,tissue moth,Common name
-189163,scallop shell moth,Common name
+189122,Infant,English
+189132,Simple Wave,English
+189134,Soft-lined Wave,English
+189138,Sweetfern Geometer,English
+189147,Mottled Gray Carpet,English
+189148,Scribbler,English
+189151,Powdered Bigwing,English
+189153,white striped black,English
+189159,Tissue Moth,English
+189161,tissue moth,English
+189163,scallop shell moth,English
 189169,arpenteuse transverse de l'érable,French
-189175,small phoenix,Common name
-189179,marbled carpet,Common name
+189171,Brown Bark Carpet,English
+189175,small phoenix,English
+189179,orange-spotted carpet,English
 189181,arpenteuse verte élancée,French
-189187,evergreen spanworm,Common name
-189191,transversebanded looper,English
-189199,red carpet,Common name
-189200,red twin spot,Common name
-189214,gem,Common name
+189183,Orange-barred Carpet,English
+189187,evergreen spanworm,English
+189191,Black-dashed Hydriomena Moth,English
+189194,Renounced Hydriomena Moth,English
+189195,Ruddy Highflyer Moth,English
+189197,Toothed Brown Carpet,English
+189198,Labrador Carpet Moth,English
+189199,red carpet,English
+189200,Red Twin-spot,English
+189214,gem,English
+189221,White-ribboned Carpet Moth,English
+189223,White-banded Toothed Carpet,English
+189225,Double-banded Carpet,English
 189232,spearmarked black moth,English
-189236,small rivulet,Common name
-189241,welsh wave,Common name
-189248,wild cherry looper,English
-189253,pink-striped willow spanworm,Common name
-189258,redheaded inchworm,Common name
+189233,White-banded Black,English
+189235,Square-patched carpet moth,English
+189236,small rivulet,English
+189238,Variable Carpet,English
+189239,Many-lined Carpet,English
+189241,welsh wave,English
+189242,Brown-shaded Carpet,English
+189244,Light Carpet Moth,English
+189248,Bluish Spring Moth,English
+189249,White Spring Moth,English
+189250,Gray Spring Moth,English
+189253,pink-striped willow spanworm,English
+189254,Yellow-dusted Cream Moth,English
+189258,redheaded inchworm,English
 189261,spruce-fir looper,English
 189264,green larch looper,English
-189271,pine measuringworm,Common name
-189275,cranberry spanworm,Common name
-189283,saddleback looper,English
-189289,fringed looper,English
-189297,barred umber,Common name
-189315,arpenteuse grise de l'épinette,French
+189271,Pine Measuringworm Moth,English
+189275,Common Gray,English
+189279,Bent-Lined Gray,English
+189283,Small Engrailed,English
+189289,Pale Beauty,English
+189291,Pale Homochlodes,English
+189293,Straight-lined Plagodis,English
+189297,barred umber,English
+189306,Pale Metanema,English
+189307,Dark Metanema,English
+189310,Northern Selenia,English
+189312,Honest Pero,English
+189313,Morrison's Pero,English
+189315,Gray Spruce Looper,English
+189318,Northern Pine Looper Moth,English
 189319,arpenteuse brune du pin,French
-189323,arpenteuse biépineuse,French
+189321,Oak Besma,English
+189323,Sharp-lined Yellow,English
 189332,puce de l'homme,French
 189334,puce orientale du rat,French
 189336,rodent flea,Common name
@@ -63105,10 +63139,11 @@ taxonID,vernacularName,language
 552348,white-toothed shrews,English
 552349,moles,English
 552350,capuchin monkeys,English
+552351,cercopithecines,English
 552371,American spotted cats,English
 552372,Coarse-haired Pocket Mice,English
 552373,jaguarundis,English
-552374,vervet monkeys,English
+552374,green monkeys,English
 552375,pumas,English
 552376,axis deer,English
 552377,water buffalos,English
@@ -63223,7 +63258,7 @@ taxonID,vernacularName,language
 552512,western red bat,English
 552513,Beringian hare,English
 552514,Appalachian Cottontail,English
-552515,green monkey,English
+552515,Grivet Monkey,English
 552516,Attwater's Pocket Gopher,English
 552517,Baird's Pocket Gopher,English
 552518,Jones' pocket gopher,English
@@ -65433,7 +65468,7 @@ taxonID,vernacularName,language
 555655,Murciélago-mula Mexicano,Spanish
 555657,New Mexico Shrew,English
 555658,Davis Mountain cottontail,English
-555659,Japanese macaque,English
+555659,Japanese Macaque,English
 555660,Dulzura Kangaroo Rat,English
 555661,Appalachian woodrat,English
 555663,Alaska tiny shrew,English
@@ -72552,234 +72587,265 @@ taxonID,vernacularName,language
 572659,equitorial longfin herring,English
 572689,sardinita agua dulce,Spanish
 572698,orangespot sardine,English
+572767,ruffed lemurs,English
+572770,Aye-aye,English
+572773,tarsiers,English
+572774,tamarins,English
+572775,gibbons,English
+572783,colobines,English
+572784,Hairy-eared Dwarf Lemur,English
+572785,dwarf lemurs,English
+572786,mouse lemurs,English
+572787,fork-marked lemurs,English
+572793,woolly lemurs,English
+572795,sifakas,English
+572797,angwantibos,English
+572798,slender lorises,English
+572799,slow lorises,English
+572800,pottos,English
+572801,needle-clawed galagos,English
+572802,lesser galagos,English
+572803,dwarf galagos,English
+572804,greater galagos,English
 572815,titi monkeys,English
-572857,hairy-eared dwarf lemur,English
-572858,greater dwarf lemur,English
-572859,fat-tailed dwarf lemur,English
-572860,Coquerel's mouse lemur,English
-572861,gray mouse lemur,English
-572862,brown mouse lemur,English
-572863,fork-marked lemur,English
-572864,brown lemur,English
-572865,crowned lemur,English
-572866,black lemur,English
-572867,mongoose lemur,English
-572868,red-bellied lemur,English
-572869,golden bamboo lemur,English
-572870,bamboo lemur,English
+572820,Allen's Swamp Monkey,English
+572821,capped mangabeys,English
+572822,arborial guenons,English
+572823,Patas Monkey,English
+572824,crested mangabeys,English
+572825,Drill,English
+572826,talapoins,English
+572827,baboons,English
+572828,Gelada,English
+572829,black-and-white colobus,English
+572830,Proboscis Monkey,English
+572831,surilis,English
+572832,Olive Colobus,English
+572833,doucs,English
+572834,Indian langurs,English
+572835,lutungs,English
+572837,gorillas,English
+572838,chimpanzees,English
+572839,orangutans,English
+572857,Hairy-eared Dwarf Lemur,English
+572858,Greater Dwarf Lemur,English
+572859,Lesser Dwarf Lemur,English
+572861,Gray Mouse Lemur,English
+572862,Rufous Mouse Lemur,English
+572863,Masoala Fork-marked Lemur,English
+572864,Brown Lemur,English
+572865,Crowned Lemur,English
+572866,Black Lemur,English
+572867,Mongoose Lemur,English
+572868,Red-bellied Lemur,English
+572869,Golden Bamboo Lemur,English
+572870,Gray Bamboo Lemur,English
 572871,greater bamboo lemur,English
-572872,ring-tailed lemur,English
-572873,ruffed lemur,English
-572874,gray-backed sportive lemur,English
-572875,Milne-Edwards's sportive lemur,English
-572876,white-footed sportive lemur,English
-572877,small-toothed sportive lemur,English
-572878,weasel sportive lemur,English
-572879,red-tailed sportive lemur,English
-572880,northern sportive lemur,English
-572881,woolly lemur,English
-572882,indri,English
-572883,diademed sifaka,English
-572884,golden-crowned sifaka,English
-572885,Verreaux's sifaka,English
-572886,aye-aye,English
-572887,golden angwantibo,English
-572888,Calabar angwantibo,English
-572889,slender Loris,English
-572890,slow Loris,English
-572891,pygmy slow Loris,English
-572892,potto,English
-572893,western needle-clawed galago,English
-572894,pallid needle-clawed galago,English
-572895,Allen's squirrel galago,English
-572896,Somali galago,English
-572897,spectacled galago,English
-572898,South African galago,English
-572899,Senegal galago,English
-572900,Demidoff's galago,English
-572901,Zanzibar galago,English
-572902,greater galago,English
-572903,small-eared galago,English
-572904,western tarsier,English
+572872,Ring-tailed Lemur,English
+572873,Black-and-white Ruffed Lemur,English
+572874,Gray's Sportive Lemur,English
+572875,Milne-Edwards's Sportive lemur,English
+572876,White-footed Sportive Lemur,English
+572877,Small-toothed Sportive Lemur,English
+572878,Weasel Lemur,English
+572879,Red-tailed Sportive Lemur,English
+572880,Northern Sportive Lemur,English
+572881,Eastern Woolly Lemur,English
+572882,Indri,English
+572883,Diademed Sifaka,English
+572884,Golden-crowned Sifaka,English
+572885,Verreaux's Sifaka,English
+572886,Aye-aye,English
+572887,Golden Angwantibo,English
+572888,Calabar Angwantibo,English
+572889,Red Slender Loris,English
+572890,Slow Loris,English
+572891,Pygmy Slow Loris,English
+572892,Potto,English
+572893,Southern Needle-clawed Galago,English
+572894,Northern Needle-clawed Bushbaby,English
+572895,Bioko Allen's Bushbaby,English
+572896,Somali Lesser Galago,English
+572897,Dusky Bushbaby,English
+572898,Southern Lesser Galago,English
+572899,Senegal Bushbaby,English
+572900,Prince Demidoff's Bushbaby,English
+572901,Tanzania Coast Dwarf Galago,English
+572902,Brown Greater Galago,English
+572903,Garnett's Greater Galago,English
 572905,diana tarsier,English
-572906,pygmy tarsier,English
+572906,Pygmy Tarsier,English
 572907,spectral tarsier,English
 572908,Philippine tarsier,English
-572909,Goeldi's monkey,English
+572909,Goeldi's Monkey,English
 572910,silvery marmoset,English
-572911,white-eared marmoset,English
-572912,buffy-headed marmoset,English
-572913,Geoffroy's marmoset,English
+572911,Buffy-tufted Marmoset,English
+572912,Buffy-headed Marmoset,English
+572913,White-headed Marmoset,English
 572914,tassel-eared marmoset,English
-572915,white-tufted-ear marmoset,English
-572916,Weid's black-tufted-ear marmoset,English
-572917,pygmy marmoset,English
-572918,black-pencilled marmoset,English
-572919,golden-headed lion tamarin,English
-572920,golden-rumped lion tamarin,English
-572921,black-faced lion tamarin,English
-572922,golden lion tamarin,English
-572923,Brazilian bare-faced tamarin,English
-572924,saddlebacked tamarin,English
-572925,Geoffroy's tamarin,English
-572926,emperor tamarin,English
-572927,mottle-face tamarin,English
-572928,red-chested mustached tamarin,English
-572929,silvery-brown bare-face tamarin,English
-572930,Midas tamarin,English
-572931,black-chested mustached tamarin,English
-572932,black-mantled tamarin,English
-572933,cotton-top tamarin,English
-572934,golden-mantled tamarin,English
-572935,red-handed howler monkey,English
-572936,black howler monkey,English
+572915,Common Marmoset,English
+572916,Wied's Marmoset,English
+572918,Black-tufted-ear Marmoset,English
+572919,Golden-headed Lion Tamarin,English
+572920,Black Lion Tamarin,English
+572921,Superagui Lion Tamarin,English
+572922,Golden Lion Tamarin,English
+572923,Pied Tamarin,English
+572924,Brown-mantled Tamarin,English
+572925,Geoffroy's Tamarin,English
+572926,Emperor Tamarin,English
+572927,Mottle-faced Tamarin,English
+572928,Red-bellied Tamarin,English
+572929,White-footed Tamarin,English
+572930,Red-handed Tamarin,English
+572931,Mustached Tamarin,English
+572932,Black-mantled Tamarin,English
+572933,Cottontop Tamarin,English
+572934,Golden-mantled Saddle-back Tamarin,English
+572935,Red-handed Howler,English
+572936,Paraguayan Howler,English
 572937,Coiba howler monkey,English
 572938,brown howler monkey,English
-572939,mantled howler monkey,English
-572940,Saraguato yucateco,Spanish
-572941,Bolivian red howler monkey,English
-572942,red howler monkey,English
+572939,Mantled Howler,English
+572940,Guatemalan Black Howler,English
+572941,Bolivian Red Howler,English
+572942,Venezuelan Red Howler,English
 572943,Azara's night monkey,English
-572944,Brumback's night monkey,English
-572945,Ma's night monkey,English
-572946,black-headed night monkey,English
-572947,Andean night monkey,English
+572944,Brumback's Night Monkey,English
+572945,Nancy Ma's Night Monkey,English
+572946,Black-headed Night Monkey,English
+572947,Peruvian Night Monkey,English
 572948,feline night monkey,English
-572949,lemurine night monkey,English
-572950,Hershkovitz's night monkey,English
-572951,northern night monkey,English
-572952,noisy night monkey,English
-572953,black spider monkey,English
-572954,white-bellied spider monkey,English
-572955,Chamek spider monkey,English
-572956,white-whiskered spider monkey,English
-572957,brown-headed spider monkey,English
-572958,Mono-araña centroamericano,Spanish
-572959,muriqui,English
+572949,Lemurine Night Monkey,English
+572950,Hershkovitz's Night Monkey,English
+572951,Humboldt's Night Monkey,English
+572952,Spix's Night Monkey,English
+572953,Red-faced Spider Monkey,English
+572954,White-bellied Spider Monkey,English
+572955,Peruvian Spider Monkey,English
+572956,White-whiskered Spider Monkey,English
+572957,Black-headed Spider Monkey,English
+572958,Central American Spider Monkey,English
+572959,Southern Muriqui,English
 572960,Humboldt's woolly monkey,English
 572961,yellow-tailed woolly monkey,English
-572962,masked titi monkey,English
-572963,red-bellied titi monkey,English
-572964,modest titi monkey,English
-572965,white-eared titi monkey,English
-572966,Olalla's titi monkey,English
-572967,Andean titi monkey,English
-572968,ashy titi monkey,English
-572969,Hoffmanns's titi,English
-572970,brown titi monkey,English
-572971,red titi monkey,English
-572972,chestnut-bellied titi monkey,English
-572973,dubius titi monkey,English
-572974,yellow-handed titi monkey,English
-572975,white-fronted capuchin,English
-572976,brown capuchin,English
-572977,white-faced capuchin,English
-572978,weeping capuchin,English
-572979,Bolivian squirrel monkey,English
-572980,Central American squirrel monkey,English
-572981,bare-eared squirrel monkey,English
-572982,black squirrel monkey,English
-572983,red uakari,English
-572984,black uakari,English
-572985,white-nosed bearded saki,English
-572986,brown-bearded saki,English
-572987,equatorial saki,English
-572988,buffy saki,English
-572989,gray monk saki,English
-572990,monk saki,English
-572991,Guianan saki,English
-572992,Allen's swamp monkey,English
-572993,agile mangabey,English
-572994,Tana River mangabey,English
-572995,red-capped mangabey,English
-572996,black-cheeked white-nosed monkey,English
-572997,Campbell's monkey,English
-572998,moustached monkey,English
-572999,diana monkey,English
-573000,dryas monkey,English
-573001,red-bellied monkey,English
-573002,red-eared monkey,English
-573003,owl-faced monkey,English
+572962,Atlantic Titi,English
+572963,Red-bellied Titi,English
+572964,Rio Beni Titi,English
+572965,White-eared Titi,English
+572966,Ollala Brothers' Titi,English
+572967,Rio Mayo Titi,English
+572968,Ashy Black Titi,English
+572969,Hoffmanns's Titi,English
+572970,Brown Titi,English
+572971,Coppery Titi,English
+572972,Chestnut-bellied Titi,English
+572973,Doubtful Titi,English
+572974,White-collared Titi,English
+572975,White-fronted Capuchin,English
+572976,Tufted Capuchin,English
+572977,Colombian White-faced Capuchin,English
+572978,Guianan Weeper Capuchin,English
+572979,Black-capped Squirrel Monkey,English
+572980,Central American Squirrel Monkey,English
+572981,Bare-eared Squirrel Monkey,English
+572982,Black-headed Squirrel Monkey,English
+572983,Bald Uacari,English
+572984,Black-headed Uacari,English
+572985,Red-nosed Bearded Saki,English
+572986,Black Saki,English
+572987,Equatorial Saki,English
+572988,White-footed Saki,English
+572989,Gray's Bald-faced Saki,English
+572990,Monk Saki,English
+572991,White-faced Saki,English
+572992,Allen's Swamp Monkey,English
+572993,Agile Mangabey,English
+572994,Tana River Mangabey,English
+572995,Collared Mangabey,English
+572996,Red-tailed Monkey,English
+572997,Campbell's Mona Monkey,English
+572998,Mustached Monkey,English
+572999,Diana Monkey,English
+573000,Dryad Monkey,English
+573001,White-throated Guenon,English
+573002,Red-eared Monkey,English
+573003,Hamlyn's Monkey,English
 573004,L'Hoest's monkey,English
-573005,blue monkey,English
-573006,Mona monkey,English
-573007,De Brazza's monkey,English
-573008,white-nosed guenon,English
-573009,lesser white-nosed monkey,English
-573010,crowned guenon,English
-573011,Wolf's monkey,English
-573012,Preuss's monkey,English
+573005,Blue Monkey,English
+573006,Mona Monkey,English
+573007,De Brazza's Monkey,English
+573008,Greater spot-nosed Monkey,English
+573009,Spot-nosed Monkey,English
+573010,Crested Mona Monkey,English
+573011,Wolf's Monkey,English
 573013,sun-tailed monkey,English
-573014,Sclater's guenon,English
-573015,patas monkey,English
-573016,gray-cheeked mangabey,English
-573017,stump-tailed macaque,English
-573018,Assam macaque,English
-573019,Taiwan macaque,English
-573020,moor macaque,English
-573021,pigtail macaque,English
-573022,Celebes crested macaque,English
-573023,booted macaque,English
-573024,bonnet macaque,English
-573025,liontail macaque,English
-573026,Toque macaque,English
-573027,Barbary macaque,English
-573028,Père David's macaque,English
-573029,Tonkean macaque,English
-573030,drill,English
-573031,mandrill,English
-573032,talapoin,English
-573033,hamadryas baboon,English
-573034,gelada baboon,English
-573035,Angolan colobus,English
+573014,Sclater's Guenon,English
+573015,Patas Monkey,English
+573016,Gray-cheeked Mangabey,English
+573017,Stump-tailed Macaque,English
+573018,Assam Macaque,English
+573019,Taiwanese Macaque,English
+573020,Moor Macaque,English
+573021,Southern Pig-tailed Macaque,English
+573022,Crested Macaque,English
+573023,Booted Macaque,English
+573024,Bonnet Macaque,English
+573025,Lion-tailed Macaque,English
+573026,Toque Macaque,English
+573027,Barbary Macaque,English
+573028,Milne-Edwards's Macaque,English
+573029,Tonkean Macaque,English
+573030,Drill,English
+573031,Mandrill,English
+573032,Angolan Talapoin,English
+573033,Hamadryas Baboon,English
+573034,Gelada,English
+573035,Angola Colobus,English
 573036,Guereza,English
-573037,king colobus,English
-573038,black colobus,English
+573037,King Colobus,English
+573038,Black Colobus,English
 573039,pig-tailed langur,English
-573040,proboscis monkey,English
-573041,grizzled leaf monkey,English
-573042,banded leaf monkey,English
-573043,white-fronted leaf monkey,English
-573044,gray leaf monkey,English
-573045,mitred leaf monkey,English
-573046,Mentawai leaf monkey,English
-573047,red leaf monkey,English
-573048,north Sumatran leaf monkey,English
+573040,Proboscis Monkey,English
+573041,Javan Langur,English
+573042,Banded Surili,English
+573043,White-fronted Langur,English
+573044,Hose's Langur,English
+573045,Sumatran Surili,English
+573046,Mentawai Langur,English
+573047,Maroon Leaf-Monkey,English
+573048,Thomas' Langur,English
 573049,western red colobus,English
 573050,Pennant's red colobus,English
 573051,Preuss's red colobus,English
 573052,Tana River red colobus,English
-573053,olive colobus,English
+573053,Olive Colobus,English
 573054,Tonkin snub-nosed monkey,English
 573055,black snub-nosed monkey,English
 573056,gray snub-nosed monkey,English
-573057,Douc langur,English
-573058,golden snub-nosed monkey,English
-573059,Hanuman langur,English
-573060,Javan langur,English
-573061,silvered leaf monkey,English
-573062,François's leaf monkey,English
-573063,golden leaf monkey,English
+573057,Red-shanked Douc Langur,English
+573059,Bengal Sacred Langur,English
+573060,Javan Lutung,English
+573061,Silvered Langur,English
+573062,François's Langur,English
+573063,Golden Langur,English
 573064,hooded leaf monkey,English
-573065,dusky leaf monkey,English
-573066,Phayre's leaf monkey,English
-573067,capped leaf monkey,English
+573065,Dusky Langur,English
+573066,Phayre's Leaf-monkey,English
+573067,Capped Langur,English
 573068,purple-faced leaf monkey,English
-573069,agile gibbon,English
-573070,crested gibbon,English
+573069,Agile Gibbon,English
 573071,buff-cheeked gibbon,English
-573072,hoolock gibbon,English
-573073,Kloss's gibbon,English
-573074,white-handed gibbon,English
-573075,white-cheeked gibbon,English
-573076,silvery gibbon,English
-573077,Borneo gibbon,English
-573078,pileated gibbon,English
+573073,Kloss's Gibbon,English
+573074,Lar Gibbon,English
+573076,Silvery Javan Gibbon,English
+573077,Müller's Gibbon,English
+573078,Pileated Gibbon,English
 573079,siamang,English
-573080,gorilla,English
-573081,pygmy chimpanzee,English
-573082,chimpanzee,English
-573083,orangutan,English
+573080,Western Gorilla,English
+573081,Bonobo,English
+573082,Common Chimpanzee,English
+573083,Bornean Orangutan,English
 573165,Eurasian Beaver,English
 573209,Smooth-tailed Tree Shrews,English
 573210,Tree Shrews,English
@@ -73828,12 +73894,21 @@ taxonID,vernacularName,language
 612138,gladiators,English
 612141,west wind gladiator,English
 612142,east wind gladiator,English
-612145,Baptista Lake titi monkey,English
-612146,blond titi monkey,English
-612150,southern masked titi monkey,English
-612151,ornate titi monkey,English
-612153,Prince Bernhard's titi monkey,English
-612154,Stephen Nash's titi monkey,English
+612145,Lake Baptista Titi,English
+612146,Barbara Brown's Titi,English
+612147,Coimbra-Filho's Titi,English
+612148,Colombian Black-handed Titi,English
+612149,Southern Bahian Titi,English
+612150,Black-fronted Titi,English
+612151,Ornate Titi,English
+612152,Pale Titi,English
+612153,Prince Bernhard's Titi,English
+612154,Stephen Nash's Titi,English
+612155,Red-crowned Titi,English
+612156,Yellow-handed Titi,English
+612157,Black Titi,English
+612158,Rio Purus Titi,English
+612159,Rio Juruá Collared Titi,English
 612240,Hawaiian pearloyster shrimp,English
 612243,giant-clam shrimp,English
 612275,flattened shrimp,English
@@ -87886,3 +87961,813 @@ taxonID,vernacularName,language
 941274,Gerhard's Underwing,English
 941285,Precious Underwing,English
 941288,Semirelict Underwing Moth,English
+941383,California saltbush,English
+941384,San Joaquin saltbush,English
+941385,Coville's orach,English
+941388,Arizona siltbush,English
+941389,Plummer's siltbush,English
+941391,Stephen's stork's bill,English
+941658,Four-barred Gray,English
+941678,Variable Antipione,English
+941704,Straw Besma,English
+941711,Brown Scoopwing,English
+941712,Gray Scoopwing,English
+941714,Red Girdle Moth,English
+941715,Southern Pine Looper Moth,English
+941727,Scallop Moth,English
+941728,Dark Scallop Moth,English
+941744,Blackberry Looper Moth,English
+941749,Angle Winged Emerald Moth,English
+941750,Bank's Emerald Moth,English
+941754,Angle-lined Carpet Moth,English
+941756,Double-lined Gray,English
+941768,Barberry Geometer,English
+941769,Bent-line Carpet,English
+941774,Waxmyrtle Wave Moth,English
+941776,Packard's Wave,English
+941777,Giant Gray Moth,English
+941786,Showy Emerald,English
+941795,Curve-lined Angle,English
+941797,Decorated Granite,English
+941801,Three-lined Angle Moth,English
+941806,Hollow-spotted Angle,English
+941818,Faint-spotted Angle,English
+941819,Amorpha Angle,English
+941838,Somber Carpet,English
+941851,Badwing moth,English
+941859,10-spotted Rhododendron Moth,English
+941862,Small Phoenix,English
+941863,Cranberry Spanworm Moth,English
+941867,Canary-shouldered Thorn,English
+941868,Maple Spanworm,English
+941884,Black-Banded Orange,English
+941888,Tulip-Tree Beauty,English
+941894,Autumnal Moth,English
+941899,Broad-lined Erastra,English
+941917,Beggar,English
+941918,Little Beggar,English
+941923,Deep Yellow Euchlaena,English
+941926,Least-marked Euchlaena,English
+941927,Johnson's Euchlaena,English
+941928,Scrub Euchlaena Moth,English
+941934,Obtuse Euchlaena,English
+941935,Forked Euchlaena,English
+941936,Saw Wing,English
+941941,Powder Moth,English
+941942,Snowy Geometer,English
+941943,Greater Grapevine Looper Moth,English
+941950,Brown-bordered Geometer,English
+941953,Sharp-angled Carpet,English
+942009,Juniper Looper Moth,English
+942018,Larch Pug Moth,English
+942026,Common Eupithecia,English
+942055,Great Varigated Pug,English
+942089,Confused Eusarca,English
+942093,Dark-edged Eusarca Moth,English
+942106,Curved-Toothed Geometer,English
+942111,Fine Lined Gray,English
+942160,Blueberry Gray,English
+942161,Dotted Gray,English
+942170,Texas Gray,English
+942174,Chickweed Geometer,English
+942176,Common Spring Moth,English
+942177,Rare Spring Moth,English
+942180,Common Emerald,English
+942186,Sulphur Moth,English
+942188,Three-patched Bigwing,English
+942189,Three-spotted Fillip,English
+942191,Pistachio Emerald Moth,English
+942208,Unadorned Carpet Moth,English
+942245,Oak Winter Highflier Moth,English
+942248,Shattered Hydriomena Moth,English
+942259,Transfigured Hydriomena,English
+942263,Esther Moth,English
+942264,One-Spotted Variant,English
+942265,Buchholz's Gray Moth,English
+942274,Single-dotted Wave,English
+942275,Straw Wave Moth,English
+942276,Notch-winged Wave,English
+942285,Rippled Wave,English
+942287,Showy Wave Moth,English
+942292,Diminutive Wave,English
+942294,Dot-lined Wave,English
+942297,mountain-mahogany looper,English
+942309,Cypress Looper,English
+942314,Pale-viened Enconista,English
+942320,Curve-lined Looper Moth,English
+942330,Raspberry Wave Moth,English
+942333,Dark-ribboned Wave,English
+942346,Drab Brown Wave,English
+942348,Straight-lined Wave,English
+942356,Stained Lophosis Moth,English
+942360,Twilight Moth,English
+942361,Stout Spanworm,English
+942362,Wooly Gray,English
+942366,Common Lytrosis,English
+942368,Common Angle,English
+942369,Common Angle,English
+942371,redheaded inchworm,English
+942375,Hemlock Angle,English
+942376,Granite Moth,English
+942380,Minor Angle Moth,English
+942381,Many-lined Angle,English
+942388,Promiscuous Angle,English
+942390,arpenteuse verte du mélèze,French
+942391,Pale-marked Angle,English
+942394,Blurry Chocolate Angle,English
+942398,Canadian melanolophia,English
+942402,Signate Melanolophia,English
+942405,Orange Wing Moth,English
+942414,Western White-Ribboned Carpet Moth,English
+942419,Common Metarranthis,English
+942420,Pale Metarranthis,English
+942423,Yellow-washed Metarranthis,English
+942435,Horned Spanworm Moth,English
+942441,White-barred Emerald Moth,English
+942442,Red-fringed Emerald,English
+942455,Red-bordered Emerald,English
+942456,White-fringed Emerald,English
+942463,Red-fronted Emerald,English
+942489,Western False Hemlock Looper,English
+942503,Yellow-veined Geometer Moth,English
+942504,Marbled Wave,English
+942512,White-Spotted Canker Worm,English
+942522,Green Pug,English
+942525,Juniper Geometer,English
+942537,Hübner's Pero,English
+942555,Northern Petrophora,English
+942563,Oak Beauty,English
+942569,Toothed Phigalia,English
+942571,Small Phigalia,English
+942572,Spiny Looper,English
+942591,Hollow-spotted Plagodis,English
+942592,Fervid Plagodis,English
+942593,Purple Plagodis,English
+942594,American Barred Umber,English
+942595,Lemon Plagodis,English
+942602,Sagebrush Girdle Moth,English
+942605,Common Tan Wave,English
+942608,Alien Probole,English
+942610,Heath Probole,English
+942614,Large Maple Spanworm,English
+942635,Virgin moth,English
+942639,koa haole,English
+942678,Scallop Shell Moth,English
+942707,Frosted Tan Wave,English
+942712,Small Frosted Wave Moth,English
+942713,Large Lace-border,English
+942717,Chalky Wave Moth,English
+942724,Kent's Geometer,English
+942783,arpenteuse grise du tremble,French
+942791,lesser maple spanworm,English
+942793,arpenteuse du groseillier,French
+942828,Shiny Gray Carpet Moth,English
+942859,Faded Gray Geometer,English
+942878,Wavy-Lined Emerald,English
+942882,Southern Emerald,English
+942900,White Slant-line,English
+942901,Yellow Slant-line,English
+942905,Juniper Carpet,English
+942908,Black-dotted Ruddy Moth,English
+942955,Crocus Geometer,English
+942956,False Crocus Geometer,English
+942973,Cypress Looper,English
+943002,Brown-bordered Geometer Moth,English
+943007,Black-dotted Ruddy Moth,English
+943084,Hübner's Pero,English
+943122,Fraser fir geometrid,English
+943196,Spring Hemlock Looper,English
+943241,'ola'a peppered looper,English
+943242,Kona giant looper moth,English
+943243,Hawaiian hopseed looper moth,English
+943244,Ko'olau giant looper,English
+943245,Ioxanthan looper,English
+943680,American Barred Umber,English
+943684,Autumn Moth,English
+943697,Spring Hemlock Looper,English
+943750,china ray,English
+943751,coly ray,English
+943752,black-tailed antenna ray,English
+943757,Tiger ray,English
+943788,bushbabies,English
+943790,sportive lemurs,English
+943804,orangutans,English
+943805,African apes,English
+943809,papionins,English
+943810,guenons,English
+943811,colobines,English
+943812,Asian colobines,English
+943815,terrestrial guenons,English
+943907,giant mouse lemurs,English
+943941,red colobus,English
+943964,snub-nosed monkeys,English
+943972,squirrel galagos,English
+943978,Pig-tailed Langur,English
+943998,Kipunji,English
+944022,Gray-brown Mouse Lemur,English
+944023,Berthe's Mouse Lemur,English
+944024,Peters' Mouse Lemur,English
+944025,Ravelobe Mouse Lemur,English
+944026,Bongolava Mouse Lemur,English
+944027,Ambarijeby Mouse Lemur,English
+944028,Margot Marsh's Mouse Lemur,English
+944029,Sambirano Mouse Lemur,English
+944030,Nosy Be Mouse Lemur,English
+944031,Northern Rufous Mouse Lemur,English
+944032,Montagne d'Ambre Mouse Lemur,English
+944033,Jolly's Mouse Lemur,English
+944034,Gerp's Mouse Lemur,English
+944035,Goodman's Mouse Lemur,English
+944036,Simmons' Mouse Lemur,English
+944037,Anjiahely Mouse Lemur,English
+944038,Mittermeier's Mouse Lemur,English
+944039,Marohita Mouse Lemur,English
+944040,Anosi Mouse Lemur,English
+944041,Giant Mouse Lemur,English
+944042,Northern Giant Mouse Lemur,English
+944043,Sibree's Dwarf Lemur,English
+944044,Crossley's Dwarf Lemur,English
+944045,Lesser Iron-gray Dwarf Lemur,English
+944046,Lavasoa Dwarf Lemur,English
+944047,Pale Fork-crowned Lemur,English
+944048,Sambirano Fork-marked Lemur,English
+944049,Mt. d'Ambre Fork-crowned Lemur,English
+944050,Betsileo Sportive Lemur,English
+944051,Manombo Sportive Lemur,English
+944052,Wright's Sportive Lemur,English
+944053,Andohahela Sportive Lemur,English
+944054,Mananara-Nord Sportive Lemur,English
+944055,Seal's Sportive Lemur,English
+944056,Masoala Sportive Lemur,English
+944057,Daraina Sportive Lemur,English
+944058,Ankarana Sportive Lemur,English
+944059,Nosy Be Sportive Lemur,English
+944060,Mittermeier's Sportive Lemur,English
+944061,Sahamalaza Sportive Lemur,English
+944062,Anjiamangirana Sportive Lemur,English
+944063,Ambodimahabibo Sportive Lemur,English
+944064,Antafia Sportive Lemur,English
+944065,Tsiombikibo Sportive Lemur,English
+944066,Bemaraha Sportive Lemur,English
+944067,Zombitse Sportive Lemur,English
+944068,Petter's Sportive Lemur,English
+944069,Southern Bamboo Lemur,English
+944070,Sambirano Bamboo Lemur,English
+944071,Lac Alaotra Bamboo Lemur,English
+944072,Greater Bamboo Lemur,English
+944073,Red-fronted Lemur,English
+944074,Red-fronted Brown Lemur,English
+944075,White-headed Lemur,English
+944076,Sanford's Brown Lemur,English
+944077,Gray-headed Lemur,English
+944078,Red-collared Brown Lemur,English
+944079,Blue-eyed Black Lemur,English
+944080,Red Ruffed Lemur,English
+944081,Masoala Woolly Lemur,English
+944082,Peyriéras' Woolly Lemur,English
+944083,Betsileo Woolly Lemur,English
+944084,Manombo Woolly Lemur,English
+944085,Southern Woolly Lemur,English
+944086,Western Woolly Lemur,English
+944087,Bemaraha Woolly Lemur,English
+944088,Sambirano Woolly Lemur,English
+944089,Crowned Sifaka,English
+944090,Coquerel's Sifaka,English
+944091,Milne-Edwards's Sifaka,English
+944092,Silky Sifaka,English
+944093,Perrier's Sifaka,English
+944094,Prince Demidoff's Bushbaby,English
+944095,Thomas's Dwarf Galago,English
+944096,Uluguru Bushbaby,English
+944097,Rondo Dwarf Galago,English
+944098,Grant's Bushbaby,English
+944099,Kenya Coast Dwarf Galago,English
+944100,Bioko Allen's Bushbaby,English
+944101,Cross River Squirrel Galago,English
+944102,Gabon Bushbaby,English
+944103,Makandé Squirrel Galago,English
+944104,Milne-Edwards' Potto,English
+944105,East African Potto,English
+944106,Gray Slender Loris,English
+944107,Bengal Slow Loris,English
+944108,Javan Slow Loris,English
+944109,Philippine Slow Loris,English
+944110,Bangka Slow Loris,English
+944111,Bornean Slow Loris,English
+944112,Kayan River Slow Loris,English
+944113,Western Tarsier,English
+944114,Philippine Tarsier,English
+944115,Spectral Tarsier,English
+944116,Makassar Tarsier,English
+944117,Dian's Tarsier,English
+944118,Peleng Tarsier,English
+944119,Sangihe Tarsier,English
+944120,Siau Island Tarsier,English
+944121,Lariang Tarsier,English
+944122,Wallace's Tarsier,English
+944123,Pygmy Marmoset,English
+944124,Roosmalens' Dwarf Marmoset,English
+944125,Silvery Marmoset,English
+944126,White Marmoset,English
+944127,Snethlage's Marmoset,English
+944128,Black-tailed Marmoset,English
+944129,Hershkovitz's Marmoset,English
+944130,Rondon's Marmoset,English
+944131,Black-headed Marmoset,English
+944132,Marca's Marmoset,English
+944133,Manicore Marmoset,English
+944134,Rio Acarí Marmoset,English
+944135,Maués Marmoset,English
+944136,Gold-and-white Marmoset,English
+944137,Sateré Marmoset,English
+944138,tassel-eared marmoset,English
+944139,Lesson's Saddle-back Tamarin,English
+944140,Red-mantled Saddle-back Tamarin,English
+944141,Andean Saddle-back Tamarin,English
+944142,Illiger's Saddle-back Tamarin,English
+944143,Geoffroy's Saddle-back Tamarin,English
+944144,Weddell's Saddle-back Tamarin,English
+944145,Black Tamarin,English
+944146,Eastern Black-handed Tamarin,English
+944147,Martins's Tamarin,English
+944148,Humboldt's Squirrel Monkey,English
+944149,Ecuadorian Squirrel Monkey,English
+944150,Black Capuchin,English
+944151,Hooded Capuchin,English
+944152,Crested Capuchin,English
+944153,Bearded Capuchin,English
+944154,Golden-bellied Capuchin,English
+944155,Blond Capuchin,English
+944156,Tufted Capuchin,English
+944157,Large-headed Capuchin,English
+944158,Peruvian White-fronted Capuchin,English
+944159,Shock-headed Capuchin,English
+944160,Spix's White-fronted Capuchin,English
+944161,Kaapori Capuchin,English
+944162,Brown Capuchin,English
+944163,Sierra de Perijá White-fronted Capuchin,English
+944164,Río Cesar White-fronted Capuchin,English
+944165,Varied White-fronted Capuchin,English
+944166,Santa Marta White-fronted Capuchin,English
+944167,Ecuadorian White-fronted Capuchin,English
+944168,Panamanian White-faced Capuchin,English
+944169,Gray-legged Night Monkey,English
+944170,Panamanian Night Monkey,English
+944171,Hernández-Camacho's Night Monkey,English
+944172,Azara's Night Monkey,English
+944173,Caquetá titi,English
+944174,Vieira's Titi,English
+944175,Madidi Titi,English
+944176,Red-backed Bearded Saki,English
+944177,Uta Hick's Bearded Saki,English
+944178,Guianan Bearded Saki,English
+944179,Spix's Black-headed Uacari,English
+944180,Ursine Red Howler,English
+944181,Guyanan Red Howler,English
+944182,Amazon Black Howler,English
+944183,Spix's Howler,English
+944184,Maranhão Red-handed Howler,English
+944185,Brown Howler,English
+944186,Variegated Spider Monkey,English
+944187,Humboldt's Woolly Monkey,English
+944188,Brown Woolly Monkey,English
+944189,Gray Woolly Monkey,English
+944190,Silvery Woolly Monkey,English
+944191,Peruvian Yellow-tailed Woolly Monkey,English
+944192,Gorontalo Macaque,English
+944193,Heck's Macaque,English
+944194,Pagai Island Macaque,English
+944195,Siberut Macaque,English
+944196,Northern Pig-tailed Macaque,English
+944197,Arunachal Macaque,English
+944198,Golden-bellied Mangabey,English
+944199,Sanje Mangabey,English
+944200,Sooty Mangabey,English
+944201,White-naped Mangabey,English
+944202,Rusty-mantled Mangabey,English
+944203,Johnston's Mangabey,English
+944204,Ugandan Crested Mangabey,English
+944205,Black Crested Mangabey,English
+944206,Southern Black Crested Mangabey,English
+944207,highland mangabey,English
+944208,Yellow Baboon,English
+944209,Kinda Baboon,English
+944210,Chacma Baboon,English
+944211,Olive Baboon,English
+944212,Guinea Baboon,English
+944213,Gabon Talapoin,English
+944214,Tantalus Monkey,English
+944215,Green Monkey,English
+944217,Vervet Monkey,English
+944218,Bale Mountains Vervet,English
+944219,L'Hoest's Monkey,English
+944220,Preuss's Monkey,English
+944221,Sun-tailed Monkey,English
+944222,Roloway Monkey,English
+944223,Lowe's Mona Monkey,English
+944224,Dent's Monkey,English
+944225,Lesula,English
+944226,Silver Monkey,English
+944227,Golden Monkey,English
+944228,Sykes's Monkey,English
+944229,Ursine Colobus,English
+944230,Upper Guinea Red Colobus,English
+944231,Temminck's Red Colobus,English
+944232,Miss Waldron's Red Colobus,English
+944233,Zanzibar Red Colobus,English
+944234,Uzungwa Red Colobus,English
+944235,Pennant's Red Colobus,English
+944236,Bouvier's Red Colobus,English
+944237,Niger Delta Red Colobus,English
+944238,Preuss's Red Colobus,English
+944239,Tana River Red Colobus,English
+944240,Semliki Red Colobus,English
+944241,Central African Red Colobus,English
+944242,Lang's Red Colobus,English
+944243,Oustalet's Red Colobus,English
+944244,Lomami Red Colobus,English
+944245,Ugandan Red Colobus,English
+944246,Tshuapa Red Colobus,English
+944247,Sarawak Surili,English
+944248,Miller's Langur,English
+944249,Sabah Grizzled Langur,English
+944250,Black-and-white Langur,English
+944251,Black Sumatran Langur,English
+944252,Mitered Langur,English
+944253,Siberut Langur,English
+944254,White-thighed Surili,English
+944255,Natuna Islands Langur,English
+944256,Gray-shanked Douc Langur,English
+944257,Black-shanked Douc,English
+944258,Tonkin Snub-nosed Monkey,English
+944259,Black Snub-nosed Monkey,English
+944260,Guizhou Snub-nosed Monkey,English
+944261,Golden Snub-nosed Monkey,English
+944262,Myanmar Snub-nosed Monkey,English
+944263,Simakobou,English
+944264,Chamba Sacred Langur,English
+944265,Tarai Gray Langur,English
+944266,Nepal Sacred Langur,English
+944267,Black-footed Gray Langur,English
+944268,Tufted Gray Langur,English
+944269,purple-faced leaf monkey,English
+944270,Nilgiri Langur,English
+944271,West Javan Langur,English
+944272,Selangor Silvery Langur,English
+944273,Indochinese Lutung,English
+944274,Annamese Langur,English
+944275,Tenasserim Lutung,English
+944276,Indochinese Gray Langur,English
+944277,White-headed Langur,English
+944278,Delacour's Langur,English
+944279,Indochinese Black Langur,English
+944280,Hatinh Langur,English
+944281,Western Hoolock Gibbon,English
+944282,Eastern Hoolock Gibbon,English
+944283,Bornean White-bearded Gibbon,English
+944284,Abbott's Gray Gibbon,English
+944285,East Bornean Gray Gibbon,English
+944286,Black Crested Gibbon,English
+944287,Eastern Black Crested Gibbon,English
+944288,Hainan Gibbon,English
+944289,Northern Yellow-cheeked Crested Gibbon,English
+944290,Northern White-cheeked Gibbon,English
+944291,Southern White-cheeked Crested Gibbon,English
+944292,buff-cheeked gibbon,English
+944293,Siamang,English
+944294,Sumatran Orangutan,English
+944295,Eastern Gorilla,English
+944335,Northern Muriqui,English
+944364,Gold-and-white Marmoset,English
+944367,Emilia's Marmoset,English
+944368,Roosmalens' Dwarf Marmoset,English
+944369,Hershkovitz's Marmoset,English
+944370,White Marmoset,English
+944376,Manicore Marmoset,English
+944399,Black-striped Capuchin,English
+944403,Black Capuchin,English
+944407,Golden-bellied Capuchin,English
+944423,Spiny Desert Dwarf Lemur,English
+944429,Large Iron-gray Dwarf Lemur,English
+944436,Brown-backed Bearded Saki,English
+944445,Malbrouck Monkey,English
+944475,White-collared Lemur,English
+944494,Cross River Bushbaby,English
+944496,Prince Demidoff's Bushbaby,English
+944498,Gabon Bushbaby,English
+944499,Grant's Bushbaby,English
+944504,Malawi Bushbaby,English
+944505,Uluguru Bushbaby,English
+944508,Rondo Bushbaby,English
+944509,Thomas's Bushbaby,English
+944512,Zanzibar Bushbaby,English
+944639,Silvery Greater Galago,English
+944671,Decken's Sifaka,English
+944675,False Potto,English
+944676,Graells's Tamarin,English
+944679,White-mantled Tamarin,English
+944682,Red-capped Tamarin,English
+944690,Southern Plains Gray Langur,English
+944701,Laotian Langur,English
+944702,Cat Ba Langur,English
+944703,Shortridge's Langur,English
+945068,Gray Bamboo Lemur,English
+945069,Beanamalao Bamboo Lemur,English
+945070,Ranomafana Bamboo Lemur,English
+945071,Variegated Ruffed Lemur,English
+945072,Southern Black-and-White Ruffed Lemur,English
+945073,Northern Black-and-White Ruffed Lemur,English
+945074,Demidoff's Dwarf Galago,English
+945075,Congo Dwarf Galago,English
+945076,Uele Dwarf Galago,English
+945077,Calabar Dwarf Galago,English
+945078,Kasai Dwarf Galago,English
+945079,Bioko Dwarf Galago,English
+945080,Zanzibar Bushbaby,English
+945081,Udzungwa Dwarf Galago,English
+945082,Senegal Lesser Galago,English
+945083,Kenya Lesser Galago,English
+945084,Ethiopia Lesser Galago,English
+945085,Uganda Lesser Galago,English
+945086,Bioko Needle-clawed Galago,English
+945087,Nigeria Needle-clawed Galago,English
+945088,South African Large-eared Galago,English
+945089,Northern Silver Galago,English
+945090,Silvery Greater Galago,English
+945091,Zanzibar Small-eared Galago,English
+945092,White-tailed Small-eared Galago,English
+945093,Pangani Small-eared Galago,English
+945094,Bosman's Potto,English
+945095,Benin Potto,English
+945096,Mount Kenya Potto,English
+945097,Mysore Slender Loris,English
+945098,Malabar Slender Loris,English
+945099,Highland Slender Loris,English
+945100,Northern Ceylon Slender Loris,English
+945101,Red Slender Loris,English
+945102,Horton Plains Slender Loris,English
+945103,Western Tarsier,English
+945104,Bornean Tarsier,English
+945105,Natuna Islands Tarsier,English
+945106,Belitung Tarsier,English
+945107,Philippine Tarsier,English
+945108,Mindanao Tarsier,English
+945109,Bohol Tarsier,English
+945110,Western Pygmy Marmoset,English
+945111,Eastern Pygmy Marmoset,English
+945112,Spix's Black-mantled Tamarin,English
+945113,Graells's Tamarin,English
+945114,Hernández-Camacho's Black-mantled Tamarin,English
+945115,Lako's Saddle-back Tamarin,English
+945116,Ávila Pires' Saddle-back Tamarin,English
+945117,Cruz Lima's Saddle-back Tamarin,English
+945118,Gray-fronted Saddle-back Tamarin,English
+945119,Hershkovitz's Saddle-back Tamarin,English
+945120,Weddell's Saddle-back Tamarin,English
+945121,White-mantled Tamarin,English
+945122,Crandall's Saddle-back Tamarin,English
+945123,Spix's Mustached Tamarin,English
+945124,Red-capped Tamarin,English
+945125,White-rump Mustached Tamarin,English
+945126,Geoffroy's Red-bellied Tamarin,English
+945127,Gray's Red-bellied Tamarin,English
+945128,Thomas's Red-bellied Tamarin,English
+945129,Black-chinned Emperor Tamarin,English
+945130,Bearded Emperor Tamarin,English
+945131,Martins' Bare-faced Tamarin,English
+945132,Ochraceous Bare-faced Tamarin,English
+945133,Black-crowned Central American Squirrel Monkey,English
+945134,Grey-crowned Central American Squirrel Monkey,English
+945135,Colombian Squirrel Monkey,English
+945136,Colombian Squirrel Monkey,English
+945137,Guianan Squirrel Monkey,English
+945138,Collins' Squirrel Monkey,English
+945139,Bolivian Squirrel Monkey,English
+945140,Peruvian Squirrel Monkey,English
+945141,Guianan Brown Capuchin,English
+945142,Margarita Island Capuchin,English
+945143,Weeper Capuchin,English
+945144,Chestnut Weeper Capuchin,English
+945145,Colombian White-faced Capuchin,English
+945146,Gorgona White-faced Capuchin,English
+945147,Azara's Night Money,English
+945148,Bolivian Night Monkey,English
+945149,Feline Night Monkey,English
+945150,Golden-faced Saki,English
+945151,Geoffroy's Monk Saki,English
+945152,Miller's Monk Saki,English
+945153,Gray's Bald-faced Saki,English
+945154,Vanzolini's Bald-faced Saki,English
+945155,White Bald,English
+945156,Novaes's Bald Uacari,English
+945157,Red Bald,English
+945158,Ucayali Bald Uacari,English
+945159,Humboldts' Black-headed Uacari,English
+945160,Ayres' Black Uacari,English
+945161,Colombian Red Howler,English
+945162,Juruá Red Howler,English
+945163,Purus Red Howler,English
+945164,Northern Brown Howler,English
+945165,Southern Brown Howler,English
+945166,Golden-mantled Howler,English
+945167,Azuero Peninsula Howler,English
+945168,Coiba Island Howler,English
+945169,Ecuadorian Mantled Howler,English
+945170,Mexican Howler,English
+945171,Geoffroy's Spider Monkey,English
+945172,Azuero Spider Monkey,English
+945173,Black-browed  Spider Monkey,English
+945174,Hooded Spider Monkey,English
+945175,Ornate Spider Monkey,English
+945176,Mexican Spider Monkey,English
+945177,Yucatán Spider Monkey,English
+945178,Brown-headed Spider Monkey,English
+945179,Colombian Black Spider Monkey,English
+945180,Variegated Spider Monkey,English
+945181,Brown Spider Monkey,English
+945182,Colombian Woolly Monkey,English
+945183,Defler's Woolly Monkey,English
+945184,Caquetá Woolly Monkey,English
+945185,Geoffroy's Woolly Monkey,English
+945186,Peruvian Woolly Monkey,English
+945187,Botted Macaque,English
+945188,Buton Macaque,English
+945189,Common Toque Macaque,English
+945190,Pale-fronted Toque Macaque,English
+945191,Hill Zone Toque Macaque,English
+945192,Dark-bellied Bonnet Macaque,English
+945193,Pale-bellied Bonnet Macaque,English
+945194,Eastern Assamese Macaque,English
+945195,Western Assamese Macaque,English
+945196,Common Long-tailed Macaque,English
+945197,Dark-crowned Long-tailed Macaque,English
+945198,Burmese Long-tailed Macaque,English
+945199,Con Son Long-tailed Macaque,English
+945200,Simeulue Long-tailed Macaque,English
+945201,Karimunjawa Long-tailed Macaque,English
+945202,Philippine Long-tailed Macaque,English
+945203,Maratua Long-tailed Macaque,English
+945204,Nicobar Long-tailed Macaque,English
+945205,Japanese Macaque,English
+945206,Yaku Macaque,English
+945207,Mainland Drill,English
+945208,Bioko Drill,English
+945209,Central Yellow Baboon,English
+945210,Northern Yellow Baboon,English
+945211,Southern Chacma Baboon,English
+945212,Grey-footed Chacma Baboon,English
+945213,Namibian Chacma Baboon,English
+945214,Northern Gelada,English
+945215,Southern Gelada,English
+945216,Western Patas Monkey,English
+945217,Southern Patas Monkey,English
+945218,Eastern Patas Monkey,English
+945219,Tantalus Monkey,English
+945220,Budgett's Tantalus,English
+945221,Jebbel Marra Tantalus,English
+945222,Black-chinned Vervet Monkey,English
+945223,Wittu Islands Vervet Monkey,English
+945224,Hilgert's Vervet Monkey,English
+945225,Pemba Vervet Monkey,English
+945226,Reddish-Green Vervet Monkey,English
+945227,Cameroon Preuss's Monkey,English
+945228,Bioko Preuss's Monkey,English
+945229,Golden-bellied Crowned Monkey,English
+945230,Gray's Crowned Monkey,English
+945231,Black-footed Crowned Monkey,English
+945232,Congo Basin Wolf's Monkey,English
+945233,Fire-bellied Wolf's Monkey,English
+945234,Lomami River Wolf's Monkey,English
+945235,Nose-stripe Owl-faced Monkey,English
+945236,Mt. Kahuzi Owl-faced Monkey,English
+945237,Eastern Lesser Spot-nosed Monkey,English
+945238,Western Lesser Spot-nosed Monkey,English
+945239,Red-bellied Monkey,English
+945240,Nigeria White-throated Monkey,English
+945241,Bioko Red-eared Monkey,English
+945242,Cameroon Red-eared Monkey,English
+945243,Red-tailed Mustached Monkey,English
+945244,Gray-tailed Mustached Monkey,English
+945245,White-nosed Mustached Monkey,English
+945246,Black-cheeked Red-tailed Monkey,English
+945247,Black-nosed Red-tailed Monkey,English
+945248,Katanga Red-tailed Monkey,English
+945249,Schmidt's Red-tailed Monkey,English
+945250,Yellow-nosed Red-tailed Monkey,English
+945251,Eastern Putty-nosed Monkey,English
+945252,Nigerian Putty-nosed Monkey,English
+945253,Red-rumped Putty-nosed Monkey,English
+945254,Bioko Putty-nosed Monkey,English
+945255,Stampfli's Putty-nosed Monkey,English
+945256,Pluto Monkey,English
+945257,Lomami River Blue Monkey,English
+945258,Schouteden's Blue Monkey,English
+945259,Stuhlmann's Blue Monkey,English
+945260,Elgon Blue Monkey,English
+945261,Boutourlini's Blue Monkey,English
+945262,Rump-spotted Blue Monkey,English
+945263,Zanzibar Sykes's Monkey,English
+945264,Pousargues's White-collared Monkey,English
+945265,Stairs's White-collared Monkey,English
+945266,Red-eared Sykes's Monkey,English
+945267,Mt. Kilimanjaro Sykes's Monkey,English
+945268,Kolb's White-collared Monkey,English
+945269,Samango Monkey,English
+945270,Moloney's White-collared Monkey,English
+945271,Tanzania Sykes's Monkey,English
+945272,Patta Island Monkey,English
+945273,Schwarz's White-collared Monkey,English
+945274,Somalia White-collared Monkey,English
+945275,Sclater's Angolan Colobus,English
+945276,Cordier's Angolan Colobus,English
+945277,Powell-Cotton's Angolan Colobus,English
+945278,Peters' Angolan Colobus,English
+945279,Prigogine's Angolan Colobus,English
+945280,Adolf Friedrichs's Angolan Colobus,English
+945281,Sharpe's Angolan Colobus,English
+945282,Omo River Guereza,English
+945283,Mt. Kilimanjaro Guereza,English
+945284,Dodinga Hills Guereza,English
+945285,Djaffa Mountains Guereza,English
+945286,Mt. Kenya Guereza,English
+945287,Mau Forest Guereza,English
+945288,Western Guereza,English
+945289,Mt. Uaraguess Guereza,English
+945290,Bioko Black Colobus,English
+945291,Gabon Black Colobus,English
+945292,Javan Grizzled Langur,English
+945293,Javan Fuscous Langur,English
+945294,Raffles' Banded Langur,English
+945295,East Sumatran Banded Langur,English
+945296,Robinson's Banded Langur,English
+945297,Bornean Banded Langur,English
+945298,Tricolored Langur (cruciger),English
+945299,Maroon Red Langur,English
+945300,Red-naped Red Langur,English
+945301,Orange-backed red Langur,English
+945302,Orange-naped Red Langur,English
+945303,Maroon Langur,English
+945304,Malayan Pale-thighed Langur,English
+945305,Riau Pale-thighed Langur,English
+945306,Mantled Pale-thighed Langur,English
+945307,Bintan Pale-thighed Langur,English
+945308,Moupin Golden Snub-nosed Monkey,English
+945309,Hubei Golden Snub-nosed Monkey,English
+945310,Qinling Golden Snub-nosed Monkey,English
+945311,Pagai Pig-tailed Langur,English
+945312,Siberut Pig-tailed Langur,English
+945313,Travancore Langur,English
+945314,Northern Malabar Langur,English
+945315,Black-legged Langur,English
+945316,Madras Gray Langur,English
+945317,Central Indian Gray Langur,English
+945318,Sri Lankan Gray Langur,English
+945319,Southern Purple-faced Langur,English
+945320,Highland Purple-faced Langur,English
+945321,Western Purple-faced Langur,English
+945322,Northern Purple-faced Langur,English
+945323,Blond-bellied Capped Langur,English
+945324,Buff-bellied Capped Langur,English
+945325,Orange-bellied Capped Langur,English
+945326,Tenebrous Capped Langur,English
+945327,Silvered Langur,English
+945328,Miller's Silvered Langur,English
+945329,Spectacled Langur,English
+945330,Tarutao Langur,English
+945331,Blond-tailed Langur,English
+945332,Cantor's Langur,English
+945333,Zadetkyi Kyun Langur,English
+945334,Phangan Langur,English
+945335,Perhentian Langur,English
+945336,Phayre's Langur,English
+945337,Shan Langur,English
+945338,Western Hoolock Gibbon,English
+945339,Mishmi Hills Hoolock Gibbon,English
+945340,Malayan Lar Gibbon,English
+945341,Carpenter's Lar gibbon,English
+945342,Central Lar Gibbon,English
+945343,Sumatran Lar Gibbon,English
+945344,Yunnan Lar Gibbon,English
+945345,Tonkin black crested gibbon,English
+945346,Laotian black crested gibbon,English
+945347,North-west Bornean Orangutan,English
+945348,North-east Bornean Orangutan,English
+945349,Central Bornean Orangutan,English
+945350,Western Lowland Gorilla,English
+945351,Cross River Gorilla,English
+945352,Mountain Gorilla,English
+945353,Grauer's Gorilla,English
+945354,Central Chimpanzee,English
+945355,Nigeria-Cameroon Chimpanzee,English
+945356,Eastern Chimpanzee,English
+945357,Western Chimpanzee,English
+945497,Lasia Long-tailed Macaque,English
+945522,Tanganyika Large-eared Galago,English
+945525,Kikuyu Small-eared Galago,English
+945556,White-faced Saki,English
+945737,Demidoff's Dwarf Galago,English
+945738,Congo Dwarf Galago,English
+945739,Uele Dwarf Galago,English
+945740,Calabar Dwarf Galago,English
+945741,Kasai Dwarf Galago,English
+945742,Bioko Dwarf Galago,English
