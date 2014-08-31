@@ -28206,7 +28206,7 @@ taxonID,vernacularName,language
 113999,long-toe water beetles,English
 114030,minute marsh-loving beetles,English
 114069,water-penny beetles,English
-114093,riffle beetles,French
+114093,riffle beetles,English
 114262,variegated mud-loving beetles,English
 114265,ptilodactylid beetles,English
 114278,chelonarid beetles,English
