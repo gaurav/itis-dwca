@@ -6196,7 +6196,8 @@ taxonID,vernacularName,language
 23776,Indian pipe,English
 23778,Indian pipe,English
 23779,pygmypipes,English
-23780,pygmypipes,English
+23780,sweet pinesap,English
+23781,Florida pygmy pipes,English
 23782,pinefoot,English
 23783,California pinefoot,English
 23784,pinesap,English
@@ -22569,6 +22570,7 @@ taxonID,vernacularName,language
 73149,sulcate false-tun,English
 73154,mottled tun,Common name
 73155,straw tun,English
+73159,figsnails,English
 73161,slender figsnail,Common name
 73163,Atlantic figsnail,English
 73167,slit wormsnail,Common name
@@ -37142,53 +37144,52 @@ taxonID,vernacularName,language
 173749,Turtles,English
 173750,Snapping Turtles,English
 173751,common snapping turtles,English
-173752,common snapping turtle,English
+173752,North American Snapping Turtle,English
 173753,Common Snapping Turtle,English
 173754,alligator snapping turtles,English
 173755,alligator snapping turtle,English
 173756,Mud Turtles,English
 173757,Musk Turtles,English
-173758,Common Musk Turtle,English
+173758,Eastern Musk Turtle,English
 173759,Razor-backed Musk Turtle,English
 173760,Flattened Musk Turtle,English
 173761,Loggerhead Musk Turtle,English
 173762,American musk turtles,English
 173763,Eastern Mud Turtle,English
-173764,eastern mud turtle,English
 173765,Striped Mud Turtle,English
-173766,Tortuga-pecho quebrado amarilla,Spanish
-173767,Tortuga-pecho quebrado pata rugosa,Spanish
-173768,Tortuga-pecho quebrado sonorense,Spanish
+173766,Yellow Mud Turtle,English
+173767,Rough-footed Mud Turtle,English
+173768,Sonora Mud Turtle,English
 173769,Emydid Turtles,English
 173770,Spotted Turtles,English
-173771,tortue ponctuée,French
+173771,Spotted Turtle,English
 173772,tortue des bois,French
 173773,bog turtle,English
 173774,Pacific pond turtle,English
-173775,Box Turtles,English
-173776,tortue tabatière,French
-173777,Eastern Box Turtle,English
-173778,Tortuga adornada,Spanish
+173775,American Box Turtles,English
+173776,Common Box Turtle,English
+173777,Woodland Box Turtle,English
+173778,Western Box Turtle,English
 173779,Diamondback Terrapins,English
 173780,Diamondback Terrapin,English
-173781,Northern Diamondback Terrapin,English
+173781,Northern Diamond-backed Terrapin,English
 173782,Painted Turtles,English
-173783,tortue peinte,French
+173783,Eastern Painted Turtle,English
 173784,Eastern Painted Turtle,English
 173785,Chicken Turtles,English
 173786,Chicken Turtle,English
-173787,eastern chicken turtle,English
+173787,Eastern Chicken Turtle,English
 173788,Blanding's Turtles,English
-173789,tortue mouchetée,French
+173789,Blanding's Turtle,English
 173790,Map Turtles,English
 173791,Barbour's Map Turtle,English
 173792,Cagle's Map Turtle,English
-173793,Yellow-blotched Map Turtle,English
-173794,tortue géographique,French
+173793,Yellow-blotched Sawback,English
+173794,Common Map Turtle,English
 173796,Mississippi Map Turtle,English
-173797,Black-knobbed Map Turtle,English
-173798,Ringed Map Turtle,English
-173799,Ouachita Map Turtle,English
+173797,Black-knobbed Sawback,English
+173798,Ringed Sawback,English
+173799,Southern Map Turtle,English
 173800,False Map Turtle,English
 173801,Alabama Map Turtle,English
 173802,Texas Map Turtle,English
@@ -37199,28 +37200,28 @@ taxonID,vernacularName,language
 173809,Common Cooter,English
 173811,Florida Cooter,English
 173813,Florida Red-bellied Cooter,English
-173814,American red-bellied turtle,English
+173814,Northern Red-bellied Cooter,English
 173816,Red-bellied Turtle,English
 173818,slider turtles,English
-173819,Tortuga gravada,Spanish
+173819,Common Slider,English
 173820,tortue à oreilles rouges,French
 173821,Yellow-bellied Slider,English
 173823,Red-eared Slider,English
 173825,Cumberland Slider,English
 173828,Sea Turtles,English
 173829,Loggerhead Sea Turtles,English
-173830,Tortuga-marina caguama,Spanish
+173830,Loggerhead Sea Turtle,English
 173832,Green Sea Turtles,English
 173833,common green sea turtle,English
 173835,Hawksbill Sea Turtles,English
-173836,Tortuga-marina de carey,Spanish
+173836,Hawksbill Sea Turtle,English
 173837,Atlantic hawksbill turtle,English
 173838,Ridley Sea Turtles,English
 173839,Tortuga-marina escamosa-del Atlántico,Spanish
-173840,Tortuga-marina escamosa-del Pacífico,Spanish
+173840,Pacific Ridley Sea Turtle,English
 173841,Leatherback Sea Turtles,English
 173842,Leatherback Sea Turtles,English
-173843,tortue luth,French
+173843,Leatherback Sea Turtle,English
 173844,Leatherback Turtle,English
 173845,Softshell Turtles,English
 173846,African Softshell Turtles,English
@@ -37229,9 +37230,9 @@ taxonID,vernacularName,language
 173852,Tortoises,English
 173853,typical tortoises,English
 173854,Red-footed Tortoise,English
-173855,North American Tortoises,English
-173856,Desert Tortoise,English
-173857,Berlandier's tortoise,English
+173855,Gopher Tortoises,English
+173856,Mojave Desert Tortoise,English
+173857,Berlandier's Tortoise,English
 173858,Gopher Tortoise,English
 173860,Tuataras,English
 173861,serpents,French
@@ -40295,20 +40296,20 @@ taxonID,vernacularName,language
 178837,Red-billed Leiothrix,English
 178838,New World Sparrows,English
 178839,Basileuterine Warblers,English
-178841,Chipe gorra rufa,Spanish
+178841,Paruline à calotte rousse,French
 178842,Wood-Warblers,English
 178843,Black-and-white Warblers,English
-178844,paruline noir et blanc,French
+178844,Paruline noir et blanc,French
 178845,Prothonotary Warblers,English
-178846,paruline orangée,French
+178846,Prothonotary Warbler,English
 178847,Swainson's Warblers,English
-178848,Chipe corona café,Spanish
+178848,Paruline de Swainson,French
 178849,Worm-eating Warblers,English
 178850,paruline vermivore,French
 178851,Vermivoras,English
-178852,paruline à ailes dorées,French
+178852,Golden-winged Warbler,English
 178853,paruline à ailes bleues,French
-178854,Bachman's Wood Warbler,English
+178854,Paruline de Bachman,French
 178855,paruline obscure,French
 178856,paruline verdâtre,French
 178861,paruline à joues grises,French
@@ -40350,29 +40351,29 @@ taxonID,vernacularName,language
 178935,paruline hochequeue,French
 178936,Mourning Warblers,English
 178937,paruline du Kentucky,French
-178938,paruline à gorge grise,French
+178938,Connecticut Warbler,English
 178939,paruline triste,French
 178940,Chipe de Tolmie,Spanish
 178943,Yellowthroats,English
-178944,paruline masquée,French
-178957,Belding's Yellowthroat,English
-178960,Mascarita pico grueso,Spanish
+178944,Paruline masquée,French
+178957,Paruline de Belding,French
+178960,Grey-crowned Yellowthroat,English
 178963,Chats,English
-178964,paruline polyglotte,French
+178964,Paruline polyglotte,French
 178967,Fan-tailed Warblers,English
 178968,Chipe de roca,Spanish
 178969,Red-faced Warblers,English
-178970,Chipe cara roja,Spanish
+178970,Red-faced Warbler,English
 178971,Hooded Warblers,English
 178972,paruline à capuchon,French
 178973,paruline à calotte noire,French
 178977,paruline du Canada,French
 178978,Redstarts,English
-178979,paruline flamboyante,French
+178979,Paruline flamboyante,French
 178980,Northern Redstart,English
 178984,Painted Redstarts,English
 178985,Slate-throated Whitestart,English
-178986,Painted Whitestart,English
+178986,Paruline à ailes blanches,French
 178988,Vireos,English
 178989,Vireos,English
 178990,Vireo gorra negra,Spanish
@@ -40845,107 +40846,107 @@ taxonID,vernacularName,language
 179985,bats,English
 179986,vespertilionid bats,English
 179987,mouse-eared bats,English
-179988,petite chauve-souris brune,French
-179989,Keen's myotis,English
-179990,Miotis pata larga,Spanish
-179991,California Myotis,English
-179992,Miotis orejudo,Spanish
-179993,southeastern myotis,English
-179994,Miotis cara negra,Spanish
-179995,Miotis oreja larga,Spanish
-179996,Miotis canelo,Spanish
+179988,Little Brown Myotis,English
+179989,Keen's Myotis,English
+179990,Long-legged Myotis,English
+179991,Californian Myotis,English
+179992,Southwestern Myotis,English
+179993,Southeastern Myotis,English
+179994,small-footed myotis,English
+179995,Long-eared Myotis,English
+179996,Cinnamon Myotis,English
 179997,gray bat,English
-179998,insular myotis,English
-179999,chauve-souris pygmée,French
-180000,chauve-souris nordique,French
+179998,Insular Myotis,English
+179999,eastern small-footed bat,English
+180000,Northern Myotis,English
 180001,Indiana bat,English
-180002,Miotis bordado,Spanish
-180003,Miotis mexicano,Spanish
-180004,Miotis de Yuma,Spanish
+180002,Fringed Myotis,English
+180003,Cave Myotis,English
+180004,Yuma Myotis,English
 180005,pallid bats,English
-180006,Murciélago-desértico norteño,Spanish
+180006,Pallid Bat,English
 180007,big brown bats,English
-180008,grande chauve-souris brune,French
+180008,Big Brown Bat,English
 180009,spotted bats,English
-180010,Murciélago pinto,Spanish
+180010,Spotted Bat,English
 180011,Allen's big-eared bats,English
-180012,Murciélago-mula de Allen,Spanish
+180012,Allen's Big-eared Bat,English
 180013,silver-haired bats,English
-180014,chauve-souris argentée,French
+180014,Silver-haired Bat,English
 180015,hairy-tailed bats,English
-180016,Murciélago-cola peluda rojizo,Spanish
-180017,chauve-souris cendrée,French
-180018,Murciélago-cola peluda amarillo,Spanish
-180019,Murciélago-cola peluda norteño,Spanish
-180020,Seminole bat,English
+180016,Eastern Red Bat,English
+180017,Hoary Bat,English
+180018,Southern Yellow Bat,English
+180019,Northern Yellow Bat,English
+180020,Seminole Bat,English
 180021,evening bats,English
-180022,Murciélago-crepuscular americano,Spanish
+180022,Evening Bat,English
 180023,pipistrelles,English
-180024,Pipistrelo del oeste americano,Spanish
-180025,pipistrelle de l'est,French
+180024,Western Pipistrelle,English
+180025,Eastern Pipistrelle,English
 180026,big-eared bats,English
 180027,Rafinesque's big-eared bat,English
 180028,Townsend's big-eared bat,English
 180029,Old World fruit bats,English
 180030,long-tailed fruit bats,English
-180031,long-tailed fruit bat,English
+180031,Fijian Long-tailed Fruit Bat,English
 180032,flying foxes,English
-180033,Admirality flying fox,English
-180034,Truk flying fox,English
-180035,Mariana fruit bat,English
-180036,Ponape flying fox,English
+180033,Admiralty Flying Fox,English
+180034,Ruck Flying Fox,English
+180035,Marianas Flying Fox,English
+180036,Caroline Flying Fox,English
 180037,Mortlock fruit bat,English
-180038,Palau flying fox,English
-180039,Samoa flying fox,English
-180040,Tokuda's flying fox,English
+180038,Large Pelew Flying Fox,English
+180039,Samoan Flying Fox,English
+180040,little Mariana fruit bat,English
 180041,sheath-tailed bats,English
 180042,sheath-tailed bats,English
-180043,Mariana sheath-tailed bat,English
+180043,Polynesian Sheath-tailed Bat,English
 180044,Caroline sheath-tailed bat,English
 180045,bulldog bats,English
 180046,bulldog bats,English
-180047,Murciélago-pescador mayor,Spanish
+180047,Greater Bulldog Bat,English
 180048,naked-backed bats,English
 180049,ghost-faced bats,English
-180050,Blainville's ghost-faced bat,English
-180051,Murciélago-barba arrugada norteño,Spanish
+180050,Antillean Ghost-faced Bat,English
+180051,Peters's Ghost-faced Bat,English
 180052,naked-backed bats,English
-180053,sooty moustached bat,English
-180054,Murciélago-bigotudo de Parnell,Spanish
+180053,Sooty Mustached Bat,English
+180054,Common Mustached Bat,English
 180055,New World leaf-nosed bats,English
 180056,fruit-eating bats,English
 180057,Hart's fruit-eating bat,English
-180058,Murciélago-frutero de Jamaica,Spanish
+180058,Jamaican Fruit-eating Bat,English
 180059,Antillean fruit-eating bats,English
-180060,Antillean fruit-eating bat,English
+180060,Antillean Fruit-eating Bat,English
 180061,long-tongued bats,English
-180062,Murciélago trompudo,Spanish
+180062,Mexican Long-tongued Bat,English
 180063,hairy-legged vampire bats,English
-180064,Vampiro pata peluda,Spanish
+180064,Hairy-legged Vampire Bat,English
 180065,brown flower bats,English
-180066,buffy flower bat,English
+180066,Buffy Flower Bat,English
 180067,Mexican long-nosed bats,English
-180068,big long-nosed bat,English
+180068,Mexican Long-nosed Bat,English
 180069,Sanborn's long-nosed bat,English
 180070,leaf-nosed bats,English
-180071,Murciélago-orejón californiano,Spanish
+180071,Californian Leaf-nosed Bat,English
 180072,Antillean long-tongued bats,English
-180073,insular long-tongued bat,English
-180074,Puerto Rican long-tongued bat,English
+180073,Insular Single-leaf Bat,English
+180074,Leach's Single-leaf Bat,English
 180075,red fruit-eating bats,English
-180076,red fig-eating bat,English
+180076,Desmarest's fig-eating bat,English
 180077,free-tailed bats,English
 180078,mastiff-bats,English
-180079,Murciélago-con bonete de Wagner,Spanish
-180080,Murciélago-con bonete mayor,Spanish
-180081,Murciélago-con bonete de Underwood,Spanish
+180079,Wagner's Bonneted Bat,English
+180080,Greater Bonneted Bat,English
+180081,Underwood's Bonneted Bat,English
 180082,velvety free-tailed bats,English
-180083,Murciélago-mastín de Pallas,Spanish
+180083,Pallas's Mastiff Bat,English
 180084,free-tailed bats,English
-180085,Murciélago-cola suelta de bolsa,Spanish
-180086,Murciélago-cola suelta mayor,Spanish
+180085,Pocketed Free-tailed Bat,English
+180086,Big Free-tailed Bat,English
 180087,guano bats,English
-180088,Murciélago-cola suelta brasileño,Spanish
+180088,Mexican Free-tailed Bat,English
 180089,primates,English
 180090,Great Apes,English
 180091,hominoids,English
@@ -45063,10 +45064,10 @@ taxonID,vernacularName,language
 202090,Plymouth Red-bellied Turtle,English
 202092,Columbian slider,English
 202093,Puerto Rican Slider,English
-202094,Inagua slider,English
+202094,Inagua Slider,English
 202095,Jamaican slider,English
 202096,river terrapins,English
-202097,Ranong River Terrapin,English
+202097,Northern River Terrapin,English
 202098,Eyed Turtles,English
 202099,Burmese Eyed Turtle,English
 202100,Indian roofed turtles,English
@@ -45078,19 +45079,19 @@ taxonID,vernacularName,language
 202107,Peacock Softshell Turtle,English
 202108,Angonoka,English
 202110,Radiated Tortoise,English
-202114,Galápago de Mapimí,Spanish
+202114,Bolson Tortoise,English
 202115,South African Star Tortoises,English
 202116,Geometric Tortoise,English
 202118,African Mud Terrapins,English
 202119,South American Side-necked River Turtles,English
-202120,South American River Turtle,English
-202121,Yellow-spotted River Turtle,English
+202120,Giant Amazon River Turtle,English
+202121,Yellow-spotted Sideneck Turtle,English
 202122,Snake-necked Turtles,English
 202123,Toad-headed Turtles,English
 202124,Hoge's Side-necked Turtle,English
 202125,River Turtles,English
 202126,Central American River Turtles,English
-202127,Tortuga-riverina centroamericana,Spanish
+202127,Central American River Turtle,English
 202128,Pitted-shelled Turtles,English
 202129,Big-headed Turtles,English
 202130,Tuataras,English
@@ -45230,10 +45231,10 @@ taxonID,vernacularName,language
 202340,Cebu Black Thrush,English
 202341,white-breasted silvereye,English
 202342,Seychelles White-eye,English
-202344,Hawaiian hoary bat,English
-202345,Townsend's big-eared bat,English
+202344,Hawaiian Hoary bat,English
+202345,Pacific Townsend's big-eared bat,English
 202346,Ozark big-eared bat,English
-202347,Mexican long-nosed bat,English
+202347,Lesser Long-nosed Bat,English
 202349,Lower Keys rabbit,English
 202351,Point Arena mountain beaver,English
 202353,Mount Graham red squirrel,English
@@ -45351,9 +45352,12 @@ taxonID,vernacularName,language
 203443,False Coral Snake,English
 203446,puffin cendrée,French
 203449,Streaked Shearwater,English
-203452,western lump-nosed bat,English
+203452,Townsend's Big-eared Bat,English
+203453,Townsend's big-eared bat,English
 203454,Virginia big-eared bat,English
-203459,Rodrigues fruit bat,English
+203457,pale Townsend's big-eared bat,English
+203458,pale Townsend's big-eared bat,English
+203459,Rodrigues Flying Fox,English
 203462,pygmy rabbits,English
 203490,Short-nosed kangaroo rat,English
 203502,St. Andrew beach mouse,English
@@ -45727,39 +45731,41 @@ taxonID,vernacularName,language
 208555,beaked caecilians,English
 208556,two-lined caecilians,English
 208558,Florida Snapping Turtle,English
-208564,loggerhead musk turtle,English
-208567,stripeneck musk turtle,English
-208571,Mississippi mud turtle,English
-208573,Florida mud turtle,English
+208564,Eastern Loggerhead Musk Turtle,English
+208567,Stripe-necked Musk Turtle,English
+208571,Mississippi Mud Turtle,English
+208573,Florida Mud Turtle,English
 208578,Arizona mud turtle,English
 208579,yellow mud turtle,English
-208582,Valley of Mexico mud turtle,English
-208583,Mexican plateau mud turtle,English
-208585,Sonoran Mud Turtle,English
-208586,Sonoran Mud Turtle,English
+208582,Valley of Mexico Mud Turtle,English
+208583,Mexican Plateau Mud Turtle,English
+208585,Sonoyta Mud Turtle,English
+208586,Desert Mud Turtle,English
 208587,Giant Musk Turtles,English
 208588,Narrow-bridged Musk Turtles,English
 208593,northern Pacific pond turtle,English
 208594,southern Pacific pond turtle,English
 208596,Florida Box Turtle,English
+208597,Florida Box Turtle,English
 208598,Gulf Coast Box Turtle,English
 208600,Three-toed Box Turtle,English
 208603,Desert Box Turtle,English
-208604,Ornate Box Turtle,English
+208604,Plains Box Turtle,English
 208607,Carolina Diamondback Terrapin,English
-208609,Texas Diamondback Terripin,English
+208609,Texas Diamond-backed Terrapin,English
 208611,Ornate Diamondback Terrapin,English
-208613,Mississippi Diamondback Terrapin,English
+208613,Mississippi Diamond-backed Terrapin,English
 208616,Mangrove Diamondback Terrapin,English
-208618,Florida East Coast Diamondback Terrapin,English
+208618,Eastern Florida Diamond-backed Terrapin,English
 208620,Western Painted Turtle,English
 208622,Southern Painted Turtle,English
+208623,Southern Painted Turtle,English
 208624,Midland Painted Turtle,English
 208627,Florida Chicken Turtle,English
 208628,Western Chicken Turtle,English
 208632,Southern Black-knobbed Map Turtle,English
 208633,Northern Black-knobbed Map Turtle,English
-208637,False Map Turtle,English
+208637,Northern False Map Turtle,English
 208638,Sabine Map Turtle,English
 208641,Rio Grande Cooter,English
 208642,Hieroglyphic River Cooter,English
@@ -45767,27 +45773,27 @@ taxonID,vernacularName,language
 208646,Suwannee cooter,English
 208648,Peninsula Cooter,English
 208649,Texas Cooter,English
-208657,Big Bend Slider,English
+208657,Mexican Plateau Slider,English
 208658,Big-headed Turtles,English
 208659,Neotropical Wood Turtles,English
 208660,European Pond Turtles,English
 208666,Pacific hawksbill turtle,English
-208674,North American Softshell Turtles,English
+208674,North American Softshells,English
 208675,Florida Softshell,English
-208677,Smooth Softshell,English
-208678,Gulf Coast Smooth Softshell Turtle,English
-208679,midland smooth softshell turtle,English
-208680,spiny softshell turtle,English
-208683,Gulf Coast Spiny Softshell Turtle,English
-208685,Texas Spiny Softshell Turtle,English
-208688,Guadalupe Spiny Softshell Turtle,English
+208677,Smooth Softshell Turtle,English
+208678,Gulf Coast Smooth Softshell,English
+208679,Midland Smooth Softshell,English
+208680,Spiny Softshell Turtle,English
+208683,Gulf Coast Spiny Softshell,English
+208685,Texas Spiny Softshell,English
+208688,Guadalupe Spiny Softshell,English
 208689,Western Spiny Softshell Turtle,English
-208692,Pallid Spiny Softshell Turtle,English
-208693,Eastern Spiny Softshell Turtle,English
-208694,wattle-necked softshell turtle,English
-208695,wattle-necked softshell turtle,English
-208696,Chinese Softshell Turtle,English
-208697,Chinese softshell turtle,English
+208692,Pallid Spiny Softshell,English
+208693,Eastern Spiny Softshell,English
+208694,Wattle-necked Softshells,English
+208695,Wattle-necked Softshell Turtle,English
+208696,Chinese Softshells,English
+208697,Chinese Softshell Turtle,English
 208698,Narrow-headed Softshell Turtle,English
 208699,Malayan Softshell Turtles,English
 208700,Indian Flapshell Turtles,English
@@ -45811,7 +45817,7 @@ taxonID,vernacularName,language
 208722,South American snake-necked turtles,English
 208724,Twisted-necked Turtles,English
 208725,Pig-nosed Turtle,English
-208726,Pig-nosed Turtle,English
+208726,Fly River Turtle,English
 208729,Southern Prairie Lizard,English
 208730,Prairie Lizard,English
 208731,Cowles Prairie Lizard,English
@@ -62904,12 +62910,12 @@ taxonID,vernacularName,language
 551762,Indochinese Tortoises,English
 551763,Asiatic Softshell Turtles,English
 551764,Burmese Peacock Softshell Turtles,English
-551765,Peninsular Cooter,English
-551766,Tortuga del Río Bravo,Spanish
+551765,Peninsula Cooter,English
+551766,Rio Grande Cooter,English
 551767,Pascagoula Map Turtle,English
 551768,Escambia Map Turtle,English
-551769,Central Antillean slider,English
-551770,Kemp's Ridley,English
+551769,Central Antillean Slider,English
+551770,Atlantic Ridley Sea Turtle,English
 551771,Louisiana alligator,English
 551772,Panama caiman,English
 551773,Philippine crocodile,English
@@ -62922,11 +62928,11 @@ taxonID,vernacularName,language
 551780,Leopard Tortoise,English
 551781,Burmese Star Tortoise,English
 551782,African Spurred Tortoise,English
-551783,Beaked Cape Tortoise,English
+551783,Common Padloper,English
 551784,Berger's Cape Tortoise,English
-551785,Boulenger's Cape Tortoise,English
-551786,Karroo Cape tortoise,English
-551787,Speckled Cape Tortoise,English
+551785,Karoo Padloper,English
+551786,Greater Padloper,English
+551787,Speckled Padloper,English
 551788,Brazilian Snake-necked Turtle,English
 551789,South American Snake-necked Turtle,English
 551790,Three-striped Roofed Turtle,English
@@ -62944,18 +62950,18 @@ taxonID,vernacularName,language
 551802,Narrow-bridged Mud Turtle,English
 551803,Creaser's Mud Turtle,English
 551804,Dunn's Mud Turtle,English
-551805,Herrera's Mud Turtle,English
+551805,Tortuga-pecho quebrado de Herrera,Spanish
 551806,Mexican Mud Turtle,English
 551807,White-lipped Mud Turtle,English
 551808,Oaxaca Mud Turtle,English
 551809,Scorpion Mud Turtle,English
 551810,Indian flapshell turtle,English
 551811,Burmese Flapshell Turtle,English
-551812,African Pancake Tortoise,English
+551812,Pancake Tortoise,English
 551813,Indian Eyed Turtle,English
 551814,Musky Caiman,English
 551815,Schneider's Smooth-fronted Caiman,English
-551816,Asian Giant Softshell Turtle,English
+551816,New Guinea Giant Softshell Turtle,English
 551817,helmeted turtle,English
 551818,Adanson's Mud Turtle,English
 551819,Okavango Mud Turtle,English
@@ -62966,10 +62972,10 @@ taxonID,vernacularName,language
 551824,Central African Mud Turtle,English
 551825,African Forest Turtle,English
 551826,African Dwarf Mud Turtle,English
-551827,West African Black Turtle,English
-551828,Variable Mud Turtle,English
+551827,West African Black Mud Turtle,English
+551828,Mashona Hinged Terrapin,English
 551829,Seychelles Mud Turtle,English
-551830,East African Serrated Mud Turtle,English
+551830,Serrated Hinged Terrapin,English
 551831,East African black mud turtle,English
 551832,Upemba Mud Turtle,English
 551833,Williams' Mud Turtle,English
@@ -62984,12 +62990,12 @@ taxonID,vernacularName,language
 551842,Vanderhaege's Toad-headed Turtle,English
 551843,Williams' Side-necked Turtle,English
 551844,Zulia Toad-headed Turtle,English
-551845,Twisted-neck Turtle,English
+551845,Twist-necked Turtle,English
 551846,Big-headed Turtle,English
-551847,Red-headed River Turtle,English
+551847,Red-headed Amazon River Turtle,English
 551848,Magdalena River Turtle,English
-551849,Six-tubercled River Turtle,English
-551850,Savanna Side-necked Turtle,English
+551849,Six-tubercled Amazon River Turtle,English
+551850,Llanos Sideneck Turtle,English
 551851,Serrated Tortoise,English
 551852,Tent Tortoise,English
 551853,Western Swamp Turtle,English
@@ -62999,37 +63005,37 @@ taxonID,vernacularName,language
 551857,Black Wood Turtle,English
 551858,Colombian Wood Turtle,English
 551859,Large-nosed Wood Turtle,English
-551860,painted wood turtle,English
+551860,Painted Wood Turtle,English
 551861,Spot-legged Turtle,English
 551862,Mexican Spotted Wood Turtle,English
-551863,Pacific Coast giant musk turtle,English
-551864,Mexican Giant Musk Turtle,English
-551865,Spur-thighed Tortoise,English
+551863,Pacific Coast Giant Musk Turtle,English
+551864,Northern Giant Musk Turtle,English
+551865,Moorish Tortoise,English
 551866,Hermann's Tortoise,English
-551867,Central Asian Tortoise,English
+551867,Horsfield's Tortoise,English
 551868,Egyptian Tortoise,English
 551869,Marginated Tortoise,English
 551870,Indian Softshell Turtle,English
 551871,Indian peacock softshell turtle,English
 551872,Leith's Softshell Turtle,English
 551873,Black Softshell Turtle,English
-551874,Euphrates softshell turtle,English
-551875,Shanghai Softshell Turtle,English
-551876,African softshell turtle,English
-551877,Pantanal Swamp Turtle,English
+551874,Euphrates Softshell Turtle,English
+551875,Swinhoe's Softshell Turtle,English
+551876,Nile Softshell Turtle,English
+551877,Big-headed Pantanal Swamp Turtle,English
 551878,Chaco Side-necked Turtle,English
 551879,Brazilian Radiolated Swamp Turtle,English
-551880,Spiny-necked Turtle,English
-551881,Giant Snake-necked Turtle,English
+551880,Spix's Sideneck Turtle,English
+551881,Broad-shelled Snake-necked Turtle,English
 551882,Common Snake-necked Turtle,English
-551883,New Guinea snake-necked turtle,English
-551884,Narrow-breasted Snake-necked Turtle,English
+551883,New Guinea Snake-necked Turtle,English
+551884,Northern Snake-necked Turtle,English
 551885,Parker's Snake-necked Turtle,English
 551886,Reimann's Snake-necked Turtle,English
-551887,northern Australian snake-necked turtle,English
+551887,Northern Snake-necked Turtle,English
 551888,Siebenrock's Snake-necked Turtle,English
 551889,Steindachner's Snake-necked Turtle,English
-551890,northern Australian snapping turtle,English
+551890,Northern Snapping Turtle,English
 551891,Serrated Snapping Turtle,English
 551892,New Guinea Snapping Turtle,English
 551893,Australian Big-headed Turtle,English
@@ -63037,27 +63043,27 @@ taxonID,vernacularName,language
 551895,Murray River Turtle,English
 551896,Brisbane Short-necked Turtle,English
 551897,Red-bellied Short-necked Turtle,English
-551898,Victoria Short-necked Turtle,English
+551898,Northern Red-faced Turtle,English
 551899,Fitzroy River Turtle,English
-551900,Madagascan big-headed turtle,English
-551901,big-headed Amazon River turtle,English
+551900,Madagascan Big-headed Turtle,English
+551901,Big-headed Sideneck Turtle,English
 551902,flatback turtle,English
 551903,Annam Leaf Turtle,English
 551904,Painted Terrapin,English
 551905,Red-necked Pond Turtle,English
 551906,Reeves' turtle,English
-551907,Southeast Asian box turtle,English
+551907,Southeast Asian Box Turtle,English
 551908,Yellow-headed Box Turtle,English
 551909,Yellow-margined Box Turtle,English
 551910,Indochinese Box Turtle,English
 551911,McCord's Box Turtle,English
 551912,Pan's Box Turtle,English
-551913,Chinese Three-striped Box Turtle,English
+551913,Golden Coin Turtle,English
 551914,Yunnan Box Turtle,English
 551915,Zhou's Box Turtle,English
 551916,Asian Leaf Turtle,English
 551917,Stripe-necked Leaf Turtle,English
-551918,Spotted Pond Turtle,English
+551918,Black Pond Turtle,English
 551919,Cochin Forest Cane Turtle,English
 551920,Black-breasted Leaf Turtle,English
 551921,Crowned River Turtle,English
@@ -63066,13 +63072,13 @@ taxonID,vernacularName,language
 551924,Philippine Pond Turtle,English
 551925,Spiny Turtle,English
 551926,Yellow-headed Temple Turtle,English
-551927,Malayan Snail-eating Turtle,English
-551928,Caspian Turtle,English
+551927,Mekong Snail-eating Turtle,English
+551928,Caspian Terrapin,English
 551929,Fujian Pond Turtle,English
 551930,Japanese Pond Turtle,English
-551931,Mediterranean Turtle,English
+551931,Spanish Terrapin,English
 551932,Yellow Pond Turtle,English
-551933,Tricarinate Hill Turtle,English
+551933,Three-keeled Land Turtle,English
 551934,Indian Black Turtle,English
 551935,Malayan Flat-shelled Turtle,English
 551936,Philippen's Stripe-necked Turtle,English
@@ -63084,27 +63090,27 @@ taxonID,vernacularName,language
 551942,Black Marsh Turtle,English
 551943,European Pond Turtle,English
 551944,Spotted Box Turtle,English
-551945,Hispaniolan slider,English
-551946,North Antillean slider,English
-551947,Orbigny's Slider,English
+551945,Hispaniolan Slider,English
+551946,Cuban Slider,English
+551947,D'Orbigny's Slider,English
 551948,Narrow-bridged Musk Turtle,English
-551949,South African bowsprit tortoise,English
-551950,Elongated Tortoise,English
-551951,travancore tortoise,English
-551952,Asian Brown Tortoise,English
+551949,South African Bowsprit Tortoise,English
+551950,Yellow-headed Tortoise,English
+551951,Forsten's Tortoise,English
+551952,Asian Giant Tortoise,English
 551953,Impressed Tortoise,English
-551954,Common Spider Tortoise,English
+551954,Spider Tortoise,English
 551955,Flat-shelled Spider Tortoise,English
 551956,Nubian Flapshell Turtle,English
 551957,Senegal Flapshell Turtle,English
 551958,Aubry's Flapshell Turtle,English
 551959,Zambezi Flapshell Turtle,English
 551960,Asiatic Softshell Turtle,English
-551961,Narrow-headed Softshell Turtle,English
+551961,Indian Narrow-headed Softshell Turtle,English
 551962,Malayan Softshell Turtle,English
-551963,Burmese peacock softshell turtle,English
-551964,black spiny softshell turtle,English
-551965,common cooter,English
+551963,Burmese Peacock Softshell Turtle,English
+551964,Cuatro Cienegas softshell turtle,English
+551965,Coastal Plain Cooter,English
 552067,Australian paste shrimp,English
 552289,edentates,English
 552290,American marsupials,English
@@ -63206,12 +63212,12 @@ taxonID,vernacularName,language
 552460,Atlantic Spotted Dolphin,English
 552461,Long-finned Pilot Whale,English
 552462,Coatí norteño,Spanish
-552463,brown flower bat,English
-552464,southern long-nosed bat,English
-552465,Waterhouse's leaf-nosed bat,English
+552463,Brown Flower Bat,English
+552464,Curaçaoan Long-nosed Bat,English
+552465,Waterhouse's Leaf-nosed Bat,English
 552466,Western Spotted Skunk,English
 552467,Indian mongoose,English
-552468,insular flying fox,English
+552468,Pacific Flying Fox,English
 552469,Margay,Spanish
 552470,Ocelote,Spanish
 552471,jaguarundi,English
@@ -63224,7 +63230,7 @@ taxonID,vernacularName,language
 552478,Blackbuck,English
 552479,mountain lion,English
 552480,Mogollon vole,English
-552481,little red bat,English
+552481,Minor Red Bat,English
 552482,Long-tailed Pocket Mouse,English
 552483,Ratón-de abazones crespo,Spanish
 552484,Rock Pocket Mouse,English
@@ -63245,7 +63251,7 @@ taxonID,vernacularName,language
 552499,gray ground squirrel,English
 552500,Ogilvie collared lemming,English
 552501,brown hare,English
-552502,western yellow bat,English
+552502,Western Yellow Bat,English
 552503,Hopi Chipmunk,English
 552504,Piute Ground Squirrel,English
 552505,Sonoma tree vole,English
@@ -63255,7 +63261,7 @@ taxonID,vernacularName,language
 552509,Barren Ground Shrew,English
 552510,San Diego Pocket Mouse,English
 552511,lièvre arctique,French
-552512,western red bat,English
+552512,Western Red Bat,English
 552513,Beringian hare,English
 552514,Appalachian Cottontail,English
 552515,Grivet Monkey,English
@@ -63519,6 +63525,7 @@ taxonID,vernacularName,language
 552803,Panamanian jaguarundi,English
 552804,Sinaloan jaguarundi,English
 552807,San Joaquin kit fox,English
+552811,lesser long-nosed bat,English
 552813,urial,English
 552837,Australian ghost shrimp,English
 552838,Japanese ghost shrimp,English
@@ -64201,7 +64208,7 @@ taxonID,vernacularName,language
 554138,Carbonero cresta negra,Spanish
 554140,Oak Titmouse,English
 554141,Carbonero embridado,Spanish
-554142,Stripe-crowned Warbler,English
+554142,Golden-crowned Warbler,English
 554143,Guillemot à long bec,French
 554144,Bulwer's Petrel,English
 554145,Bécasseau à échasses,French
@@ -65465,14 +65472,14 @@ taxonID,vernacularName,language
 555652,big-eared bats,English
 555653,wisent,English
 555654,long-beaked saddleback dolphin,English
-555655,Murciélago-mula Mexicano,Spanish
+555655,Mexican Big-eared Bat,English
 555657,New Mexico Shrew,English
 555658,Davis Mountain cottontail,English
 555659,Japanese Macaque,English
 555660,Dulzura Kangaroo Rat,English
 555661,Appalachian woodrat,English
 555663,Alaska tiny shrew,English
-555664,southeastern big-eared bat,English
+555664,Rafinesque's Big-eared Bat,English
 555666,Black Sea Bottlenose Dolphin,English
 555701,peces babosos,Spanish
 555702,drepanids,English
@@ -65905,7 +65912,7 @@ taxonID,vernacularName,language
 558849,Black-and-gold Tanager,English
 558850,Golden-chested Tanager,English
 558851,Santa Marta Warbler,English
-558852,Golden-browed Warbler,English
+558852,Paruline à sourcils dorés,French
 558853,Two-banded Warbler,English
 558854,Cuzco Warbler,English
 558855,Grey-throated Warbler,English
@@ -65915,15 +65922,15 @@ taxonID,vernacularName,language
 558859,Grey-and-gold Warbler,English
 558861,Grey-headed Warbler,English
 558862,White-bellied Warbler,English
-558863,Pirre Warbler,English
+558863,Paruline du Pirré,French
 558864,White-rimmed Warbler,English
 558865,White-striped Warbler,English
 558866,Citrine Warbler,English
-558867,Black-cheeked Warbler,English
+558867,Paruline sombre,French
 558868,Black-crested Warbler,English
 558870,Pale-legged Warbler,English
 558871,Three-banded Warbler,English
-558872,Three-striped Warbler,English
+558872,Paruline triligne,French
 558873,Sulawesi Myna,English
 558874,Long-crested Myna,English
 558875,Helmeted Myna,English
@@ -66119,7 +66126,7 @@ taxonID,vernacularName,language
 559089,Paramo Seedeater,English
 559090,Plain-colored Seedeater,English
 559091,Sulawesi Thrush,English
-559095,Whistling Warbler,English
+559095,Paruline de Saint-Vincent,French
 559096,Orange-billed Nightingale-Thrush,English
 559097,Spotted Nightingale-Thrush,English
 559098,Ruddy-capped Nightingale-Thrush,English
@@ -67160,12 +67167,12 @@ taxonID,vernacularName,language
 560238,Small Ground Finch,English
 560239,Large Ground Finch,English
 560240,Common Cactus Finch,English
-560241,Masked Yellowthroat,English
-560242,Altamira Yellowthroat,English
-560243,Hooded Yellowthroat,English
-560244,Bahama Yellowthroat,English
-560245,Olive-crowned Yellowthroat,English
-560246,Black-polled Yellowthroat,English
+560241,Paruline équatoriale,French
+560242,Paruline à couronne jaune,French
+560243,Paruline de Nelson,French
+560244,Paruline des Bahamas,French
+560245,Paruline des bambous,French
+560246,Paruline à face noire,French
 560247,White-faced Quail-Dove,English
 560248,Tuxtla Quail-Dove,English
 560249,Chiriqui Quail-Dove,English
@@ -67631,7 +67638,7 @@ taxonID,vernacularName,language
 560775,Azuero Dove,English
 560776,Andean Negrito,English
 560777,Patagonian Negrito,English
-560778,Semper's Warbler,English
+560778,Paruline pied-blanc,French
 560779,Rothschild's starling,English
 560780,Brandt's Mountain Finch,English
 560781,Plain Mountain Finch,English
@@ -67939,7 +67946,7 @@ taxonID,vernacularName,language
 561113,Yellow-legged Flyrobin,English
 561114,Golden-bellied Flyrobin,English
 561115,Canary Flyrobin,English
-561116,Green-tailed Warbler,English
+561116,Paruline aux yeux rouges,French
 561117,Miniature Tit-Babbler,English
 561118,Dot-winged Antwren,English
 561121,Socorro Mockingbird,English
@@ -68128,7 +68135,7 @@ taxonID,vernacularName,language
 561321,Spectacled Whitestart,English
 561322,Golden-fronted Whitestart,English
 561323,Paria Whitestart,English
-561324,Collared Whitestart,English
+561324,Paruline ceinturée,French
 561325,Baird's Flycatcher,English
 561326,Golden-crowned Flycatcher,English
 561327,Golden-bellied Flycatcher,English
@@ -69872,8 +69879,8 @@ taxonID,vernacularName,language
 563356,Yellow-rumped Antwren,English
 563357,Orange-bellied Antwren,English
 563358,Ash-winged Antwren,English
-563359,Yellow-headed Warbler,English
-563360,Oriente Warbler,English
+563359,Paruline de Fernandina,French
+563360,Paruline d'Oriente,French
 563361,Japanese Paradise Flycatcher,English
 563362,Sao Tome Paradise Flycatcher,English
 563363,Bedford's Paradise Flycatcher,English
@@ -70189,7 +70196,7 @@ taxonID,vernacularName,language
 563709,Bushwren,English
 563711,Angola Cave Chat,English
 563712,Tit-like Dacnis,English
-563713,White-winged Warbler,English
+563713,Paruline quatre-yeux,French
 563714,Black Manakin,English
 563715,Van Dam's Vanga,English
 563716,Pollen's Vanga,English
@@ -70239,7 +70246,7 @@ taxonID,vernacularName,language
 563766,Rufous-vented Yuhina,English
 563768,White-cheeked Cotinga,English
 563769,Stresemann's Bush Crow,English
-563770,Wrenthrush,English
+563770,Paruline de Zeledon,French
 563771,Socorro Dove,English
 563772,Bolivian Tyrannulet,English
 563773,Golden-faced Tyrannulet,English
@@ -75306,685 +75313,677 @@ taxonID,vernacularName,language
 631033,Sars' wolf eel,English
 631142,banded eelpout,English
 631215,sixspot prickleback,English
-631408,acuminate horseshoe bat,English
-631409,Adam's horseshoe bat,English
-631410,intermediate horseshoe bat,English
-631411,Halcyon horseshoe bat,English
+631408,Acuminate Horseshoe Bat,English
+631409,Adam's Horseshoe Bat,English
+631410,Intermediate Horseshoe Bat,English
+631411,Halcyon Horseshoe Bat,English
 631412,Andersen's horseshoe bat,English
-631413,arcuate horseshoe bat,English
-631414,Blasius's horseshoe bat,English
-631415,Bornean horseshoe bat,English
-631416,Canut's horseshoe bat,English
-631417,Cape horseshoe bat,English
-631418,Sulawesi horseshoe bat,English
-631419,Geoffroy's horseshoe bat,English
-631420,croslet horseshoe bat,English
-631421,Andaman horseshoe bat,English
-631422,little Japanese horseshoe bat,English
-631423,Creagh's horseshoe bat,English
-631424,Darling's horseshoe bat,English
-631425,Decken's horseshoe bat,English
-631426,Dent's horseshoe bat,English
-631427,eloquent horseshoe bat,English
-631428,Mediterranean horseshoe bat,English
-631429,broad-eared horseshoe bat,English
-631430,greater horseshoe bat,English
-631431,Rüppell's horseshoe bat,English
-631432,Guinean horseshoe bat,English
+631413,Arcuate Horseshoe Bat,English
+631414,Blasius's Horseshoe Bat,English
+631415,Bornean Horseshoe Bat,English
+631416,Canut's Horseshoe Bat,English
+631417,Cape Horseshoe Bat,English
+631418,Sulawesi Horseshoe Bat,English
+631419,Geoffroy's Horseshoe Bat,English
+631420,Croslet Horseshoe Bat,English
+631421,Andaman Horseshoe Bat,English
+631422,Little Japanese Horseshoe Bat,English
+631423,Creagh's Horseshoe Bat,English
+631424,Darling's Horseshoe Bat,English
+631425,Decken's Horseshoe Bat,English
+631426,Dent's Horseshoe Bat,English
+631427,Eloquent Horseshoe Bat,English
+631428,Mediterranean Horseshoe Bat,English
+631429,Broad-eared Horseshoe Bat,English
+631430,Greater Horseshoe Bat,English
+631431,Rüppell's Horseshoe Bat,English
+631432,Guinean Horseshoe Bat,English
 631433,Hildebrandt's horseshoe bat,English
-631434,lesser horseshoe bat,English
-631435,Imaizumi's horseshoe bat,English
-631436,Philippine forest horseshoe bat,English
-631437,insular horseshoe bat,English
-631438,Lander's horseshoe bat,English
-631439,Blyth's horseshoe bat,English
-631440,woolly horseshoe bat,English
-631441,Maclaud's horseshoe bat,English
-631442,big-eared horseshoe bat,English
-631443,Malayan horseshoe bat,English
-631444,Marshall's horseshoe bat,English
-631445,smaller horseshoe bat,English
-631446,Mehely's horseshoe bat,English
-631447,mitred horseshoe bat,English
-631448,Formosan lesser horseshoe bat,English
-631449,neriad horseshoe bat,English
-631450,Osgood's horseshoe bat,English
-631451,Bourret's horseshoe bat,English
-631452,Pearson's horseshoe bat,English
-631453,large-eared horseshoe bat,English
-631454,least horseshoe bat,English
-631455,king horseshoe bat,English
-631456,peninsular horseshoe bat,English
-631457,rufous horseshoe bat,English
-631458,large rufous horseshoe bat,English
-631459,lesser woolly horseshoe bat,English
-631460,Shamel's horseshoe bat,English
-631461,forest horseshoe bat,English
+631434,Lesser Horseshoe Bat,English
+631435,Imaizumi's Horseshoe Bat,English
+631436,Philippine Forest Horseshoe Bat,English
+631437,Kai Horseshoe Bat,English
+631438,Lander's Horseshoe Bat,English
+631439,Blyth's Horseshoe Bat,English
+631440,Woolly Horseshoe Bat,English
+631441,Maclaud's Horseshoe Bat,English
+631442,Big-eared Horseshoe Bat,English
+631443,Malayan Horseshoe Bat,English
+631444,Marshall's Horseshoe Bat,English
+631445,Smaller Horseshoe Bat,English
+631446,Mehely's Horseshoe Bat,English
+631447,Mitred Horseshoe Bat,English
+631448,Formosan Lesser Horseshoe Bat,English
+631449,Anamban Horseshoe Bat,English
+631450,Osgood's Horseshoe Bat,English
+631451,Bourret's Horseshoe Bat,English
+631452,Pearson's Horseshoe Bat,English
+631453,Large-eared Horseshoe Bat,English
+631454,Least Horseshoe Bat,English
+631455,King Horseshoe Bat,English
+631456,Peninsular Horseshoe Bat,English
+631457,Rufous Horseshoe Bat,English
+631458,Large Rufous Horseshoe Bat,English
+631459,Lesser Woolly Horseshoe Bat,English
+631460,Shamel's Horseshoe Bat,English
+631461,Forest Horseshoe Bat,English
 631462,Lombok horseshoe bat,English
-631463,bushveld horseshoe bat,English
-631464,lesser brown horseshoe bat,English
-631465,little Nepalese horseshoe bat,English
-631466,small rufous horseshoe bat,English
-631467,Swinny's horseshoe bat,English
-631468,Thomas's horseshoe bat,English
-631469,trefoil horseshoe bat,English
-631470,yellow-faced horseshoe bat,English
-631471,Dobson's horseshoe bat,English
-631472,flower-faced bat,English
-631473,Patrizi's trident leaf-nosed bat,English
-631474,trident leaf-nosed bat,English
-631475,Stoliczka's trident bat,English
-631476,Temminck's trident bat,English
-631477,Percival's trident bat,English
+631463,Bushveld Horseshoe Bat,English
+631464,Lesser Brown Horseshoe Bat,English
+631465,Little Nepalese Horseshoe Bat,English
+631466,Small Rufous Horseshoe Bat,English
+631467,Swinny's Horseshoe Bat,English
+631468,Thomas's Horseshoe Bat,English
+631469,Trefoil Horseshoe Bat,English
+631470,Yellow-faced Horseshoe Bat,English
+631471,Dobson's Horseshoe Bat,English
+631472,Flower-faced Bat,English
+631473,Patrizi's Trident Leaf-nosed Bat,English
+631474,Geoffroy's Trident Leaf-nosed Bat,English
+631475,Stoliczka's Asian Trident Bat,English
+631476,Temminck's Asian Trident Bat,English
+631477,Percival's Short-eared Trident Bat,English
 631478,East Asian tailless leaf-nosed bat,English
 631479,Philippine tailless leaf-nosed bat,English
-631480,Malayan tailless leaf-nosed bat,English
-631481,Aba roundleaf bat,English
-631482,great roundleaf bat,English
-631483,dusky roundleaf bat,English
-631484,Benito roundleaf bat,English
-631485,bicolored roundleaf bat,English
-631486,short-headed roundleaf bat,English
-631487,Sundevall's roundleaf bat,English
-631488,spurred roundleaf bat,English
-631489,greater roundleaf bat,English
-631490,fawn roundleaf bat,English
-631491,ashy roundleaf bat,English
-631492,Commerson's roundleaf bat,English
-631493,large Mindanao roundleaf bat,English
-631494,Telefomin roundleaf bat,English
-631495,Cox's roundleaf bat,English
-631496,Timor roundleaf bat,English
-631497,short-tailed roundleaf bat,English
-631498,cyclops roundleaf bat,English
-631499,diadem roundleaf bat,English
-631500,fierce roundleaf bat,English
-631501,Borneo roundleaf bat,English
-631502,Dayak roundleaf bat,English
-631503,sooty roundleaf bat,English
-631504,fulvus roundleaf bat,English
-631505,Cantor's roundleaf bat,English
-631506,Thailand roundleaf bat,English
-631507,crested roundleaf bat,English
-631508,Jones's roundleaf bat,English
-631509,Lamotte's roundleaf bat,English
-631510,Indian roundleaf bat,English
-631511,intermediate roundleaf bat,English
-631512,large Asian roundleaf bat,English
-631513,shield-faced roundleaf bat,English
-631514,big-eared roundleaf bat,English
-631515,Maggie Taylor's roundleaf bat,English
-631516,Aellen's roundleaf bat,English
-631517,Ethiopian large-eared roundleaf bat,English
-631518,Fly River roundleaf bat,English
-631519,Malayan roundleaf bat,English
-631520,Philippine forest roundleaf bat,English
-631521,Biak roundleaf bat,English
-631522,Pomona roundleaf bat,English
-631523,Pratt's roundleaf bat,English
-631524,Philippine pygmy roundleaf bat,English
+631480,Malayan Tailless Leaf-nosed Bat,English
+631481,Aba Leaf-nosed Bat,English
+631482,Great Leaf-nosed Bat,English
+631483,Dusky Leaf-nosed Bat,English
+631484,Benito Leaf-nosed Bat,English
+631485,Bicolored Leaf-nosed Bat,English
+631486,Short-headed Leaf-nosed Bat,English
+631487,Sundevall's Leaf-nosed Bat,English
+631488,Spurred Leaf-nosed Bat,English
+631489,Cameroon Leaf-nosed Bat,English
+631490,Fawn-colored Leaf-nosed Bat,English
+631491,Ashy Leaf-nosed Bat,English
+631492,Commerson's Leaf-nosed Bat,English
+631493,Large Mindanao Leaf-nosed Bat,English
+631494,Telefomin Leaf-nosed Bat,English
+631495,Cox's Leaf-nosed Bat,English
+631496,Timor Leaf-nosed Bat,English
+631497,Short-tailed Leaf-nosed Bat,English
+631498,Cyclops Leaf-nosed Bat,English
+631499,Diadem Leaf-nosed Bat,English
+631500,Fierce Leaf-nosed Bat,English
+631501,Bornean Leaf-nosed Bat,English
+631502,Dayak Leaf-nosed Bat,English
+631503,Sooty Leaf-nosed Bat,English
+631504,Fulvus Leaf-nosed Bat,English
+631505,Cantor's Leaf-nosed Bat,English
+631506,Thailand Leaf-nosed Bat,English
+631507,Crested Leaf-nosed Bat,English
+631508,Jones's Leaf-nosed Bat,English
+631509,Lamotte's Leaf-nosed Bat,English
+631510,Indian Leaf-nosed Bat,English
+631511,Intermediate Leaf-nosed Bat,English
+631512,Large Asian Leaf-nosed Bat,English
+631513,Shield-faced Leaf-nosed Bat,English
+631514,Big-eared Leaf-nosed Bat,English
+631515,Maggie Taylor's Leaf-nosed Bat,English
+631516,Aellen's Leaf-nosed Bat,English
+631517,Large-eared Leaf-nosed Bat,English
+631518,Fly River Leaf-nosed Bat,English
+631519,Malayan Leaf-nosed Bat,English
+631520,Philippine Forest Leaf-nosed Bat,English
+631521,Biak Leaf-nosed Bat,English
+631522,Pomona Leaf-nosed Bat,English
+631523,Pratt's Leaf-nosed Bat,English
+631524,Philippine Pygmy Leaf-nosed Bat,English
 631525,Singapore roundleaf horseshoe bat,English
-631526,Noack's roundleaf bat,English
+631526,Noack's Leaf-nosed Bat,English
 631527,least roundleaf bat,English
 631528,split roundleaf bat,English
-631529,Semon's roundleaf bat,English
-631530,Schneider's roundleaf bat,English
-631531,narrow-eared roundleaf bat,English
-631532,lesser roundleaf bat,English
-631533,Wollaston's roundleaf bat,English
-631534,Vietnam leaf-nosed bat,English
-631535,orange leaf-nosed bat,English
-631536,Trouessart's trident bat,English
-631537,Persian trident bat,English
-631538,hog-nosed bat,English
-631539,Sulawesi fruit bat,English
-631540,talaud fruit bat,English
-631541,golden-capped fruit bat,English
-631542,Palawan fruit bat,English
+631529,Semon's Leaf-nosed Bat,English
+631530,Schneider's Leaf-nosed Bat,English
+631531,Narrow-eared Leaf-nosed Bat,English
+631532,Lesser Leaf-nosed Bat,English
+631533,Wollaston's Leaf-nosed Bat,English
+631534,Vietnamese Leaf-nosed Bat,English
+631535,Orange Leaf-nosed Bat,English
+631536,Trouessart's Trident Bat,English
+631537,Persian Trident Bat,English
+631538,Bumblebee bat,English
+631539,Sulawesi Fruit Bat,English
+631540,Talaud Fruit Bat,English
+631541,Golden-capped Fruit Bat,English
+631542,Palawan Fruit Bat,English
 631543,Panay golden-capped fruit bat,English
-631544,Sunda fruit bat,English
-631545,pygmy fruit bat,English
-631546,Mindanao pygmy fruit bat,English
-631547,Bulmer's fruit bat,English
-631548,spotted-winged fruit bat,English
+631544,Sunda Fruit Bat,English
+631545,Pygmy Fruit Bat,English
+631546,Mindanao Pygmy Fruit Bat,English
+631547,Bulmer's Fruit Bat,English
+631548,Spotted-winged Fruit Bat,English
 631549,Manado fruit bat,English
-631550,short-palated fruit bat,English
-631551,black-capped fruit bat,English
-631552,lesser short-nosed fruit bat,English
+631550,Golden Short-palated Fruit Bat,English
+631551,Black-capped Fruit Bat,English
+631552,Lesser Short-nosed Fruit Bat,English
 631553,Horsfield's fruit bat,English
-631554,Nusatenggara short-nosed fruit bat,English
-631555,greater short-nosed fruit bat,English
-631556,Indonesian short-nosed fruit bat,English
-631557,Beaufort's naked-backed fruit bat,English
-631558,Negros naked-backed fruit bat,English
-631559,Biak naked-backed fruit bat,English
-631560,Sulawesi naked-backed fruit bat,English
-631561,Solomons naked-backed fruit bat,English
-631562,lesser naked-backed fruit bat,English
-631563,Moluccan naked-backed fruit bat,English
-631564,Panniet naked-backed fruit bat,English
+631554,Nusatenggara Short-nosed Fruit Bat,English
+631555,Greater Short-nosed Fruit Bat,English
+631556,Indonesian Short-nosed Fruit Bat,English
+631557,Beaufort's Naked-backed Fruit Bat,English
+631558,Negros Naked-backed Fruit Bat,English
+631559,Biak Naked-backed Fruit Bat,English
+631560,Sulawesi Naked-backed Fruit Bat,English
+631561,Solomons Naked-backed Fruit Bat,English
+631562,Lesser Naked-backed Fruit Bat,English
+631563,Moluccan Naked-backed Fruit Bat,English
+631564,Panniet Naked-backed Fruit Bat,English
 631565,western naked-backed fruit bat,English
-631566,New Britain naked-backed fruit bat,English
-631567,greenish naked-backed fruit bat,English
-631568,Dyak fruit bat,English
-631569,straw-colored fruit bat,English
-631570,Angolan epauletted fruit bat,English
-631571,Gambian epauletted fruit bat,English
-631572,lesser Angolan epauletted fruit bat,English
-631573,Ethiopian epauletted fruit bat,English
-631574,East African epauletted fruit bat,English
-631575,Wahlberg's epauletted fruit bat,English
-631576,Buettikofer's epauletted bat,English
+631566,New Britain Naked-backed Fruit Bat,English
+631567,Greenish Naked-backed Fruit Bat,English
+631568,Dyak Fruit Bat,English
+631569,African Straw-colored Fruit Bat,English
+631570,Angolan Epauletted Fruit Bat,English
+631571,Gambian Epauletted Fruit Bat,English
+631572,Sanborn's Epauletted Fruit Bat,English
+631573,Little Epauletted Fruit Bat,English
+631574,Least Epauletted Fruit Bat,English
+631575,Wahlberg's Epauletted Fruit Bat,English
+631576,Büttikofer's Epauletted Fruit Bat,English
 631577,Dobson's fruit bat,English
-631578,Franquet's epauletted bat,English
-631579,Philippine pygmy fruit bat,English
-631580,Sulawesi harpy fruit bat,English
-631581,harpy fruit bat,English
-631582,hammer-headed fruit bat,English
-631583,Salim Ali's fruit bat,English
-631584,Temminck's tailless fruit bat,English
-631585,Javan tailless fruit bat,English
-631586,Ratanaworabhan's fruit bat,English
-631587,white-collared fruit bat,English
-631588,Hayman's dwarf epauletted fruit bat,English
-631589,Peters's dwarf epauletted fruit bat,English
-631590,Sao Tomé collared fruit bat,English
-631591,East African little collared fruit bat,English
-631592,little collared fruit bat,English
+631578,Franquet's Epauletted Fruit Bat,English
+631579,Philippine Pygmy Fruit Bat,English
+631580,Sulawesi Harpy Fruit Bat,English
+631581,Harpy Fruit Bat,English
+631582,Hammer-headed Fruit Bat,English
+631583,Salim Ali's Fruit Bat,English
+631584,Temminck's Tailless Fruit Bat,English
+631585,Javan Tailless Fruit Bat,English
+631586,Ratanaworabhan's Fruit Bat,English
+631587,White-collared Fruit Bat,English
+631588,Hayman's Lesser Epauletted Fruit Bat,English
+631589,Peters's Lesser Epauletted Fruit Bat,English
+631590,São Tomé Collared Fruit Bat,English
+631591,Bergmans's Collared Fruit Bat,English
+631592,Little Collared Fruit Bat,English
 631593,Veldkamp's bat,English
-631594,small-toothed fruit bat,English
-631595,broad-striped tube-nosed fruit bat,English
-631596,common tube-nosed fruit bat,English
+631594,Small-toothed Fruit Bat,English
+631595,Broad-striped Tube-nosed Fruit Bat,English
+631596,Common Tube-nosed Fruit Bat,English
 631597,dark tube-nosed fruit bat,English
-631598,Pallas's tube-nosed fruit bat,English
-631599,mountain tube-nosed fruit bat,English
-631600,round-eared tube-nosed fruit bat,English
-631601,dragon tube-nosed fruit bat,English
-631602,island tube-nosed fruit bat,English
-631603,Malaita tube-nosed fruit bat,English
-631604,demonic tube-nosed fruit bat,English
-631605,lesser tube-nosed fruit bat,English
-631606,Philippine tube-nosed fruit bat,English
-631607,Queensland tube-nosed fruit bat,English
-631608,Nendo tube-nosed fruit bat,English
-631609,Umboi tube-nosed fruit bat,English
-631610,Luzon fruit bat,English
-631611,unstriped tube-nosed bat,English
-631612,Lucas's short-nosed fruit bat,English
+631598,Pallas's Tube-nosed Fruit Bat,English
+631599,Mountain Tube-nosed Fruit Bat,English
+631600,Round-eared Tube-nosed Fruit Bat,English
+631601,Dragon Tube-nosed Fruit Bat,English
+631602,Island Tube-nosed Fruit Bat,English
+631603,Malaita Tube-nosed Fruit Bat,English
+631604,Demonic Tube-nosed Fruit Bat,English
+631605,Lesser Tube-nosed Fruit Bat,English
+631606,Philippine Tube-nosed Fruit Bat,English
+631607,Queensland Tube-nosed Fruit Bat,English
+631608,Nendo Tube-nosed Fruit Bat,English
+631609,Umboi Tube-nosed Fruit Bat,English
+631610,Luzon Fruit Bat,English
+631611,Unstriped Tube-nosed Fruit Bat,English
+631612,Lucas's Short-nosed Fruit Bat,English
 631613,d'Anchieta's fruit bat,English
-631614,greater musky fruit bat,English
-631615,lesser musky fruit bat,English
-631616,Fijian monkey-faced bat,English
-631617,Bougainville monkey-faced bat,English
-631618,Guadalcanal monkey-faced bat,English
-631619,black flying fox,English
-631620,Vanauatu flying fox,English
+631614,Greater Musky Fruit Bat,English
+631615,Lesser Musky Fruit Bat,English
+631616,Fijian Monkey-faced Fruit Bat,English
+631617,Bougainville Monkey-faced Fruit Bat,English
+631618,Guadalcanal Monkey-faced Fruit Bat,English
+631619,Black Flying Fox,English
+631620,Vanuatu Flying Fox,English
 631621,Ambon flying fox,English
-631622,dusky flying fox,English
-631623,north Moluccan flying fox,English
-631624,Moluccan flying fox,English
-631625,spectacled flying fox,English
-631626,Ryukyu flying fox,English
-631627,Nicobar flying fox,English
-631628,Banks flying fox,English
-631629,Indian flying fox,English
+631622,Dusky Flying Fox,English
+631623,North Moluccan Flying Fox,English
+631624,Moluccan Flying Fox,English
+631625,Spectacled Flying Fox,English
+631626,Ryukyu Flying Fox,English
+631627,Nicobar Flying Fox,English
+631628,Banks Flying Fox,English
+631629,Indian Flying Fox,English
 631630,Gilliard's flying fox,English
-631631,gray flying fox,English
-631632,Ontong Java flying fox,English
-631633,variable flying fox,English
-631634,white-winged flying fox,English
-631635,Comoro black flying fox,English
-631636,Lombok flying fox,English
-631637,Lyle's flying fox,English
-631638,big-eared flying fox,English
-631639,Sanborn's flying fox,English
+631631,Gray Flying Fox,English
+631632,Ontong Java Flying Fox,English
+631633,Variable Flying Fox,English
+631634,White-winged Flying Fox,English
+631635,Comoro Flying Fox,English
+631636,Lombok Flying Fox,English
+631637,Lyle's Flying Fox,English
+631638,Big-eared Flying Fox,English
+631639,Sanborn's Flying Fox,English
 631640,Mearns's flying fox,English
-631641,black-bearded flying fox,English
-631642,black-eared flying fox,English
-631643,great flying fox,English
-631644,greater mascarene flying fox,English
-631645,temotu flying fox,English
-631646,Ceram flying fox,English
-631647,ornate flying fox,English
-631648,masked flying fox,English
-631649,Geelvink Bay flying fox,English
-631650,gray-headed flying fox,English
-631651,Bonin flying fox,English
-631652,little golden-mantled flying fox,English
-631653,Solomons flying fox,English
-631654,Madagascan flying fox,English
+631641,Black-bearded Flying Fox,English
+631642,Black-eared Flying Fox,English
+631643,Great Flying Fox,English
+631644,Greater Mascarene Flying Fox,English
+631645,Temotu Flying Fox,English
+631646,Seram Flying Fox,English
+631647,Ornate Flying Fox,English
+631648,Moluccan Masked Flying Fox,English
+631649,Geelvink Bay Flying Fox,English
+631650,Gray-headed Flying Fox,English
+631651,Bonin Flying Fox,English
+631652,Little Golden-mantled Flying Fox,English
+631653,Solomons Flying Fox,English
+631654,Malagasy Flying Fox,English
 631655,Santa Cruz flying fox,English
-631656,little red flying fox,English
-631657,Seychelles flying fox,English
-631658,Philippine gray flying fox,English
-631659,dark flying fox,English
+631656,Little Red Flying Fox,English
+631657,Seychelles Flying Fox,English
+631658,Philippine Gray Flying Fox,English
+631659,Dark Flying Fox,English
 631660,Temminck's flying fox,English
-631661,Vanikoro flying fox,English
-631662,large flying fox,English
-631663,New Caledonia flying fox,English
-631664,Pemba flying fox,English
-631665,dwarf flying fox,English
+631661,Vanikoro Flying Fox,English
+631662,Large Flying Fox,English
+631663,New Caledonian Flying Fox,English
+631664,Pemba Flying Fox,English
+631665,Dwarf Flying Fox,English
 631666,Egyptian rousette,English
-631667,Geoffroy's rousette,English
+631667,Geoffroy's Rousette,English
 631668,Angolan rousette,English
-631669,Sulawesi rousette,English
-631670,long-haired rousette,English
+631669,Sulawesi Rousette,English
+631670,Long-haired Rousette,English
 631671,Leschenault's rousette,English
-631672,Madagascan rousette,English
-631673,Comoro rousette,English
-631674,bare-backed rousette,English
-631675,Pohle's fruit bat,English
-631676,Zenker's fruit bat,English
-631677,Blanford's fruit bat,English
-631678,stripe-faced fruit bat,English
-631679,swift fruit bat,English
-631680,greater dawn bat,English
-631681,lesser dawn bat,English
-631682,lesser long-tongued fruit bat,English
-631683,greater long-tongued fruit bat,English
-631684,Woermann's bat,English
+631672,Malagasy Rousette,English
+631673,Comoro Rousette,English
+631674,Bare-backed Rousette,English
+631675,Pohle's Fruit Bat,English
+631676,Zenker's Fruit Bat,English
+631677,Blanford's Fruit Bat,English
+631678,Stripe-faced Fruit Bat,English
+631679,Swift Fruit Bat,English
+631680,Greater Dawn Bat,English
+631681,Lesser Dawn Bat,English
+631682,Dagger-toothed Long-nosed Fruit Bat,English
+631683,Greater Long-nosed Fruit Bat,English
+631684,Woermann's Long-tongued Fruit Bat,English
 631685,orange fruit bat,English
-631686,black-bellied fruit bat,English
-631687,Woodford's fruit bat,English
-631688,southern blossom bat,English
-631689,Halmahera blossom bat,English
-631690,moss-forest blossom bat,English
+631686,Black-bellied Fruit Bat,English
+631687,Woodford's Fruit Bat,English
+631688,Southern Blossom Bat,English
+631689,Halmaheran Blossom Bat,English
+631690,Moss-forest Blossom Bat,English
 631691,lesser mouse-tailed bat,English
-631692,greater mouse-tailed bat,English
-631693,small mouse-tailed bat,English
-631694,Ecuadorian sac-winged bat,English
-631695,Thomas's sac-winged bat,English
-631696,gray sac-winged bat,English
-631697,shaggy bat,English
-631698,African sheath-tailed bat,English
-631699,Seychelles sheath-tailed bat,English
-631700,chestnut sac-winged bat,English
-631701,short-eared bat,English
-631702,northern ghost bat,English
-631703,greater ghost bat,English
-631704,Isabelle's ghost bat,English
-631705,lesser ghost bat,English
-631706,small Asian sheath-tailed bat,English
-631707,Peters's sheath-tailed bat,English
-631708,Beccari's sheath-tailed bat,English
-631709,large-eared sheath-tailed bat,English
-631710,New Guinea sheath-tailed bat,English
-631711,lesser sheath-tailed bat,English
-631712,Raffray's sheath-tailed bat,English
-631713,dark sheath-tailed bat,English
-631714,greater dog-like bat,English
-631715,white-winged dog-like bat,English
-631716,lesser dog-like bat,English
-631717,proboscis bat,English
-631718,yellow-bellied pouched bat,English
-631719,Troughton's pouched bat,English
-631720,Pel's pouched bat,English
+631692,Greater Mouse-tailed Bat,English
+631693,Small Mouse-tailed Bat,English
+631694,Ecuadorian Sac-winged Bat,English
+631695,Thomas's Sac-winged Bat,English
+631696,Gray Sac-winged Bat,English
+631697,Shaggy Bat,English
+631698,African Sheath-tailed Bat,English
+631699,Seychelles Sheath-tailed Bat,English
+631700,Chestnut Sac-winged Bat,English
+631701,Short-eared Bat,English
+631702,Northern Ghost Bat,English
+631703,Greater Ghost Bat,English
+631704,Isabelle's Ghost Bat,English
+631705,Lesser Ghost Bat,English
+631706,Small Asian Sheath-tailed Bat,English
+631707,Peters's Sheath-tailed Bat,English
+631708,Beccari's Sheath-tailed Bat,English
+631709,Large-eared Sheath-tailed Bat,English
+631710,New Guinean Sheath-tailed Bat,English
+631711,Lesser Sheath-tailed Bat,English
+631712,Raffray's Sheath-tailed Bat,English
+631713,Dark Sheath-tailed Bat,English
+631714,Greater Dog-like Bat,English
+631715,White-winged Dog-like Bat,English
+631716,Lesser Dog-like Bat,English
+631717,Proboscis Bat,English
+631718,Yellow-bellied Pouched Bat,English
+631719,Troughton's Pouched Bat,English
+631720,Pel's Pouched Bat,English
 631721,Philippine pouched bat,English
-631722,naked-rumped pouched bat,English
-631723,greater sac-winged bat,English
-631724,frosted sac-winged bat,English
-631725,Amazonian sac-winged bat,English
-631726,lesser sac-winged bat,English
-631727,coastal tomb bat,English
-631728,sharp-nosed tomb bat,English
-631729,Hamilton's tomb bat,English
-631730,Hildegarde's tomb bat,English
-631731,Hill's tomb bat,English
-631732,Arnhem tomb bat,English
-631733,long-winged tomb bat,English
-631734,Mauritian tomb bat,English
-631735,black-bearded tomb bat,English
-631736,naked-rumped tomb bat,English
-631737,Egyptian tomb bat,English
+631722,Naked-rumped Pouched Bat,English
+631723,Greater Sac-winged Bat,English
+631724,Frosted Sac-winged Bat,English
+631725,Amazonian Sac-winged Bat,English
+631726,Lesser Sac-winged Bat,English
+631727,Coastal Tomb Bat,English
+631728,Sharp-nosed Tomb Bat,English
+631729,Hamilton's Tomb Bat,English
+631730,Hildegarde's Tomb Bat,English
+631731,Hill's Tomb Bat,English
+631732,Arnhem Tomb Bat,English
+631733,Long-winged Tomb Bat,English
+631734,Mauritian Tomb Bat,English
+631735,Black-bearded Tomb Bat,English
+631736,Naked-rumped Tomb Bat,English
+631737,Egyptian Tomb Bat,English
 631738,Philippine tomb bat,English
-631739,Theobald's tomb bat,English
-631740,Bate's slit-faced bat,English
-631741,Gambian slit-faced bat,English
-631742,large slit-faced bat,English
-631743,hairy slit-faced bat,English
-631744,intermediate slit-faced bat,English
-631745,Javan slit-faced bat,English
-631746,large-eared slit-faced bat,English
-631747,ja slit-faced bat,English
-631748,dwarf slit-faced bat,English
-631749,Egyptian slit-faced bat,English
-631750,Malayan slit-faced bat,English
-631751,Wood's slit-faced bat,English
-631752,heart-nosed bat,English
-631753,yellow-winged bat,English
-631754,Australian false vampire bat,English
-631755,greater false vampire bat,English
-631756,lesser false vampire bat,English
-631757,Madagascan fruit bat,English
-631758,montane monkey-faced bat,English
-631759,Aldabra flying fox,English
-631760,big-eared woolly bat,English
-631761,Tomes's sword-nosed bat,English
-631762,Fernandez's sword-nosed bat,English
-631763,Marinkelle's sword-nosed bat,English
-631764,Orinoco sword-nosed bat,English
-631765,long-legged bat,English
-631766,Behni's big-eared bat,English
+631739,Theobald's Tomb Bat,English
+631740,Bates's Slit-faced Bat,English
+631741,Gambian Slit-faced Bat,English
+631742,Large Slit-faced Bat,English
+631743,Hairy Slit-faced Bat,English
+631744,Intermediate Slit-faced Bat,English
+631745,Javan Slit-faced Bat,English
+631746,Large-eared Slit-faced Bat,English
+631747,Dja Slit-faced Bat,English
+631748,Dwarf Slit-faced Bat,English
+631749,Egyptian Slit-faced Bat,English
+631750,Malayan Slit-faced Bat,English
+631751,Wood's Slit-faced Bat,English
+631752,Heart-nosed Bat,English
+631753,Yellow-winged Bat,English
+631754,Australian False Vampire Bat,English
+631755,Greater False Vampire Bat,English
+631756,Lesser False Vampire Bat,English
+631757,Malagasy Straw-colored Fruit Bat,English
+631758,Montane Monkey-faced Fruit Bat,English
+631759,Aldabra Flying Fox,English
+631760,Woolly False Vampire Bat,English
+631761,Common Sword-nosed Bat,English
+631762,Fernandez's Sword-nosed Bat,English
+631763,Marinkelle's Sword-nosed Bat,English
+631764,Orinocoan Sword-nosed Bat,English
+631765,Long-legged Bat,English
 631767,yellow-throated big-eared bat,English
 631768,Davies's big-eared bat,English
-631769,hairy big-eared bat,English
-631770,little big-eared bat,English
-631771,white-bellied big-eared bat,English
+631769,Hairy Big-eared Bat,English
+631770,Little Big-eared Bat,English
+631771,Tiny Big-eared Bat,English
 631772,Niceforo's big-eared bat,English
 631773,least big-eared bat,English
-631774,Schmidts's big-eared bat,English
+631774,Schmidt's Big-eared Bat,English
 631775,tri-colored big-eared bat,English
-631776,golden bat,English
-631777,striped hairy-nosed bat,English
-631778,pale-faced bat,English
-631779,pale spear-nosed bat,English
-631780,lesser spear-nosed bat,English
-631781,greater spear-nosed bat,English
-631782,Guianan spear-nosed bat,English
-631783,greater round-eared bat,English
+631776,Southern Golden Bat,English
+631777,Striped Hairy-nosed Bat,English
+631778,Pale-faced Bat,English
+631779,Pale Spear-nosed Bat,English
+631780,Lesser Spear-nosed Bat,English
+631781,Greater Spear-nosed Bat,English
+631782,Guianan Spear-nosed Bat,English
+631783,Greater Round-eared Bat,English
 631784,pygmy round-eared bat,English
 631785,Carriker's round-eared bat,English
 631786,Davis's round-eared bat,English
-631787,Schultz's round-eared bat,English
 631788,white-throated round-eared bat,English
-631789,fringe-lipped bat,English
-631790,spectral bat,English
-631791,chestnut long-tongued bat,English
-631792,Bokermann's nectar bat,English
-631793,Dekeyser's nectar bat,English
-631794,Handley's nectar bat,English
-631795,western nectar bat,English
-631796,Goldman's nectar bat,English
-631797,orange nectar bat,English
-631798,Thomas's nectar bat,English
-631799,long-snouted bat,English
-631800,Cuban fruit-eating bat,English
-631801,Jamaican flower bat,English
-631802,Cuban flower bat,English
+631789,Fringe-lipped Bat,English
+631790,Spectral Bat,English
+631791,Chestnut Long-tongued Bat,English
+631792,Bokermann's Nectar Bat,English
+631793,Dekeyser's Nectar Bat,English
+631794,Handley's Nectar Bat,English
+631795,Western Nectar Bat,English
+631796,Goldman's Nectar Bat,English
+631797,Orange Nectar Bat,English
+631798,Thomas's Nectar Bat,English
+631799,Long-snouted Bat,English
+631800,Cuban Fruit-eating Bat,English
+631801,Jamaican Flower Bat,English
+631802,Cuban Flower Bat,English
 631803,tailed tailless bat,English
-631804,Handley's tailless bat,English
-631805,Geoffroy's tailless bat,English
-631806,broad-toothed tailless bat,English
-631807,Godman's long-tailed bat,English
+631804,Handley's Tailless Bat,English
+631805,Geoffroy's Tailless Bat,English
+631806,Broad-toothed Tailless Bat,English
+631807,Godman's Long-tongued Bat,English
 631808,intermediate long-tailed bat,English
-631809,lesser long-tailed bat,English
-631810,greater long-tailed bat,English
-631811,Commissaris's long-tongued bat,English
-631812,gray long-tongued bat,English
-631813,Miller's long-tongued bat,English
-631814,western long-tongued bat,English
-631815,Pallas's long-tongued bat,English
-631816,Underwood's long-tongued bat,English
-631817,dark long-tongued bat,English
-631818,banana bat,English
-631819,ega long-tongued bat,English
-631820,silky short-tailed bat,English
-631821,chestnut short-tailed bat,English
-631822,Seba's short-tailed bat,English
-631823,gray short-tailed bat,English
-631824,hairy little fruit bat,English
-631825,Fischer's little fruit bat,English
-631826,dwarf little fruit bat,English
-631827,little white-shouldered bat,English
-631828,tree bat,English
-631829,Jamaican fig-eating bat,English
-631830,large fruit-eating bat,English
-631831,Andersen's fruit-eating bat,English
-631832,Aztec fruit-eating bat,English
-631833,Gervais's fruit-eating bat,English
-631834,brown fruit-eating bat,English
-631835,silver fruit-eating bat,English
-631836,fringed fruit-eating bat,English
-631837,fraternal fruit-eating bat,English
-631838,hairy fruit-eating bat,English
-631839,Honduran fruit-eating bat,English
-631840,great fruit-eating bat,English
-631841,dark fruit-eating bat,English
-631842,pygmy fruit-eating bat,English
+631809,Lesser Long-tongued Bat,English
+631810,Greater Long-tongued Bat,English
+631811,Commissaris's Long-tongued Bat,English
+631812,Gray's Long-tongued Bat,English
+631813,Miller's Long-tongued Bat,English
+631814,Western Long-tongued Bat,English
+631815,Pallas's Long-tongued Bat,English
+631816,Underwood's Long-tongued Bat,English
+631817,Dark Long-tongued Bat,English
+631818,Banana Bat,English
+631819,Ega Long-tongued Bat,English
+631820,Silky Short-tailed Bat,English
+631821,Chestnut Short-tailed Bat,English
+631822,Seba's Short-tailed Bat,English
+631823,Gray Short-tailed Bat,English
+631824,Hairy Little Fruit Bat,English
+631825,Fischer's Little Fruit Bat,English
+631826,Dwarf Little Fruit Bat,English
+631827,Little White-shouldered Bat,English
+631828,Tree Bat,English
+631829,Jamaican Fig-eating Bat,English
+631830,Large Fruit-eating Bat,English
+631831,Andersen's Fruit-eating Bat,English
+631832,Aztec Fruit-eating Bat,English
+631833,Gervais's Fruit-eating Bat,English
+631834,Brown Fruit-eating Bat,English
+631835,Silvery Fruit-eating Bat,English
+631836,Fringed Fruit-eating Bat,English
+631837,Fraternal Fruit-eating Bat,English
+631838,Hairy Fruit-eating Bat,English
+631839,Honduran Fruit-eating Bat,English
+631840,Great Fruit-eating Bat,English
+631841,Dark Fruit-eating Bat,English
+631842,Pygmy Fruit-eating Bat,English
 631843,flat-faced fruit-eating bat,English
-631844,Toltec fruit-eating bat,English
-631845,wrinkle-faced bat,English
-631846,Brazilian big-eyed bat,English
-631847,Guadeloupe big-eyed bat,English
-631848,Salvin's big-eyed bat,English
-631849,little big-eyed bat,English
-631850,hairy big-eyed bat,English
-631851,white bat,English
-631852,MacConnell's bat,English
-631853,Cuban fig-eating bat,English
-631854,Ipanema bat,English
-631855,visored bat,English
-631856,Aratathomas's yellow-shouldered bat,English
-631857,bidentate yellow-shouldered bat,English
-631858,Bogota yellow-shouldered bat,English
-631859,hairy yellow-shouldered bat,English
-631860,little yellow-shouldered bat,English
-631861,highland yellow-shouldered bat,English
-631862,Luis's yellow-shouldered bat,English
-631863,greater yellow-shouldered bat,English
-631864,Talamancan yellow-shouldered bat,English
-631865,lesser yellow-shouldered bat,English
-631866,Thomas's yellow-shouldered bat,English
-631867,Tilda yellow-shouldered bat,English
-631868,tent-making bat,English
-631869,brown tent-making bat,English
-631870,bidentate yellow-eared bat,English
-631871,Brock's yellow-eared bat,English
-631872,Melissa's yellow-eared bat,English
-631873,striped yellow-eared bat,English
-631874,little yellow-eared bat,English
-631875,great stripe-faced bat,English
-631876,Eldorado broad-nosed bat,English
-631877,short-headed broad-nosed bat,English
-631878,choco broad-nosed bat,English
-631879,Thomas's broad-nosed bat,English
-631880,Heller's broad-nosed bat,English
-631881,buffy broad-nosed bat,English
-631882,white-lined broad-nosed bat,English
-631883,Recife broad-nosed bat,English
-631884,shadowy broad-nosed bat,English
-631885,greater broad-nosed bat,English
-631886,vampire bat,English
-631887,white-winged vampire bat,English
-631888,lesser bulldog bat,English
-631889,Davy's naked-backed bat,English
-631890,big naked-backed bat,English
-631891,MacLeay's mustached bat,English
-631892,Wagner's mustached bat,English
+631844,Toltec Fruit-eating Bat,English
+631845,Wrinkle-faced Bat,English
+631846,Brazilian Big-eyed Bat,English
+631847,Guadeloupean Big-eyed Bat,English
+631848,Salvin's Big-eyed Bat,English
+631849,Little Big-eyed Bat,English
+631850,Hairy Big-eyed Bat,English
+631851,Honduran White Bat,English
+631852,MacConnell's Bat,English
+631853,Cuban Fig-eating Bat,English
+631854,Ipanema Broad-nosed Bat,English
+631855,Visored Bat,English
+631856,Aratathomas's Yellow-shouldered Bat,English
+631857,Bidentate Yellow-shouldered Bat,English
+631858,Bogotan Yellow-shouldered Bat,English
+631859,Hairy Yellow-shouldered Bat,English
+631860,Little Yellow-shouldered Bat,English
+631861,Highland Yellow-shouldered Bat,English
+631862,Luis's Yellow-shouldered Bat,English
+631863,Greater Yellow-shouldered Bat,English
+631864,Talamancan Yellow-shouldered Bat,English
+631865,Lesser Yellow-shouldered Bat,English
+631866,Thomas's Yellow-shouldered Bat,English
+631867,Tilda's Yellow-shouldered Bat,English
+631868,Common Tent-making Bat,English
+631869,Brown Tent-making Bat,English
+631870,Bidentate Yellow-eared Bat,English
+631871,Brock's Yellow-eared Bat,English
+631872,Melissa's Yellow-eared Bat,English
+631873,Striped Yellow-eared Bat,English
+631874,Southern Little Yellow-eared Bat,English
+631875,Great Stripe-faced Bat,English
+631876,Eldorado Broad-nosed Bat,English
+631877,Short-headed Broad-nosed Bat,English
+631878,Choco Broad-nosed Bat,English
+631879,Thomas's Broad-nosed Bat,English
+631880,Heller's Broad-nosed Bat,English
+631881,Buffy Broad-nosed Bat,English
+631882,White-lined Broad-nosed Bat,English
+631883,Recife Broad-nosed Bat,English
+631884,Shadowy Broad-nosed Bat,English
+631885,Greater Broad-nosed Bat,English
+631886,Common Vampire Bat,English
+631887,White-winged Vampire Bat,English
+631888,Lesser Bulldog Bat,English
+631889,Davy's Naked-backed Bat,English
+631890,Big Naked-backed Bat,English
+631891,MacLeay's Mustached Bat,English
+631892,Wagner's Mustached Bat,English
 631893,Gervais's funnel-eared bat,English
-631894,Cuban funnel-eared bat,English
-631895,Mexican funnel-eared bat,English
-631896,Bahaman funnel-eared bat,English
-631897,Trinidadian funnel-eared bat,English
-631898,smoky bat,English
-631899,thumbless bat,English
-631900,Peter's disk-winged bat,English
-631901,Spix's disk-winged bat,English
-631902,sucker-footed bat,English
+631895,Mexican Greater Funnel-eared Bat,English
+631897,Trinidadian Greater Funnel-eared Bat,English
+631898,Smoky Bat,English
+631899,Thumbless Bat,English
+631900,Peters's Disk-winged Bat,English
+631901,Spix's Disk-winged Bat,English
+631902,Eastern Sucker-footed Bat,English
 631903,dubious trumpet-eared bat,English
-631904,Tanzanian woolly bat,English
-631905,St. Aignan's trumpet-eared bat,English
-631906,Damara woolly bat,English
-631907,groove-toothed bat,English
-631908,copper woolly bat,English
-631909,Ethiopian woolly bat,English
-631910,Flores woolly bat,English
-631911,Hardwicke's woolly bat,English
-631912,small woolly bat,English
+631904,Tanzanian Woolly Bat,English
+631905,St. Aignan's Woolly Bat,English
+631906,Damara Woolly Bat,English
+631908,Copper Woolly Bat,English
+631909,Ethiopian Woolly Bat,English
+631910,Flores Woolly Bat,English
+631911,Hardwicke's Woolly Bat,English
+631912,Small Woolly Bat,English
 631913,Peters's trumpet-eared bat,English
-631914,lesser woolly bat,English
-631915,least woolly bat,English
-631916,Fly River trumpet-eared bat,English
-631917,Bismarck's trumpet-eared bat,English
-631918,Papillose woolly bat,English
+631914,Lesser Woolly Bat,English
+631915,Least Woolly Bat,English
+631916,Fly River Woolly Bat,English
+631917,Bismarck's Woolly Bat,English
+631918,Papillose Woolly Bat,English
 631919,golden-tipped bat,English
-631920,clear-winged woolly bat,English
-631921,Spurrell's woolly bat,English
-631922,painted bat,English
-631923,Smith's woolly bat,English
-631924,Whitehead's woolly bat,English
+631920,Clear-winged Woolly Bat,English
+631921,Spurrell's Woolly Bat,English
+631922,Painted Woolly Bat,English
+631923,Smith's Woolly Bat,English
+631924,Whitehead's Woolly Bat,English
 631925,Van Gelder's bat,English
-631926,western barbastelle,English
-631927,eastern barbastelle,English
+631926,Western Barbastelle,English
+631927,Eastern Barbastelle,English
 631928,Allen's striped bat,English
 631929,silvered bat,English
 631930,Beatrix's bat,English
-631931,large-eared pied bat,English
+631931,Large-eared Pied Bat,English
 631932,Bibundi bat,English
 631933,Glen's wattled bat,English
-631934,Gould's wattled bat,English
+631934,Gould's Wattled Bat,English
 631935,Kenyan wattled bat,English
-631936,chocolate wattled bat,English
-631937,hoary wattled bat,English
-631938,little pied bat,English
-631939,abo bat,English
-631940,pied bat,English
-631941,long-tailed wattled bat,English
-631942,butterfly bat,English
+631936,Chocolate Wattled Bat,English
+631937,Hoary Wattled Bat,English
+631938,Little Pied Bat,English
+631941,Long-tailed Wattled Bat,English
 631943,inland forest bat,English
-631944,Bobrinski's serotine,English
-631945,Botta's serotine,English
-631946,Brazilian brown bat,English
+631944,Bobrinski's Serotine,English
+631945,Botta's Serotine,English
+631946,Brazilian Brown Bat,English
 631947,dark-brown serotine,English
 631948,Cape serotine,English
 631949,Surat serotine,English
-631950,diminutive serotine,English
+631950,Diminutive Serotine,English
 631951,yellow-lipped bat,English
 631952,yellow serotine,English
-631953,horn-skinned bat,English
-631954,Argentine brown bat,English
-631955,Guadeloupe big brown bat,English
+631953,Horn-skinned Serotine,English
+631954,Argentinian Brown Bat,English
+631955,Guadeloupean Big Brown Bat,English
 631956,tiny serotine,English
-631957,long-tailed house bat,English
-631958,harmless serotine,English
-631959,Kobayashi's serotine,English
+631957,Long-tailed Serotine,English
+631958,Harmless Serotine,English
+631959,Kobayashi's Serotine,English
 631960,Melck's house bat,English
-631961,sind bat,English
+631961,Sind Bat,English
 631962,northern bat,English
-631963,thick-eared bat,English
-631964,Lagos serotine,English
+631963,Thick-eared Bat,English
+631964,Lagos Serotine,English
 631965,eastern forest bat,English
 631966,southern forest bat,English
 631967,Rendall's serotine,English
 631968,large forest bat,English
-631969,serotine,English
+631969,Common Serotine,English
 631970,Somali serotine,English
-631971,sombre bat,English
+631971,Sombre Bat,English
 631972,white-winged serotine,English
 631973,little forest bat,English
-631974,disk-footed bat,English
-631975,Javan thick-thumbed bat,English
-631976,common thick-thumbed bat,English
-631977,Blanford's bat,English
-631978,false serotine bat,English
-631979,Gaskell's false serotine,English
-631980,Tickell's bat,English
-631981,large false serotine,English
-631982,strange big-eared brown bat,English
-631983,big-eared brown bat,English
-631984,small big-eared brown bat,English
-631985,tropical big-eared brown bat,English
-631986,great evening bat,English
-631987,Angolan long-eared bat,English
-631988,Botswanan long-eared bat,English
-631989,Namib long-eared bat,English
-631990,De Winton's long-eared bat,English
-631991,Tacarcuna bat,English
-631992,big red bat,English
-631993,Moloney's flat-headed bat,English
-631994,Sakhalin myotis,English
-631995,large-footed bat,English
-631996,southern myotis,English
-631997,silver-tipped myotis,English
-631998,Szechwan myotis,English
-631999,hairy-faced bat,English
-632000,Atacama myotis,English
-632001,Australian myotis,English
+631974,Disk-footed Bat,English
+631975,Javan Thick-thumbed Bat,English
+631976,Common Thick-thumbed Bat,English
+631977,Blanford's Bat,English
+631978,False Serotine Bat,English
+631979,Gaskell's False Serotine,English
+631980,Tickell's Bat,English
+631981,Large False Serotine,English
+631982,Strange Big-eared Brown Bat,English
+631983,Big-eared Brown Bat,English
+631984,Small Big-eared Brown Bat,English
+631985,Tropical Big-eared Brown Bat,English
+631986,Great Evening Bat,English
+631987,Angolan Long-eared Bat,English
+631988,Botswanan Long-eared Bat,English
+631989,Namibian Long-eared Bat,English
+631990,de Winton's Long-eared Bat,English
+631991,Tacarcunan Bat,English
+631992,Big Red Bat,English
+631993,Moloney's Mimic Bat,English
+631994,Sakhalin Myotis,English
+631995,Large-footed Myotis,English
+631996,Southern Myotis,English
+631997,Silver-tipped Myotis,English
+631998,Szechwan Myotis,English
+631999,Hairy-faced Myotis,English
+632000,Atacaman Myotis,English
+632001,Australian Myotis,English
 632002,Bechstein's bat,English
-632003,lesser mouse-eared bat,English
+632003,Lesser Mouse-eared Myotis,English
 632004,rufous mouse-eared bat,English
-632005,Far Eastern myotis,English
+632005,Far Eastern Myotis,English
 632006,Brandt's bat,English
-632007,long-fingered bat,English
-632008,Chilean myotis,English
-632009,large myotis,English
-632010,Guatemalan myotis,English
-632011,pond bat,English
+632007,Long-fingered Myotis,English
+632008,Chilean Myotis,English
+632009,Large Myotis,English
+632010,Guatemalan Myotis,English
+632011,Pond Myotis,English
 632012,Daubenton's bat,English
-632013,Dominican myotis,English
-632014,elegant myotis,English
-632015,Geoffroy's bat,English
-632016,Findley's myotis,English
-632017,Hodgson's bat,English
-632018,fraternal myotis,English
-632019,Malagasy mouse-eared bat,English
-632020,lesser large-footed bat,English
-632021,Horsfield's bat,English
-632022,Hosono's myotis,English
-632023,Ikonnikov's bat,English
-632024,hairy-legged myotis,English
+632013,Dominican Myotis,English
+632014,Elegant Myotis,English
+632015,Geoffroy's Myotis,English
+632016,Findley's Myotis,English
+632017,Hodgson's Myotis,English
+632018,Fraternal Myotis,English
+632019,Malagasy Myotis,English
+632020,Lesser Large-footed Myotis,English
+632021,Horsfield's Myotis,English
+632022,Hosono's Myotis,English
+632023,Ikonnikov's Myotis,English
+632024,Hairy-legged Myotis,English
 632025,Lesueur's hairy bat,English
-632026,yellowish myotis,English
-632027,Kashmir cave bat,English
-632028,big-footed myotis,English
-632029,pallid large-footed myotis,English
-632030,Schwartz's myotis,English
+632026,Yellowish Myotis,English
+632027,Kashmir Cave Myotis,English
+632028,Big-footed Myotis,English
+632029,Pallid Large-footed Myotis,English
+632030,Schwartz's Myotis,English
 632031,Miller's myotis,English
-632032,Burmese whiskered bat,English
-632033,Morris's bat,English
-632034,whiskered myotis,English
-632035,mouse-eared bat,English
-632036,whiskered bat,English
-632037,Natterer's bat,English
-632038,Curacao myotis,English
-632039,black myotis,English
-632040,Singapore whiskered bat,English
-632041,montane myotis,English
-632042,Honshu myotis,English
-632043,peninsular myotis,English
-632044,Peking myotis,English
-632045,flat-headed myotis,English
-632046,frosted myotis,English
-632047,Rickett's big-footed bat,English
-632048,Ridley's bat,English
-632049,riparian myotis,English
-632050,thick-thumbed myotis,English
-632051,red myotis,English
-632052,Schaub's myotis,English
-632053,Scott's mouse-eared bat,English
+632032,Burmese Whiskered Myotis,English
+632033,Morris's Myotis,English
+632034,Nepalese Whiskered Myotis,English
+632035,Mouse-eared Myotis,English
+632036,Whiskered Myotis,English
+632037,Natterer's Myotis,English
+632038,Curaçao Myotis,English
+632039,Black Myotis,English
+632040,Singaporese Whiskered Myotis,English
+632041,Montane Myotis,English
+632042,Honshu Myotis,English
+632043,Peninsular Myotis,English
+632044,Peking Myotis,English
+632045,Flat-headed Myotis,English
+632046,Frosted Myotis,English
+632047,Rickett's Big-footed Myotis,English
+632048,Ridley's Myotis,English
+632049,Riparian Myotis,English
+632050,Thick-thumbed Myotis,English
+632051,Red Myotis,English
+632052,Schaub's Myotis,English
+632053,Scott's Myotis,English
 632054,Angolan hairy bat,English
-632055,Mandelli's mouse-eared bat,English
-632056,Himalayan whiskered bat,English
-632057,velvety myotis,English
-632058,Kei myotis,English
-632059,Cape hairy bat,English
-632060,fish-eating bat,English
-632061,Welwitch's bat,English
-632062,Yoshiyuki's myotis,English
-632063,birdlike noctule,English
-632064,Azores noctule,English
-632065,Sunda long-eared bat,English
-632066,giant noctule,English
-632067,lesser noctule,English
-632068,mountain noctule,English
-632069,noctule,English
+632055,Mandelli's Mouse-eared Myotis,English
+632056,Himalayan Whiskered Myotis,English
+632057,Velvety Myotis,English
+632058,Kei Myotis,English
+632059,Temminck's Myotis,English
+632060,Fish-eating Myotis,English
+632061,Welwitsch's Myotis,English
+632062,Yoshiyuki's Myotis,English
+632063,Birdlike Noctule,English
+632064,Azores Noctule,English
+632065,Sundan Long-eared Bat,English
+632066,Giant Noctule,English
+632067,Leisler's Noctule,English
+632068,Mountain Noctule,English
+632069,Noctule,English
 632070,western broad-nosed bat,English
 632071,little broad-nosed bat,English
 632072,Rüppell's broad-nosed bat,English
 632073,northern broad-nosed bat,English
 632074,Schlieffen's bat,English
-632075,northern long-eared bat,English
-632076,lesser long-eared bat,English
-632077,Gould's long-eared bat,English
-632078,small-toothed long-eared bat,English
-632079,New Guinea long-eared bat,English
-632080,greater long-eared bat,English
-632081,pygmy long-eared bat,English
-632082,desert long-eared bat,English
-632083,New Guinea big-eared bat,English
-632084,Rohu's bat,English
+632075,Northern Long-eared Bat,English
+632076,Lesser Long-eared Bat,English
+632077,Gould's Long-eared Bat,English
+632078,Small-toothed Long-eared Bat,English
+632079,New Guinea Long-eared Bat,English
+632080,Greater Long-eared Bat,English
+632081,Pygmy Long-eared Bat,English
+632082,Hemprich's Desert Bat,English
+632083,Thomas's Big-eared Bat,English
+632084,Rohu's Bat,English
 632085,Egyptian pipistrelle,English
-632086,Mt. Gargues pipistrelle,English
+632086,Mt. Gargues Pipistrelle,English
 632087,chocolate pipistrelle,English
 632088,Anchieta's pipistrelle,English
 632089,Anthony's pipistrelle,English
@@ -75993,188 +75992,189 @@ taxonID,vernacularName,language
 632092,Himalayan pipistrelle,English
 632093,Bodenheimer's pipistrelle,English
 632094,Cadorna's pipistrelle,English
-632095,Kelaart's pipistrelle,English
+632095,Kelaart's Pipistrelle,English
 632096,black gilded pipistrelle,English
-632097,Indian pipistrelle,English
+632097,Indian Pipistrelle,English
 632098,broad-headed pipistrelle,English
 632099,coppery pipistrelle,English
 632100,Dormer's pipistrelle,English
 632101,Eisentraut's pipistrelle,English
-632102,Endo's pipistrelle,English
+632102,Endo's Pipistrelle,English
 632103,brown pipistrelle,English
-632104,Aellen's pipistrelle,English
-632105,Javan pipistrelle,English
+632104,Aellen's Pipistrelle,English
+632105,Javan Pipistrelle,English
 632106,Joffre's pipistrelle,English
 632107,red-brown pipistrelle,English
-632108,Kuhl's pipistrelle,English
+632108,Kuhl's Pipistrelle,English
 632109,Burma pipistrelle,English
 632110,big-eared pipistrelle,English
-632111,Madeira pipistrelle,English
+632111,Madeiran Pipistrelle,English
 632112,Indian pygmy pipistrelle,English
-632113,Minahassa pipistrelle,English
+632113,Minahassa Pipistrelle,English
 632114,pungent pipistrelle,English
-632115,mouselike pipistrelle,English
-632116,tiny pipistrelle,English
+632116,Tiny Pipistrelle,English
 632117,banana pipistrelle,English
-632118,Nathusius's pipistrelle,English
-632119,Mount Popa pipistrelle,English
+632118,Nathusius's Pipistrelle,English
+632119,Mount Popa Pipistrelle,English
 632120,Pegu pipistrelle,English
-632121,Dar-es-salaam pipistrelle,English
+632121,Dar-es-Salaam Pipistrelle,English
 632122,Peters's pipistrelle,English
-632123,common pipistrelle,English
+632123,Common Pipistrelle,English
 632124,Chinese pipistrelle,English
 632125,Rüppel's pipistrelle,English
-632126,rusty pipistrelle,English
+632126,Rusty Pipistrelle,English
 632127,Savi's pipistrelle,English
 632128,social pipistrelle,English
-632129,narrow-winged pipistrelle,English
-632130,Sturdee's pipistrelle,English
+632129,Narrow-winged Pipistrelle,English
+632130,Sturdee's Pipistrelle,English
 632131,eastern false pipistrelle,English
-632132,least pipistrelle,English
-632133,brown big-eared bat,English
-632134,gray big-eared bat,English
-632135,Allen's yellow bat,English
-632136,Genoways's yellow bat,English
-632137,slender yellow bat,English
-632138,tiny yellow bat,English
-632139,least yellow bat,English
-632140,little yellow bat,English
-632141,black-winged little yellow bat,English
-632142,light-winged lesser house bat,English
-632143,dark-winged lesser house bat,English
-632144,desert yellow bat,English
+632132,Least Pipistrelle,English
+632133,Brown Long-eared Bat,English
+632134,Gray Long-eared Bat,English
+632135,Allen's Yellow Bat,English
+632136,Genoways's Yellow Bat,English
+632137,Slender Yellow Bat,English
+632138,Tiny Yellow Bat,English
+632139,Least Yellow Bat,English
+632140,Little Yellow Bat,English
+632141,Black-winged Little Yellow Bat,English
+632142,Light-winged Lesser House Bat,English
+632143,Dark-winged Lesser House Bat,English
+632144,Desert Yellow Lesser House Bat,English
 632145,emarginate harlequin bat,English
-632146,harlequin bat,English
-632147,lesser yellow bat,English
-632148,Sulawesi yellow bat,English
-632149,African yellow bat,English
+632146,Harlequin Bat,English
+632147,Réunion House Bat,English
+632148,Sulawesi Yellow House Bat,English
+632149,Yellow-bellied House Bat,English
 632150,greater Asiatic yellow bat,English
-632151,lesser Asiatic yellow bat,English
-632152,white-bellied yellow bat,English
-632153,Schreber's yellow bat,English
-632154,nut-colored yellow bat,English
-632155,robust yellow bat,English
-632156,greenish yellow bat,English
-632157,lesser bamboo bat,English
-632158,greater bamboo bat,English
-632159,particolored bat,English
+632151,Lesser Asiatic Yellow House Bat,English
+632152,White-bellied House Bat,English
+632153,Giant House Bat,English
+632154,Nut-colored House Bat,English
+632155,Robust House Bat,English
+632156,Green House Bat,English
+632157,Lesser Bamboo Bat,English
+632158,Greater Bamboo Bat,English
+632159,Particolored Bat,English
 632160,Asian particolored bat,English
-632161,hairy-winged bat,English
-632162,bronze tube-nosed bat,English
-632163,little tube-nosed bat,English
-632164,round-eared tube-nosed bat,English
-632165,Flores tube-nosed bat,English
-632166,dusky tube-nosed bat,English
-632167,Peters's tube-nosed bat,English
-632168,Hutton's tube-nosed bat,English
-632169,greater tube-nosed bat,English
-632170,Taiwan tube-nosed bat,English
-632171,gilded tube-nosed bat,English
-632172,forest tube-nosed bat,English
-632173,brown tube-nosed bat,English
-632174,gloomy tube-nosed bat,English
-632175,Scully's tube-nosed bat,English
-632176,Ussuri tube-nosed bat,English
-632177,little long-fingered bat,English
-632178,lesser long-fingered bat,English
-632179,southeast Asian long-fingered bat,English
-632180,greater long-fingered bat,English
-632181,western bent-winged bat,English
-632182,least long-fingered bat,English
-632183,small bent-winged bat,English
-632184,Loyalty bent-winged bat,English
+632161,Lesser Hairy-winged Bat,English
+632162,Bronze Tube-nosed Bat,English
+632163,Little Tube-nosed Bat,English
+632164,Round-eared Tube-nosed Bat,English
+632165,Flores Tube-nosed Bat,English
+632166,Dusky Tube-nosed Bat,English
+632167,Peters's Tube-nosed Bat,English
+632168,Hutton's Tube-nosed Bat,English
+632169,Greater Tube-nosed Bat,English
+632170,Taiwanese Tube-nosed Bat,English
+632171,Gilded Tube-nosed Bat,English
+632172,Forest Tube-nosed Bat,English
+632173,Brown Tube-nosed Bat,English
+632174,Gloomy Tube-nosed Bat,English
+632175,Scully's Tube-nosed Bat,English
+632176,Ussurian Tube-nosed Bat,English
+632177,Little Long-fingered Bat,English
+632178,Lesser Long-fingered Bat,English
+632179,Southeast Asian Long-fingered Bat,English
+632180,Greater Long-fingered Bat,English
+632181,Western Long-fingered Bat,English
+632182,Least Long-fingered Bat,English
+632183,Small Long-fingered Bat,English
+632184,Loyalty Long-fingered Bat,English
 632185,Schreibers's long-fingered bat,English
-632186,great bent-winged bat,English
-632187,blunt-eared bat,English
-632188,New Zealand greater short-tailed bat,English
-632189,New Zealand lesser short-tailed bat,English
-632190,Duke of Abruzzi's free-tailed bat,English
-632191,Ansorge's free-tailed bat,English
-632192,gland-tailed free-tailed bat,English
+632186,Great Long-fingered Bat,English
+632187,Blunt-eared Bat,English
+632188,New Zealand Greater Short-tailed Bat,English
+632189,New Zealand Lesser Short-tailed Bat,English
+632190,Duke of Abruzzi's Free-tailed Bat,English
+632191,Ansorge's Free-tailed Bat,English
+632192,Gland-tailed Free-tailed Bat,English
 632193,spotted free-tailed bat,English
-632194,Chapin's free-tailed bat,English
-632195,Gallagher's free-tailed bat,English
-632196,northern mastiff bat,English
-632197,northern free-tailed bat,English
-632198,lappet-eared free-tailed bat,English
-632199,Nigerian free-tailed bat,English
+632194,Pale Free-tailed Bat,English
+632195,Gallagher's Free-tailed Bat,English
+632196,Northern Mastiff Bat,English
+632197,Northern Free-tailed Bat,English
+632198,Lappet-eared Free-tailed Bat,English
+632199,Nigerian Free-tailed Bat,English
 632200,wrinkle-lipped free-tailed bat,English
 632201,little free-tailed bat,English
 632202,russet free-tailed bat,English
-632203,hairless bat,English
-632204,black bonneted bat,English
-632205,dwarf bonneted bat,English
-632206,big bonneted bat,English
-632207,Sanborn's bonneted bat,English
-632208,Guianan bonneted bat,English
+632203,Greater Naked Bat,English
+632204,Black Bonneted Bat,English
+632205,Dwarf Bonneted Bat,English
+632206,Big Bonneted Bat,English
+632207,Sanborn's Bonneted Bat,English
+632208,Guianan Bonneted Bat,English
 632209,cinnamon dog-faced bat,English
-632210,equatorial dog-faced bat,English
+632210,Equatorial Dog-faced Bat,English
 632211,greenhall's dog-faced bat,English
-632212,Mato Grosso dog-faced bat,English
-632213,rufous dog-faced bat,English
+632212,Mato Grosso Dog-faced Bat,English
+632213,Rufous Dog-faced Bat,English
 632214,southern dog-faced bat,English
-632215,dwarf dog-faced bat,English
+632215,Dwarf Dog-faced Bat,English
 632216,black mastiff bat,English
 632217,Bonda mastiff bat,English
-632218,Miller's mastiff bat,English
-632219,Sinaloan mastiff bat,English
-632220,Sierra Leone free-tailed bat,English
-632221,Angolan free-tailed bat,English
-632222,Medje free-tailed bat,English
-632223,Mongalla free-tailed bat,English
-632224,midas free-tailed bat,English
-632225,Malayan free-tailed bat,English
-632226,dwarf free-tailed bat,English
-632227,Niangara free-tailed bat,English
-632228,white-bellied free-tailed bat,English
-632229,Peterson's free-tailed bat,English
-632230,Sulawesi free-tailed bat,English
-632231,Spurrell's free-tailed bat,English
-632232,railer bat,English
-632233,Trevor's free-tailed bat,English
-632234,Natal free-tailed bat,English
-632235,Beccari's mastiff bat,English
-632236,Sumatran mastiff bat,English
-632237,Peters's wrinkle-lipped bat,English
-632238,Kalinowski's mastiff bat,English
-632239,little goblin bat,English
-632240,eastern little mastiff bat,English
+632218,Miller's Mastiff Bat,English
+632219,Sinaloan Mastiff Bat,English
+632220,Short-winged Free-tailed Bat,English
+632221,Angolan Free-tailed Bat,English
+632222,Congo Free-tailed Bat,English
+632223,Mongallan Free-tailed Bat,English
+632224,Midas' Free-tailed Bat,English
+632225,Malayan Free-tailed Bat,English
+632226,Dwarf Free-tailed Bat,English
+632227,Niangaran Free-tailed Bat,English
+632228,White-bellied Free-tailed Bat,English
+632229,Peterson's Free-tailed Bat,English
+632230,Sulawesian Free-tailed Bat,English
+632231,Spurrell's Free-tailed Bat,English
+632232,Railer Free-tailed Bat,English
+632233,Trevor's Free-tailed Bat,English
+632234,Mauritian Little Mastiff Bat,English
+632235,Beccari's Mastiff Bat,English
+632236,Sumatran Mastiff Bat,English
+632237,Peters's Wrinkle-lipped Bat,English
+632238,Kalinowski's Mastiff Bat,English
+632239,Little Goblin Bat,English
+632240,Norfolk Island Freetailed Bat,English
 632241,Roberts's flat-headed bat,English
-632242,Incan little mastiff bat,English
-632243,southern free-tailed bat,English
+632242,Incan Little Mastiff Bat,English
+632243,Southern Free-tailed Bat,English
 632244,Peters's flat-headed bat,English
-632245,Daubenton's free-tailed bat,English
-632246,bini free-tailed bat,English
-632247,Peale's free-tailed bat,English
-632248,broad-eared bat,English
-632249,Java mastiff bat,English
-632250,large-eared free-tailed bat,English
-632251,big-eared mastiff bat,English
-632252,mantled mastiff bat,English
-632253,Wroughton's free-tailed bat,English
-632254,big crested mastiff bat,English
-632255,brown mastiff bat,English
-632256,Egyptian free-tailed bat,English
-632257,white-striped free-tailed bat,English
+632245,Daubenton's Winged-mouse Bat,English
+632246,Bini Winged-mouse Bat,English
+632247,Peale's Free-tailed Bat,English
+632248,Broad-eared Free-tailed Bat,English
+632249,Java Giant Mastiff Bat,English
+632250,Large-eared Giant Mastiff Bat,English
+632251,Papuan Giant Mastiff Bat,English
+632252,Mantled Giant Mastiff Bat,English
+632253,Wroughton's Giant Mastiff Bat,English
+632254,Big Crested Mastiff Bat,English
+632255,Brown Mastiff Bat,English
+632256,Egyptian Free-tailed Bat,English
+632257,White-striped Free-tailed Bat,English
 632258,espirito santo free-tailed bat,English
-632259,Madagascan large free-tailed bat,English
-632260,Kenyan big-eared free-tailed bat,English
-632261,European free-tailed bat,English
-632262,African giant free-tailed bat,English
-632263,Taiwan big-eared bat,English
-632264,Canary big-eared bat,English
+632259,Malagasy Free-tailed Bat,English
+632260,Big-eared Free-tailed Bat,English
+632261,European Free-tailed Bat,English
+632262,Giant Free-tailed Bat,English
+632263,Taiwan Long-eared Bat,English
+632264,Canary Long-eared Bat,English
 632265,Indonesian short-nosed fruit bat,English
 632266,Comoro black flying fox,English
-632267,Egyptian rousette,English
+632267,Egyptian Rousette,English
 632268,Pearson's horseshoe bat,English
 632269,rufous horseshoe bat,English
-632270,tailed tailless bat,English
+632270,Tailed Tailless Bat,English
 632271,Hardwicke's woolly bat,English
 632272,Peters's trumpet-eared bat,English
 632273,Smith's woolly bat,English
 632274,Bobrinski's serotine,English
 632275,desert long-eared bat,English
-632277,sheath-tailed bat,English
+632276,Ozark big-eared bat,English
+632277,Pacific sheath-tailed bat,English
+632278,Pacific sheath-tailed bat,English
 632282,Oriental Tree Squirrels,English
 632283,Red-cheeked Squirrels,English
 632284,African Palm Squirrels,English
@@ -79054,10 +79054,10 @@ taxonID,vernacularName,language
 668602,New Zealand Falcon,English
 668603,Seychelles Kestrel,English
 668622,barracudina pequeña,Spanish
-668665,Pacific Pond Turtles,English
+668665,Western Pond Turtles,English
 668666,Sculptured Turtles,English
 668667,Alligator Snapping Turtles,English
-668668,Pacific Pond Turtle,English
+668668,Northern Western Pond Turtle,English
 668669,Wood Turtle,English
 668670,Bog Turtle,English
 668671,Alligator Snapping Turtle,English
@@ -80852,7 +80852,7 @@ taxonID,vernacularName,language
 726192,Chestnut-capped Brush Finch,English
 726193,Hooded Grosbeak,English
 726194,Cuban Blackbird,English
-726195,Worm-eating Warbler,English
+726195,Paruline vermivore,French
 726196,Prevost's Ground Sparrow,English
 726198,Blue Grosbeak,English
 726199,Buff-rumped Warbler,English
@@ -80861,7 +80861,7 @@ taxonID,vernacularName,language
 726202,Baudo Oropendola,English
 726203,Black Oropendola,English
 726204,Montezuma Oropendola,English
-726205,Ovenbird,English
+726205,Paruline couronnée,French
 726206,Cuban Grassquit,English
 726207,Semillero oliváceo,Spanish
 726208,Sooty Grassquit,English
@@ -81016,6 +81016,7 @@ taxonID,vernacularName,language
 729656,Black-lored Yellowthroat,English
 729657,Chiriqui Yellowthroat,English
 729659,Southern Yellowthroat,English
+729742,Chestnut-capped Warbler,English
 729804,Olive Oropendola,English
 729820,Orange-backed Troupial,English
 729822,Campo Troupial,English
@@ -88771,3 +88772,798 @@ taxonID,vernacularName,language
 945740,Calabar Dwarf Galago,English
 945741,Kasai Dwarf Galago,English
 945742,Bioko Dwarf Galago,English
+945890,Baverstock's Forest Bat,English
+945960,Borneo Fruit Bat,English
+945961,Horsfield's Fruit Bat,English
+945962,Peters's Fruit Bat,English
+945963,Minute Fruit Bat,English
+945964,Andersen's Naked-backed Fruit Bat,English
+945965,Halmahera Naked-backed Fruit Bat,English
+945966,New Guinea Naked-backed Fruit Bat,English
+945967,Western Naked-backed Fruit Bat,English
+945968,Brooks's Dyak Fruit Bat,English
+945969,Philippine Dawn Bat,English
+945970,Peters's Epauletted Fruit Bat,English
+945971,Minor Epauletted Fruit Bat,English
+945972,Dobson's Epauletted Fruit Bat,English
+945973,Angolan Soft-furred Fruit Bat,English
+945974,Fardoulis's Blossom Bat,English
+945975,Veldkamp's Dwarf Epauletted Fruit Bat,English
+945976,New Caledonia Long-tailed Fruit Bat,English
+945977,Keast's Tube-nosed Fruit Bat,English
+945978,Steadfast Tube-nosed Fruit Bat,English
+945979,Anchieta's Broad-faced Fruit Bat,English
+945980,New Georgian Monkey-faced Bat,English
+945981,Aru Flying Fox,English
+945982,Torresian Flying Fox,English
+945983,Bismark Masked Flying Fox,English
+945984,Makira Flying Fox,English
+945985,Gilliard's Flying Fox,English
+945986,Andersen's Flying Fox,English
+945987,Kei Flying Fox,English
+945988,Japanese Flying Fox,English
+945989,Pelew Flying Fox,English
+945990,Rennell Flying Fox,English
+945991,Temminck's Flying Fox,English
+945992,Kosrae Flying Fox,English
+945993,Yap Flying Fox,English
+945994,Manado fruit bat,English
+945995,Leschenault's Rousette,English
+945996,Linduan Rousette,English
+945997,Bedomme's Horseshoe Bat,English
+945998,Convex Horseshoe Bat,English
+945999,Formosan Woolly Horseshoe Bat,English
+946000,Hildebrandt's Horseshoe Bat,English
+946001,Hill's Horseshoe Bat,English
+946002,Upland Horseshoe Bat,English
+946003,Madura Horseshoe Bat,English
+946004,Maendeleo Horseshoe Bat,English
+946005,Timorese Horseshoe Bat,English
+946006,Ruwenzori Horseshoe Bat,English
+946007,Sakeji Horseshoe Bat,English
+946008,Shortridge's Horseshoe Bat,English
+946009,Thai Horseshoe Bat,English
+946010,Chinese Rufous Horseshoe Bat,English
+946011,Ziama Horseshoe Bat,English
+946012,East Asian Tailless Leaf-nosed Bat,English
+946013,Makira Leaf-nosed Bat,English
+946014,Durga Das's Leaf-nosed Bat,English
+946015,Hill's Leaf-nosed Bat,English
+946016,Giant Leaf-nosed Bat,English
+946017,Grand Leaf-nosed Bat,English
+946018,Leafletted Leaf-nosed Bat,English
+946019,McKean's Leaf-nosed Bat,English
+946020,Maduran Leaf-nosed Bat,English
+946021,Orbiculus Leaf-nosed Bat,English
+946022,Peleng Leaf-nosed Bat,English
+946023,Laotian Leaf-nosed Bat,English
+946024,Shield-nosed Leaf-nosed Bat,English
+946025,Sorensen's Leaf-nosed Bat,English
+946026,Sumban Leaf-nosed Bat,English
+946027,Saõ Tomé Leaf-nosed Bat,English
+946028,Striped Leaf-nosed Bat,English
+946029,Grandidier's Trident Bat,English
+946030,Rufous Trident Bat,English
+946031,Lesser Mouse-tailed Bat,English
+946032,MacInnes's Mouse-tailed Bat,English
+946033,Indonesian Tomb Bat,English
+946034,Troughton's Tomb Bat,English
+946035,Thomas's Shaggy Bat,English
+946036,Seri's Sheath-tailed Bat,English
+946037,Trinidad Dog-like Bat,English
+946038,Antioquian Sac-winged Bat,English
+946039,Andersen's Slit-faced Bat,English
+946040,Malagasy Slit-faced Bat,English
+946041,Parisi's Slit-faced Bat,English
+946042,Vinson's Slit-faced Bat,English
+946043,Puerto Rican Flower Bat,English
+946044,Luis Manuel's Tailless Bat,English
+946045,Behn's Bat,English
+946046,Davies's big-eared bat,English
+946047,Tricolored Bat,English
+946048,yellow-throated big-eared bat,English
+946049,Uncommon Sword-nosed Bat,English
+946050,Pygmy Round-eared Bat,English
+946051,Carriker's Round-eared Bat,English
+946052,Davis's Round-eared Bat,English
+946053,Schulz's Round-eared Bat,English
+946054,White-throated Round-eared Bat,English
+946055,Brosset's Big-eared Bat,English
+946056,Pirlot's Big-eared Bat,English
+946057,Matses Big-eared Bat,English
+946058,Common Big-eared Bat,English
+946059,Sanborn's Big-eared Bat,English
+946060,Cozumelan Golden Bat,English
+946061,Koepcke's Hairy-nosed Bat,English
+946062,Least Big-eared Bat,English
+946063,Stripe-headed Round-eared Bat,English
+946064,Niceforo's big-eared bat,English
+946065,Colombian Short-tailed Bat,English
+946066,Sowell's Short-tailed Bat,English
+946067,Mistratoan Yellow-shouldered Bat,English
+946068,Tschudi's Yellow-shouldered Bat,English
+946069,Dwarf Fruit-eating Bat,English
+946070,Solitary Fruit-eating Bat,English
+946071,Thomas's Fruit-eating Bat,English
+946072,Velvety Fruit-eating Bat,English
+946073,Northern Little Yellow-eared Bat,English
+946074,Antillean Ghost-faced Bat,English
+946075,Giant Ghost-faced Bat,English
+946076,Pristine Mustached Bat,English
+946077,LaVal's Disk-winged Bat,English
+946078,Cuban Lesser Funnel-eared Bat,English
+946079,Bahamian Lesser Funnel-eared Bat,English
+946080,Jamaican Greater Funnel-eared Bat,English
+946081,Hispaniolan Greater Funnel-eared Bat,English
+946082,Cuban Greater Funnel-eared Bat,English
+946083,Gervais's Funnel-eared Bat,English
+946084,Spotted Free-tailed Bat,English
+946085,Fijian Mastiff Bat,English
+946086,Grandidier's Free-tailed Bat,English
+946087,Wrinkle-lipped Free-tailed Bat,English
+946088,Little Free-tailed Bat,English
+946089,Russet Free-tailed Bat,English
+946090,Shortridge's Free-tailed Bat,English
+946091,Solomons Mastiff Bat,English
+946092,São Tomé Free-tailed Bat,English
+946093,Lesser Naked Bat,English
+946094,Cinnamon Dog-faced Bat,English
+946095,Greenhall's Dog-faced Bat,English
+946096,Mexican Dog-faced Bat,English
+946097,Brown Dog-faced Bat,English
+946098,Southern Dog-faced Bat,English
+946099,Patagonian Dwarf Bonneted Bat,English
+946100,Trumbull's Bonneted Bat,English
+946101,Aztec Mastiff Bat,English
+946102,Barnes's Mastiff Bat,English
+946103,Coiban Mastiff Bat,English
+946104,Thomas's Mastiff Bat,English
+946105,Black Mastiff Bat,English
+946106,Malagasy White-bellied Free-tailed Bat,English
+946107,Loria's Mastiff Bat,English
+946108,Johnstone's Giant Mastiff Bat,English
+946109,Malagasy Giant Mastiff Bat,English
+946110,Peters's Flat-headed Bat,English
+946111,Roberts's Flat-headed Bat,English
+946112,East Asian Free-tailed Bat,English
+946113,New Guinea Mastiff Bat,English
+946114,La Touche's Free-tailed Bat,English
+946115,Collared Sprite,English
+946116,black gilded pipistrelle,English
+946117,Coppery Sprite,English
+946118,social pipistrelle,English
+946119,Necklace Sprite,English
+946120,Little Black Serotine,English
+946121,Chiriquinan Serotine,English
+946122,Surat Serotine,English
+946123,Gobi Big Brown Bat,English
+946124,Japanese Short-tailed Bat,English
+946125,Malagasy Serotine,English
+946126,Northern Bat,English
+946127,Handley's Red Bat,English
+946128,Jamaican Red Bat,English
+946129,Blackish Red Bat,English
+946130,Cuban Yellow Bat,English
+946131,Pfeiffer's Red Bat,English
+946132,Saline Red Bat,English
+946133,Cinnamon Red Bat,English
+946134,Schlieffen's Twilight Bat,English
+946135,Temminck's Mysterious Bat,English
+946136,Cuban Evening Bat,English
+946137,Yucatan Yellow Bat,English
+946138,Husson's Yellow Bat,English
+946139,Thomas's Yellow Bat,English
+946140,Rüppell's Broad-nosed Bat,English
+946141,White-throated Lesser House Bat,English
+946142,Hinde's Lesser House Bat,English
+946143,Sody's Yellow House Bat,English
+946144,Greater Asiatic Yellow House Bat,English
+946145,Robbins's House Bat,English
+946146,Western Broad-nosed Bat,English
+946147,Little Broad-nosed Bat,English
+946148,Orion Broad-nosed Bat,English
+946149,Northern Broad-nosed Bat,English
+946150,Bifax Long-eared Bat,English
+946151,Lord Howe Island Long-eared Bat,English
+946152,New Caledonian Long-eared Bat,English
+946153,Japanese Noctule,English
+946154,Chinese Noctule,English
+946155,Japanese Pipistrelle,English
+946156,Adams's Pipistrelle,English
+946157,Angulate Pipistrelle,English
+946158,Greater Papuan Pipistrelle,English
+946159,Desert Pipistrelle,English
+946160,Dusky Pipistrelle,English
+946161,Lesser Papuan Pipistrelle,English
+946162,Soprano Pipistrelle,English
+946163,Rüppell's Pipistrelle,English
+946164,Watts's Pipistrelle,English
+946165,Koopman's Pipistrelle,English
+946166,Dormer's Pipistrelle,English
+946167,Alpine Long-eared Bat,English
+946168,Bale Long-eared Bat,English
+946169,Kolombatovic's Long-eared Bat,English
+946170,Sardinian Long-eared Bat,English
+946171,New Caledonia Wattled Bat,English
+946172,Chocolate Pipistrelle,English
+946173,Mackenzie's False Pipistrelle,English
+946174,Pungent Pipistrelle,English
+946175,Peters's Pipistrelle,English
+946176,Eastern False Pipistrelle,English
+946177,Allen's striped bat,English
+946178,Common Butterfly Bat,English
+946179,Beatrix's bat,English
+946180,Curry's Butterfly Bat,English
+946181,Bibundi bat,English
+946182,Glen's wattled bat,English
+946183,Spotted Butterfly Bat,English
+946184,Kenyan wattled bat,English
+946185,Machado's Butterfly Bat,English
+946186,Abo Butterfly Bat,English
+946187,Pied Butterfly Bat,English
+946188,Variegated Butterfly Bat,English
+946189,Humboldt's Big-eared Brown Bat,English
+946190,Thomas's Big-eared Brown Bat,English
+946191,Southern Big-eared Brown Bat,English
+946192,Alashanian Pipistrelle,English
+946193,Anchieta's Pipistrelle,English
+946194,Anthony's Pipistrelle,English
+946195,Arabian Pipistrelle,English
+946196,desert pipistrelle,English
+946197,Bodenheimer's Pipistrelle,English
+946198,Cadorna's Pipistrelle,English
+946199,Broad-headed Pipistrelle,English
+946200,Eisentraut's Pipistrelle,English
+946201,Brown Pipistrelle,English
+946202,Joffre's Pipistrelle,English
+946203,Red-brown Pipistrelle,English
+946204,Burma pipistrelle,English
+946205,Big-eared Pipistrelle,English
+946206,Mouse-like Pipistrelle,English
+946207,Chinese Pipistrelle,English
+946208,Savi's Pipistrelle,English
+946209,Vordermann's Pipistrelle,English
+946210,Dark-brown Pipistrelle,English
+946211,Cape Serotine,English
+946212,Yellow Serotine,English
+946213,Guinean Serotine,English
+946214,Samburu Pipistrelle,English
+946215,Melck's house bat,English
+946216,Banana Pipistrelle,English
+946217,Rendall's Serotine,English
+946218,Somali Serotine,English
+946219,White-winged Serotine,English
+946220,Zulu Serotine,English
+946221,inland forest bat,English
+946222,Western Cave Bat,English
+946223,Large Forest Bat,English
+946224,Yellow-lipped Bat,English
+946225,Finlayson's Forest Bat,English
+946226,Eastern Forest Bat,English
+946227,Southern Forest Bat,English
+946228,Troughton's Forest Bat,English
+946229,Little Forest Bat,English
+946230,Asian Particolored Bat,English
+946231,Van Gelder's Bat,English
+946232,Lesueur's hairy bat,English
+946233,Angolan Wing-gland Bat,English
+946234,Alcathoe Myotis,English
+946235,Anjouan Myotis,English
+946236,Annamit Myotis,English
+946237,Peters's Myotis,English
+946238,Bechstein's Myotis,English
+946239,Rufous Myotis,English
+946240,Brandt's Myotis,English
+946241,Bocharic Myotis,English
+946242,Csorba's Mouse-eared Myotis,English
+946243,Daubenton's Myotis,English
+946244,David's Myotis,English
+946245,Fringed Long-footed Myotis,English
+946246,Gomantong Myotis,English
+946247,Hajastan Myotis,English
+946248,Herman's Myotis,English
+946249,Chinese Water Myotis,English
+946250,Gould's Large-footed Myotis,English
+946251,Dark-nosed Small-footed Myotis,English
+946252,Maluku Myotis,English
+946253,Nepalese Myotis,English
+946254,occult little brown bat,English
+946255,Monticelli's Myotis,English
+946256,Maghrebian Myotis,English
+946257,Yanbaru Myotis,English
+946258,African Long-fingered Bat,English
+946259,Glen's Long-fingered Bat,English
+946260,Small Melanesian Long-fingered Bat,English
+946261,Major's Long-fingered Bat,English
+946262,Manavi Long-fingered Bat,English
+946263,Intermediate Long-fingered Bat,English
+946264,Natal Long-fingered Bat,English
+946265,Philippine Long-fingered Bat,English
+946266,Schreibers's Long-fingered Bat,English
+946267,Shortridge's Long-fingered Bat,English
+946268,Greater Hairy-winged Bat,English
+946269,Hilgendorf's Tube-nosed Bat,English
+946270,Ryukyu Tube-nosed Bat,English
+946271,Lenis Woolly Bat,English
+946272,Dubious Trumpet-eared Bat,English
+946273,Groove-toothed Trumpet-eared Bat,English
+946274,Peters's Trumpet-eared Bat,English
+946275,Golden-tipped Bat,English
+946276,Florida Bonneted Bat,English
+946565,Goldman's Nectar Bat,English
+947069,Gervais's Fruit-eating Bat,English
+947072,Pygmy Fruit-eating Bat,English
+947089,Commerson's Leaf-nosed Bat,English
+947180,Hutton's Tube-nosed Bat,English
+947181,Schlieffen's Twilight Bat,English
+947183,Racey's Pipistrelle Bat,English
+947184,Schliemann's Sucker-Footed Bat,English
+947185,Krau Woolly Bat,English
+947186,Greater Monkey-Faced Bat,English
+947187,Fijian Monkey-faced Fruit Bat,English
+947198,Peters's Tube-nosed Bat,English
+947199,Kachin woolly bat,English
+947200,White-winged Flying Fox,English
+947212,Titania's Woolly Bat,English
+947225,Lesser Bicoloured Leaf-nosed Bat,English
+947228,Beijing Barbastelle,English
+947237,Bickham's Little Yellow Bat,English
+947238,Menchu's Little Yellow Bat,English
+947241,House-dwelling Leafnosed Bat,English
+947242,Chestnut Myotis,English
+947245,Golden-haired Tube-nosed Bat,English
+947251,Tube-lipped Nectar Bat,English
+947261,Yates's Big-eared Bat,English
+947262,Peters's Sheath-tailed Bat,English
+947265,Emballonure de Madagascar,French
+947266,Kalko's Round-eared Bat,English
+947267,Griffin's Leaf-nosed Bat,English
+947268,Bristle-faced Free-tailed Bat,English
+947270,Madagascar Free-tailed Bat,English
+947271,Andersen's Fruit-eating Bat,English
+947276,Indochinese Thick-thumbed Bat,English
+947277,Western Round-eared Bat,English
+947279,Peracchi's Nectar Bat,English
+947280,Mozambique Long-fingered Bat,English
+947281,Bala Tube-nosed Bat,English
+947283,Andersen's Fruit-eating Bat,English
+947284,Dwarf Fruit-eating Bat,English
+947285,Thomas's Fruit-eating Bat,English
+947286,Silvery Fruit-eating Bat,English
+947289,Toltec Fruit-eating Bat,English
+947296,Handley's Myotis,English
+947297,Philippine Large-headed Fruit Bat,English
+947298,Pipistrelo del oeste americano,Spanish
+947303,LaVal's Myotis,English
+947304,Badger Bat,English
+947313,Schnitzler's Horseshoe Bat,English
+947315,Alvarez's Mastiff Bat,English
+947316,Diminutive Myotis,English
+947318,Small Samoan Flying Fox,English
+947319,Large Samoan Flying Fox,English
+947320,Eastern Cordilleran Nectar Bat,English
+947323,Patton's Nectar Bat,English
+947324,Cadena's Nectar Bat,English
+947325,Pacific Forest Long-tongued Bat,English
+947328,dark-brown serotine,English
+947329,Banana Pipistrelle,English
+947330,Somali Serotine,English
+947336,Central Asian Horseshoe Bat,English
+947338,Baker's Yellow-shouldered Bat,English
+947339,Burton's Yellow-shouldered Bat,English
+947342,Willard's Horseshoe Bat,English
+947343,Kahuzi Horseshoe Bat,English
+947344,Izecksohn's Myotis,English
+947345,Macroglosse de Woermann de l'Ouest,French
+947346,Cohen's Horseshoe Bat,English
+947347,Mount Mabu Horseshoe Bat,English
+947348,Smithers's Horseshoe Bat,English
+947349,Mozambican Horseshoe Bat,English
+947351,Rosevear's Serotine,English
+947352,Grandidier's Trident Bat,English
+947353,Trouessart's Trident Bat,English
+947360,Casinyctère de Campo-Ma'an,French
+947361,Pohle's Fruit Bat,English
+947363,Murciélago de cueva magrebí,Spanish
+947365,Guillén's Tube-nosed bat,English
+947366,Peninsular tube-nosed bat,English
+947368,Indochinese mouse-eared bat,English
+947370,Andrew Rebori's House Bat,English
+947371,Livingstone's House Bat,English
+947372,Ejeta's House Bat,English
+947373,Trujillo's House Bat,English
+947374,Baker's Tent-making Bat,English
+947376,Patricia's Disk-winged Bat,English
+947382,murciélago vespertino de oro,Spanish
+947383,Bidentate Yellow-eared Bat,English
+947384,Brock's Yellow-eared Bat,English
+947385,Striped Yellow-eared Bat,English
+947386,Cadena's Nectar Bat,English
+947387,Patton's Nectar Bat,English
+947388,Thomas's Nectar Bat,English
+947407,Angolan rousette,English
+947433,Mariana Fruit Bat,English
+947438,Samoan flying fox,English
+947513,Lesser False Vampire Bat,English
+947595,Cuban Lesser Funnel-eared Bat,English
+947604,cinnamon dog-faced bat,English
+947624,Peters's Flat-headed Bat,English
+947679,Rafinesque's big-eared bat,English
+947685,Savi's Pipistrelle,English
+947687,Cape Serotine,English
+947688,tiny serotine,English
+947689,Banana Pipistrelle,English
+947690,Rendall's Serotine,English
+947691,Somali Serotine,English
+947692,White-winged Serotine,English
+947756,Panay golden-capped fruit bat,English
+947808,orange fruit bat,English
+947858,Mortlock fruit bat,English
+947862,Pagan Mariana Flying Fox,English
+947969,Lombok horseshoe bat,English
+948027,Philippine tailless leaf-nosed bat,English
+948116,Philippine pouched bat,English
+948146,Caroline sheath-tailed bat,English
+948238,flat-faced fruit-eating bat,English
+948312,Florida Bonneted Bat,English
+948314,Greater Western Bonneted Bat,English
+948319,Bonda mastiff bat,English
+948460,Himalayan pipistrelle,English
+948463,Pegu pipistrelle,English
+948477,Indian pygmy pipistrelle,English
+948486,Eastern Big-eared Bat,English
+948565,Miller's myotis,English
+948622,Fringe-tailed Myotis,English
+948763,Philippine tomb bat,English
+948876,insular long-tongued bat,English
+948877,occult little brown bat,English
+948891,Bobrinski's Serotine,English
+948895,Eastern Pipistrelle,English
+948902,Sung's Leaf-nosed Bat,English
+948905,Banana Pipistrelle,English
+948911,Somali Serotine,English
+948914,Nallamala Dusky Roundleaf Bat,English
+948936,Tortoises,English
+949109,Snapping Turtles,English
+949132,South American Snapping Turtle,English
+949133,Flatback Sea Turtle,English
+949134,Jalisco Mud Turtle,English
+949135,Durango Mud Turtle,English
+949136,Common Mud Turtle,English
+949137,Central American Snapping Turtle,English
+949138,Baja California Slider,English
+949139,Ornate Slider,English
+949140,Cuatro Cienegas Slider,English
+949141,Jamaican Slider,English
+949142,Yaqui Slider,English
+949143,Southern River Terrapin,English
+949144,Painted Terrapin,English
+949145,Three-striped Roofed Turtle,English
+949146,Red-crowned Roofed Turtle,English
+949147,Burmese Roofed Turtle,English
+949148,Bourret's Box Turtle,English
+949149,Keeled Box Turtle,English
+949150,Southern Vietnam Box Turtle,English
+949151,Western Black-bridged Leaf Turtle,English
+949152,Enigmatic Leaf Turtle,English
+949153,Myanmar Brown Leaf Turtle,English
+949154,Assam Leaf Turtle,English
+949155,Southeast Asian Leaf Turtle,English
+949156,Eastern Black-bridged Leaf Turtle,English
+949157,Ryukyu Black-breasted Leaf Turtle,English
+949158,Yellow-headed Temple Turtle,English
+949159,Sulawesi Forest Turtle,English
+949160,Malayan Snail-eating Turtle,English
+949161,Annam Pond Turtle,English
+949162,Red-necked Pond Turtle,English
+949163,Chinese Three-keeled Pond Turtle,English
+949164,Balkan Terrapin,English
+949165,Chinese Stripe-necked Turtle,English
+949166,Brown Roofed Turtle,English
+949167,Assam Roofed Turtle,English
+949168,Indian Roofed Turtle,English
+949169,Indian Tent Turtle,English
+949265,Central Chiapas Mud Turtle,English
+949337,Sicilian Pond Turtle,English
+949440,Philippine Forest Turtle,English
+949441,Cochin Forest Cane Turtle,English
+949442,Radiated Tortoise,English
+949443,Angonoka,Malagasy
+949444,Red-footed Tortoise,English
+949445,Pampas Tortoise,English
+949446,Yellow-footed Tortoise,English
+949447,Charles Island Giant Tortoise,English
+949448,Abingdon Island Giant Tortoise,English
+949449,Volcan Wolf Giant Tortoise,English
+949450,Chatham Island Giant Tortoise,English
+949451,James Island Giant Tortoise,English
+949452,Pinzon Giant Tortoise,English
+949453,Hood Island Giant Tortoise,English
+949454,Narborough Island Giant Tortoise,English
+949455,Indefatigable Island Giant Tortoise,English
+949456,Albemarle Island Giant Tortoise,English
+949457,Reunion Giant Tortoise,English
+949458,Mauritius Giant Domed Tortoise,English
+949459,Rodrigues Domed Tortoise,English
+949460,Mauritius Giant Flat-shelled Tortoise,English
+949461,Rodrigues Giant Saddleback Tortoise,English
+949462,Morafka's Desert Tortoise,English
+949463,Nama Padloper,English
+949464,Travancore Tortoise,English
+949465,Lobatse Hinge-back Tortoise,English
+949466,Western Hinge-back Tortoise,English
+949467,Speke's Hinge-back Tortoise,English
+949468,Southeastern Hinge-back Tortoise,English
+949469,Kalahari Tent Tortoise,English
+949470,Leopard Tortoise,English
+949471,Sri Lankan Flapshell Turtle,English
+949472,Indian Flapshell Turtle,English
+949473,Asian Narrow-headed Softshell Turtle,English
+949474,Burmese Narrow-headed Softshell Turtle,English
+949475,Indian Softshell Turtle,English
+949476,Indian Peacock Softshell Turtle,English
+949477,Leith's Softshell Turtle,English
+949478,Black Softshell Turtle,English
+949479,Cantor's Giant Softshell Turtle,English
+949480,Northern New Guinea Softshell Turtle,English
+949481,Hunan Softshell Turtle,English
+949482,Northern Chinese Softshell Turtle,English
+949483,Lesser Chinese Softshell Turtle,English
+949484,Dahl's Toad-headed Turtle,English
+949485,Gibba Turtle,English
+949486,Yellow-crowned Toad-headed Turtle,English
+949487,Hoge's Side-necked Turtle,English
+949488,Guyanan Toad-headed Turtle,English
+949489,Piaui Side-necked Turtle,English
+949490,Amazon Toad-headed Turtle,English
+949491,Vanderhaege's Toad-headed Turtle,English
+949492,Zulia Toad-headed Turtle,English
+949493,Guyanan Side-necked Turtle,English
+949494,Red-footed Sideneck Turtle,English
+949495,Cann's Snake-necked Turtle,English
+949496,Gunalen's Snake-necked Turtle,English
+949497,Roti Island Snake-necked Turtle,English
+949498,Pritchard's Snake-necked Turtle,English
+949499,Arnhem Snake-necked Turtle,English
+949500,Kimberley Snake-necked Turtle,English
+949501,Southern Snapping Turtle,English
+949502,Branderhorst's Snapping Turtle,English
+949503,Irwin's Snapping Turtle,English
+949504,Gulf Snapping Turtle,English
+949505,Mary River Turtle,English
+949506,Southern River Turtle,English
+949507,Northern Yellow-faced Turtle,English
+949508,Bell's Sawshelled Turtle,English
+949509,Bellinger River Sawshelled Turtle,English
+949510,Common Sawshelled Turtle,English
+949511,Manning River Sawshelled Turtle,English
+949512,African Helmeted Terrapin,English
+949513,Ivory Coast Mud Turtle,English
+949514,Gabon Mud Turtle,English
+949515,East African Black Mud Turtle,English
+949647,Maranhao Slider,English
+949648,Colombian Slider,English
+949649,Nicaraguan Slider,English
+949650,Meso-American Slider,English
+949656,Southwestern Snake-necked Turtle,English
+949697,Tuberculate Toad-headed Turtle,English
+949719,Kuchling's Snake-necked Turtle,English
+949722,Schultze's Snapping Turtle,English
+949756,Southern Western Pond Turtle,English
+949759,Suwannee Alligator Snapping Turtle,English
+949760,Apalachicola Alligator Snapping Turtle,English
+949761,African Spurred Tortoise,English
+949762,Manning River Sawshelled Turtle,English
+949770,Florida Box Turtle,English
+949771,Lake Chapala Mud Turtle,English
+949772,San Juanico Mud Turtle,English
+949773,Pátzcuaro Mud Turtle,English
+949774,Northern White-lipped Mud Turtle,English
+949775,Southern White-lipped Mud Turtle,English
+949776,Scorpion Mud Turtle,English
+949777,Central Chiapas Mud Turtle,English
+949778,White-throated Mud Turtle,English
+949779,Red-cheeked Mud Turtle,English
+949780,Southeastern Mud Turtle,English
+949781,Viesca Mud Turtle,English
+949783,Big Bend Slider,English
+949784,Nazas Slider,English
+949785,Dominican Slider,English
+949786,Baja California Slider,English
+949787,Eastern Cuban Slider,English
+949788,Western Cuban Slider,English
+949789,Fuerte Slider,English
+949790,European Pond Turtle,English
+949791,Eiselt's Pond Turtle,English
+949792,Obst's Pond Turtle,English
+949793,Franco-Italian Pond Turtle,English
+949794,Hellenic Pond Turtle,English
+949795,Ligurian Pond Turtle,English
+949796,Magreb Pond Turtle,English
+949797,Eastern Pond Turtle,English
+949798,Mexican Box Turtle,English
+949799,Yucatan Box Turtle,English
+949800,Southern Spotted Box Turtle,English
+949801,Northern Spotted Box Turtle,English
+949802,Chinese Big-headed Turtle,English
+949803,Burmese Big-headed Turtle,English
+949804,Vietnamese Big-headed Turtle,English
+949805,Western Malay River Terrapin,English
+949806,Eastern Malay River Terrapin,English
+949807,East Indian Box Turtle,English
+949808,East Indian Box Turtle,English
+949809,Malayan Box Turtle,English
+949810,Burmese Box Turtle,English
+949811,Yellow-margined Box Turtle,English
+949812,Ryukyu Yellow-margined Box Turtle,English
+949814,Southern Keeled Box Turtle,English
+949815,Mediterranean Pond Turtle,English
+949816,Saharan Pond Turtle,English
+949817,Yellow Pond Turtle,English
+949818,Ryukyu Yellow Pond Turtle,English
+949819,Indian Black Turtle,English
+949820,Cochin Black Turtle,English
+949821,Burmese Black Turtle,English
+949822,Bengal Black Turtle,English
+949823,Parker's Black Turtle,English
+949824,Sri Lanka Black Turtle,English
+949825,Brown Roofed Turtle,English
+949826,Pale-footed Roofed Turtle,English
+949827,Indian Tent Turtle,English
+949828,Pink-ringed Tent Turtle,English
+949829,Yellow-bellied Tent Turtle,English
+949886,Guerrero Wood Turtle,English
+949887,Incised Wood Turtle,English
+949888,Central American Wood Turtle,English
+949889,Western Mexican Wood Turtle,English
+949890,Eastern Spot-legged Turtle,English
+949891,Upper Orinoco Spot-legged Turtle,English
+949892,Oaxaca Wood Turtle,English
+949893,Colima Wood Turtle,English
+949894,Southeastern Hinge-back Tortoise,English
+949895,Madagascan Hinge-back Tortoise,English
+949896,Asian Brown Giant Tortoise,English
+949897,Burmese Black Giant Tortoise,English
+949898,Common Tent Tortoise,English
+949899,Western Tent Tortoise,English
+949900,Northern Tent Tortoise,English
+949901,Common Spider Tortoise,English
+949902,Northern Spider Tortoise,English
+949903,Southern Spider Tortoise,English
+949904,Mediterranean Spur-thighed Tortoise,English
+949905,Araxes Tortoise,English
+949906,Buxton's Tortoise,English
+949907,Cyrenaican Spur-thighed Tortoise,English
+949908,Asia Minor Tortoise,English
+949909,Morocco Tortoise,English
+949910,Nabeul Tortoise,English
+949911,Souss Valley Tortoise,English
+949912,Mesopotamian Tortoise,English
+949913,Iranian Tortoise,English
+949914,Southern Indian Flapshell Turtle,English
+949915,Spotted Northern Indian Flapshell Turtle,English
+949916,Central Indian Flapshell Turtle,English
+949917,Cuatro Cienegas Softshell,English
+949918,Siamese Narrow-headed Softshell Turtle,English
+949919,Javanese Narrow-headed Softshell Turtle,English
+949920,Common Twist-necked Turtle,English
+949921,Black-backed Twist-necked Turtle,English
+949922,Western Roti Snake-necked Turtle,English
+949923,Timor Snake-necked Turtle,English
+949924,Eastern Roti Snake-necked Turtle,English
+949925,Macquarie River Turtle,English
+949926,Cooper Creek Turtle,English
+949927,Krefft's River Turtle,English
+949928,Fraser Island Short-necked Turtle,English
+949929,New Guinea Red-bellied Short-necked Turtle,English
+949930,Worrell's Short-necked Turtle,English
+949931,East African Yellow-bellied Mud Turtle,English
+949932,Seychelles Yellow-bellied Mud Turtle,English
+949933,East African Black Mud Turtle,English
+949934,Seychelles Black Mud Turtle,English
+949935,Lake Victoria Mud Turtle,English
+949936,Ukerewe Island Mud Turtle,English
+949937,Albert Nile Mud Turtle,English
+949964,Colombian Slider,English
+949965,Venezuelan Slider,English
+949967,Huastecan Slider,English
+949968,Gray's Slider,English
+949969,Yucatan Slider,English
+949970,Panamanian Slider,English
+949972,Uhrig's Slider,English
+949973,Western Hermann's Tortoise,English
+949976,Eastern Hermann's Tortoise,English
+949977,Horsfield's Tortoise,English
+949978,Fergana Valley Steppe Tortoise,English
+949979,Kazakhstan Steppe Tortoise,English
+949980,Turkmenistan Steppe Tortoise,English
+949981,Kopet-Dag Steppe Tortoise,English
+949982,Mongolian Steppe Tortoise,English
+950000,Meso-American Slider,English
+950002,Seychelles Mud Turtle,English
+950003,West African Mud Turtle,English
+950009,Paruline hochequeue,French
+950010,Northern Waterthrush,English
+950011,Blue-winged Warbler,English
+950012,Paruline à croissant,French
+950013,Flame-throated Warbler,English
+950014,Tennessee Warbler,English
+950015,Orange-crowned Warbler,English
+950016,Colima Warbler,English
+950017,Lucy's Warbler,English
+950018,Nashville Warbler,English
+950019,Virginia's Warbler,English
+950020,Chiriqui Yellowthroat,English
+950021,Black-lored Yellowthroat,English
+950022,Southern Yellowthroat,English
+950023,Paruline des buissons,French
+950024,Mourning Warbler,English
+950025,Paruline du Kentucky,French
+950026,Paruline caféiette,French
+950027,Paruline d'Angela,French
+950028,Arrowhead Warbler,English
+950029,Paruline à capuchon,French
+950030,Kirtland's Warbler,English
+950031,Paruline tigrée,French
+950032,Paruline azurée,French
+950033,Northern Parula,English
+950034,Paruline à joues noires,French
+950035,Paruline à tête cendrée,French
+950036,Bay-breasted Warbler,English
+950037,Paruline à gorge orangée,French
+950038,American Yellow Warbler,English
+950039,Paruline jaune,French
+950040,Chestnut-sided Warbler,English
+950041,Paruline rayée,French
+950042,Paruline bleue,French
+950043,Palm Warbler,English
+950044,Paruline à calotte verte,French
+950045,Chipe pinero,Spanish
+950046,Myrtle Warbler,English
+950047,Audubon's Warbler,English
+950048,Goldman's Warbler,English
+950049,Paruline à gorge jaune,French
+950050,Bahama Warbler,English
+950051,Paruline des Caïmans,French
+950052,Paruline des prés,French
+950053,Adelaide's Warbler,English
+950054,Paruline de Barbuda,French
+950055,Paruline de Sainte-Lucie,French
+950056,Grace's Warbler,English
+950057,Paruline grise,French
+950058,Paruline de Townsend,French
+950059,Paruline à tête jaune,French
+950060,Golden-cheeked Warbler,English
+950061,Paruline à gorge noire,French
+950062,Citrine Warbler,English
+950063,White-striped Warbler,English
+950064,Flavescent Warbler,English
+950065,White-rimmed Warbler,English
+950066,Pale-legged Warbler,English
+950067,Black-crested Warbler,English
+950068,Paruline à croupion fauve,French
+950069,Riverbank Warbler,English
+950070,Two-banded Warbler,English
+950071,Cuzco Warbler,English
+950072,Choco Warbler,English
+950073,White-lored Warbler,English
+950074,Grey-throated Warbler,English
+950075,Grey-and-gold Warbler,English
+950076,Russet-crowned Warbler,English
+950077,Grey-headed Warbler,English
+950078,Paruline des rochers,French
+950079,Canada Warbler,English
+950080,Paruline à calotte noire,French
+950081,Red Warbler,English
+950082,Paruline à tête rose,French
+950083,Tepui Whitestart,English
+950097,Paruline obscure,French
+950099,Paruline verdâtre,French
+950101,Paruline de Colima,French
+950104,Paruline de Lucy,French
+950106,Paruline à joues grises,French
+950108,Paruline de Virginia,French
+950121,Black-lored Yellowthroat,English
+950151,Mangrove Warbler,English
+950178,Barbados Yellow Warbler,English
+950247,White-bellied Warbler,English
