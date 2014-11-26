@@ -20431,7 +20431,7 @@ taxonID,vernacularName,language
 42769,white colicroot,English
 42770,yellow colicroot,English
 42771,southern colicroot,English
-42772,aloe,English
+42772,aloes,English
 42774,amianthium,English
 42775,flypoison,English
 42776,funnel lily,English
@@ -37676,7 +37676,7 @@ taxonID,vernacularName,language
 174327,Greater Antillean Boas,English
 174328,Puerto Rican Boa,English
 174329,Mona Boa,English
-174331,Boa solocuate,Spanish
+174331,Rosy Boa,English
 174332,Dwarf Boas,English
 174333,Dusky Dwarf Boa,English
 174334,Threadsnakes,English
@@ -42082,7 +42082,7 @@ taxonID,vernacularName,language
 182650,Spanish needle onion,English
 182651,Little River Canyon onion,English
 182652,Rawhide Hill onion,English
-182653,Barbados aloe,English
+182653,West Indian aloe,English
 182658,false freesia,Common name
 182659,agave species,Common name
 182660,centuryplant,Common name
@@ -51584,9 +51584,9 @@ taxonID,vernacularName,language
 505875,Maguey henequén,Spanish
 505876,Mezcal azul tequilero,Spanish
 505877,Maguey diente de tiburón,Spanish
-505878,Perry's aloe,English
-505879,candelabra aloe,English
-505880,Cape aloe,English
+505878,Zanzibar aloe,English
+505879,krantz aloe,English
+505880,tap aloe,English
 505881,Senegal boscia,English
 505883,sacred garlic pear,English
 505884,corymbose caper,English
@@ -70371,7 +70371,7 @@ taxonID,vernacularName,language
 563935,Eastern Hog-nosed Snake,English
 563936,Víbora-cascabel tropical,Spanish
 563942,Diamondback Water Snake,English
-563947,Mexican Rosy Bos,English
+563947,Mexican Rosy Boa,English
 563948,Desert Rosy Boa,English
 563949,Coastal Rosy Boa,English
 563951,Ruthven's Whipsnake,English
@@ -73121,37 +73121,35 @@ taxonID,vernacularName,language
 584937,African Elephants,English
 584938,Asian Elephant,English
 584939,African Bush Elephant,English
-584940,dormice,English
-584944,African dormice,English
-584945,forest dormice,English
-584946,garden dormice,English
-584947,mouse-tailed dormice,English
-584952,Christy's dormouse,English
-584953,Jentink's dormouse,English
-584954,Huet's dormouse,English
-584955,Kellen's dormouse,English
-584956,lorrain dormouse,English
-584957,small-eared dormouse,English
-584958,Monard's dormouse,English
-584959,woodland dormouse,English
-584960,spectacled dormouse,English
-584961,Olga's dormouse,English
-584962,savanna dormouse,English
-584963,rock dormouse,English
-584964,stone dormouse,English
-584965,silent dormouse,English
-584966,woolly dormouse,English
-584967,forest dormouse,English
-584968,Chinese dormouse,English
-584969,Asian garden dormouse,English
-584970,garden dormouse,English
-584971,masked mouse-tailed dormouse,English
-584972,Roach's mouse-tailed dormouse,English
-584973,Setzer's mouse-tailed dormouse,English
-584974,hazel dormouse,English
-584975,Japanese dormouse,English
-584976,fat dormouse,English
-584977,desert dormouse,English
+584944,African Dormice,English
+584945,Forest Dormice,English
+584946,Garden Dormice,English
+584947,Mouse-tailed Dormice,English
+584952,Christy's African Dormouse,English
+584953,Jentink's Dormouse,English
+584954,Huet's Dormouse,English
+584955,Kellen's African Dormouse,English
+584956,Lorrain Dormouse,English
+584957,Large Savanna African Dormouse,English
+584958,Monard's African Dormouse,English
+584959,Common African Dormouse,English
+584960,Spectacled African Dormouse,English
+584961,Olga's Dormouse,English
+584962,Savanna Dormouse,English
+584963,Flat-headed African Dormouse,English
+584964,Rupicolous African Dormouse,English
+584965,Short-eared African Dormouse,English
+584966,Woolly Forest Dormouse,English
+584967,Forest Dormouse,English
+584968,Chinese Dormouse,English
+584969,South-West Asian Garden Dormouse,English
+584970,Garden Dormouse,English
+584971,Masked Mouse-tailed Dormouse,English
+584972,Roach's Mouse-tailed Dormouse,English
+584973,Setzer's Mouse-tailed Dormouse,English
+584974,Common Dormouse,English
+584975,Japanese Dormouse,English
+584977,Desert Dormouse,English
 585626,Amatola Toad,English
 585630,Caucasian Toad,English
 585632,Cape Mountain Toad,English
@@ -82265,6 +82263,7 @@ taxonID,vernacularName,language
 810211,pinto triteleia,Spanish
 810212,Atamasco lily,English
 810213,evening rainlily,English
+810217,stripe-sheathed narrow-leaved aloe,English
 810218,cerulean flaxlily,English
 810219,sea-daffodil,English
 810220,Sprenger's asparagus fern,English
@@ -89567,3 +89566,153 @@ taxonID,vernacularName,language
 950151,Mangrove Warbler,English
 950178,Barbados Yellow Warbler,English
 950247,White-bellied Warbler,English
+950268,tree aloes,English
+950269,scrambling aloes,English
+950281,white-thorn aloe,English
+950284,spotted aloe,English
+950285,Uitenhage aloe,English
+950294,skirt aloe,English
+950304,Wylliespoort aloe,English
+950313,silver-tailed aloe,English
+950315,torch plant,English
+950323,John Ball's cliff aloe,English
+950324,rat aloe,English
+950325,tree aloe,English
+950326,Barberton aloe,English
+950339,Coega aloe,English
+950340,broad-leaved grass aloe,English
+950352,West African aloe,English
+950358,Burgersfort aloe,English
+950363,Camper's aloe,English
+950365,candelabra aloe,English
+950372,chestnut brown aloe,English
+950377,Zambezi gorges aloe,English
+950383,Basil Christian's aloe,English
+950385,sábila china,Spanish
+950390,kraalaloe,English
+950394,Clanwilliam aloe,English
+950400,Cooper's aloe,English
+950408,yellow aloe,English
+950412,spotted aloe,English
+950426,De Wet's aloe,English
+950429,quiver tree,English
+950432,short-leaved aloe,English
+950442,grass aloe,English
+950473,bitter aloe,English
+950477,Orange River aloe,English
+950478,Gerstner's aloe,English
+950483,witchdoctor's aloe,English
+950486,soft distant sword-leaved aloe,English
+950488,scrambling aloe,English
+950491,Greathead's spotted leaf aloe,English
+950504,Hazel's rock aloe,English
+950509,Herero aloe,English
+950517,hedgehog aloe,English
+950528,Inyanga aloe,English
+950548,Namaqua aloe,English
+950550,grass aloe,English
+950554,painted-leaved aloe,English
+950555,broad-leaved yellow grass aloe,English
+950569,dwarf yellow grass aloe,English
+950570,red spined striped aloe,English
+950571,Windhoek aloe,English
+950573,ananas marron,French
+950574,Limpopo spotted aloe,English
+950575,Karoo aloe,English
+950579,Malapati aloe,English
+950581,mazambron sauvage,French
+950585,zabila,English
+950591,flat-flowered aloe,English
+950601,black thorn aloe,English
+950606,fynbos grass aloe,English
+950623,Munch's great Chimanimani aloe,English
+950625,Musapa aloe,English
+950626,blue krantz aloe,English
+950628,grass aloe,English
+950630,Namib aloe,English
+950641,cloud-borne aloe,English
+950650,dyke aloe,English
+950658,purple spotted aloe,English
+950665,Turk's cap aloe,English
+950671,mitra aloe,English
+950673,rock aloe,English
+950678,Pillans' aloe,English
+950680,French hoek aloe,English
+950682,many-toothed tree aloe,English
+950683,spiral aloe,English
+950687,meadow aloe,English
+950688,Pretoria aloe,English
+950689,Mossel Bay hybrid aloe,English
+950690,spotted aloe,English
+950695,powder aloe,English
+950701,Socotrine du pays,French
+950704,very much branched aloe,English
+950708,Reitz's aloe,English
+950711,yellow spineless aloe,English
+950712,Rhodesian aloe,English
+950727,rock aloe,English
+950738,spotted aloe hybrid,English
+950757,tilt-head aloe,English
+950758,Natal aloe,English
+950759,Lebombo aloe,English
+950765,coral aloe,English
+950767,climbing-flower aloe,English
+950768,book aloe,English
+950770,Swynnerton's spotted leaf aloe,English
+950772,Bullock's bottle brush aloe,English
+950775,green-sheathed narrow-leaved aloe,English
+950777,Thompson's aloe,English
+950779,strand aloe,English
+950795,Van Balen's aloe,English
+950800,variegated aloe,English
+950802,blue spotted aloe,English
+950803,grass aloe,English
+950812,Wolkberg aloe,English
+950815,Wickens' aloe,English
+950816,Wild's small Chimanimani aloe,English
+950823,zebra-leaf aloe,English
+950846,Zanzibar aloe,English
+950866,tree aloe,English
+950867,quiver tree,English
+950869,bastard quiver tree,English
+950870,bush quiver tree,English
+950872,climbing aloe,English
+950875,scrambling aloe,English
+950878,fence aloe,English
+950880,fan aloe,English
+950919,lace aloe,English
+950922,kanniedood aloe,English
+951009,candelabra plant,English
+951013,Cooper's aloe,English
+951014,grass aloe,English
+951022,tree aloe,English
+951070,mountain aloe,English
+951080,Vereker's dwala aloe,English
+951084,sábila china,Spanish
+951086,fiery climber,English
+951098,Rhodesian tree aloe,English
+951104,Hazel's rock aloe,English
+951105,Howman's cliff aloe,English
+951106,sand aloe,English
+951110,Inyanga aloe,English
+951116,lined red-spined aloe,English
+951121,Reitz's aloe,English
+951139,Wickens' aloe,English
+951165,climbing aloe,English
+951166,fiery climber,English
+951211,Mona Boa,English
+951213,Jamaican Boa,English
+951214,Cuban Boa,English
+951219,Puerto Rican Boa,English
+951222,Rainbow Boa,English
+951254,Virgin Island Tree Boa,English
+951255,Mona Boa,English
+951282,Dormice,English
+951291,Fat Dormouse,English
+951299,Angolan African Dormouse,English
+951300,Johnston's African Dormouse,English
+951301,Nagtglas's African Dormouse,English
+951302,Chinese Dormouse,English
+951303,Niethammer's Forest Dormouse,English
+951304,Maghreb Garden Dormouse,English
+951305,Fat Dormouse,English
