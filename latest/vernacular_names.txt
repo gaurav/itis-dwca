@@ -5,13 +5,12 @@ taxonID,vernacularName,language
 2286,diatomées,French
 5413,algues vertes,French
 5414,algues vertes,French
-9417,green algae,English
+9417,stoneworts,English
 9419,stoneworts,English
 9512,green flagellates,English
 9601,euglènes,French
 9873,dinoflagellés,French
 10685,algues brunes,French
-11452,algues rouges,French
 12508,rosy calcareous algae,Common name
 13757,peninsular pronghorn,English
 13762,myxomycètes,French
@@ -9400,7 +9399,7 @@ taxonID,vernacularName,language
 27917,po'owaha,English
 27918,bog korthal mistletoe,English
 27923,John crownose,English
-27928,rafflesias,Common name
+27928,rafflesias,English
 27929,stemsucker,English
 27930,Thurber's pilostyles,English
 27936,medicine vine,English
@@ -41236,19 +41235,19 @@ taxonID,vernacularName,language
 180381,Ratón-saltamontes arenero,Spanish
 180382,Ratón-saltamontes norteño,Spanish
 180383,Ratón-saltamontes sureño,Spanish
-180385,jumping mice,English
-180386,souris sauteuse des champs,French
-180387,western jumping mouse,English
-180388,Pacific jumping mouse,English
+180385,Jumping Mice,English
+180386,Meadow Jumping Mouse,English
+180387,Western Jumping Mouse,English
+180388,Pacific Jumping Mouse,English
 180389,woodland jumping mice,English
-180390,woodland jumping mouse,English
+180390,Woodland Jumping Mouse,English
 180391,New World porcupines,English
 180392,New World porcupines,English
 180393,Puercoespín norteamericano,Spanish
 180394,capromyid rodents,English
 180397,Puerto Rican hutias,English
 180398,Puerto Rican Hutia,English
-180399,jeroboas,English
+180399,Jerboas,English
 180400,nutrias,English
 180401,nutrias,English
 180402,Coypu,English
@@ -72854,6 +72853,16 @@ taxonID,vernacularName,language
 573082,Common Chimpanzee,English
 573083,Bornean Orangutan,English
 573165,Eurasian Beaver,English
+573168,Scaly-tailed Squirrels,English
+573174,Scaly-tailed Flying Squirrels,English
+573175,Pygmy Flying Squirrels,English
+573191,Beecroft's Scaly-tailed Squirrel,English
+573192,Lord Derby's Flying Squirrel,English
+573193,Pel's Scaly-tailed Squirrel,English
+573194,Little Flying Squirrel,English
+573195,Pygmy Scaly-tailed Flying Squirrel,English
+573196,Long-eared Flying Squirrel,English
+573197,Cameroon Scaly-tail,English
 573209,Smooth-tailed Tree Shrews,English
 573210,Tree Shrews,English
 573214,Madras Treeshrew,English
@@ -73840,8 +73849,62 @@ taxonID,vernacularName,language
 593495,Ontario stream crangonyctid,English
 593499,Dearolf's cave amphipod,English
 597943,striped woodlouse,English
-609767,northern birch mouse,English
-609777,southern birch mouse,English
+609720,Five-toed Jerboas,English
+609721,Turanian Jerboas,English
+609722,Fat-tailed Jerboas,English
+609724,Three-toed Pygmy Jerboas,English
+609725,Hairy-footed Jerboas,English
+609726,Desert Jerboas,English
+609727,Desert Jerboas,English
+609728,Thick-tailed Three-toed Jerboas,English
+609730,Comb-toed Jerboas,English
+609731,Birch Mice,English
+609733,Balikun Jerboa,English
+609734,Gobi Jerboa,English
+609735,Small Five-toed Jerboa,English
+609736,Montane Jerboa,English
+609737,Iranian Jerboa,English
+609738,Hotson's Five-toed Jerboa,English
+609739,Great Jerboa,English
+609740,Severtzov's Jerboa,English
+609741,Siberian Jerboa,English
+609742,Four-toed Jerboa,English
+609743,Vinogradov's Jerboa,English
+609744,Bobrinski's Jerboa,English
+609745,Lesser Fat-tailed Jerboa,English
+609746,Little Earth Hare,English
+609747,Greater Fat-tailed Jerboa,English
+609748,Five-toed Dwarf Jerboa,English
+609749,Thick-tailed Pygmy Jerboa,English
+609750,Heptner's Pygmy Jerboa,English
+609751,Kozlov's Pygmy Jerboa,English
+609752,Baluchistan Pygmy Jerboa,English
+609753,Pale Pygmy Jerboa,English
+609754,Thomas's Pygmy Jerboa,English
+609755,Northern Three-toed Jerboa,English
+609756,Lichtenstein's Jerboa,English
+609757,Blanford's Jerboa,English
+609758,Lesser Egyptian Jerboa,English
+609759,Greater Egyptian Jerboa,English
+609761,Andrews's Three-toed Jerboa,English
+609762,Mongolian Three-toed Jerboa,English
+609763,Thick-tailed Three-toed Jerboa,English
+609764,Long-eared Jerboa,English
+609765,Comb-toed Jerboa,English
+609766,Armenian Birch Mouse,English
+609767,Northern Birch Mouse,English
+609768,Caucasian Birch Mouse,English
+609769,Far Eastern Birch Mouse,English
+609770,Chinese Birch Mouse,English
+609771,Kazbeg Birch Mouse,English
+609772,Kluchor Birch Mouse,English
+609773,Altai Birch Mouse,English
+609774,Gray Birch Mouse,English
+609775,Dark Birch Mouse,English
+609776,Strand's Birch Mouse,English
+609777,Southern Birch Mouse,English
+609778,Tien Shan Birch Mouse,English
+609779,Chinese Jumping Mouse,English
 609780,Black Hills meadow jumping mouse,English
 609781,Preble's meadow jumping mouse,English
 609782,New Mexican meadow jumping mouse,English
@@ -89716,3 +89779,8 @@ taxonID,vernacularName,language
 951303,Niethammer's Forest Dormouse,English
 951304,Maghreb Garden Dormouse,English
 951305,Fat Dormouse,English
+951409,Black Flying Squirrel,English
+952041,common medlar,English
+952076,Williams's Jerboa,English
+952077,Baluchistan Pygmy Jerboa,English
+954908,conjugating green algae,English
