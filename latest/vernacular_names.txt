@@ -28399,7 +28399,7 @@ taxonID,vernacularName,language
 114986,anthrène des tapis,French
 114987,furniture carpet beetle,English
 114988,anthrène bigarré des tapis,French
-114989,twisted-wing parasites,English
+114989,strepsipterans,English
 114994,snowflies,English
 114995,snow scorpionflies,English
 114996,earwig-flies,English
