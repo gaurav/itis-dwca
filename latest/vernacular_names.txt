@@ -1,4 +1,5 @@
 taxonID,vernacularName,language
+50,bactérias,Portuguese
 601,cyanophytes,French
 1447,chrysophycophytes,French
 1882,algues vert-jaunes,French
@@ -45294,7 +45295,6 @@ taxonID,vernacularName,language
 202416,urial,English
 202418,Sonoran Pronghorn,English
 202420,monerans,English
-202421,bactéries,French
 202422,plants,English
 202423,animals,English
 202425,loriciferans,English
@@ -89784,3 +89784,25 @@ taxonID,vernacularName,language
 952076,Williams's Jerboa,English
 952077,Baluchistan Pygmy Jerboa,English
 954908,conjugating green algae,English
+956002,Twolined spittlebug,English
+956003,Diamond-backed spittlebug,English
+956007,European alder spittlebug,English
+956008,Spruce spittlebug,English
+956009,Four-spotted spittlebug,English
+956010,Saratoga spittlebug,English
+956012,Pecan spittlebug,English
+956015,Alder spittlebug,English
+956016,Dogwood spittlebug,English
+956017,Heath spittlebug,English
+956023,Sunflower spittlebug,English
+956043,Red cedar spittlebug,English
+956048,Pine spittlebug,English
+956049,Western pine spittlebug,English
+956050,Boreal spittlebug,English
+956052,Douglas-fir spittlebug,English
+956055,Lined spittlebug,English
+956057,Prairie spittlebug,English
+956059,Saltmarsh spittlebug,English
+956061,Black spittlebug,English
+956063,Mountain-juniper spittlebug,English
+956108,cyanophytes,French
