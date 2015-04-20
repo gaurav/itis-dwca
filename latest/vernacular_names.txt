@@ -3,7 +3,7 @@ taxonID,vernacularName,language
 601,cyanophytes,French
 1447,chrysophycophytes,French
 1882,algues vert-jaunes,French
-2286,diatomées,French
+2287,diatomées,French
 5413,algues vertes,French
 5414,algues vertes,French
 9417,stoneworts,English
@@ -40989,9 +40989,9 @@ taxonID,vernacularName,language
 180128,Old World rabbits,English
 180129,European Rabbit,English
 180130,rodents,English
-180131,mountain beavers,English
-180132,mountain beavers,English
-180133,mountain beaver,English
+180131,Mountain Beavers,English
+180132,Mountain Beaver,English
+180133,Sewellel,English
 180134,squirrels,English
 180135,chipmunks,English
 180136,Marmots,English
@@ -45236,7 +45236,7 @@ taxonID,vernacularName,language
 202346,Ozark big-eared bat,English
 202347,Lesser Long-nosed Bat,English
 202349,Lower Keys rabbit,English
-202351,Point Arena mountain beaver,English
+202351,Point Arena Mountain Beaver,English
 202353,Mount Graham red squirrel,English
 202354,Hudson Bay flying squirrel,English
 202355,Carolina northern flying squirrel,English
@@ -72854,8 +72854,10 @@ taxonID,vernacularName,language
 573083,Bornean Orangutan,English
 573165,Eurasian Beaver,English
 573168,Scaly-tailed Squirrels,English
+573170,Comb Rats,English
 573174,Scaly-tailed Flying Squirrels,English
 573175,Pygmy Flying Squirrels,English
+573178,Common Gundis,English
 573191,Beecroft's Scaly-tailed Squirrel,English
 573192,Lord Derby's Flying Squirrel,English
 573193,Pel's Scaly-tailed Squirrel,English
@@ -72863,6 +72865,11 @@ taxonID,vernacularName,language
 573195,Pygmy Scaly-tailed Flying Squirrel,English
 573196,Long-eared Flying Squirrel,English
 573197,Cameroon Scaly-tail,English
+573199,Gundi,English
+573200,Val's Gundi,English
+573201,Felou Gundi,English
+573202,Mzab Gundi,English
+573203,Speke's Pectinator,English
 573209,Smooth-tailed Tree Shrews,English
 573210,Tree Shrews,English
 573214,Madras Treeshrew,English
