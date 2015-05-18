@@ -20235,7 +20235,7 @@ taxonID,vernacularName,language
 42522,sweet-flag,English
 42523,calamus,English
 42524,Jack in the pulpit,English
-42525,Indian jack in the pulpit,English
+42525,Jack-in-the-pulpit,English
 42526,Jack in the pulpit,English
 42527,Jack in the pulpit,English
 42528,Jack in the pulpit,English
@@ -41128,114 +41128,114 @@ taxonID,vernacularName,language
 180269,Great Basin Pocket Mouse,English
 180270,desert pocket mouse,English
 180271,spiny pocket mouse,English
-180273,rats,English
-180275,white-footed mice,English
-180276,souris sylvestre,French
+180273,Lemmings,English
+180275,White-footed Mice,English
+180276,North American Deermouse,English
 180277,Sitka mouse,English
-180278,souris à pattes blanches,French
-180279,cotton mouse,English
-180281,Texas mouse,English
-180282,Ratón arbustero,Spanish
-180283,Ratón californiano,Spanish
-180284,Ratón de cañada,Spanish
-180285,Ratón de roca,Spanish
-180286,Ratón de cactus,Spanish
-180287,Ratón orejas negras,Spanish
-180288,Ratón de Merriam,Spanish
-180289,Ratón tobillo blanco,Spanish
-180290,oldfield mouse,English
-180291,Ratón piñonero,Spanish
+180278,White-footed Mouse,English
+180279,Cotton Deermouse,English
+180281,Attwater's Mouse,English
+180282,Brush Deermouse,English
+180283,California Mouse,English
+180284,Canyon Deermouse,English
+180285,Rock Mouse,English
+180286,Cactus Deermouse,English
+180287,Black-eared Mouse,English
+180288,Merriam's Deermouse,English
+180289,White-ankled Mouse,English
+180290,Oldfield Deermouse,English
+180291,Piñon Deermouse,English
 180292,red-backed voles,English
-180293,northern red-backed vole,English
+180293,Northern Red-backed Vole,English
 180294,campagnol à dos roux de Gapper,French
-180295,western red-backed vole,English
-180296,meadow voles,English
-180297,meadow vole,English
-180298,tundra vole,English
-180299,long-tailed vole,English
+180295,Western Red-backed Vole,English
+180296,Meadow Voles,English
+180297,Meadow Vole,English
+180298,Tundra Vole,English
+180299,Long-tailed Vole,English
 180300,Coronation Island vole,English
-180301,yellow-cheeked vole,English
-180302,narrow-headed vole,English
-180303,St. Matthews Island vole,English
-180304,beach vole,English
-180305,Meteoro de California,Spanish
-180306,gray-tailed vole,English
-180307,campagnol des rochers,French
-180308,Meteoro mexicano,Spanish
-180309,singing vole,English
-180310,montane vole,English
+180301,Yellow-cheeked Vole,English
+180302,Narrow-headed Vole,English
+180303,Insular Vole,English
+180304,Beach Vole,English
+180305,California Vole,English
+180306,Gray-tailed Vole,English
+180307,Rock Vole,English
+180308,Mexican Vole,English
+180309,Singing Vole,English
+180310,Montane Vole,English
 180311,Gull Island vole,English
-180312,prairie vole,English
-180313,creeping vole,English
-180314,campagnol sylvestre,French
-180315,water vole,English
-180316,Townsend's vole,English
-180317,muskrats,English
-180318,rat musqué,French
+180312,Prairie Vole,English
+180313,Creeping Vole,English
+180314,Pine Vole,English
+180315,North American Water Vole,English
+180316,Townsend's Vole,English
+180317,Muskrat,English
+180318,Common Muskrat,English
 180319,brown lemmings,English
-180320,brown lemming,English
-180322,bog lemmings,English
-180323,campagnol-lemming boréale,French
-180324,campagnol-lemming de Cooper,French
-180325,collared lemmings,English
-180326,collared lemming,English
+180320,Siberian Lemming,English
+180322,Bog Lemmings,English
+180323,Northern Bog Lemming,English
+180324,Southern Bog Lemming,English
+180325,Collared Lemmings,English
+180326,Palearctic Collared Lemming,English
 180327,St. Lawrence Island collared lemming,English
-180328,Greenland collared lemming,English
-180329,lemming d'Ungava,French
+180328,Collared Lemming,English
+180329,Ungava Collared Lemming,English
 180330,Kilangmiutak collared lemming,English
-180331,Nelson's collared lemming,English
-180332,Richardson's collared lemming,English
-180333,tundra collared lemming,English
-180334,Unalaska collared lemming,English
-180335,rice rats,English
-180336,Rata-arrocera de pantano,Spanish
-180337,Rata-arrocera de Coues,Spanish
+180331,Nelson's Collared Lemming,English
+180332,Richardson's Collared Lemming,English
+180333,Tundra Collared Lemming,English
+180334,Unalaska Collared Lemming,English
+180335,Rice Rats,English
+180336,Marsh Oryzomys,English
+180337,Coues' Oryzomys,English
 180338,Florida mice,English
-180339,Florida mouse,English
-180340,harvest mice,English
-180341,Ratón-cosechero leonado,Spanish
-180342,eastern harvest mouse,English
-180343,Ratón-cosechero común,Spanish
-180344,Ratón-cosechero de pradera,Spanish
-180345,salt-marsh harvest mouse,English
-180346,cotton rats,English
-180347,Rata-algodonera de Arizona,Spanish
-180348,Rata-algodonera vientre leonado,Spanish
-180349,Rata-algodonera crespa,Spanish
-180350,Rata-algodonera nariz amarilla,Spanish
-180351,tree voles,English
-180352,white-footed vole,English
-180353,red tree vole,English
-180354,sagebrush voles,English
-180355,sagebrush vole,English
-180356,round-tailed muskrats,English
-180357,round-tailed muskrat,English
-180358,heather voles,English
-180359,phénacomys,French
+180339,Florida Deermouse,English
+180340,American Harvest Mice,English
+180341,Fulvous Harvest Mouse,English
+180342,Eastern Harvest Mouse,English
+180343,Western Harvest Mouse,English
+180344,Plains Harvest Mouse,English
+180345,Salt-marsh Harvest Mouse,English
+180346,Cotton Rats,English
+180347,Arizona Cotton Rat,English
+180348,Zacatecan Cotton Rat,English
+180349,Hispid Cotton Rat,English
+180350,Yellow-nosed Cotton Rat,English
+180351,Tree Voles,English
+180352,White-footed Vole,English
+180353,Reddish Tree Mouse,English
+180354,Sagebrush Voles,English
+180355,Sagebrush Vole,English
+180356,Round-tailed Muskrats,English
+180357,Round-tailed Muskrat,English
+180358,Heather Voles,English
+180359,Heather Vole,English
 180360,voles,English
-180361,Old World rats,English
-180362,rat noir,French
-180363,rat surmulot,French
-180364,Polynesian rat,English
-180365,house mice,English
-180366,house mouse,English
-180367,pygmy mice,English
-180368,northern pygmy mouse,English
-180369,woodrats,English
-180370,Rata-cambalachera garganta blanca,Spanish
-180371,bushy-tailed woodrat,English
-180372,eastern woodrat,English
-180373,Rata-cambalachera patas oscuras,Spanish
-180374,Rata-cambalachera desértica,Spanish
-180375,Rata-cambalachera mexicana,Spanish
-180376,Rata-cambalachera de pradera,Spanish
-180377,Stephens's woodrat,English
-180378,golden mice,English
-180379,golden mouse,English
-180380,grasshopper mice,English
-180381,Ratón-saltamontes arenero,Spanish
-180382,Ratón-saltamontes norteño,Spanish
-180383,Ratón-saltamontes sureño,Spanish
+180361,Old World Rats,English
+180362,Roof Rat,English
+180363,Norway Rat,English
+180364,Pacific Rat,English
+180365,Old World Mice,English
+180366,House Mouse,English
+180367,American Pygmy Mice,English
+180368,Northern Pygmy Mouse,English
+180369,Packrats,English
+180370,White-throated Woodrat,English
+180371,Bushy-tailed Woodrat,English
+180372,Eastern Woodrat,English
+180373,Dusky-footed Woodrat,English
+180374,Desert Woodrat,English
+180375,Mexican Woodrat,English
+180376,Southern Plains Woodrat,English
+180377,Stephen's Woodrat,English
+180378,Golden Mice,English
+180379,Golden Mouse,English
+180380,Grasshopper Mice,English
+180381,Chihuahuan Grasshopper Mouse,English
+180382,Northern Grasshopper Mouse,English
+180383,Southern Grasshopper Mouse,English
 180385,Jumping Mice,English
 180386,Meadow Jumping Mouse,English
 180387,Western Jumping Mouse,English
@@ -45249,7 +45249,7 @@ taxonID,vernacularName,language
 202362,Fresno kangaroo rat,English
 202364,cotton mouse,English
 202365,Key Largo cotton mouse,English
-202366,oldfield mouse,English
+202366,Oldfield Mouse,English
 202367,Alabama beach mouse,English
 202368,Anastasia Island beach mouse,English
 202369,Choctawhatchee beach mouse,English
@@ -45260,8 +45260,8 @@ taxonID,vernacularName,language
 202375,Amargosa vole,English
 202376,Mexican vole,English
 202377,Haulapai Mexican vole,English
-202378,marsh rice rat,English
-202379,silver rice rat,English
+202378,Marsh Rice Rat,English
+202379,Slver Rice Rat,English
 202381,eastern woodrat,English
 202382,Key Largo woodrat,English
 202383,brown bear,English
@@ -45360,6 +45360,8 @@ taxonID,vernacularName,language
 203462,pygmy rabbits,English
 203490,Short-nosed kangaroo rat,English
 203502,St. Andrew beach mouse,English
+203509,Water Voles,English
+203526,Nearctic Brown Lemming,English
 203535,sagebrush voles,English
 203550,Mexican bobcat,English
 203564,Kaibab Mountain Lion,English
@@ -63238,22 +63240,22 @@ taxonID,vernacularName,language
 552487,Ratón-de abazones de Baja California,Spanish
 552488,Merriam's Pocket Mouse,English
 552489,eastern desert pocket mouse,English
-552490,sagebrush vole,English
+552490,Sagebrush Vole,English
 552491,California Pocket Mouse,English
-552492,Ungava vole,English
-552493,Himalayan rat,English
-552494,Arizona woodrat,English
-552495,Ratón de Tlalpan,Spanish
-552496,rock mouse,English
-552497,Keen's mouse,English
+552492,Eastern Heather Vole,English
+552493,Himalayan Field Rat,English
+552494,Arizona Woodrat,English
+552495,Saxicoline Deermouse,English
+552496,Northern Rock Deermouse,English
+552497,Northwestern Deermouse,English
 552498,Red-bellied Squirrel,English
 552499,gray ground squirrel,English
-552500,Ogilvie collared lemming,English
+552500,Ogilvie Mountains Collared Lemming,English
 552501,brown hare,English
 552502,Western Yellow Bat,English
 552503,Hopi Chipmunk,English
 552504,Piute Ground Squirrel,English
-552505,Sonoma tree vole,English
+552505,Sonoma Tree Vole,English
 552506,Baird's Shrew,English
 552507,Asian minute shrew,English
 552508,Sonoma shrew,English
@@ -65476,7 +65478,7 @@ taxonID,vernacularName,language
 555658,Davis Mountain cottontail,English
 555659,Japanese Macaque,English
 555660,Dulzura Kangaroo Rat,English
-555661,Appalachian woodrat,English
+555661,Allegheny Woodrat,English
 555663,Alaska tiny shrew,English
 555664,Rafinesque's Big-eared Bat,English
 555666,Black Sea Bottlenose Dolphin,English
@@ -72854,9 +72856,11 @@ taxonID,vernacularName,language
 573083,Bornean Orangutan,English
 573165,Eurasian Beaver,English
 573168,Scaly-tailed Squirrels,English
+573169,Spring Hares,English
 573170,Comb Rats,English
 573174,Scaly-tailed Flying Squirrels,English
 573175,Pygmy Flying Squirrels,English
+573177,Spring Hares,English
 573178,Common Gundis,English
 573191,Beecroft's Scaly-tailed Squirrel,English
 573192,Lord Derby's Flying Squirrel,English
@@ -72865,6 +72869,7 @@ taxonID,vernacularName,language
 573195,Pygmy Scaly-tailed Flying Squirrel,English
 573196,Long-eared Flying Squirrel,English
 573197,Cameroon Scaly-tail,English
+573198,South African Spring Hare,English
 573199,Gundi,English
 573200,Val's Gundi,English
 573201,Felou Gundi,English
@@ -73166,6 +73171,539 @@ taxonID,vernacularName,language
 584974,Common Dormouse,English
 584975,Japanese Dormouse,English
 584977,Desert Dormouse,English
+584979,African Spiny Mice,English
+584980,African Rock Rats,English
+584983,Field Mice,English
+584984,Philippine Forest Mice,English
+584986,African Grass Rats,English
+584987,Bandicoot Rats,English
+584988,Hairy-tailed Rats,English
+584989,White-toothed Rats,English
+584990,Philippine Rats,English
+584991,Hill Rats,English
+584993,Luzon Tree Rats,English
+584996,Pencil-tailed Tree Mouse,English
+584997,Tree Mice,English
+584998,Philippine Striped Rats,English
+584999,Brush Mice,English
+585001,Rabbit Rats,English
+585003,Bushy-tailed Cloud Rats,English
+585004,Indian Rats,English
+585006,Philippine Shrew Rats,English
+585008,Shaggy African Marsh Rats,English
+585016,African Thicket Rats,English
+585018,Ranee Mice,English
+585019,Marmoset Rats,English
+585021,Striped Mice,English
+585022,Water Rats,English
+585023,African Wood Mice,English
+585024,New Guinean Giant Rats,English
+585028,Australian Native Mice,English
+585029,Striped Grass Mice,English
+585032,Long-tailed Giant Rats,English
+585033,Australian Stick-nest Rats,English
+585034,New Guinean Water Rats,English
+585036,Brush-furred Rats,English
+585038,New Guinean Rats,English
+585039,African Swamp Rats,English
+585040,Woolly Rats,English
+585042,Margareta's Rats,English
+585043,Multimammate Mice,English
+585044,Oriental Spiny Rats,English
+585047,Mosaic-tailed Rats,English
+585048,Tree Rats,English
+585049,Lesser Shrew Mice,English
+585051,Asian Soft-furred Rats,English
+585056,Short-tailed Bandicoot Rats,English
+585057,White-bellied Rats,English
+585058,Australian Hopping Mice,English
+585059,Rufous-nosed Rats,English
+585063,Montane Water Rats,English
+585064,Sulawesi Giant Rats,English
+585066,Groove-toothed Swamp Rats,English
+585067,Giant Cloud Rats,English
+585069,New Guinean Brush Mice,English
+585070,Prehensile-tailed Tree Mice,English
+585071,African Soft-furred Mice,English
+585072,New Guinean Shrew Mice,English
+585073,Australian Mice,English
+585075,Shrew Rats,English
+585076,Naked-tailed Rats,English
+585079,Ethiopian Narrow-headed Rats,English
+585082,Giant Sunda Rats,English
+585083,Sulawesi Rats,English
+585084,Long-footed Rats,English
+585085,Greater Sulawesian Shrew Rats,English
+585086,Acacia Rats,English
+585087,Thicket Rats,English
+585088,Ryukyu Spiny Rats,English
+585091,Giant Naked-tailed Rats,English
+585092,Long-tailed Climbing Mice,English
+585096,Broad-headed Mice,English
+585097,Australian Rock Rats,English
+585098,Luzon Broad-toothed Rat,English
+585100,Turkish Spiny Mouse,English
+585102,Fiery Spiny Mouse,English
+585103,Kemp's Spiny Mouse,English
+585104,Louise's Spiny Mouse,English
+585105,Crete Spiny Mouse,English
+585106,Mullah Spiny Mouse,English
+585107,Cyprus Spiny Mouse,English
+585108,Percival's Spiny Mouse,English
+585109,Golden Spiny Mouse,English
+585110,Southern African Spiny Mouse,English
+585111,Cape Spiny Mouse,English
+585112,Wilson's Spiny mouse,English
+585113,Bocage's Aethomys,English
+585114,Red Veld Aethomys,English
+585116,Hinde's Aethomys,English
+585117,Kaiser's Aethomys,English
+585119,Nyika Aethomys,English
+585120,Seilinda Aethomys,English
+585121,West African Aethomys,English
+585122,Thomas's Aethomys,English
+585123,Uneven-toothed Rat,English
+585124,Mindoro Forest Anonymomys,English
+585125,Striped Field Mouse,English
+585126,Alpine Field Mouse,English
+585128,Small Japanese Field Mouse,English
+585129,Chevrier's Field Mouse,English
+585130,South China Field Mouse,English
+585132,Yellow-necked Field Mouse,English
+585133,Nepalese Field Mouse,English
+585135,Hyrcanian Field Mouse,English
+585136,Large-eared Field Mouse,English
+585137,Eastern Broad-toothed Field Mouse,English
+585138,Korean Field Mouse,English
+585139,Caucasus Field Mouse,English
+585140,Kashmir Field Mouse,English
+585141,Taiwan Field Mouse,English
+585142,Large Japanese Field Mouse,English
+585143,Common Field Mouse,English
+585145,Herb Field Mouse,English
+585146,Luzon Cordillera Apomys,English
+585147,Northern Luzon Apomys,English
+585149,Mindanao Montane Forest Apomys,English
+585150,Mindanao Lowland Apomys,English
+585151,Small Luzon Apomys,English
+585152,Least Philippine Apomys,English
+585153,Long-nosed Luzon Apomys,English
+585154,Isarog Shrew Mouse,English
+585155,Ethiopian Arvicanthis,English
+585156,Blick's Arvicanthis,English
+585157,East African Arvicanthis,English
+585159,Neumann's Arvicanthis,English
+585160,Lesser Bandicoot Rat,English
+585161,Large Bandicoot Rat,English
+585162,Savile's Bandicoot Rat,English
+585163,Large-toothed Batomys,English
+585164,Luzon Batomys,English
+585165,Mindanao Batomys,English
+585166,Grey Rat,English
+585167,Bower's Berylmys,English
+585168,Mackenzie's Berylmys,English
+585169,Manipur Berylmys,English
+585170,Mindanao Bullimus,English
+585171,Luzon Bullimus,English
+585172,Andrew's Bunomys,English
+585173,Common Bunomys,English
+585174,Lampobatang Bunomys,English
+585175,Northeastern Peninsula Bunomys,English
+585177,Montane Bunomys,English
+585178,Tambusisi Bunomys,English
+585180,Large Luzon Carpomys,English
+585181,Small Luzon Carpomys,English
+585183,Fea's Tree Rat,English
+585184,Palawan Pencil-tailed Tree Mouse,English
+585185,Indomalayan Pencil-tailed Tree Mouse,English
+585186,Koopman's Pencil-tailed Tree Mouse,English
+585187,Greater Pencil-tailed Tree Mouse,English
+585188,Gray-bellied Pencil-tailed Tree Mouse,English
+585189,Lesser Pencil-tailed Tree Mouse,English
+585190,Forbes's Chiruromys,English
+585191,Broad-headed Chiruromys,English
+585192,Lesser Chiruromys,English
+585193,Isarog Chrotomys,English
+585194,Lowland Chrotomys,English
+585195,Montane Chrotomys,English
+585196,Rümmler's Coccymys,English
+585197,White-toothed Coccymys,English
+585198,African Wading Rat,English
+585199,White-footed Conilurus,English
+585200,Brush-tailed Conilurus,English
+585201,Buhler's Coryphomys,English
+585202,Dinagat Crateromys,English
+585203,Ilin Crateromys,English
+585204,Luzon Crateromys,English
+585206,Cutch Rat,English
+585207,Elvira Cremnomys,English
+585208,Earless New Guinea Water Rat,English
+585209,Sulawesi Shrew Mouse,English
+585210,Luzon Shrew Mouse,English
+585211,Mindanao Shrew Mouse,English
+585213,Millard's Rat,English
+585214,Fox's Dasymys,English
+585215,Common Dasymys,English
+585216,Ruwenzori Dasymys,English
+585217,Angolan Dasymys,English
+585218,West African Dasymys,English
+585219,Defua Dephomys,English
+585221,Harrington's Desmomys,English
+585222,Crump's Mouse,English
+585224,Northern Sulawesi Echiothrix,English
+585225,Sulawesi Soft-furred Rat,English
+585226,Indian Bush Rat,English
+585227,Arid Woodland Grammomys,English
+585228,Bunting's Grammomys,English
+585229,Gray-headed Grammomys,English
+585230,Mozambique Grammomys,English
+585231,Common Grammomys,English
+585232,Albertine Rift Grammomys,English
+585233,Mount Kenya Grammomys,English
+585234,East African Grammomys,English
+585235,Macmillan's Grammomys,English
+585236,Ethiopian Grammomys,English
+585238,Hume's Rat,English
+585239,Margaret's Haeromys,English
+585240,Lowland Sulawesi Haeromys,English
+585241,Sundaic Haeromys,English
+585242,Lesser Marmoset Rat,English
+585243,Marmoset Mouse,English
+585244,Smokey Heimyscus,English
+585245,Bioko Hybomys,English
+585247,Ruwenzori Hybomys,English
+585248,Liberian Forest Hybomys,English
+585249,West African Hybomys,English
+585250,Peters's Hybomys,English
+585251,Common Water Rat,English
+585252,New Guinea Mountain Water Rat,English
+585253,Husson's Water Rat,English
+585255,Shaw Mayer's Water Rat,English
+585256,Beaded Hylomyscus,English
+585257,Allen's Hylomyscus,English
+585258,Baer's Hylomyscus,English
+585259,Angolan Hylomyscus,English
+585260,Montane Hylomyscus,English
+585261,Lesser Hylomyscus,English
+585262,Stella Hylomyscus,English
+585263,Eastern Hyomys,English
+585264,Western Hyomys,English
+585265,Javan Bamboo Rat,English
+585266,Nusa Tenggara Komodomys,English
+585267,Mount Oku Lamottemys,English
+585268,Forrest's Leggadina,English
+585269,Lakeland Downs Leggadina,English
+585270,Barbary Lemniscomys,English
+585271,Bellier's Lemniscomys,English
+585272,Griselda's Lemniscomys,English
+585273,Hoogstraal's Lemniscomys,English
+585274,Senegal Lemniscomys,English
+585275,Buffoon Lemniscomys,English
+585276,Mittendorf's Lemniscomys,English
+585277,Single-Striped Lemniscomys,English
+585278,Rosevear's Lemniscomys,English
+585279,Typical Lemniscomys,English
+585280,Meyer's Lenomys,English
+585281,Sundaic Lenothrix,English
+585282,Edward's Rat,English
+585283,Neill's Leopoldamys,English
+585284,Noisy Rat,English
+585285,Mentawai Archipelago Leopoldamys,English
+585286,Lesser Stick-nest Rat,English
+585287,Greater Stick-nest Rat,English
+585288,Elegant Leptomys,English
+585289,Ernst Mayr's Leptomys,English
+585290,Fly River Leptomys,English
+585291,White-bellied Limnomys,English
+585293,Ethiopian Buff-spotted Brush-furred Rat,English
+585294,Buff-bellied Brush-furred Rat,English
+585295,Western Rift Brush-furred Rat,English
+585296,Black-clawed Brush-furred Rat,English
+585297,Fire-bellied Brush-furred Rat,English
+585298,Rahm's Brush-furred Rat,English
+585299,Rusty-bellied Brush-furred Rat,English
+585300,Woosnam's Brush-furred Rat,English
+585301,Long-footed Tree Mouse,English
+585302,Lesser Macruromys,English
+585303,Greater Macruromys,English
+585304,Cansdale's Malacomys,English
+585305,Edwards' Malacomys,English
+585306,Common Malacomys,English
+585309,Rothschild's Mallomys,English
+585310,De Vis's Mallomys,English
+585311,Subalpine Mallomys,English
+585312,Alpine Mallomys,English
+585313,Lava Mouse,English
+585314,Spiny Lowland Margaretamys,English
+585315,Elegant Margaretamys,English
+585316,Lesser Margaretamys,English
+585318,Southern African Mastomys,English
+585319,Reddish-white Mastomys,English
+585321,Multimammate Rat,English
+585322,Dwarf Mastomys,English
+585323,Shortridge's Mastomys,English
+585325,Bornean Mountain Maxomys,English
+585326,Small Bornean Maxomys,English
+585327,Bartels's Javan Maxomys,English
+585328,Dollman's Sulawesi Maxomys,English
+585329,Hellwald's Sulawesi Maxomys,English
+585330,Sumatran Mountain Maxomys,English
+585331,Malayan Mountain Maxomys,English
+585332,Broad-nosed Sumatran Maxomys,English
+585333,Indochinese Mountain Maxomys,English
+585334,Musschenbroek's Rat,English
+585335,Ochraceous-bellied Bornean Maxomys,English
+585336,Mentawai Archipelago Maxomys,English
+585337,Palawan Maxomys,English
+585338,Rajah Rat,English
+585339,Indomalayan Maxomys,English
+585340,Watts's Sulawesi Maxomys,English
+585341,Whitehead's Sundaic Maxomys,English
+585343,Diurnal Sulawesian Shrew Rat,English
+585344,Dusky Seram Melomys,English
+585345,Bougainville Island Melomys,English
+585346,Grassland Melomys,English
+585347,Cape York Melomys,English
+585348,Fawn-footed Melomys,English
+585350,Manusela Melomys,English
+585353,White-bellied Melomys,English
+585358,Obi Island Melomys,English
+585362,Bramble Cay Melomys,English
+585363,Black-tailed Melomys,English
+585364,Buka Island Melomys,English
+585365,Black-footed Mesembriomys,English
+585366,Golden-backed Mesembriomys,English
+585367,northern groovetoothed moss-mouse,English
+585368,Torricelli Mountains Shrew Mouse,English
+585369,Harvest Mouse,English
+585370,Sand-coloured Rat,English
+585371,Burmese Metad,English
+585372,Large Metad,English
+585373,Soft-furred Field Rat,English
+585374,Ethiopian Striped Mouse,English
+585375,Baoule's Mouse,English
+585376,Little Indian Field Mouse,English
+585377,Toad Mouse,English
+585378,Callewaert's Mouse,English
+585379,Ryukyu Mouse,English
+585380,Fawn-colored Mouse,English
+585381,Cook's Mouse,English
+585382,Sumatran Shrewlike Mouse,English
+585383,Servant Mouse,English
+585384,Ceylon Spiny Mouse,English
+585385,Gounda Mouse,English
+585386,Hausa Mouse,English
+585387,Desert Pygmy Mouse,English
+585389,Macedonian Mouse,English
+585390,Mahomet Mouse,English
+585391,Matthey's Mouse,English
+585392,Mayor's Mouse,English
+585393,Southern African Pygmy Mouse,English
+585394,Subsaharan Pygmy Mouse,English
+585395,Neave's Mouse,English
+585396,Orange Mouse,English
+585397,Oubangui Mouse,English
+585398,Sikkim Mouse,English
+585399,Phillips's Mouse,English
+585400,Indian Brown Spiny Mouse,English
+585401,Saxicolous Mouse,English
+585402,Peters's Mouse,English
+585403,Setzer's Mouse,English
+585404,Shortridge's Mouse,English
+585405,Thomas's Mouse,English
+585406,Mound-building Mouse,English
+585407,Western Mediterranean Mouse,English
+585408,Delicate Mouse,English
+585409,Earth-Colored mouse,English
+585410,Gray-bellied Mouse,English
+585411,Javan Shrew-like Mouse,English
+585412,Common Mylomys,English
+585421,Long-tailed Nesokia,English
+585422,Short-tailed Bandicoot Rat,English
+585423,Anderson's Niviventer,English
+585424,Brahman Niviventer,English
+585425,Confucian Niviventer,English
+585427,Dark-tailed Rat,English
+585428,Soft-furred Taiwan Niviventer,English
+585429,Little Himalayan Rat,English
+585430,Sichuan Niviventer,English
+585431,Indomalayan Niviventer,English
+585432,Limestone Niviventer,English
+585433,Indochinese Arboreal Niviventer,English
+585434,Montane Javan Niviventer,English
+585435,Himalayan Niviventer,English
+585436,Montane Bornean Niviventer,English
+585437,Indochinese Mountain Niviventer,English
+585438,Spinifex Hopping Mouse,English
+585439,Short-tailed Hopping Mouse,English
+585440,Northern Hopping Mouse,English
+585441,Fawn Hopping Mouse,English
+585442,Dusky Hopping Mouse,English
+585443,Long-tailed Hopping Mouse,English
+585444,Big-eared Hopping Mouse,English
+585445,Mitchell's Hopping Mouse,English
+585446,Darling Downs Hopping Mouse,English
+585447,Common Oenomys,English
+585448,West African Oenomys,English
+585449,Palawan Mountain Rat,English
+585450,Armandville's Papagomys,English
+585451,Theodore Verhoeven's Papagomys,English
+585452,New Guinea Waterside Rat,English
+585453,Northern Paraleptomys,English
+585454,Central Cordilleran Paraleptomys,English
+585455,Giant Sulawesi Rat,English
+585457,Paula's Long-nosed Rat,English
+585458,Angolan Pelomys,English
+585459,East African Pelomys,English
+585460,Hopkins' Pelomys,English
+585461,Lake Victoria Pelomys,English
+585462,Least Pelomys,English
+585463,Southern Luzon Phloeomys,English
+585464,Northern Luzon Phloeomys,English
+585466,Malay Peninsula Pithecheir,English
+585467,Bruijn's Pogonomelomys,English
+585468,Shaw Mayer's Pogonomelomys,English
+585470,Champion's Pogonomys,English
+585471,Loria's Pogonomys,English
+585472,Chestnut Pogonomys,English
+585473,Gray-bellied Pogonomys,English
+585474,East African Praomys,English
+585475,Hartwig's Praomys,English
+585476,Jackson's Praomys,English
+585477,Least Praomys,English
+585478,Misonne's Praomys,English
+585479,Cameroon Praomys,English
+585480,Riverine Praomys,English
+585481,West African Praomys,English
+585482,Tullberg's Praomys,English
+585483,Eastern New Guinea Shrew Mouse,English
+585484,Western New Guinea Shrew Mouse,English
+585485,Ash-gray Pseudomys,English
+585486,Silky Pseudomys,English
+585487,Plains Pseudomys,English
+585488,Bolam's Pseudomys,English
+585489,Western Pebble-mound Mouse,English
+585490,Delicate Pseudomys,English
+585491,Desert Pseudomys,English
+585492,Shark Bay Pseudomys,English
+585493,Smoky Pseudomys,English
+585495,Blue-gray Pseudomys,English
+585496,Gould's Pseudomys,English
+585497,Eastern Chestnut Pseudomys,English
+585498,Sandy Inland Pseudomys,English
+585499,Long-tailed Pseudomys,English
+585500,Central Pebble-mound Pseudomys,English
+585501,Kimberley Pseudomys,English
+585502,Western Chestnut Pseudomys,English
+585503,New Holland Pseudomys,English
+585504,Western Pseudomys,English
+585505,Hastings River Pseudomys,English
+585506,Eastern Pebble-mound Pseudomys,English
+585507,Pilliga Pseudomys,English
+585509,Heath Pseudomys,English
+585510,Burnished Enggano Rat,English
+585511,Annandale's Sundaic Rat,English
+585512,Ricefield Rat,English
+585513,Kinabalu Rat,English
+585514,Southwestern Xanthurus Rat,English
+585515,Nicobar Archipelago Rat,English
+585516,Australian Dusky Rat,English
+585517,Sula Archipelago Rat,English
+585518,Enggano Island Rat,English
+585519,Philippine Forest Rat,English
+585520,Spiny Seram Island Rat,English
+585522,Australian Bush Rat,English
+585523,Mount Giluwe Rat,English
+585524,Hainald's Flores Island Rat,English
+585525,Hoffmann's Sulawesi Rat,English
+585526,Hoogerwerf's Sumatran Rat,English
+585527,Yapen Island Rat,English
+585528,Koopman's Peleng Island Rat,English
+585529,Sumatran Mountain Rat,English
+585530,Cape York Rat,English
+585531,Losea Rat,English
+585532,Mentawai Archipelago Rat,English
+585533,Australian Swamp Rat,English
+585534,Maclear's Christmas Island Rat,English
+585535,Marmoset Xanthurus Rat,English
+585536,Mindoro Mountain Rat,English
+585537,Lampobatang Sulawesi Rat,English
+585538,Sri Lankan Mountain Rat,English
+585539,Eastern New Guinea Rat,English
+585540,Halmahara Rat,English
+585541,Christmas Island Rat,English
+585542,Papua New Guinea Rat,English
+585543,Osgood's Vietnamese Rat,English
+585544,Car Nicobar Rat,English
+585545,Peleng Island Xanthurus Rat,English
+585546,Large New Guinea Spiny Rat,English
+585547,Ranjini's Rat,English
+585548,New Ireland Forest Rat,English
+585550,Simalur Archipelago Rat,English
+585551,Canefield Rat,English
+585552,Stein's New Guinea Rat,English
+585553,Andaman Archipelago Rat,English
+585554,Oriental House Rat,English
+585555,Tawitawi Forest Rat,English
+585556,Timor Forest Rat,English
+585557,Malaysian Field Rat,English
+585558,Australian Pale Field Rat,English
+585560,Australian Long-haired Rat,English
+585561,Northeastern Xanthurus Rat,English
+585562,Xeric Four-striped Grass Rat,English
+585563,Isarog Rhynchomys,English
+585564,Northern Luzon Rhynchomys,English
+585565,Poncelet's Solomys,English
+585566,Florida Island Solomys,English
+585567,Bougainville Island Solomys,English
+585568,Isabel Island Solomys,English
+585569,Buka Island Solomys,English
+585570,Flores Island Spelaeomys,English
+585571,Ohiya Rat,English
+585572,White-tailed Stenocephalemys,English
+585573,Gray-tailed Stenocephalemys,English
+585579,Target Rat,English
+585580,Mountain Sundamys,English
+585581,Javan Sundamys,English
+585582,Müller's Rat,English
+585583,Southeastern Mountain Taeromys,English
+585584,Greater Taeromys,English
+585585,Long-tailed Taeromys,English
+585586,Central Mountain Taeromys,English
+585587,Reddish-furred Taeromys,English
+585588,Northeastern Mountain Taeromys,English
+585589,Dusky Tarsomys,English
+585590,Spiny Tarsomys,English
+585591,Long-tailed Sulawesian Shrew Rat,English
+585592,Tate's Sulawesian Shrew Rat,English
+585593,Loring's Thallomys,English
+585594,Black-tailed Thallomys,English
+585595,Acacia Thallomys,English
+585596,Shortridge's Thallomys,English
+585597,Dollman's Thamnomys,English
+585598,Thomas's Thamnomys,English
+585599,Amami-oshima Island Spiny Rat,English
+585600,Okinawa Island Spiny Rat,English
+585601,Luzon Tryphomys,English
+585602,Rudd's Bristle-furred Rat,English
+585603,Black-tailed Uromys,English
+585604,Giant White-tailed Uromys,English
+585605,Masked White-tailed Uromys,English
+585606,Emperor Uromys,English
+585608,Guadalcanal Uromys,English
+585609,King Uromys,English
+585610,Sri Lankan Vandeleuria,English
+585611,Indian Long-tailed Tree Mouse,English
+585612,Vernay's Climbing Mouse,English
+585613,Rock-dwelling Giant Rat,English
+585614,False Water Rat,English
+585615,Hildegarde's Zelotomys,English
+585616,Woosnam's Zelotomys,English
+585617,Common Australian Rock Rat,English
+585618,Arnhem Land Rock Rat,English
+585619,Carpentarian Rock Rat,English
+585620,Central Australian Rock Rat,English
+585621,Kimberley Rock Rat,English
 585626,Amatola Toad,English
 585630,Caucasian Toad,English
 585632,Cape Mountain Toad,English
@@ -73939,7 +74477,7 @@ taxonID,vernacularName,language
 609835,Long-fingered Triok,English
 609836,Tate's Triok,English
 609837,Striped Possum,English
-609838,Leadebeater's Possum,English
+609838,Leadbeater's Possum,English
 609839,Northern Glider,English
 609840,Yellow-bellied Glider,English
 609841,Sugar Glider,English
@@ -76481,717 +77019,796 @@ taxonID,vernacularName,language
 632537,San Bernardino flying squirrel,English
 632538,Montague Island hoary marmot,English
 632539,Glacier Bay hoary marmot,English
-632693,Malabar spiny dormouse,English
+632556,Chinese Pygmy Dormice,English
+632558,Rock Mice,English
+632560,African Climbing Mice,English
+632567,Fat Mice,English
+632568,Mongolian Hamsters,English
+632570,Dwarf Hamsters,English
+632572,Golden Hamsters,English
+632573,Small Desert Hamsters,English
+632576,Mouse-like Hamsters,English
+632579,Bamboo Rats,English
+632580,African Mole Rats,English
+632581,Long-Tailed Pouched Rats,English
+632582,African Giant Pouched Rats,English
+632583,Pouched Mice,English
+632585,Short-tailed Rats,English
+632586,Tufted-tailed Rats,English
+632589,Big-footed Mice,English
+632591,Vlei Rats,English
+632592,Whistling Rats,English
+632593,Mountain Voles,English
+632594,Afghan Voles,English
+632595,Snow Voles,English
+632597,Mole Voles,English
+632599,South Asian Voles,English
+632600,Kashmir Voles,English
+632611,Hairy-footed Gerbils,English
+632612,Gerbils,English
+632613,Jirds,English
+632616,Sand Rats,English
+632619,Large Naked-soled Gerbils,English
+632620,Small Naked-soled Gerbils,English
+632621,Lesser Blind Mole Rats,English
+632622,Greater Blind Mole Rats,English
+632624,Montane Mice,English
+632625,Grass Mice,English
+632626,Chaco Mice,English
+632629,Big-eared Mice,English
+632630,Crimson-nosed Rats,English
+632633,Vesper Mice,English
+632634,Greater Long-clawed Mice,English
+632639,Atlantic Forest Rats,English
+632640,Gerbil Mice,English
+632641,Chinchilla Mice,English
+632644,Leaf-eared Mice,English
+632645,Crested-tailed Deer Mice,English
+632647,Marsh Rats,English
+632648,Crab-eating Rats,English
+632650,Isthmus Rats,English
+632651,Juscelin's Mice,English
+632652,South American Giant Rats,English
+632654,Giant Deer Mice,English
+632655,West Indian Giant Rice Rats,English
+632656,Dark Rice Rats,English
+632657,Small Rice Rats,English
+632658,Bristly Mice,English
+632659,Neotropical Water Rats,English
+632660,Diminutive Wood Rat,English
+632661,Volcano Mouse,English
+632663,Galapagos Mice,English
+632664,Fish-eating Rats,English
+632666,Sumichrast's Vesper Rat,English
+632667,Arboreal Rice Rats,English
+632668,Pygmy Rice Rats,English
+632670,Yucatán Vesper Rat,English
+632671,Big-eared Climbing Rats,English
+632674,Leaf-eared Mice,English
+632680,Central American Water Mice,English
+632681,Climbing Mice,English
+632683,Spiny Mice,English
+632684,Brown Mice,English
+632685,Rice Water Rats,English
+632686,Cerrado Mice,English
+632687,Thomas's Oldfield Mice,English
+632688,Climbing Rats,English
+632690,Wilfred's Mice,English
+632691,Magdalena Rat,English
+632692,Cane Mice,English
+632693,Spiny Tree Mouse,English
 632694,Chapa pygmy dormouse,English
-632695,Chinese pygmy dormouse,English
-632696,Delany's swamp mouse,English
-632697,Barbour's rock mouse,English
-632698,pygmy rock mouse,English
-632699,Brukkaros pygmy rock mouse,English
-632700,Shortridge's rock mouse,English
-632701,crested rat,English
-632702,remarkable climbing mouse,English
-632703,Mt. Kahuzi climbing mouse,English
+632695,Soft-furred Tree Mouse,English
+632696,Delany's Swamp Mouse,English
+632697,Barbour's Pygmy Rock Mouse,English
+632698,Pygmy Rock Mouse,English
+632699,Brukkaros Pygmy Rock Mouse,English
+632700,Shortridge's Pygmy Rock Mouse,English
+632701,Maned Rat,English
+632702,Montane African Climbing Mouse,English
+632703,Mt Kahuzi African Climbing Mouse,English
 632704,Kivu climbing mouse,English
-632705,Lovat's climbing mouse,English
-632706,gray climbing mouse,English
-632707,Brant's climbing mouse,English
-632708,banana climbing mouse,English
-632709,chestnut climbing mouse,English
-632710,Nyika climbing mouse,English
-632711,Cameroon climbing mouse,English
-632712,Vernay's climbing mouse,English
-632713,velvet climbing mouse,English
-632714,Congo forest mouse,English
-632715,groove-toothed forest mouse,English
-632716,gerbil mouse,English
-632717,Nikolaus's mouse,English
-632718,Dollman's tree mouse,English
-632719,northwestern fat mouse,English
-632720,dainty fat mouse,English
-632721,Jackson's fat mouse,English
-632722,Kreb's fat mouse,English
-632723,tiny fat mouse,English
-632724,fat mouse,English
-632725,Mongolian hamster,English
-632726,Eversmann's hamster,English
-632727,Gansu hamster,English
-632728,Tibetan dwarf hamster,English
-632729,striped dwarf hamster,English
-632730,Kam dwarf hamster,English
-632731,long-tailed dwarf hamster,English
-632732,gray dwarf hamster,English
-632733,Sokolov's dwarf hamster,English
-632734,black-bellied hamster,English
-632735,golden hamster,English
-632736,Brandt's hamster,English
-632737,Romanian hamster,English
-632738,ciscaucasian hamster,English
-632739,Campbell's hamster,English
-632740,desert hamster,English
-632741,Dzhungarian hamster,English
-632742,greater long-tailed hamster,English
-632743,false zokor,English
+632705,Lovat's African Climbing Mouse,English
+632706,Gray African Climbing Mouse,English
+632707,Brants's African Climbing Mouse,English
+632708,Banana African Climbing Mouse,English
+632709,Chestnut African Climbing Mouse,English
+632710,Nyika African Climbing Mouse,English
+632711,Cameroon African Climbing Mouse,English
+632712,Vernay's African Climbing Mouse,English
+632713,Velvet African Climbing Mouse,English
+632714,Congo Forest Rat,English
+632715,Büttner's African Forest Mouse,English
+632716,Large-eared African Desert Mouse,English
+632717,Nikolaus's African Climbing Mouse,English
+632718,Dollman's African Tree Mouse,English
+632719,Northwestern African Fat Mouse,English
+632720,Dainty African Fat Mouse,English
+632721,Jackson's African Fat Mouse,English
+632722,Kreb's African Fat Mouse,English
+632723,Tiny African Fat Mouse,English
+632724,Common African Fat Mouse,English
+632725,Mongolian Hamster,English
+632726,Eversmann's Hamster,English
+632727,Gansu Hamster,English
+632728,Short-tailed Tibetan Hamster,English
+632729,Striped Dwarf Hamster,English
+632730,Tibetan Dwarf Hamster,English
+632731,Lesser Long-tailed Hamster,English
+632732,Gray Dwarf Hamster,English
+632733,Sokolov's Dwarf Hamster,English
+632734,Common Hamster,English
+632735,Golden Hamster,English
+632736,Brandt's Hamster,English
+632737,Romanian Hamster,English
+632738,Ciscaucasian Hamster,English
+632739,Campbell's Desert Hamster,English
+632740,Desert Hamster,English
+632741,Striped Desert Hamster,English
+632742,Greater Long-tailed Hamster,English
+632743,Steppe Zokor,English
 632744,Manchurian zokor,English
 632745,Chinese zokor,English
-632746,Siberian zokor,English
-632747,transbaikal zokor,English
+632746,Altai Zokor,English
+632747,North China Zokor,English
 632748,Rothschild's zokor,English
 632749,Smith's zokor,English
-632750,mouse-like hamster,English
-632751,Baluchi mouse-like hamster,English
-632752,Hotson's mouse-like hamster,English
-632753,Afghan mouse-like hamster,English
-632754,Tsolov's mouse-like hamster,English
-632755,Urartsk mouse-like hamster,English
-632756,white-tailed mouse,English
-632757,lesser bamboo rat,English
-632758,hoary bamboo rat,English
-632759,Chinese bamboo rat,English
-632760,large bamboo rat,English
-632761,Ankole mole rat,English
-632762,Mianzini mole rat,English
-632763,audacious mole rat,English
-632764,demon mole rat,English
-632765,big-headed mole rat,English
-632766,Naivasha mole rat,English
-632767,king mole rat,English
-632768,Ruanda mole rat,English
-632769,Rudd's mole rat,English
-632770,embi mole rat,English
-632771,east African mole rat,English
-632772,long-tailed pouched rat,English
-632773,greater long-tailed pouched rat,English
-632774,giant rat,English
-632775,Gambian rat,English
-632776,pouched mouse,English
-632777,Mearns's pouched mouse,English
-632778,white-tailed rat,English
-632779,Betsileo short-tailed rat,English
-632780,gregarious short-tailed rat,English
-632781,Major's tufted-tailed rat,English
-632782,lesser tufted-tailed rat,English
-632783,dormouse tufted-tailed rat,English
-632784,white-tipped tufted-tailed rat,English
-632785,Tanala tufted-tailed rat,English
-632786,Webb's tufted-tailed rat,English
-632787,voalavoanala,English
-632788,Malagasy giant rat,English
-632789,Bastard big-footed mouse,English
-632790,greater big-footed mouse,English
-632791,island mouse,English
-632792,Angolan vlei rat,English
-632793,Angoni vlei rat,English
-632794,Dent's vlei rat,English
-632795,vlei rat,English
-632796,laminate vlei rat,English
-632797,large vlei rat,English
-632798,western vlei rat,English
-632799,Saunders's vlei rat,English
-632800,Sloggett's vlei rat,English
-632801,tropical vlei rat,English
-632802,typical vlei rat,English
-632803,bush vlei rat,English
-632804,Brants's Whistling rat,English
-632805,Littledale's whistling rat,English
-632806,white-tailed mountain vole,English
-632807,silver mountain vole,English
-632808,Gobi altai mountain vole,English
-632809,lemming vole,English
-632810,large-eared vole,English
-632811,central Kashmir vole,English
-632812,Royle's mountain vole,English
-632813,Mongolian silver vole,English
-632814,Stoliczka's mountain vole,English
+632750,Mouse-like Hamster,English
+632751,Pakistan Calomyscus,English
+632752,Hotson's Calomyscus,English
+632753,Great Balkhan Calomyscus,English
+632754,Syrian Calomyscus,English
+632755,Urar Calomyscus,English
+632756,African White-tailed Rat,English
+632757,Lesser Bamboo Rat,English
+632758,Hoary Bamboo Rat,English
+632759,Chinese Bamboo Rat,English
+632760,Indomalayan Bamboo Rat,English
+632761,Ankole African Mole Rat,English
+632762,Mianzini African Mole Rat,English
+632763,Aberdare Mountains African Mole Rat,English
+632764,Demon African Mole Rat,English
+632765,Ethiopian African Mole Rat,English
+632766,Navivasha African Mole Rat,English
+632767,King African Mole Rat,English
+632768,Rwanda African Mole Rat,English
+632769,Rudd's African Mole Rat,English
+632770,Embi African Mole Rat,English
+632771,Northeast African Mole Rat,English
+632772,Hinde's Pouched Rat,English
+632773,Greater Pouched Rat,English
+632774,Forest Giant Pouched Rat,English
+632775,Northern Giant Pouched Rat,English
+632776,Southern African Pouched Mouse,English
+632777,East African Pouched Mouse,English
+632778,White-tailed Antsangy,English
+632779,Lesser Short-tailed Rat,English
+632780,Greater Short-tailed Rat,English
+632781,Major's Tufted-tailed Rat,English
+632782,Lesser Tufted-tailed Rat,English
+632783,Western Tufted-tailed Rat,English
+632784,White-tipped Tufted-tailed Rat,English
+632785,Tanala Tufted-tailed Rat,English
+632786,Webb's Tufted-tailed Rat,English
+632787,Voalavoanala,English
+632788,Votsovotsa,English
+632789,Lesser Big-footed Mouse,English
+632790,Greater Big-footed Mouse,English
+632791,Rufous Nesomys,English
+632792,Angolan Vlei Rat,English
+632793,Angoni Vlei Rat,English
+632794,Dent's Vlei Rat,English
+632795,Southern African Vlei Rat,English
+632796,KwaZulu Vlei Rat,English
+632797,Okavango Vlei Rat,English
+632798,Western Vlei Rat,English
+632799,Saunders' Vlei Rat,English
+632800,Sloggett's Vlei Rat,English
+632801,East African Vlei Rat,English
+632802,Ethiopian Vlei Rat,English
+632803,Bush Vlei Rat,English
+632804,Brants's Whistling Rat,English
+632805,Littledale's Whistling Rat,English
+632806,White-tailed Mountain Vole,English
+632807,Silver Mountain Vole,English
+632808,Gobi Altai Mountain Vole,English
+632809,Lemming Mountain Vole,English
+632810,Large-eared Mountain Vole,English
+632811,Kashmir Mountain Vole,English
+632812,Royle's High Mountain Vole,English
+632813,Mongolian Mountain Vole,English
+632814,Stoliczka's High Mountain Vole,English
 632815,Strachey's mountain vole,English
-632816,flat-headed vole,English
-632817,Tuva silver vole,English
-632818,southwestern water vole,English
+632816,Strelzow's Mountain Vole,English
+632817,Tuva Mountain Vole,English
+632818,Southwestern Water Vole,English
 632819,European water vole,English
-632820,Afghan vole,English
+632820,Afghan Vole,English
 632821,Bucharian vole,English
-632822,Caucasian snow vole,English
-632823,European snow vole,English
-632824,Robert's snow vole,English
+632822,Gudaur Snow Vole,English
+632823,Snow Vole,English
+632824,Robert's Snow Vole,English
 632825,Tien Shan red-backed vole,English
 632826,Bank vole,English
-632827,gray red-backed vole,English
+632827,Gray Red-backed Vole,English
 632828,Shikotan vole,English
-632829,wrangel lemming,English
-632830,Martino's snow vole,English
-632831,Alai mole vole,English
-632832,southern mole vole,English
-632833,transcaucasian mole vole,English
-632834,northern mole vole,English
-632835,Zaisan mole vole,English
-632836,yellow steppe lemming,English
-632837,Przewalski's Steppe lemming,English
-632838,Pratt's vole,English
-632839,southwest China vole,English
-632840,Ganzu vole,English
+632829,Wrangel Island Collared Lemming,English
+632830,Balkan Snow Vole,English
+632831,Alai Mole Vole,English
+632832,Afghan Mole-Vole,English
+632833,Transcaucasian Mole Vole,English
+632834,Northern Mole Vole,English
+632835,Eastern Mole Vole,English
+632836,Yellow Steppe Lemming,English
+632837,Przewalski's Steppe Lemming,English
+632838,Pratt's Vole,English
+632839,Southwest China Red-backed Vole,English
+632840,Ganzu Vole,English
 632841,Kolan vole,English
-632842,Père David's vole,English
-632843,Chaotung vole,English
-632844,Yulungshan vole,English
+632842,Père David's Vole,English
+632843,Black-eared Red-backed Vole,English
+632844,Yulongxuen Red-backed Vole,English
 632845,Royal vole,English
-632846,Shansei vole,English
-632847,True's vole,English
-632848,murree vole,English
-632849,steppe lemming,English
-632850,Brandt's vole,English
-632851,plateau vole,English
-632852,Mandarin vole,English
-632853,Amur lemming,English
-632854,Norway lemming,English
-632855,field vole,English
-632856,common vole,English
-632857,Bavarian pine vole,English
-632858,Cabrera's vole,English
-632859,Daghestan pine vole,English
-632860,Mediterranean pine vole,English
-632861,Evorsk vole,English
-632862,Felten's vole,English
-632863,reed vole,English
-632864,Gerbe's vole,English
-632865,Guatemalan vole,English
-632866,Günther's vole,English
-632867,north Siberian vole,English
-632868,Persian vole,English
-632869,Chinese scrub vole,English
-632870,Juniper vole,English
+632846,Shansei Vole,English
+632847,True's Vole,English
+632848,Conifer Kashmir Vole,English
+632849,Steppe Lemming,English
+632850,Brandt's Vole,English
+632851,Smokey Vole,English
+632852,Mandarin Vole,English
+632853,Amur Brown Lemming,English
+632854,Norway Lemming,English
+632855,Field Vole,English
+632856,Common Vole,English
+632857,Bavarian Pine Vole,English
+632858,Cabrera's Vole,English
+632859,Caucasus Pine Vole,English
+632860,Mediterranean Pine Vole,English
+632861,Evoron Vole,English
+632862,Balkan Pine Vole,English
+632863,Reed Vole,English
+632864,Pyreneean Pine Vole,English
+632865,Guatemalan Vole,English
+632866,Günther's Vole,English
+632867,North Siberian Vole,English
+632868,Iranian Vole,English
+632869,Chinese Scrub Vole,English
+632870,Juniper Vole,English
 632871,Baluchistan vole,English
 632872,Tien Shan vole,English
-632873,Blyth's vole,English
-632874,lacustrine vole,English
-632875,Lusitanian pine vole,English
-632876,Major's pine vole,English
-632877,Maximowicz's vole,English
-632878,Middendorf's vole,English
-632879,Mongolian vole,English
-632880,Japanese grass vole,English
-632881,muisk vole,English
-632882,alpine pine vole,English
+632873,Blyth's Vole,English
+632874,Lacustrine Vole,English
+632875,Lusitanian Pine Vole,English
+632876,Major's Pine Vole,English
+632877,Maximowicz's Vole,English
+632878,Middendorff's Vole,English
+632879,Mongolian Vole,English
+632880,Japanese Grass Vole,English
+632881,Muya Valley Vole,English
+632882,Alpine Pine Vole,English
 632883,Nasarov's vole,English
-632884,Tarabundi vole,English
+632884,Tarabundí Vole,English
 632885,Altai vole,English
-632886,Jalapan pine vole,English
-632887,southern vole,English
-632888,Savi's pine vole,English
-632889,Sakhalin vole,English
-632890,Schelkovnikov's pine vole,English
-632891,Sikkim vole,English
-632892,social vole,English
-632893,European pine vole,English
-632894,tatra pine vole,English
-632895,Thomas's pine vole,English
-632896,transcaspian vole,English
-632897,Zempoaltepec vole,English
-632898,wood lemming,English
-632899,Japanese red-backed vole,English
-632900,Smith's vole,English
-632901,Duke of Bedford's vole,English
-632902,long-clawed mole vole,English
+632886,Jalapan Pine Vole,English
+632887,Southern Vole,English
+632888,Savi's Pine Vole,English
+632889,Sakhalin Island Vole,English
+632890,Schelkovnikov's Pine Vole,English
+632891,Sikkim Vole,English
+632892,Social Vole,English
+632893,European Pine Vole,English
+632894,Tatra Vole,English
+632895,Thomas's Pine Vole,English
+632896,Transcaspian Vole,English
+632897,Zempoaltépec Vole,English
+632898,Wood Lemming,English
+632899,Japanese Red-backed Vole,English
+632900,Smith's Vole,English
+632901,Duke of Bedford's Vole,English
+632902,Long-clawed Mole Vole,English
 632903,Taiwan vole,English
-632904,Szechuan vole,English
-632905,Marie's vole,English
+632904,North Szechuan Vole,English
+632905,Marie's Vole,English
 632906,Clarke's vole,English
-632907,ammodile,English
-632908,Przewalski's gerbil,English
-632909,pouched gerbil,English
-632910,Cape short-eared gerbil,English
-632911,hairy-footed gerbil,English
-632912,Setzer's hairy-footed gerbil,English
-632913,dune hairy-footed gerbil,English
-632914,bushy-tailed hairy-footed gerbil,English
-632915,Berbera gerbil,English
-632916,Agag gerbil,English
+632907,Ammodile,English
+632908,Przewalski's Gerbil,English
+632909,Pouched Gerbil,English
+632910,Cape Short-tailed Gerbil,English
+632911,Paeba Hairy-footed Gerbil,English
+632912,Setzer's Hairy-footed Gerbil,English
+632913,Dune Hairy-footed Gerbil,English
+632914,Brush-tailed Hairy-footed Gerbil,English
+632915,Berbera Gerbil,English
+632916,Agag Gerbil,English
 632917,Allenby's gerbil,English
-632918,pleasant gerbil,English
-632919,Anderson's gerbil,English
-632920,swarthy gerbil,English
-632921,bilen gerbil,English
+632918,Pleasant Gerbil,English
+632919,Anderson's Gerbil,English
+632920,Swarthy Gerbil,English
+632921,Bilen Gerbil,English
 632922,Bonhote's gerbil,English
-632923,Botta's gerbil,English
-632924,Burton's gerbil,English
-632925,Brockman's gerbil,English
-632926,north African gerbil,English
-632927,Cheesman's gerbil,English
+632923,Botta's Gerbil,English
+632924,Burton's Gerbil,English
+632925,Brockman's Gerbil,English
+632926,North African Gerbil,English
+632927,Cheesman's Gerbil,English
 632928,Cosens's gerbil,English
-632929,Dallon's gerbil,English
-632930,Wagner's gerbil,English
-632931,diminutive gerbil,English
-632932,Dongola gerbil,English
-632933,Somalia gerbil,English
-632934,black-tufted gerbil,English
-632935,Flower's gerbil,English
-632936,Algerian gerbil,English
-632937,lesser Egyptian gerbil,English
-632938,Indian hairy-footed gerbil,English
-632939,Grobben's gerbil,English
-632940,Harwood's gerbil,English
-632941,pygmy gerbil,English
-632942,western gerbil,English
-632943,Hoogstraal's gerbil,English
-632944,James's gerbil,English
+632929,Dallon's Gerbil,English
+632930,Wagner's Gerbil,English
+632931,Diminutive Gerbil,English
+632932,Dongola Gerbil,English
+632933,Dunn's Gerbil,English
+632934,Black-tufted Gerbil,English
+632935,Flower's Gerbil,English
+632936,Algerian Gerbil,English
+632937,Lesser Egyptian Gerbil,English
+632938,Indian Hairy-footed Gerbil,English
+632939,Grobben's Gerbil,English
+632940,Harwood's Gerbil,English
+632941,Pygmy Gerbil,English
+632942,Moroccan Gerbil,English
+632943,Hoogstraal's Gerbil,English
+632944,James's Gerbil,English
 632945,Julian's gerbil,English
-632946,Lataste's gerbil,English
-632947,Lowe's gerbil,English
+632946,Lataste's Gerbil,English
+632947,Lowe's Gerbil,English
 632948,Mackillingin's gerbil,English
-632949,greater short-tailed gerbil,English
-632950,Mauritanian gerbil,English
-632951,Mesopotamian gerbil,English
-632952,Barfur gerbil,English
-632953,Sudan gerbil,English
-632954,Baluchistan gerbil,English
-632955,Nigerian gerbil,English
-632956,occidental gerbil,English
+632949,Greater Short-tailed Gerbil,English
+632950,Mauritanian Gerbil,English
+632951,Mesopotamian Gerbil,English
+632952,Darfur Gerbil,English
+632953,Sudan Gerbil,English
+632954,Baluchistan Gerbil,English
+632955,Nigerian Gerbil,English
+632956,Occidental Gerbil,English
 632957,Percival's gerbil,English
-632958,pale gerbil,English
-632959,large Aden gerbil,English
-632960,principal gerbil,English
-632961,cushioned gerbil,English
-632962,least gerbil,English
-632963,greater Egyptian gerbil,English
-632964,four-spotted gerbil,English
+632958,Pale Gerbil,English
+632959,Large Aden Gerbil,English
+632960,Principal Gerbil,English
+632961,Rhoads's Gerbil,English
+632962,Least Gerbil,English
+632963,Greater Egyptian Gerbil,English
+632964,Four-spotted Gerbil,English
 632965,Riggenbach's gerbil,English
-632966,Rosalinda gerbil,English
-632967,little red gerbil,English
-632968,lesser short-tailed gerbil,English
-632969,Somalian gerbil,English
-632970,Khartoum gerbil,English
-632971,sand gerbil,English
-632972,Tarabul's gerbil,English
-632973,vivacious gerbil,English
-632974,Waters's gerbil,English
-632975,Arabian jird,English
-632976,Cheng's jird,English
-632977,Dahl's jird,English
-632978,Sundevall's jird,English
-632979,Indian desert jird,English
-632980,Libyan jird,English
-632981,mid-day jird,English
-632982,Persian jird,English
-632983,king jird,English
-632984,Buxton's jird,English
-632985,Shaw's jird,English
-632986,Tamarisk jird,English
-632987,Tristram's jird,English
-632988,Mongolian jird,English
-632989,Vinogradov's jird,English
-632990,Zarudny's jird,English
-632991,Somali pygmy gerbil,English
-632992,fat-tailed gerbil,English
-632993,fat sand rat,English
-632994,thin sand rat,English
-632995,great gerbil,English
-632996,bushy-tailed jird,English
+632966,Rosalinda Gerbil,English
+632967,Little Red Gerbil,English
+632968,Lesser Short-tailed Gerbil,English
+632969,Somalian Gerbil,English
+632970,Khartoum Gerbil,English
+632971,Sand Gerbil,English
+632972,Tarabul's Gerbil,English
+632973,Vivacious Gerbil,English
+632974,Waters's Gerbil,English
+632975,Arabian Jird,English
+632976,Cheng's Jird,English
+632977,Dahl's Jird,English
+632978,Sundevall's Jird,English
+632979,Indian Desert Gerbil,English
+632980,Libyan Jird,English
+632981,Little Chinese Jird,English
+632982,Persian Jird,English
+632983,King Jird,English
+632984,Buxton's Jird,English
+632985,Shaw's Jird,English
+632986,Tamarisk Gerbil,English
+632987,Tristram's Jird,English
+632988,Clawed Jird,English
+632989,Vinogradov's Jird,English
+632990,Zarudny's Jird,English
+632991,Somali Pygmy Gerbil,English
+632992,Fat-tailed Gerbil,English
+632993,Fat Sand Rat,English
+632994,Lesser Sand Rat,English
+632995,Great Gerbil,English
+632996,Bushy-tailed Jird,English
 632997,Cape gerbil,English
 632998,Boehm's gerbil,English
-632999,highveld gerbil,English
-633000,Guinea gerbil,English
+632999,Highveld Gerbil,English
+633000,Guinea Gerbil,English
 633001,Gorongoza gerbil,English
-633002,Indian gerbil,English
+633002,Antelope Rat,English
 633003,Kemp's gerbil,English
-633004,bushveld gerbil,English
-633005,black-tailed gerbil,English
-633006,Phillip's gerbil,English
-633007,fringe-tailed gerbil,English
-633008,savanna gerbil,English
-633009,Sahel gerbil,English
-633010,Congo gerbil,English
-633011,Emin's gerbil,English
-633012,slender gerbil,English
-633013,Harrington's gerbil,English
-633014,Lake Chad gerbil,English
-633015,Petter's gerbil,English
-633016,Senegal gerbil,English
-633017,Palestine mole rat,English
-633018,lesser mole rat,English
-633019,Nehring's blind mole rat,English
-633020,sandy mole rat,English
-633021,giant mole rat,English
-633022,Bukovin mole rat,English
-633023,greater mole rat,English
-633024,Podolsk mole rat,English
-633025,Ruschi's rat,English
-633026,dusky montane mouse,English
-633027,olive montane mouse,English
-633028,highland grass mouse,English
-633029,Colombian grass mouse,English
-633030,white-bellied grass mouse,English
-633031,Azara's grass mouse,English
-633032,Bogota grass mouse,English
-633033,Bolivian grass mouse,English
-633034,Budin's grass mouse,English
-633035,cursor grass mouse,English
-633036,Day's grass mouse,English
-633037,Dolorous grass mouse,English
-633038,smoky grass mouse,English
-633039,Hershkovitz's grass mouse,English
-633040,gray grass mouse,English
-633041,intelligent grass mouse,English
-633042,Junin grass mouse,English
-633043,Kemp's grass mouse,English
-633044,Koford's grass mouse,English
-633045,woolly grass mouse,English
-633046,Ecuadorean grass mouse,English
-633047,Lindbergh's grass mouse,English
-633048,long-haired grass mouse,English
-633049,Manso grass mouse,English
-633050,Markham's grass mouse,English
-633051,thespian grass mouse,English
-633052,Molina's grass mouse,English
-633053,soft grass mouse,English
-633054,Neuquen grass mouse,English
-633055,blackish grass mouse,English
-633056,olive grass mouse,English
-633057,El dorado grass mouse,English
-633058,altiplano grass mouse,English
-633059,Sanborn's grass mouse,English
-633060,Sao Paulo grass mouse,English
-633061,Serrado Mar grass mouse,English
-633062,Cochabamba grass mouse,English
-633063,gray-bellied grass mouse,English
-633064,Spegazzini's grass mouse,English
-633065,puno grass mouse,English
-633066,Silent grass mouse,English
-633067,forest grass mouse,English
-633068,Chaco grass mouse,English
-633069,cloud forest grass mouse,English
-633070,northern grass mouse,English
-633071,variable grass mouse,English
-633072,yellow-nosed grass mouse,English
-633073,Olrog's chaco mouse,English
-633074,Pearson's Chaco mouse,English
-633075,Andean mouse,English
-633076,Ecuador fish-eating rat,English
-633077,Bolivian big-eared mouse,English
-633078,southern big-eared mouse,English
-633079,painted big-eared mouse,English
-633080,Andean big-eared mouse,English
-633081,southern pygmy mouse,English
-633082,Chaco crimson-nosed rat,English
-633083,large-lipped crimson-nosed rat,English
-633084,Torres's crimson-nosed rat,English
-633085,Brazilian shrew mouse,English
-633086,pleasant bolo mouse,English
-633087,rufous-bellied bolo mouse,English
-633088,hairy-tailed bolo mouse,English
-633089,dark bolo mouse,English
-633090,spotted bolo mouse,English
-633091,Temchuk's bolo mouse,English
-633092,Bolivian vesper mouse,English
-633093,crafty vesper mouse,English
-633094,large vesper mouse,English
-633095,Hummelinck's vesper mouse,English
-633096,small vesper mouse,English
-633097,Andean vesper mouse,English
-633098,drylands vesper mouse,English
-633099,Peruvian vesper mouse,English
-633100,delicate vesper mouse,English
-633101,Andean long-clawed mouse,English
-633102,large long-clawed mouse,English
-633103,Chibchan water mouse,English
-633104,Colombian forest mouse,English
-633105,altiplano chinchilla mouse,English
-633106,Andean altiplano mouse,English
-633107,Jelski's altiplano mouse,English
-633108,striped Atlantic forest rat,English
-633109,pallid Atlantic forest rat,English
-633110,Monte gerbil mouse,English
-633111,Morgan's gerbil mouse,English
-633112,Andean gerbil mouse,English
-633113,highland gerbil mouse,English
-633114,Patagonian chinchilla mouse,English
-633115,Burrowing chinchilla mouse,English
-633116,biting chinchilla mouse,English
-633117,Peterson's chinchilla mouse,English
-633118,Garlepp's mouse,English
-633119,long-clawed mole mouse,English
-633120,pale leaf-eared mouse,English
-633121,Edith's leaf-eared mouse,English
-633122,gray leaf-eared mouse,English
-633123,Chinanteco deer mouse,English
-633124,slender-tailed deer mouse,English
-633125,crested-tailed deer mouse,English
-633126,Jico deer mouse,English
-633127,Allen's woodrat,English
-633128,web-footed marsh rat,English
-633129,Chaco marsh rat,English
-633130,greater marsh rat,English
-633131,marsh rat,English
-633132,crab-eating rat,English
-633133,Pittier's crab-eating rat,English
-633134,Stolzmann's crab-eating rat,English
-633135,Tweedy's crab-eating rat,English
-633136,Chilean climbing mouse,English
-633137,yellow Isthmus rat,English
-633138,Mt. Pirri Isthmus rat,English
-633139,Candango mouse,English
-633140,fossorial giant rat,English
-633141,woolly giant rat,English
-633142,Andean rat,English
-633143,Oaxaca giant deer mouse,English
-633144,Nelson's giant deer mouse,English
-633145,Thomas's giant deer mouse,English
-633146,Antillean giant rice rat,English
-633147,Santa Lucia giant rice rat,English
-633148,dusky rice rat,English
-633149,robust dark rice rat,English
-633150,Zuniga's dark rice rat,English
-633151,highland small rice rat,English
-633152,forest small rice rat,English
-633153,Guiana bristly mouse,English
-633154,painted bristly mouse,English
-633155,bristly mouse,English
-633156,narrow-footed bristly mouse,English
-633157,small-footed water rat,English
-633158,Trinidad water rat,English
-633159,South American water rat,English
-633160,Nelson and Goldman's woodrat,English
-633161,diminutive woodrat,English
-633162,Tamaulipan woodrat,English
-633163,Anthony's woodrat,English
-633164,Bryant's woodrat,English
-633165,Bunker's woodrat,English
-633166,Nicaraguan woodrat,English
-633167,Goldman's woodrat,English
-633168,San Martin Island woodrat,English
-633169,Nelson's woodrat,English
-633170,Bolaños woodrat,English
-633171,Sonoran woodrat,English
+633004,Bushveld Gerbil,English
+633005,Black-tailed Gerbil,English
+633006,Phillip's Gerbil,English
+633007,Fringe-tailed Gerbil,English
+633008,Savanna Gerbil,English
+633009,Robbins's Tateril,English
+633010,Congo Tateril,English
+633011,Emin's Tateril,English
+633012,Gracile Tateril,English
+633013,Harrington's Tateril,English
+633014,Lake Chad Tateril,English
+633015,Petter's Tateril,English
+633016,Senegal Tateril,English
+633017,Palestine Mole Rat,English
+633018,Lesser Mole Rat,English
+633019,Nehring's Blind Mole Rat,English
+633020,Sandy Blind Mole Rat,English
+633021,Giant Blind Mole Rat,English
+633022,Balkan Blind Mole Rat,English
+633023,Russian Mole Rat,English
+633024,Podolsk Blind Mole Rat,English
+633025,Ruschi's Rat,English
+633026,Dusky Montane Mouse,English
+633027,Mérida Aepeomys,English
+633028,Yungas Akodont,English
+633029,Cordillera Occidental Akodont,English
+633030,White-bellied Akodont,English
+633031,Azara's Akodont,English
+633032,Bogotá Akodont,English
+633033,Bolivian Akodont,English
+633034,Budin's Akodont,English
+633035,Cursorial Akodont,English
+633036,Dusky Akodont,English
+633037,Córdoba Akodont,English
+633038,Smoky Akodont,English
+633039,Hershkovitz's Grass Mouse,English
+633040,Gray Grass Mouse,English
+633041,Patagonian Akodont,English
+633042,Junín Akodont,English
+633043,Kemp's Grass Mouse,English
+633044,Koford's Akodont,English
+633045,Woolly Grass Mouse,English
+633046,Ecuadorean Akodont,English
+633047,Lindbergh's Akodont,English
+633048,Long-haired Grass Mouse,English
+633049,Manso Grass Mouse,English
+633050,Markham's Grass Mouse,English
+633051,Hocicudo-like Akodont,English
+633052,Molina's Akodont,English
+633053,Soft-furred Akodont,English
+633054,Neuquén Akodont,English
+633055,Blackish Grass Mouse,English
+633056,Olive Grass Mouse,English
+633057,Utcubamba Akodont,English
+633058,Altiplano Grass Mouse,English
+633059,Sanborn's Grass Mouse,English
+633060,São Paulo Akodont,English
+633061,Serra do Mar Akodont,English
+633062,Cochabamba Akodont,English
+633063,White-throated Akodont,English
+633064,Spegazzini's Akodont,English
+633065,Puno Akodont,English
+633066,Slate-bellied Akodont,English
+633067,Woodland Akodont,English
+633068,Toba Akodont,English
+633069,Cloud Forest Akodont,English
+633070,Northern Grass Mouse,English
+633071,Variable Akodont,English
+633072,Yellow-nosed Grass Mouse,English
+633073,Olrog's Pericote,English
+633074,Pearson's Pericote,English
+633075,Andean Mouse,English
+633076,Ecuadoran Ichthyomyine,English
+633077,Bolivian Pericote,English
+633078,Southern Big-eared Mouse,English
+633079,Colorful Pericote,English
+633080,Lofty Pericote,English
+633081,Southern Pygmy Mouse,English
+633082,Chacoan Akodont,English
+633083,Lagoa Santa Akodont,English
+633084,Torres' Akodont,English
+633085,Blarinine Akodont,English
+633086,Pleasant Bolo Mouse,English
+633087,Rufous-bellied Bolo Mouse,English
+633088,Hairy-tailed Bolo Mouse,English
+633089,Dark Bolo Mouse,English
+633090,Spotted Bolo Mouse,English
+633091,Temchuk's Bolo Mouse,English
+633092,Bolivian Laucha,English
+633093,Reclusive Laucha,English
+633094,Big Laucha,English
+633095,Hummelinck's Laucha,English
+633096,Little Laucha,English
+633097,Graceful Laucha,English
+633098,Drylands Laucha,English
+633099,Peruvian Laucha,English
+633100,Delicate Laucha,English
+633101,Andean Long-clawed Akodont,English
+633102,Large Long-clawed Akodont,English
+633103,Chibchan Ichthyomyine,English
+633104,Andean Chilomys,English
+633105,Achallo,English
+633106,Andean Altiplano Mouse,English
+633107,Jelski's Altiplano Mouse,English
+633108,Striped Delomys,English
+633109,Pallid Delomys,English
+633110,Monte Laucha,English
+633111,Western Patagonian Laucha,English
+633112,Altiplano Laucha,English
+633113,Eastern Patagonian Laucha,English
+633114,Tierra del Fuego Euneomys,English
+633115,Burrowing Euneomys,English
+633116,Large Euneomys,English
+633117,Peterson's Euneomys,English
+633118,Garlepp's Pericote,English
+633119,Valdivian Long-clawed Akodont,English
+633120,Pale Pericote,English
+633121,Otro Cerro Pericote,English
+633122,Common Pericote,English
+633123,Chinanteco Deermouse,English
+633124,Slender-tailed Deer Mouse,English
+633125,Crested-tailed Deermouse,English
+633126,Jico Deermouse,English
+633127,Allen's Woodrat,English
+633128,Brazilian Marsh Rat,English
+633129,Chacoan Marsh Rat,English
+633130,Greater Marsh Rat,English
+633131,Amazonian Marsh Rat,English
+633132,Silver-bellied Ichthyomyine,English
+633133,Pittier's Ichthyomyine,English
+633134,Stolzmann's Ichthyomyine,English
+633135,Tweedy's Ichthyomyine,English
+633136,Large-footed Irenomys,English
+633137,Yellow Deermouse,English
+633138,Mount Pirri Deermouse,English
+633139,Candango Akodont,English
+633140,Fossorial Kunsia,English
+633141,Woolly Kunsia,English
+633142,White-tailed Akodont,English
+633143,Oaxacan Big-toothed Deermouse,English
+633144,Nelson's Big-toothed Deermouse,English
+633145,Thomas' Deer Mouse,English
+633146,Desmarest's Pilorie,English
+633147,Santa Lucian Pilorie,English
+633148,Dusky Rice Rat,English
+633149,Robust Melanomys,English
+633150,Zuniga's Melanomys,English
+633151,Páramo Colilargo,English
+633152,Montane Colilargo,English
+633153,Guianan Neacomys,English
+633154,Painted Neacomys,English
+633155,Common Neacomys,English
+633156,Painted Bristly Mouse,English
+633157,Small-footed Water Rat,English
+633158,Trinidad Nectomys,English
+633159,Atlantic Forest Nectomys,English
+633160,Goldman's Diminutive Woodrat,English
+633161,Diminutive Woodrat,English
+633162,Tamaulipan Woodrat,English
+633163,Anthony's Woodrat,English
+633164,Bryant's Woodrat,English
+633165,Bunker's Wood Rat,English
+633166,Nicaraguan Woodrat,English
+633167,Goldman's Woodrat,English
+633168,San Martín Island Wood Rat,English
+633169,Nelson's Woodrat,English
+633170,Bolaños Woodrat,English
+633171,Sonoran Woodrat,English
 633172,Turner Island woodrat,English
-633173,Mexican volcano mouse,English
-633174,Andean swamp rat,English
-633175,Darwin's Galapagos mouse,English
-633176,Fernandina Galapagos mouse,English
-633177,indefatigable Galapagos mouse,English
-633178,Santiago Galapagos mouse,English
-633179,montane fish-eating rat,English
-633180,Musso's fish-eating rat,English
-633181,Oyapock's fish-eating rat,English
-633182,Peruvian fish-eating rat,English
-633183,Venezuelan fish-eating rat,English
-633184,Edwards's long-clawed mouse,English
-633185,vesper rat,English
-633186,bicolored arboreal rice rat,English
-633187,Cleber's arboreal rice rat,English
-633188,unicolored arboreal rice rat,English
-633189,yellow arboreal rice rat,English
-633190,dusky arboreal rice rat,English
-633191,Robert's arboreal rice rat,English
-633192,Mamore arboreal rice rat,English
-633193,Brazilian arboreal rice rat,English
-633194,king arboreal rice rat,English
-633195,red arboreal rice rat,English
-633196,arboreal rice rat,English
-633197,foothill arboreal rice rat,English
-633198,Trinidad arboreal rice rat,English
-633199,Andean pygmy rice rat,English
-633200,sandy pygmy rice rat,English
-633201,Chacoan pygmy rice rat,English
-633202,delta pygmy rice rat,English
-633203,destructive pygmy rice rat,English
-633204,Brazilian pygmy rice rat,English
-633205,yellow pygmy rice rat,English
-633206,fulvous pygmy rice rat,English
-633207,grayish pygmy rice rat,English
-633208,long-tailed pygmy rice rat,English
-633209,Magellanic pygmy rice rat,English
-633210,small-eared pygmy rice rat,English
-633211,black-footed pygmy rice rat,English
-633212,sprightly pygmy rice rat,English
-633213,St. Vincent pygmy rice rat,English
-633214,Tomes's rice rat,English
-633215,Alfaro's rice rat,English
-633216,Ecuadorean rice rat,English
-633217,Peruvian rice rat,English
-633218,Bolivar rice rat,English
-633219,Paraguayan rice rat,English
-633220,large-headed rice rat,English
-633221,Chapman's rice rat,English
-633222,boquete rice rat,English
-633223,Thomas's rice rat,English
-633224,Galapagos rice rat,English
-633225,Gorgas's rice rat,English
-633226,Hammond's rice rat,English
-633227,Colombian rice rat,English
-633228,intermediate rice rat,English
-633229,Keays's rice rat,English
-633230,Kellogg's rice rat,English
-633231,monster rice rat,English
-633232,big-headed rice rat,English
-633233,light-footed rice rat,English
-633234,MacConnell's rice rat,English
-633235,black-eared rice rat,English
-633236,Nelson's rice rat,English
-633237,elegant rice rat,English
-633238,sowbug rice rat,English
-633239,gray rice rat,English
-633240,rat-headed rice rat,English
-633241,striped rice rat,English
-633242,long-nosed rice rat,English
-633243,cloud forest rice rat,English
-633244,terraced rice rat,English
-633245,Talamancan rice rat,English
-633246,yellowish rice rat,English
-633247,Yungas rice rat,English
-633248,Michoacan deer mouse,English
-633249,Hatt's vesper rat,English
-633250,big-eared climbing rat,English
-633251,Argentine hocicudo,English
-633252,angular hocicudo,English
-633253,spy hocicudo,English
-633254,small hocicudo,English
-633255,hispid hocicudo,English
-633256,Quechuan hocicudo,English
-633257,Ihering's hocicudo,English
-633258,Incan hocicudo,English
-633259,long-nosed hocicudo,English
-633260,Paramo hocicudo,English
-633261,Robert's hocicudo,English
-633262,red hocicudo,English
-633263,Aztec mouse,English
-633264,Perote mouse,English
-633265,Burt's deer mouse,English
-633266,Dickey's deer mouse,English
-633267,Eva's desert mouse,English
-633268,blackish deer mouse,English
-633269,big deer mouse,English
-633270,Angel Island mouse,English
-633271,Guatemalan deer mouse,English
-633272,naked-eared deer mouse,English
-633273,Hooper's mouse,English
-633274,San Lorenzo mouse,English
-633275,nimble-footed mouse,English
-633276,Tres Marias Island mouse,English
-633277,Maya mouse,English
-633278,brown deer mouse,English
-633279,puebla deer mouse,English
-633280,Zempoaltepec deer mouse,English
-633281,plateau mouse,English
-633282,black-tailed mouse,English
-633283,Mexican deer mouse,English
-633284,El Carrizo deer mouse,English
+633173,Volcano Mouse,English
+633174,Red-nosed Neotomys,English
+633175,Darwin's Nesoryzomys,English
+633176,Fernandina Nesoryzomys,English
+633177,Santa Cruz Nesoryzomys,English
+633178,Santiago Nesoryzomys,English
+633179,Montane Ichthyomyine,English
+633180,Musso's Ichthyomyine,English
+633181,Guianan Ichthyomyine,English
+633182,Peruvian Ichthyomyine,English
+633183,Venezuelan Ichthyomyine,English
+633184,Edward's Long-clawed Akodont,English
+633185,Sumichrast's Vesper Rat,English
+633186,White-bellied Oecomys,English
+633187,Cleber's Oecomys,English
+633188,Concolored Rice Rat,English
+633189,Tawny Oecomys,English
+633190,Dusky Oecomys,English
+633191,Robert's Oecomys,English
+633192,Marmore Oecomys,English
+633193,Brazilian Oecomys,English
+633194,Regal Oecomys,English
+633195,Reddish Oecomys,English
+633196,Savannah Oecomys,English
+633197,Large Oecomys,English
+633198,Long-furred Oecomys,English
+633199,Andean Colilargo,English
+633200,Sandy Colilargo,English
+633201,Chacoan Colilargo,English
+633202,Large Colilargo,English
+633203,Tschudi's Colilargo,English
+633204,Brazilian Colilargo,English
+633205,Flavescent Colilargo,English
+633206,Pygmy Rice Rat,English
+633207,Grizzled Colilargo,English
+633208,Long-tailed Colilargo,English
+633209,Patagonian Colilargo,English
+633210,Small-eared Colilargo,English
+633211,Black-footed Colilargo,English
+633212,Sprightly Colilargo,English
+633213,St. Vincent Rice Rat,English
+633214,White-throated Oryzomys,English
+633215,Alfaro's Rice Rat,English
+633216,Golden-bellied Oryzomys,English
+633217,Ecuadoran Oryzomys,English
+633218,Long-whiskered Oryzomys,English
+633219,Paraguayan Rice Rat,English
+633220,Large-headed Rice Rat,English
+633221,Chapman's Oryzomys,English
+633222,Talamancan Oryzomys,English
+633223,Nicaraguan Rice Rat,English
+633224,Galapagos Oryzomys,English
+633225,Gorgas' Oryzomys,English
+633226,Hammond's Oryzomys,English
+633227,Colombian Rice Rat,English
+633228,Intermediate Rice Rat,English
+633229,Keays's Oryzomys,English
+633230,Kellogg's Rice Rat,English
+633231,Buffy-sided Oryzomys,English
+633232,Tarija Oryzomys,English
+633233,Nimble-footed Oryzomys,English
+633234,MacConnell's Oryzomys,English
+633235,Black-eared Rice Rat,English
+633236,Nelson's Oryzomys,English
+633237,Elegant Oryzomys,English
+633238,Sowbug Rice Rat,English
+633239,Marañon Oryzomys,English
+633240,Rat-headed Rice Rat,English
+633241,Highland Oryzomys,English
+633242,Long-nosed Oryzomys,English
+633243,Cloud Forest Oryzomys,English
+633244,Flavescent Oryzomys,English
+633245,Transandean Oryzomys,English
+633246,Yellowish Rice Rat,English
+633247,Amazonian Oryzomys,English
+633248,Michoacán Deer Mouse,English
+633249,Yucatán Vesper Rat,English
+633250,Big-eared Climbing Rat,English
+633251,Akodont-like Hocicudo,English
+633252,Angular Hocicudo,English
+633253,Paraguayan Hocicudo,English
+633254,Small Hocicudo,English
+633255,Hispid Hocicudo,English
+633256,Quechuan Hocicudo,English
+633257,Ihering's Hocicudo,English
+633258,Inca Hocicudo,English
+633259,Long-nosed Hocicudo,English
+633260,Yungas Hocicudo,English
+633261,Robert's Hocicudo,English
+633262,Rufous Hocicudo,English
+633263,Aztec Mouse,English
+633264,Perote Deermouse,English
+633265,Burt's Deer Mouse,English
+633266,Dickey's Deermouse,English
+633267,Eva's Desert Mouse,English
+633268,Blackish Deermouse,English
+633269,Big Deer Mouse,English
+633270,La Guarda Deermouse,English
+633271,Guatemalan Deermouse,English
+633272,Naked-eared Deermouse,English
+633273,Hooper's Deermouse,English
+633274,San Lorenzo Deermouse,English
+633275,Nimble-footed Deermouse,English
+633276,Tres Marías Deermouse,English
+633277,Mayan Mouse,English
+633278,Broad-faced Deermouse,English
+633279,Puebla Deermouse,English
+633280,Zempoaltepec Deer Mouse,English
+633281,Plateau Deermouse,English
+633282,Black-tailed Deermouse,English
+633283,Mexican Deermouse,English
+633284,El Carrizo Deermouse,English
 633285,Columbian mouse,English
-633286,Pemberton's deer mouse,English
-633287,marsh mouse,English
-633288,Chihuahuan mouse,English
-633289,false canyon mouse,English
-633290,Santa Cruz mouse,English
-633291,Nayarit mouse,English
-633292,Slevin's mouse,English
-633293,gleaning mouse,English
-633294,San Esteban Island mouse,English
-633295,Stirton's deer mouse,English
-633296,Winkelmann's mouse,English
-633297,Yucatan deer mouse,English
-633298,Chiapan deer mouse,English
-633299,Rio de Janeiro arboreal rat,English
-633300,friendly leaf-eared mouse,English
-633301,Andean leaf-eared mouse,English
+633286,Pemberton's Deermouse,English
+633287,Marsh Mouse,English
+633288,Chihuahuan Deermouse,English
+633289,False Canyon Mouse,English
+633290,Santa Cruz Deermouse,English
+633291,Sinaloan Deermouse,English
+633292,Slevin's Mouse,English
+633293,Gleaning Deermouse,English
+633294,San Esteban Island Mouse,English
+633295,Stirton's Deermouse,English
+633296,Forest Mouse,English
+633297,Yucatán Deermouse,English
+633298,Chiapan Deermouse,English
+633299,Rusty Phaenomys,English
+633300,Peruvian Pericote,English
+633301,Andean Pericote,English
 633302,Buenos Aires leaf-eared mouse,English
-633303,capricorn leaf-eared mouse,English
-633304,Darwin's leaf-eared mouse,English
-633305,definitive leaf-eared mouse,English
-633306,gerbil leaf-eared mouse,English
-633307,Haggard's leaf-eared mouse,English
-633308,master leaf-eared mouse,English
-633309,Osgood's leaf-eared mouse,English
-633310,bunchgrass leaf-eared mouse,English
-633311,Wolffsohn's leaf-eared mouse,English
-633312,yellow-rumped leaf-eared mouse,English
-633313,Roraima mouse,English
-633314,Brazilian false rice rat,English
-633315,puna mouse,English
-633316,bunny rat,English
-633317,short-nosed harvest mouse,English
-633318,Sonoran harvest mouse,English
-633319,volcano harvest mouse,English
-633320,Chiriqui harvest mouse,English
-633321,Darien harvest mouse,English
-633322,slender harvest mouse,English
-633323,hairy harvest mouse,English
-633324,Mexican harvest mouse,English
-633325,small-toothed harvest mouse,English
-633326,Nicaraguan harvest mouse,English
-633327,Rodriguez's harvest mouse,English
-633328,Cozumel harvest mouse,English
-633329,Sumichrast's harvest mouse,English
-633330,narrow-nosed harvest mouse,English
-633331,Zacatecas harvest mouse,English
-633332,Brazilian arboreal mouse,English
-633333,Mexican water mouse,English
-633334,Goldman's water mouse,English
-633335,Thomas's water mouse,English
-633336,Underwood's water mouse,English
-633337,southern climbing mouse,English
-633338,cauca climbing mouse,English
-633339,Coues's climbing mouse,English
-633340,buff-bellied climbing mouse,English
-633341,broad-footed climbing mouse,English
-633342,white-footed climbing mouse,English
-633343,MacConnell's climbing mouse,English
-633344,long-tailed climbing mouse,English
-633345,splendid climbing mouse,English
-633346,yellow-bellied climbing mouse,English
+633303,Capricorn Pericote,English
+633304,Darwin's Pericote,English
+633305,Ancash Pericote,English
+633306,Gerbil Leaf-eared Mouse,English
+633307,Ecuadoran Pericote,English
+633308,Majestic Pericote,English
+633309,Osgood's Pericote,English
+633310,Bunchgrass Pericote,English
+633311,Wolffsohn's Pericote,English
+633312,Yellow-rumped Pericote,English
+633313,Roraima Akodont,English
+633314,False Oryzomys,English
+633315,Western Puna Mouse,English
+633316,Hairy-soled Conyrat,English
+633317,Short-nosed Harvest Mouse,English
+633318,Sonoran Harvest Mouse,English
+633319,Volcano Harvest Mouse,English
+633320,Chiriquí Harvest Mouse,English
+633321,Darien Harvest Mouse,English
+633322,Slender Harvest Mouse,English
+633323,Hairy Harvest Mouse,English
+633324,Mexican Harvest Mouse,English
+633325,Small-toothed Harvest Mouse,English
+633326,Nicaraguan Harvest Mouse,English
+633327,Rodriguez's Harvest Mouse,English
+633328,Cozumel Island Harvest Mouse,English
+633329,Sumichrast's Harvest Mouse,English
+633330,Narrow-nosed Harvest Mouse,English
+633331,Zacatecan Harvest Mouse,English
+633332,Rufescent Rhagomys,English
+633333,Goodwin's Water Mouse,English
+633334,Goldman's Ichthyomyine,English
+633335,Thomas' Water Mouse,English
+633336,Underwood's Ichthyomyine,English
+633337,Southern Andean Rhipidomys,English
+633338,Colombian Rhipidomys,English
+633339,Coues' Rhipidomys,English
+633340,Tawny-bellied Rhipidomys,English
+633341,Broad-footed Rhipidomys,English
+633342,White-footed Rhipidomys,English
+633343,Tepui Rhipidomys,English
+633344,Atlantic Forest Rhipidomys,English
+633345,Guianan Rhipidomys,English
+633346,Buff-bellied Rhipidomys,English
 633347,Mt. Pirri climbing mouse,English
-633348,Venezuelan climbing mouse,English
-633349,charming climbing mouse,English
-633350,Wetzel's climbing mouse,English
-633351,swamp rat,English
-633352,South American spiny mouse,English
-633353,Ucayali spiny mouse,English
-633354,Alston's brown mouse,English
-633355,Chiriqui brown mouse,English
-633356,Allen's cotton rat,English
-633357,Alston's cotton rat,English
-633358,unexpected cotton rat,English
-633359,white-eared cotton rat,English
-633360,Peruvian cotton rat,English
-633361,Jaliscan cotton rat,English
-633362,Alfaro's rice water rat,English
-633363,Harris's rice water rat,English
-633364,Cerrado mouse,English
-633365,hairy-eared Cerrado mouse,English
-633366,golden oldfield mouse,English
-633367,beady-eyed mouse,English
-633368,silky oldfield mouse,English
-633369,ashy-bellied oldfield mouse,English
-633370,ash-colored oldfield mouse,English
-633371,Daphne's oldfield mouse,English
-633372,Peruvian oldfield mouse,English
-633373,slender oldfield mouse,English
-633374,woodland oldfield mouse,English
-633375,Inca oldfield mouse,English
-633376,strong-tailed oldfield mouse,English
-633377,Kalinowski's oldfield mouse,English
-633378,Ladew's oldfield mouse,English
-633379,Butcher oldfield mouse,English
-633380,unicolored oldfield mouse,English
-633381,snow-footed oldfield mouse,English
-633382,distinguished oldfield mouse,English
-633383,montane oldfield mouse,English
-633384,Paramo oldfield mouse,English
-633385,Thomas's oldfield mouse,English
-633386,Rhoads's oldfield mouse,English
-633387,Rosalinda's oldfield mouse,English
-633388,forest oldfield mouse,English
-633389,Taczanowski's oldfield mouse,English
-633390,Dressy oldfield mouse,English
-633391,Chiapan climbing rat,English
-633392,fulvous-bellied climbing rat,English
-633393,Mira climbing rat,English
-633394,Peters's climbing rat,English
-633395,Panamanian climbing rat,English
-633396,Tumbala climbing rat,English
-633397,Watson's climbing rat,English
-633398,red-nosed mouse,English
-633399,greater Wilfred's mouse,English
-633400,lesser Wilfred's mouse,English
-633401,Magdalena rat,English
-633402,short-tailed cane mouse,English
-633403,brown cane mouse,English
+633348,Venezuelan Rhipidomys,English
+633349,Mérida Rhipidomys,English
+633350,Wetzel's Rhipidomys,English
+633351,Uruguay Swamp Rat,English
+633352,Short-nosed Scolomys,English
+633353,Long-nosed Scolomys,English
+633354,Alston's Brown Mouse,English
+633355,Long-tailed Singing Mouse,English
+633356,Allen's Cotton Rat,English
+633357,Alston's Cotton Rat,English
+633358,Ecuadorian Cotton Rat,English
+633359,White-eared Cotton Rat,English
+633360,Peruvian Cotton Rat,English
+633361,Jaliscan Cotton Rat,English
+633362,Short-tailed Sigmodontomys,English
+633363,Long-tailed Sigmodontomys,English
+633364,Cerrado Akodont,English
+633365,Hairy-eared Akodont,English
+633366,Golden Thomasomys,English
+633367,Short-faced Thomasomys,English
+633368,Silky Thomasomys,English
+633369,Ashy-bellied Thomasomys,English
+633370,Olive-gray Thomasomys,English
+633371,Daphne's Thomasomys,English
+633372,Peruvian Thomasomys,English
+633373,Gracile Thomasomys,English
+633374,Woodland Thomasomys,English
+633375,Black-eared Thomasomys,English
+633376,Strong-tailed Oldfield Mouse,English
+633377,Kalinowski's Thomasomys,English
+633378,Ladew's Thomasomys,English
+633379,Soft-furred Thomasomys,English
+633380,Unicolored Thomasomys,English
+633381,White-footed Thomasomys,English
+633382,Dusky-footed Thomasomys,English
+633383,Montane Thomasomys,English
+633384,Páramo Thomasomys,English
+633385,Reddish-backed Thomasomys,English
+633386,Rhoads's Thomasomys,English
+633387,Rosalinda's Thomasomys,English
+633388,Sylvan Thomasomys,English
+633389,Taczanowski's Thomasomys,English
+633390,Mérida Thomasomys,English
+633391,Chiapan Climbing Rat,English
+633392,Fulvous-bellied Climbing Rat,English
+633393,Mira Climbing Rat,English
+633394,Peter's Climbing Rat,English
+633395,Panamá Climbing Rat,English
+633396,Tumbalá Climbing Rat,English
+633397,Watson's Climbing Rat,English
+633398,Red-nosed Wiedomys,English
+633399,Rufous-nosed Wilfredomys,English
+633400,Lesser Wilfred's Mouse,English
+633401,Magdalena Rat,English
+633402,Short-tailed Zygodont,English
+633403,Brown Zygodont,English
+633404,Huanchaca Akodont,English
+633405,Guaporé Akodont,English
 633406,Cosens's gerbil,English
 633413,Coronation Island vole,English
 633481,Cuban Solenodon,English
@@ -89813,3 +90430,430 @@ taxonID,vernacularName,language
 956061,Black spittlebug,English
 956063,Mountain-juniper spittlebug,English
 956108,cyanophytes,French
+970218,Zokors,English
+970222,Lemmings,English
+970254,Sunda Tree Rats,English
+970556,Chinese Zokor,English
+970557,Rothschild's Zokor,English
+970558,Smith's Zokor,English
+970559,Mt Carmel Blind Mole Rat,English
+970560,Palestine Mole Rat,English
+970561,Upper Galilee Mountains Blind Mole Rat,English
+970562,Golan Heights Blind Mole Rat,English
+970563,Judean Mountains Blind Mole Rat,English
+970564,Lesser Mole Rat,English
+970565,Nehring's Blind Mole Rat,English
+970566,Kazakhstan Blind Mole Rat,English
+970567,Kenyan African Mole Rat,English
+970568,Storey's African Mole Rat,English
+970569,Elburz Vesper Mouse,English
+970570,Noble Calomyscus,English
+970571,Southern Giant Pouched Rat,English
+970572,Kivu Giant Pouched Rat,English
+970573,Monard's African Climbing Mouse,English
+970574,Kivu African Climbing Mouse,English
+970575,Bocage's African Fat Mouse,English
+970576,Pousargues's African Fat Mouse,English
+970577,Hairy-tailed Antsangy,English
+970578,Tsingy Tufted-tailed Rat,English
+970579,Ellerman's Tufted-tailed Rat,English
+970580,Grandidier's Tufted-tailed Rat,English
+970581,Petter's Tufted-tailed Rat,English
+970582,Koopman's Montane Voalavo,English
+970583,White-bellied Nesomys,English
+970584,Western Nesomys,English
+970585,Naked-tailed Voalavo,English
+970586,White-tailed Mountain Vole,English
+970587,Lake Baikal Mountain Vole,English
+970588,Eurasian Water Vole,English
+970589,Montane Water Vole,English
+970590,Bucharian Vole,English
+970591,Ganzu Vole,English
+970592,Inez's Red-backed Vole,English
+970593,Kachin Red-backed Vole,English
+970594,Yunnan Red-backed Vole,English
+970595,Ward's Red-backed Vole,English
+970596,Wrangel Island Lemming,English
+970597,Anatolian Vole,English
+970598,Calabria Pine Vole,English
+970599,Clarke's Vole,English
+970600,Dogramaci's Vole,English
+970601,Kazakhstan Vole,English
+970602,Taiwan Vole,English
+970603,East European Vole,English
+970604,Liechtenstein's Pine Vole,English
+970605,Middendorff's Vole,English
+970606,Paradox Vole,English
+970607,Qazvin Vole,English
+970608,Schidlovsky's Vole,English
+970609,Japanese Red-backed Vole,English
+970610,Western Red-backed Vole,English
+970611,Tien Shan Red-backed Vole,English
+970612,Gapper's Red-backed Mouse,English
+970613,Bank Vole,English
+970614,Imaizumi's Red-backed Vole,English
+970615,Royal vole,English
+970616,Hokkaido Red-backed Vole,English
+970617,Large-toothed Redbacked Vole,English
+970618,Northern Red-backed Vole,English
+970619,Shansei Vole,English
+970620,Smith's Red-backed Vole,English
+970621,Forrest's Mountain Vole,English
+970622,Chinese Scrub Vole,English
+970623,Juniper Mountain Vole,English
+970624,Sikkim Vole,English
+970625,Blyth's Mountain Vole,English
+970626,Delicate Deermouse,English
+970627,Ixtlán Deermouse,English
+970628,White-toothed Woodrat,English
+970629,Big-eared Woodrat,English
+970630,Orizaba Deermouse,English
+970631,Northern Baja Deermouse,English
+970632,Southern Wood Mouse,English
+970633,Michoacán Deermouse,English
+970634,Andean Altiplano Mouse,English
+970635,Hershkovitz's Akodont,English
+970636,Gray Grass Mouse,English
+970637,Ornate Akodont,English
+970638,Woolly Grass Mouse,English
+970639,Long-haired Akodont,English
+970640,Markham's Grass Mouse,English
+970641,Olive-colored Akodont,English
+970642,Sanborn's Grass Mouse,English
+970643,Reig's Aepeomys,English
+970644,Diminutive Akodont,English
+970645,Catamarca Akodont,English
+970646,Altiplano Akodont,English
+970647,Montane Akodont,English
+970648,Caparaó Akodont,English
+970649,Monte Akodont,English
+970650,Paraná Akodont,English
+970651,Tarija Akodont,English
+970652,Reig's Akodont,English
+970653,Ucayali Water Rat,English
+970654,Roig's Pericote,English
+970655,White-nosed Akodont,English
+970656,Gray-bellied Akodont,English
+970657,Guaraní Akodont,English
+970658,Red-bellied Akodont,English
+970659,Ihering's Hocicudo,English
+970660,Misiones Akodont,English
+970661,Arroyo of Paradise Akodont,English
+970662,Soricine Akodont,English
+970663,Caatinga Laucha,English
+970664,Tocantins Laucha,English
+970665,Córdoba Laucha,English
+970666,Magellanic Long-clawed Akodont,English
+970667,Las Cajas Ichthyomyine,English
+970668,Montane Delomys,English
+970669,Kemp's Grass Mouse,English
+970670,Central Pericote,English
+970671,Dusky Montane Mouse,English
+970672,White-footed Handley's Mouse,English
+970673,Lesser Wilfred's Mouse,English
+970674,Cleft-headed Juliomys,English
+970675,Southern Big-eared Mouse,English
+970676,Pikumche Pericote,English
+970677,Lund's Amphibious Rat,English
+970678,Galápagos Giant Rat,English
+970679,Transitional Colilargo,English
+970680,Dubost's Neacomys,English
+970681,Minute Neacomys,English
+970682,Musser's Neacomys,English
+970683,Paracou Neacomys,English
+970684,Pleasant Bolo Mouse,English
+970685,Argentine Akodont,English
+970686,Rufous-bellied Bolo Mouse,English
+970687,Hairy-tailed Akodont,English
+970688,Paraguayan Akodont,English
+970689,Dark Bolo Mouse,English
+970690,Ecuadoran Akodont,English
+970691,Temchuk's Bolo Mouse,English
+970692,Northern Akodont,English
+970693,Western Amazonian Nectomys,English
+970694,Magdalena Nectomys,English
+970695,Amazonian Nectomys,English
+970696,Vespucci's Rodent,English
+970697,Guianan Oecomys,English
+970698,Atlantic Forest Oecomys,English
+970699,Brenda's Colilargo,English
+970700,Fornes' Colilargo,English
+970701,Straw-colored Colilargo,English
+970702,Angouya Oryzomys,English
+970703,Costa Central Oryzomys,English
+970704,Curaçao Oryzomys,English
+970705,Emmons' Oryzomys,English
+970706,Atlantic Forest Oryzomys,English
+970707,Maracaju Oryzomys,English
+970708,Marinho's Oryzomys,English
+970709,Azara's Broad-headed Oryzomys,English
+970710,Mérida Oryzomys,English
+970711,Western Amazonian Oryzomys,English
+970712,Russet Oryzomys,English
+970713,Lindbergh's Oryzomys,English
+970714,Seuánez's Oryzomys,English
+970715,Tate's Oryzomys,English
+970716,Yellowish Oryzomys,English
+970717,Amazonian Hocicudo,English
+970718,Mt Caparaó Hocicudo,English
+970719,Atlantic Forest Hocicudo,English
+970720,Cook's Hocicudo,English
+970721,Quaestor Hocicudo,English
+970722,Gerbil Leaf-eared Mouse,English
+970723,Pearson's Long-clawed Akodont,English
+970724,Bonaerense Pericote,English
+970725,Lima Pericote,English
+970726,Eastern Puna Mouse,English
+970727,Naked-soled Conyrat,English
+970728,Long-tongued Rhagomys,English
+970729,Eastern Amazon Rhipidomys,English
+970730,Gardner's Rhipidomys,English
+970731,Long-tailed Rhipidomys,English
+970732,Peruvian Rhipidomys,English
+970733,Delicate Salinomys,English
+970734,Argentine Swamp Rat,English
+970735,Southern Cotton Rat,English
+970736,Miahuatlán Cotton Rat,English
+970737,Toltec Cotton Rat,English
+970738,Montane Cotton Rat,English
+970739,Primordial Tapecua,English
+970740,Blackish Grass Mouse,English
+970741,Apeco Thomasomys,English
+970742,White-tipped Thomasomys,English
+970743,Cinnamon-colored Thomasomys,English
+970744,Wandering Thomasomys,English
+970745,Hudson's Thomaomys,English
+970746,Long-tailed Thomasomys,English
+970747,Large-eared Thomasomys,English
+970748,Ashaninka Thomasomys,English
+970749,Popayán Thomasomys,English
+970750,Cajamarca Thomasomys,English
+970751,Ucucha Thomasomys,English
+970752,Pichincha Thomasomys,English
+970753,Western Saharan Spiny mouse,English
+970754,Northeast African Spiny Mouse,English
+970755,Chudeau's Spiny Mouse,English
+970756,Gray Spiny Mouse,English
+970757,Eastern Spiny Mouse,English
+970758,Johan's Spiny Mouse,English
+970759,Seurat's Spiny Mouse,English
+970760,Dark-colored Brush-furred Rat,English
+970761,Angolan Brush-furred Rat,English
+970762,Ansorge's Brush-furred Rat,English
+970763,Short-tailed Brush-furred Rat,English
+970764,Thomas's Ethiopian Brush-furred Rat,English
+970765,Ethiopian Forest Brush-furred Rat,English
+970766,Mount Oku Brush-furred Rat,English
+970767,Dudu's Brush-furred Rat,English
+970768,Mount Lefo Brush-furred Rat,English
+970769,Hutterer's Brush-furred Rat,English
+970770,Mount Cameroon Brush-furred Rat,English
+970771,Verhagen's Brush-furred Rat,English
+970772,Zena's Brush-furred Rat,English
+970773,Botta's Gerbil,English
+970774,North African Dipodil,English
+970775,Wagner's Gerbil,English
+970776,Harwood's Dipodil,English
+970777,James's Gerbil,English
+970778,Lowe's Dipodil,English
+970779,Mackilligin's Dipodil,English
+970780,Greater Short-tailed Gerbil,English
+970781,Rupicolous Dipodil,English
+970782,Lesser Short-tailed Gerbil,English
+970783,Somalian Dipodil,English
+970784,Khartoum Gerbil,English
+970785,Kerkennah Islands Dipodil,English
+970786,Cape Gerbil,English
+970787,Boehm's Gerbil,English
+970788,Highveld Gerbil,English
+970789,Guinea Gerbil,English
+970790,Gorongoza Gerbil,English
+970791,Northern Savanna Gerbil,English
+970792,Bushveld Gerbil,English
+970793,Black-tailed Gerbil,English
+970794,Phillip's Gerbil,English
+970795,Fringe-tailed Gerbil,English
+970796,Savanna Gerbil,English
+970797,Moroccan Jird,English
+970798,Tranieri's Tateril,English
+970799,Büttner's African Forest Mouse,English
+970800,Papuan Abeomelomys,English
+970801,Tete Veld Aethomys,English
+970802,Western Broad-toothed Field Mouse,English
+970803,Himalayan Field Mouse,English
+970804,Steppe Field Mouse,English
+970805,Large Mindoro Apomys,English
+970806,Mindanao Mossy Forest Apomys,English
+970807,Sierra Madre Shrew Mouse,English
+970808,Sudanian Arvicanthis,English
+970809,African Arvicanthis,English
+970810,Guinean Arvicanthis,English
+970811,Russet Batomys,English
+970812,Camiguin Bullimus,English
+970813,Blazed Luzon Chrotomys,English
+970814,Panay Crateromys,English
+970815,Katanglad Shrew Mouse,English
+970816,Glover Allen's Dasymys,English
+970817,Crawford-Cabral's Dasymys,English
+970818,Rwandan Dasymys,English
+970819,Tanzanian Dasymys,English
+970820,Ivory Coast Dephomys,English
+970821,Yalden's Desmomys,English
+970822,Ryukyu Islands Tree Rat,English
+970823,Central Sulawesi Echiothrix,English
+970824,Eastern Rainforest Grammomys,English
+970825,Western Rainforest Grammomys,English
+970826,Yunnan Hadromys,English
+970827,Cameroon Highland Hybomys,English
+970828,New Britain Water Rat,English
+970829,Mount Oku Hylomyscus,English
+970830,Heuglin's Lemniscomys,English
+970831,Sundaic Mountain Leopoldamys,English
+970832,Millet's Leopoldamys,English
+970833,Gray-bellied Limnomys,English
+970834,Blanford's Rat,English
+970835,Highland Mammelomys,English
+970836,Lowland Mammelomys,English
+970837,Broad-toothed Mastacomys,English
+970838,Awash Mastomys,English
+970839,Hubert's Mastomys,English
+970840,Kollmannsperger's Mastomys,English
+970841,Rossel Island Melomys,English
+970842,Great Key Island Melomys,English
+970843,Short-tailed Talaud Melomys,English
+970844,Yamdena Island Melomys,English
+970845,Dollman's Melomys,English
+970846,Snow Mountains Grassland Melomys,English
+970847,Seram Long-tailed Melomys,English
+970848,Riama Island Melomys,English
+970849,Papua Grassland Melomys,English
+970850,Manus Island Melomys,English
+970851,Pavel's Seram Melomys,English
+970852,Long-tailed Talaud Melomys,English
+970853,Grant's Micaelamys,English
+970854,Namaqua Micaelamys,English
+970855,Sheath-Tailed Mouse,English
+970857,Ethiopian Mylomys,English
+970858,Angolan Myomyscus,English
+970859,Brockman's Myomyscus,English
+970860,Verreaux's White-footed Rat,English
+970861,Yemen White-footed Rat,English
+970862,Seram Island Mountain Rat,English
+970863,Ethiopian Amphibious Rat,English
+970864,Cameron Highlands Niviventer,English
+970865,Spiny Taiwan Niviventer,English
+970866,Montane Sumatran Niviventer,English
+970867,Gressitt's Paramelomys,English
+970868,Papuan Lowland Paramelomys,English
+970869,Lorentz's Paramelomys,English
+970870,Montane Soft-furred Paramelomys,English
+970871,Monckton's Paramelomys,English
+970872,Long-nosed Paramelomys,English
+970873,Common Lowland Paramelomys,English
+970874,Mountain Paramelomys,English
+970875,Stein's Paramelomys,English
+970876,Javan Pithecheir,English
+970877,Bornean Pithecheirops,English
+970878,D'Entrecasteaux Archipelago Pogonomys,English
+970879,Dalton's Praomys,English
+970880,De Graaff's Praomys,English
+970881,Deroo's Praomys,English
+970882,Lukolela Praomys,English
+970883,Gotel Mountain Praomys,English
+970884,Petter's Praomys,English
+970885,Verschuren's Praomys,English
+970886,Papuan Protochromys,English
+970887,Shaw Mayer's Shrew Mouse,English
+970888,Mottled-tailed Shrew Mouse,English
+970889,Kakadu Pebble-mound Pseudomys,English
+970890,Indochinese Forest Rat,English
+970891,Vogelkop Mountain Rat,English
+970892,Western New Guinea Mountain Rat,English
+970893,Aceh Rat,English
+970894,Eastern New Guinea Mountain Rat,English
+970895,Arianus' New Guinea Mountain Rat,English
+970896,Pocock's New Guinea Highland Rat,English
+970897,Himalayan Rat,English
+970898,Richardson's New Guinea Mountain Rat,English
+970899,Southeastern Xanthurus Rat,English
+970900,Van Deusen's New Guinea Mountain Rat,English
+970901,New Guinea slender Rat,English
+970902,Mesic Four-striped Grass Rat,English
+970903,Tyrrhenian Field Rat,English
+970904,Sommer's Sulawesi Rat,English
+970905,White-footed Stenocephalemys,English
+970906,Rupp's Stenocephalemys,English
+970907,Small-eared Taeromys,English
+970908,Hatt's Thamnomys,English
+970909,Biak Island Uromys,English
+970910,Emma's Uromys,English
+970911,New Britain Island Uromys,English
+970912,Great Key Island Uromys,English
+970913,Nilgiri Vandeleuria,English
+970914,Sloggett's Vlei Rat,English
+970915,Bush Karroo Rat,English
+970916,Barbour's Vlei Rat,English
+970917,Burton's Vlei Rat,English
+970918,Cuanza Vlei Rat,English
+970919,Ruwenzori Vlei Rat,English
+970920,Dollman's Vlei Rat,English
+970921,Mount Elgon Vlei Rat,English
+970922,Tanzanian Vlei Rat,English
+970923,Afroalpine Vlei Rat,English
+970924,Uzungwe Vlei Rat,English
+971758,Iran Gerbil,English
+972444,Sahyadris Forest Rat,English
+972453,Spiny Boki Mekot Rat,English
+972457,Yellowish Rice Rat,English
+972458,Galapagos Rice Rat,English
+972459,Maracaju Oryzomys,English
+972460,Marinho's Oryzomys,English
+972461,Lindbergh's Oryzomys,English
+972462,Terraced Rice Rat,English
+972463,Gray Rice Rat,English
+972467,Elegant Oryzomys,English
+972468,Emmons' Oryzomys,English
+972469,Monster Rice Rat,English
+972470,MacConnell's Rice Rat,English
+972471,Tarija Oryzomys,English
+972472,Russet Oryzomys,English
+972473,Bishop Moss-mouse,English
+972474,Laurie's Moss-mouse,English
+972475,Woolley's Moss-mouse,English
+972476,Torricelli Mountains Shrew Mouse,English
+972477,White-bellied Moss-mouse,English
+972480,Southern Small-toothed Moss-mouse,English
+972481,Huon Small-toothed Moss-mouse,English
+972482,Mirza's Western Moss-Rat,English
+972483,Mirza's Eastern Moss-rat,English
+972486,Yungas rice rat,English
+972487,Tate's Oryzomys,English
+972488,Western Amazonian Oryzomys,English
+972489,Sowbug Rice Rat,English
+972490,Atlantic Forest Oryzomys,English
+972491,Azara's Broad-headed Oryzomys,English
+972492,Hammond's Rice Rat,English
+972493,Tomes's Rice Rat,English
+972494,Ecuadorean Rice Rat,English
+972495,Costa Central Oryzomys,English
+972496,Nimble-footed Oryzomys,English
+972498,Mérida Oryzomys,English
+972501,Boquete Rice Rat,English
+972502,Keays's Rice Rat,English
+972506,Peruvian Rice Rat,English
+972507,Angouya Oryzomys,English
+972508,Bolivar Rice Rat,English
+972509,Transandean Oryzomys,English
+972510,Cordillera Archboldomys,English
+972513,Sierra Madre Shrew Mouse,English
+972514,Southern Cordillera Shrew Mouse,English
+972521,Ecuadorean Grass Mouse,English
+972522,Bogota Grass Mouse,English
+972525,southern groovetoothed moss-mouse,English
+972544,Cheesman's Vlei Rat,English
+972549,Simien Vlei Rat,English
+972551,Yalden's Vei Rat,English
+972563,Plateau Swamp Rat,English
+973534,Gurgan Gerbil,English
+973559,Elburz Giant Gerbil,English
+974226,East African Spring Hare,English
