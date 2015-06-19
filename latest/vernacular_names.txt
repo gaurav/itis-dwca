@@ -21545,6 +21545,233 @@ taxonID,vernacularName,language
 64358,poliqueto,Portuguese
 68396,bristle-footed annelids,English
 68422,oligoqueto,Portuguese
+68439,aquatic oligochaete worm,English
+68440,aquatic oligochaete worm,English
+68441,aquatic oligochaete worm,English
+68444,aquatic oligochaete worm,English
+68447,aquatic oligochaete worm,English
+68449,aquatic oligochaete worm,English
+68450,aquatic oligochaete worm,English
+68451,aquatic oligochaete worm,English
+68452,aquatic oligochaete worm,English
+68454,aquatic oligochaete worm,English
+68455,aquatic oligochaete worm,English
+68456,aquatic oligochaete worm,English
+68459,aquatic oligochaete worm,English
+68460,aquatic oligochaete worm,English
+68461,aquatic oligochaete worm,English
+68462,aquatic oligochaete worm,English
+68463,aquatic oligochaete worm,English
+68465,aquatic oligochaete worm,English
+68466,aquatic oligochaete worm,English
+68467,aquatic oligochaete worm,English
+68468,aquatic oligochaete worm,English
+68469,aquatic oligochaete worm,English
+68470,aquatic oligochaete worm,English
+68471,aquatic oligochaete worm,English
+68472,aquatic oligochaete worm,English
+68473,aquatic oligochaete worm,English
+68474,aquatic oligochaete worm,English
+68476,aquatic oligochaete worm,English
+68478,aquatic oligochaete worm,English
+68479,aquatic oligochaete worm,English
+68480,aquatic oligochaete worm,English
+68482,aquatic oligochaete worm,English
+68483,aquatic oligochaete worm,English
+68484,aquatic oligochaete worm,English
+68498,aquatic oligochaete worm,English
+68502,American mudworm,English
+68504,aquatic oligochaete worm,English
+68505,aquatic oligochaete worm,English
+68507,aquatic oligochaete worm,English
+68588,aquatic oligochaete worm,English
+68601,aquatic oligochaete worm,English
+68606,aquatic oligochaete worm,English
+68608,aquatic oligochaete worm,English
+68610,aquatic oligochaete worm,English
+68612,aquatic oligochaete worm,English
+68617,aquatic oligochaete worm,English
+68619,aquatic oligochaete worm,English
+68621,aquatic oligochaete worm,English
+68622,aquatic oligochaete worm,English
+68623,aquatic oligochaete worm,English
+68631,aquatic oligochaete worm,English
+68633,aquatic oligochaete worm,English
+68635,aquatic oligochaete worm,English
+68638,aquatic oligochaete worm,English
+68639,aquatic oligochaete worm,English
+68644,aquatic oligochaete worm,English
+68648,aquatic oligochaete worm,English
+68649,aquatic oligochaete worm,English
+68652,aquatic oligochaete worm,English
+68653,aquatic oligochaete worm,English
+68657,aquatic oligochaete worm,English
+68658,aquatic oligochaete worm,English
+68659,aquatic oligochaete worm,English
+68660,aquatic oligochaete worm,English
+68662,aquatic oligochaete worm,English
+68667,aquatic oligochaete worm,English
+68668,aquatic oligochaete worm,English
+68671,aquatic oligochaete worm,English
+68679,aquatic oligochaete worm,English
+68680,aquatic oligochaete worm,English
+68682,aquatic oligochaete worm,English
+68683,aquatic oligochaete worm,English
+68684,aquatic oligochaete worm,English
+68686,aquatic oligochaete worm,English
+68745,aquatic oligochaete worm,English
+68746,aquatic oligochaete worm,English
+68751,aquatic oligochaete worm,English
+68752,aquatic oligochaete worm,English
+68753,aquatic oligochaete worm,English
+68754,aquatic oligochaete worm,English
+68756,aquatic oligochaete worm,English
+68757,aquatic oligochaete worm,English
+68758,aquatic oligochaete worm,English
+68759,aquatic oligochaete worm,English
+68760,aquatic oligochaete worm,English
+68778,aquatic oligochaete worm,English
+68779,aquatic oligochaete worm,English
+68780,aquatic oligochaete worm,English
+68781,aquatic oligochaete worm,English
+68782,aquatic oligochaete worm,English
+68783,aquatic oligochaete worm,English
+68786,aquatic oligochaete worm,English
+68787,aquatic oligochaete worm,English
+68789,aquatic oligochaete worm,English
+68790,aquatic oligochaete worm,English
+68791,aquatic oligochaete worm,English
+68792,aquatic oligochaete worm,English
+68795,aquatic oligochaete worm,English
+68796,aquatic oligochaete worm,English
+68804,aquatic oligochaete worm,English
+68807,aquatic oligochaete worm,English
+68808,aquatic oligochaete worm,English
+68809,aquatic oligochaete worm,English
+68810,aquatic oligochaete worm,English
+68812,aquatic oligochaete worm,English
+68813,aquatic oligochaete worm,English
+68815,aquatic oligochaete worm,English
+68816,aquatic oligochaete worm,English
+68817,aquatic oligochaete worm,English
+68818,aquatic oligochaete worm,English
+68819,aquatic oligochaete worm,English
+68820,aquatic oligochaete worm,English
+68839,aquatic oligochaete worm,English
+68840,aquatic oligochaete worm,English
+68842,aquatic oligochaete worm,English
+68844,aquatic oligochaete worm,English
+68846,aquatic oligochaete worm,English
+68851,aquatic oligochaete worm,English
+68854,aquatic oligochaete worm,English
+68855,aquatic oligochaete worm,English
+68856,aquatic oligochaete worm,English
+68859,aquatic oligochaete worm,English
+68860,aquatic oligochaete worm,English
+68862,aquatic oligochaete worm,English
+68863,aquatic oligochaete worm,English
+68865,aquatic oligochaete worm,English
+68866,aquatic oligochaete worm,English
+68868,aquatic oligochaete worm,English
+68869,aquatic oligochaete worm,English
+68871,aquatic oligochaete worm,English
+68872,aquatic oligochaete worm,English
+68873,aquatic oligochaete worm,English
+68876,aquatic oligochaete worm,English
+68877,aquatic oligochaete worm,English
+68878,aquatic oligochaete worm,English
+68879,aquatic oligochaete worm,English
+68880,aquatic oligochaete worm,English
+68883,aquatic oligochaete worm,English
+68887,aquatic oligochaete worm,English
+68891,aquatic oligochaete worm,English
+68892,aquatic oligochaete worm,English
+68893,aquatic oligochaete worm,English
+68894,aquatic oligochaete worm,English
+68895,aquatic oligochaete worm,English
+68896,aquatic oligochaete worm,English
+68898,aquatic oligochaete worm,English
+68900,aquatic oligochaete worm,English
+68902,aquatic oligochaete worm,English
+68903,aquatic oligochaete worm,English
+68904,aquatic oligochaete worm,English
+68907,aquatic oligochaete worm,English
+68912,aquatic oligochaete worm,English
+68915,aquatic oligochaete worm,English
+68920,aquatic oligochaete worm,English
+68922,aquatic oligochaete worm,English
+68923,aquatic oligochaete worm,English
+68924,aquatic oligochaete worm,English
+68925,aquatic oligochaete worm,English
+68934,aquatic oligochaete worm,English
+68935,aquatic oligochaete worm,English
+68938,aquatic oligochaete worm,English
+68939,aquatic oligochaete worm,English
+68943,aquatic oligochaete worm,English
+68945,aquatic oligochaete worm,English
+68946,aquatic oligochaete worm,English
+68947,aquatic oligochaete worm,English
+68949,aquatic oligochaete worm,English
+68950,aquatic oligochaete worm,English
+68952,aquatic oligochaete worm,English
+68954,aquatic oligochaete worm,English
+68956,aquatic oligochaete worm,English
+68957,aquatic oligochaete worm,English
+68959,aquatic oligochaete worm,English
+68960,aquatic oligochaete worm,English
+68961,aquatic oligochaete worm,English
+68962,aquatic oligochaete worm,English
+68963,aquatic oligochaete worm,English
+68964,aquatic oligochaete worm,English
+68967,aquatic oligochaete worm,English
+68968,aquatic oligochaete worm,English
+68970,aquatic oligochaete worm,English
+68975,aquatic oligochaete worm,English
+68976,aquatic oligochaete worm,English
+68979,aquatic oligochaete worm,English
+68980,aquatic oligochaete worm,English
+68981,aquatic oligochaete worm,English
+68982,aquatic oligochaete worm,English
+68984,aquatic oligochaete worm,English
+68985,aquatic oligochaete worm,English
+68987,aquatic oligochaete worm,English
+68988,aquatic oligochaete worm,English
+68989,aquatic oligochaete worm,English
+68990,aquatic oligochaete worm,English
+68992,aquatic oligochaete worm,English
+68993,aquatic oligochaete worm,English
+68994,aquatic oligochaete worm,English
+68995,aquatic oligochaete worm,English
+68996,aquatic oligochaete worm,English
+69001,aquatic oligochaete worm,English
+69002,aquatic oligochaete worm,English
+69003,aquatic oligochaete worm,English
+69004,aquatic oligochaete worm,English
+69009,aquatic oligochaete worm,English
+69010,aquatic oligochaete worm,English
+69015,aquatic oligochaete worm,English
+69017,aquatic oligochaete worm,English
+69018,aquatic oligochaete worm,English
+69020,aquatic oligochaete worm,English
+69021,aquatic oligochaete worm,English
+69022,aquatic oligochaete worm,English
+69023,aquatic oligochaete worm,English
+69024,aquatic oligochaete worm,English
+69025,aquatic oligochaete worm,English
+69026,aquatic oligochaete worm,English
+69027,aquatic oligochaete worm,English
+69028,aquatic oligochaete worm,English
+69029,aquatic oligochaete worm,English
+69030,aquatic oligochaete worm,English
+69031,aquatic oligochaete worm,English
+69041,aquatic oligochaete worm,English
+69042,aquatic oligochaete worm,English
+69043,aquatic oligochaete worm,English
+69045,aquatic oligochaete worm,English
+69048,aquatic oligochaete worm,English
+69051,aquatic oligochaete worm,English
+69168,branchiobdellidans,English
+69169,crayfish worms,English
 69290,sangue suga,Portuguese
 69458,mollusks,English
 69459,lesma,Portuguese
@@ -41545,6 +41772,7 @@ taxonID,vernacularName,language
 180723,peccaries,English
 180724,peccaries,English
 180725,Pecari de collar,Spanish
+181113,aquatic oligochaete worm,English
 181129,nursery web spiders,English
 181130,fishing spiders,English
 181151,coral gall crab,English
@@ -42945,6 +43173,8 @@ taxonID,vernacularName,language
 185480,Gerrard's aristea,English
 185486,Maguey áspero,Spanish
 185494,bamboo orchid,English
+185551,aquatic oligochaete worm,English
+185553,aquatic oligochaete worm,English
 185556,stealthy ground spiders,English
 185802,parson spider,English
 185829,Kauai cave amphipod,English
@@ -65470,6 +65700,7 @@ taxonID,vernacularName,language
 555619,Western Bronze-naped Pigeon,English
 555621,Lemon Dove,English
 555622,Adamawa Turtle Dove,English
+555636,aquatic oligochaete worm,English
 555652,big-eared bats,English
 555653,wisent,English
 555654,long-beaked saddleback dolphin,English
@@ -76745,7 +76976,7 @@ taxonID,vernacularName,language
 632240,Norfolk Island Freetailed Bat,English
 632241,Roberts's flat-headed bat,English
 632242,Incan Little Mastiff Bat,English
-632243,Southern Free-tailed Bat,English
+632243,South-eastern free-tailed bat,English
 632244,Peters's flat-headed bat,English
 632245,Daubenton's Winged-mouse Bat,English
 632246,Bini Winged-mouse Bat,English
@@ -90857,3 +91088,143 @@ taxonID,vernacularName,language
 973534,Gurgan Gerbil,English
 973559,Elburz Giant Gerbil,English
 974226,East African Spring Hare,English
+974244,Inland free-tailed bat,English
+974245,South-western free-tailed bat,English
+974246,Northern free-tailed bat,English
+974247,Eastern free-tailed bat,English
+974248,North-western free-tailed bat,English
+974249,Cape York free-tailed bat,English
+974252,aquatic oligochaete worm,English
+974261,aquatic oligochaete worm,English
+974284,aquatic oligochaete worm,English
+974285,aquatic oligochaete worm,English
+974286,aquatic oligochaete worm,English
+974287,aquatic oligochaete worm,English
+974288,aquatic oligochaete worm,English
+974289,aquatic oligochaete worm,English
+974297,aquatic oligochaete worm,English
+974298,aquatic oligochaete worm,English
+974299,aquatic oligochaete worm,English
+974300,aquatic oligochaete worm,English
+974301,aquatic oligochaete worm,English
+974302,aquatic oligochaete worm,English
+974303,aquatic oligochaete worm,English
+974304,aquatic oligochaete worm,English
+974305,aquatic oligochaete worm,English
+974306,aquatic oligochaete worm,English
+974307,aquatic oligochaete worm,English
+974308,aquatic oligochaete worm,English
+974309,aquatic oligochaete worm,English
+974310,aquatic oligochaete worm,English
+974724,aquatic oligochaete worm,English
+974725,aquatic oligochaete worm,English
+974726,aquatic oligochaete worm,English
+974727,aquatic oligochaete worm,English
+974728,aquatic oligochaete worm,English
+974729,aquatic oligochaete worm,English
+974730,aquatic oligochaete worm,English
+974731,aquatic oligochaete worm,English
+974732,aquatic oligochaete worm,English
+974733,aquatic oligochaete worm,English
+974734,aquatic oligochaete worm,English
+974735,aquatic oligochaete worm,English
+974736,aquatic oligochaete worm,English
+974737,aquatic oligochaete worm,English
+974738,aquatic oligochaete worm,English
+974739,aquatic oligochaete worm,English
+974740,aquatic oligochaete worm,English
+974741,aquatic oligochaete worm,English
+974742,aquatic oligochaete worm,English
+974743,aquatic oligochaete worm,English
+974744,aquatic oligochaete worm,English
+974745,aquatic oligochaete worm,English
+974746,aquatic oligochaete worm,English
+974747,aquatic oligochaete worm,English
+974748,aquatic oligochaete worm,English
+974749,aquatic oligochaete worm,English
+974750,aquatic oligochaete worm,English
+974751,aquatic oligochaete worm,English
+974752,aquatic oligochaete worm,English
+974753,aquatic oligochaete worm,English
+974754,aquatic oligochaete worm,English
+974755,aquatic oligochaete worm,English
+974756,aquatic oligochaete worm,English
+974757,aquatic oligochaete worm,English
+974758,aquatic oligochaete worm,English
+974759,aquatic oligochaete worm,English
+974760,aquatic oligochaete worm,English
+974761,aquatic oligochaete worm,English
+974762,aquatic oligochaete worm,English
+974763,aquatic oligochaete worm,English
+974764,aquatic oligochaete worm,English
+974765,aquatic oligochaete worm,English
+974766,aquatic oligochaete worm,English
+974767,aquatic oligochaete worm,English
+974768,aquatic oligochaete worm,English
+974769,aquatic oligochaete worm,English
+974770,aquatic oligochaete worm,English
+974771,aquatic oligochaete worm,English
+974772,aquatic oligochaete worm,English
+974773,aquatic oligochaete worm,English
+974774,aquatic oligochaete worm,English
+974775,aquatic oligochaete worm,English
+974776,aquatic oligochaete worm,English
+974777,aquatic oligochaete worm,English
+974778,aquatic oligochaete worm,English
+974779,aquatic oligochaete worm,English
+974780,aquatic oligochaete worm,English
+974781,aquatic oligochaete worm,English
+974782,aquatic oligochaete worm,English
+974783,aquatic oligochaete worm,English
+974784,aquatic oligochaete worm,English
+974785,aquatic oligochaete worm,English
+974786,aquatic oligochaete worm,English
+974787,aquatic oligochaete worm,English
+974788,aquatic oligochaete worm,English
+974789,aquatic oligochaete worm,English
+974790,aquatic oligochaete worm,English
+974791,aquatic oligochaete worm,English
+974792,aquatic oligochaete worm,English
+974793,aquatic oligochaete worm,English
+974794,aquatic oligochaete worm,English
+974795,aquatic oligochaete worm,English
+974796,aquatic oligochaete worm,English
+974797,aquatic oligochaete worm,English
+974798,aquatic oligochaete worm,English
+974799,aquatic oligochaete worm,English
+974800,aquatic oligochaete worm,English
+974801,aquatic oligochaete worm,English
+974862,green worm,English
+974915,small-tailed worm,English
+975026,Japanese jumper,English
+975106,Chinese jumper,English
+975592,bowcrow worm,English
+975609,mottled worm,English
+975612,European mudworm,English
+975613,blackhead worm,English
+975626,pink soilworm,English
+975634,southern worm,English
+975635,Canadian worm,English
+975752,American barkworm,English
+975755,American fatworm,English
+975999,octagonal-tail worm,English
+976034,European barkworm,English
+976301,Florida gruntworm,English
+976319,Mississippi gruntworm,English
+976620,English redworm,English
+976647,squaretail worm,English
+976648,Carolina worm,English
+976649,American grey soil worm,English
+976778,African red,English
+977374,chestnut worm,English
+977376,Quebec worm,English
+977383,red marshworms,English
+977384,dew worm,English
+978352,woodland blue worm,English
+978356,woodland white worm,English
+979281,Celtic worm,English
+979795,pasture worm,English
+979798,European greenhouse worm,English
+979799,zebra worm,English
+979817,Japanese jumper,English
+979819,Chinese jumper,English
