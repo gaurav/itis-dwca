@@ -1,0 +1,3 @@
+June 04, 2015
+version_itisMySQL060415
+Extracted from version_itisMySQL060415 on June 18, 2015
