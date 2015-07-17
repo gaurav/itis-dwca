@@ -45064,6 +45064,7 @@ taxonID,vernacularName,language
 198382,kanab ambersnail,Common name
 198384,manus island tree snail,Common name
 198386,shiny pigtoe,English
+198390,Ouachita rock pocketbook,English
 198391,Nicklin's pearly mussel,English
 198394,tan riffleshell,English
 198961,Tooth Cave pseudoscorpion,English
@@ -87654,6 +87655,10 @@ taxonID,vernacularName,language
 906926,orange-nacre mucket,English
 906927,shiny-rayed pocketbook,English
 906928,Cumberland Papershell,English
+906929,round ebonyshell,English
+906930,tapered pigtoe,English
+906931,Coosa creekshell,English
+906951,false spike,English
 906954,Texas lilliput,English
 907283,nightblooming cereus,English
 907705,Peach Springs cholla,English
@@ -91228,3 +91233,30 @@ taxonID,vernacularName,language
 979799,zebra worm,English
 979817,Japanese jumper,English
 979819,Chinese jumper,English
+983594,Choctaw bean,English
+983597,pheasantshell,English
+983598,mucket,English
+983599,Haddleton lampmussel,English
+983600,Ouachita creekshell,English
+983601,wartyback,English
+983610,Cumberland pigtoe,English
+983628,sculptured pigtoe,English
+983629,smooth pimpleback,English
+983630,golden orb,English
+983631,Alabama orb,English
+983632,Rio Grande monkeyface,English
+983763,northern riffleshell,English
+983771,flat floater,English
+983772,Apalachicola floater,English
+983773,barrel floater,English
+983774,alewife floater,English
+983775,Texas pimpleback,English
+983846,spectaclecase,English
+984063,stirrup shell,English
+984064,Appalachian monkeyface,English
+984065,Cumberland monkeyface,English
+984067,monkeyface,English
+984076,purple pigtoe,English
+984077,purple pimpleback,English
+984078,pimpleback,English
+984079,rabbitsfoot,English
