@@ -29501,18 +29501,43 @@ taxonID,vernacularName,language
 156755,brachiopodes,French
 156857,ouriço do mar,Portuguese
 156858,star fishes,English
-156862,starfishes,English
+156862,estrella de mar,Spanish
 156868,lined sea star,English
-156880,nine-armed sea star,Common name
+156880,nine-armed sea star,English
 156903,two-spined star fish,English
 156905,royal sea star,English
+156909,sand star,English
 157043,cushioned star,English
 157051,common comet star,English
-157055,guilding's star,English
-157124,common blunt armed sea star,Common name
-157125,hartmeter's blunt armed sea star,Common name
-157185,small-spine sea star,Common name
-157187,spiny sea star,Common name
+157055,Guilding's star,English
+157056,estrella púrpura,Spanish
+157062,sun stars,English
+157066,crachat d'amiral,Spanish
+157067,crachat d'amiral,Spanish
+157076,purple sun star,English
+157107,slime stars,English
+157120,cushion stars,English
+157123,estrella de capitán,Spanish
+157124,common blunt armed sea star,English
+157125,Hartmeter's blunt armed sea star,English
+157130,pata de ganso,Spanish
+157138,Garlic Star,English
+157139,Leather star,English
+157145,red cushion star,English
+157165,étoile de cuir boréale,Spanish
+157173,Bloody Henry starfish,English
+157183,red starfish,English
+157185,small-spine sea star,English
+157187,spiny sea star,English
+157191,Crown of Thorns Starfish,English
+157194,crown-of-thorns,English
+157252,pink stars,English
+157253,ochre stars,English
+157273,Sunflower Star,English
+157274,Sunflower Star,English
+157289,estrella espinosa común,Spanish
+157293,blue spiny starfish,English
+157295,rosy starfish,English
 157325,snake stars,English
 157329,euryhaline brittle stars,English
 157339,slimy brittle star,Common name
@@ -91260,3 +91285,15 @@ taxonID,vernacularName,language
 984077,purple pimpleback,English
 984078,pimpleback,English
 984079,rabbitsfoot,English
+988842,sea daisy,English
+988907,seven rayed star,English
+989460,estrella de mar anaranjada,Spanish
+989468,estrella de capitán pequeña,Spanish
+989473,common blunt armed sea star,English
+989474,Hartmeter's blunt armed sea star,English
+989799,cushion star,English
+990009,Luzon seastar,English
+990022,banded bubble star,English
+990183,estrella de mar lisa,Spanish
+990320,azure sea star,English
+990516,reef starfish,English
