@@ -21540,7 +21540,7 @@ taxonID,vernacularName,language
 59467,quinorrinco,Portuguese
 59490,nematóide,Portuguese
 64183,hair worms,English
-64238,acantocéfalo,Portuguese
+64238,thorny-headed worms,English
 64357,sanguessuga,Portuguese
 64358,poliqueto,Portuguese
 68396,bristle-footed annelids,English
@@ -40734,6 +40734,12 @@ taxonID,vernacularName,language
 179234,Jilguero dominico,Spanish
 179235,Oriental Greenfinch,English
 179236,chardonneret jaune,French
+179238,Arctic Redpoll,English
+179241,Common Redpoll,English
+179246,Pine Siskin,English
+179249,American Goldfinch,English
+179254,Lesser Goldfinch,English
+179257,Lawrence's Goldfinch,English
 179258,Crossbills,English
 179259,Picotuerto rojo,Spanish
 179268,Two-barred Crossbill,English
@@ -40749,6 +40755,9 @@ taxonID,vernacularName,language
 179313,Savannah Sparrows,English
 179314,bruant des prés,French
 179315,Ipswich Sparrow,English
+179319,Dwarf Savannah Sparrow,English
+179321,Aleutian Savannah Sparrow,English
+179330,Large-billed Sparrow,English
 179332,Grassland Sparrows,English
 179333,Gorrión chapulín,Spanish
 179335,Florida Grasshopper Sparrow,English
@@ -40781,6 +40790,7 @@ taxonID,vernacularName,language
 179435,Gorrión ceja blanca,Spanish
 179439,bruant des plaines,French
 179440,Gorrión de Brewer,Spanish
+179441,Timberline Sparrow,English
 179443,bruant des champs,French
 179446,Gorrión de Worthen,Spanish
 179448,Gorrión barba negra,Spanish
@@ -40790,7 +40800,7 @@ taxonID,vernacularName,language
 179461,Gorrión corona dorada,Spanish
 179462,bruant à gorge blanche,French
 179463,Fox Sparrows,English
-179464,Gorrión rascador,Spanish
+179464,Red Fox Sparrow,English
 179480,Yolla Bolly Fox Sparrow,English
 179483,Song Sparrows,English
 179484,bruant de Lincoln,French
@@ -40849,7 +40859,7 @@ taxonID,vernacularName,language
 179577,Palilas,Common name
 179578,Palila,English
 179579,'Akepas,Common name
-179580,Akepa,English
+179580,Honeycreeper,English
 179581,Po'o'ulis,Common name
 179582,Poo-uli,English
 179583,Oreomystine Creepers,English
@@ -40865,8 +40875,8 @@ taxonID,vernacularName,language
 179593,Maui Parrotbill,English
 179594,'O'us,Common name
 179596,Koa-Finches,English
-179597,Lesser Koa-Finch,English
-179598,Greater Koa-Finch,English
+179597,Lesser Koa Finch,English
+179598,Greater Koa Finch,English
 179599,Laysan Finches,English
 179602,'I'iwis,Common name
 179603,Iiwi,English
@@ -41009,7 +41019,6 @@ taxonID,vernacularName,language
 179882,Tángara capucha roja,Spanish
 179883,tangara écarlate,French
 179884,Red Tanager,English
-179886,Hepatic Tanager,English
 179888,Tángara roja,Spanish
 179891,Tángara dorso rayado,Spanish
 179892,Euphonias,English
@@ -41019,7 +41028,7 @@ taxonID,vernacularName,language
 179896,Stripe-headed Tanagers,English
 179897,Western Spindalis,English
 179898,Bananaquit,English
-179899,Bananaquits,English
+179899,Bananaquit,English
 179900,Reinita-mielera,Spanish
 179903,White-eyes,English
 179904,Greater White-eyes,English
@@ -45472,13 +45481,15 @@ taxonID,vernacularName,language
 202290,Millerbird,English
 202291,Nihoa Millerbird,English
 202292,Barbados Yellow Wood Warbler,English
-202293,Sao Miguel Bullfinch,English
+202293,São Miguel Bullfinch,English
 202307,California Towhee,English
 202309,Inyo California Towhee,English
 202311,Cape Sable Seaside Sparrow,English
 202312,Dusky Seaside Sparrow,English
+202319,Akiapolaau,English
 202320,Akepa,Common name
 202321,Maui Akepa,English
+202322,Hawaii Creeper,English
 202328,Piping Crow,English
 202331,Reunion Cuckooshrike,English
 202333,Molokai Thrush,English
@@ -65889,7 +65900,7 @@ taxonID,vernacularName,language
 558536,Orange-breasted Waxbill,English
 558537,Sao Tome Shorttail,English
 558539,Black Crake,English
-558541,Blue Seedeater,English
+558541,Cabanis's Seedeater,English
 558542,Blackish-blue Seedeater,English
 558543,Yellow-billed Cacique,English
 558544,Golden-fronted Bowerbird,English
@@ -65897,6 +65908,8 @@ taxonID,vernacularName,language
 558547,Streaked Bowerbird,English
 558548,Thick-billed Weaver,English
 558549,Scarlet-headed Blackbird,English
+558550,Yellow-browed Sparrow,English
+558551,Grassland Sparrow,English
 558553,Desert Lark,English
 558554,Gray's Lark,English
 558556,Golden-crested Myna,English
@@ -66361,16 +66374,17 @@ taxonID,vernacularName,language
 559060,Dark-rumped Rosefinch,English
 559061,Stresemann's Rosefinch,English
 559062,Dark-breasted Rosefinch,English
-559063,Beautiful Rosefinch,English
+559063,Himalayan Beautiful Rosefinch,English
 559064,Red-fronted Rosefinch,English
 559065,Red-mantled Rosefinch,English
+559066,Tibetan Rosefinch,English
 559068,Spot-winged Rosefinch,English
 559069,Pallas's Rosefinch,English
 559070,Blanford's Rosefinch,English
 559071,Great Rosefinch,English
 559072,Streaked Rosefinch,English
 559073,Sinai Rosefinch,English
-559074,White-browed Rosefinch,English
+559074,Himalayan White-browed Rosefinch,English
 559075,Three-banded Rosefinch,English
 559076,Vinaceous Rosefinch,English
 559077,Yellow-billed Cotinga,English
@@ -66429,7 +66443,7 @@ taxonID,vernacularName,language
 559139,Brown-throated Treecreeper,English
 559140,Bar-tailed Treecreeper,English
 559141,Rusty-flanked Treecreeper,English
-559144,Warbler Finch,English
+559144,Green Warbler-Finch,English
 559145,Karoo Lark,English
 559146,Red Lark,English
 559147,Short-clawed Lark,English
@@ -67109,7 +67123,7 @@ taxonID,vernacularName,language
 559889,Socotra Bunting,English
 559890,Black-faced Bunting,English
 559891,White-capped Bunting,English
-559892,House Bunting,English
+559892,Striolated Bunting,English
 559893,Yellow Bunting,English
 559894,Cinnamon-breasted Bunting,English
 559895,Tristram's Bunting,English
@@ -67137,7 +67151,7 @@ taxonID,vernacularName,language
 559918,Black Solitaire,English
 559919,White-eared Solitaire,English
 559920,Blue-faced Honeyeater,English
-559921,Yellow-billed Grosbeak,English
+559921,Chinese Grosbeak,English
 559922,Japanese Grosbeak,English
 559923,Eastern Yellow Robin,English
 559924,Yellow-bellied Robin,English
@@ -68583,7 +68597,7 @@ taxonID,vernacularName,language
 561601,Galapagos Mockingbird,English
 561602,Floreana Mockingbird,English
 561603,Jamaican Blackbird,English
-561604,Tristan Finch,English
+561604,Inaccessible Island Finch,English
 561605,Wilkins's Finch,English
 561606,Cocos Flycatcher,English
 561607,Dark Newtonia,English
@@ -68709,7 +68723,7 @@ taxonID,vernacularName,language
 561739,Black-faced Quail-Finch,English
 561740,Black-chinned Quail-Finch,English
 561741,Locust Finch,English
-561742,Lesser Seed Finch,English
+561742,Chestnut-bellied Seed Finch,English
 561743,Black-billed Seed Finch,English
 561744,Large-billed Seed Finch,English
 561745,Great-billed Seed Finch,English
@@ -68919,7 +68933,7 @@ taxonID,vernacularName,language
 561976,Brazza's Martin,English
 561977,White-bearded Flycatcher,English
 561978,Black-backed Grosbeak,English
-561979,Southern Yellow Grosbeak,English
+561979,Golden Grosbeak,English
 561980,Black-thighed Grosbeak,English
 561981,Swallow-tailed Cotinga,English
 561982,White-naped Friarbird,English
@@ -69285,7 +69299,7 @@ taxonID,vernacularName,language
 562410,Cochabamba Mountain Finch,English
 562411,Collared Warbling Finch,English
 562412,Rufous-sided Warbling Finch,English
-562413,Red-rumped Warbling Finch,English
+562413,Buff-throated Warbling Finch,English
 562414,Black-capped Warbling Finch,English
 562415,Black-and-rufous Warbling Finch,English
 562416,Cinnamon Warbling Finch,English
@@ -69768,7 +69782,6 @@ taxonID,vernacularName,language
 562949,Yellow Canary,English
 562950,Western Citril,English
 562951,Streaky-headed Seedeater,English
-562952,Southern Citril,English
 562953,Papyrus Canary,English
 562955,Protea Canary,English
 562956,White-rumped Seedeater,English
@@ -69881,7 +69894,8 @@ taxonID,vernacularName,language
 563071,Sclater's Lark,English
 563072,White-throated Seedeater,English
 563073,Wing-barred Seedeater,English
-563075,Capped Seedeater,English
+563074,Dubois's Seedeater,English
+563075,Copper Seedeater,English
 563076,Lesson's Seedeater,English
 563077,Double-collared Seedeater,English
 563078,Chestnut-bellied Seedeater,English
@@ -70399,7 +70413,7 @@ taxonID,vernacularName,language
 563647,Yellow-billed Blue Magpie,English
 563648,Sri Lanka Blue Magpie,English
 563649,White-winged Magpie,English
-563650,Pink-tailed Rosefinch,English
+563650,Przevalski's Finch,English
 563654,White-bellied Wren,English
 563655,Asian Stubtail,English
 563656,Timor Stubtail,English
@@ -81809,7 +81823,7 @@ taxonID,vernacularName,language
 726208,Sooty Grassquit,English
 726209,Dull-colored Grassquit,English
 726210,Black-and-yellow Tanager,English
-726211,Thick-billed Seedfinch,English
+726211,Thick-billed Seed Finch,English
 726250,Pantanal Cat,English
 726251,Colocolo,English
 726252,Geoffroy's Cat,English
@@ -81896,7 +81910,7 @@ taxonID,vernacularName,language
 729198,Salvadori's Seedeater,English
 729199,Corsican Finch,English
 729200,Citril Finch,English
-729201,Crimson-winged Finch,English
+729201,Eurasian Crimson-winged Finch,English
 729202,Trumpeter Finch,English
 729203,Desert Finch,English
 729204,Mongolian Finch,English
@@ -81917,14 +81931,15 @@ taxonID,vernacularName,language
 729219,Grassland Sparrow,English
 729220,Yellow-browed Sparrow,English
 729221,Variable Seedeater,English
-729222,Caqueta Seedeater,English
+729222,Caquetá Seedeater,English
 729223,Carrizal Seedeater,English
 729224,Barbados Bullfinch,English
 729225,Vegetarian Finch,English
+729226,Grey Warbler-Finch,English
 729227,Half-collared Sparrow,English
 729228,Sao Francisco Sparrow,English
 729229,Choco Brush Finch,English
-729230,Rufous-naped Brush Finch,English
+729230,Yellow-breasted Brush Finch,English
 729231,Apurimac Brush Finch,English
 729232,Black-spectacled Brush Finch,English
 729233,Cuzco Brush Finch,English
@@ -81935,6 +81950,7 @@ taxonID,vernacularName,language
 729238,Purplish-mantled Tanager,English
 729239,Turquoise Dacnis,English
 729240,Golden-collared Honeycreeper,English
+729241,Common Bush Tanager,English
 729247,Yellow-throated Brush Finch,English
 729248,Chestnut-capped Warbler,English
 729249,Grey-crowned Yellowthroat,English
@@ -81947,7 +81963,6 @@ taxonID,vernacularName,language
 729256,Scarlet-and-white Tanager,English
 729282,Yellow-crowned Canary,English
 729288,Western Citril,English
-729289,Southern Citril,English
 729304,Reichenow's Seedeater,English
 729307,Yellow-rumped Seedeater,English
 729336,West African Seedeater,English
@@ -81967,13 +81982,13 @@ taxonID,vernacularName,language
 730066,Vincent's Bunting,English
 730326,White-collared Seedeater,English
 730485,Cabanis's Ground Sparrow,English
+730572,Yellow-throated Brush Finch,English
 730636,White-browed Hemispingus,English
 730653,Western Hemispingus,English
 730654,Piura Hemispingus,English
 730723,Lemon-rumped Tanager,English
 730813,White-bellied Tanager,English
 730923,Yellow-tufted Dacnis,English
-731103,Tooth-billed Tanager,English
 731143,Olive Tanager,English
 731165,Godman's Euphonia,English
 733320,snakeflies,English
@@ -90227,7 +90242,7 @@ taxonID,vernacularName,language
 949452,Pinzon Giant Tortoise,English
 949453,Hood Island Giant Tortoise,English
 949454,Narborough Island Giant Tortoise,English
-949455,Indefatigable Island Giant Tortoise,English
+949455,Western Santa Cruz Tortoise,English
 949456,Albemarle Island Giant Tortoise,English
 949457,Reunion Giant Tortoise,English
 949458,Mauritius Giant Domed Tortoise,English
@@ -91297,3 +91312,180 @@ taxonID,vernacularName,language
 990183,estrella de mar lisa,Spanish
 990320,azure sea star,English
 990516,reef starfish,English
+997299,Eastern Santa Cruz Tortoise,English
+997693,Snow Buntings,English
+997715,Crested Bunting,English
+997716,Slaty Bunting,English
+997717,House Bunting,English
+997718,Gosling's Bunting,English
+997719,Vincent's Bunting,English
+997720,Sooty Fox Sparrow,English
+997721,Slate-colored Fox Sparrow,English
+997722,Large-billed Fox Sparrow,English
+997723,Sagebrush Sparrow,English
+997724,Sage Sparrow,English
+997725,Tumbes Sparrow,English
+997726,Stripe-capped Sparrow,English
+997727,Stripe-headed Sparrow,English
+997728,Black-chested Sparrow,English
+997729,Bridled Sparrow,English
+997730,Cinnamon-tailed Sparrow,English
+997731,Rufous-winged Sparrow,English
+997732,Cassin's Sparrow,English
+997733,Bachman's Sparrow,English
+997734,Botteri's Sparrow,English
+997735,Bermuda Towhee,English
+997736,White-throated Towhee,English
+997737,Canyon Towhee,English
+997738,California Towhee,English
+997739,Abert's Towhee,English
+997740,Cabanis's Ground Sparrow,English
+997741,Chestnut-capped Brush Finch,English
+997742,Green-striped Brush Finch,English
+997743,Black-headed Brush Finch,English
+997744,Costa Rican Brush Finch,English
+997745,Stripe-headed Brush-Finch,English
+997746,Sierra Nevada Brush Finch,English
+997747,Perija Brush Finch,English
+997748,Grey-browed Brush Finch,English
+997749,Caracas Brush Finch,English
+997750,Paria Brush Finch,English
+997751,Sooty-faced Finch,English
+997752,Olive Finch,English
+997753,Black-fronted Brush Finch,English
+997754,Antioquia Brush Finch,English
+997755,Masked Cardinal,English
+997756,White-browed Hemispingus,English
+997757,Western Hemispingus,English
+997758,Piura Hemispingus,English
+997759,Lemon-rumped Tanager,English
+997760,Yellow-tufted Dacnis,English
+997761,Indigo Flowerpiercer,English
+997762,Golden-eyed Flowerpiercer,English
+997763,Bluish Flowerpiercer,English
+997764,Masked Flowerpiercer,English
+997765,Peg-billed Finch,English
+997766,Nightingale Island Finch,English
+997767,Cinereous Finch,English
+997768,Rufous-sided Warbling Finch,English
+997769,Grey-throated Warbling Finch,English
+997770,Bright-rumped Yellow Finch,English
+997771,Monte Yellow Finch,English
+997772,Tropeiro Seedeater,English
+997773,Pearly-bellied Seedeater,English
+997774,Tooth-billed Tanager,English
+997775,Hepatic Tanager,English
+997776,Olive Tanager,English
+997777,Ecuadorian Seedeater,English
+997778,Rothschild's Grosbeak,English
+997779,São Miguel Bullfinch,English
+997780,African Crimson-winged Finch,English
+997781,Mongolian Finch,English
+997782,Blanford's Rosefinch,English
+997783,Dark-breasted Rosefinch,English
+997784,Scarlet Finch,English
+997785,Bonin Grosbeak,English
+997786,Chinese Beautiful Rosefinch,English
+997787,Pink-rumped Rosefinch,English
+997788,Sharpe's Rosefinch,English
+997789,Taiwan Rosefinch,English
+997790,Pale Rosefinch,English
+997791,Long-tailed Rosefinch,English
+997792,Chinese White-browed Rosefinch,English
+997793,Crimson-browed Finch,English
+997794,Laysan Honeycreeper,English
+997795,Greater Amakihi,English
+997796,Lesser Akialoa,English
+997797,Greater Akialoa,English
+997798,Anianiau,English
+997799,Hawaii Creeper,English
+997800,Hawaii Amakihi,English
+997801,Oahu Amakihi,English
+997802,Kauai Amakihi,English
+997803,Purple Finch,English
+997804,Cassin's Finch,English
+997805,House Finch,English
+997806,European Greenfinch,English
+997807,Grey-capped Greenfinch,English
+997808,Yellow-breasted Greenfinch,English
+997809,Vietnamese Greenfinch,English
+997810,Black-headed Greenfinch,English
+997811,Arabian Golden-winged Grosbeak,English
+997812,Somali Golden-winged Grosbeak,English
+997813,Principe Seedeater,English
+997814,Sao Tome Grosbeak,English
+997815,African Citril,English
+997816,Western Citril,English
+997817,Southern Citril,English
+997818,Black-faced Canary,English
+997819,Papyrus Canary,English
+997820,Forest Canary,English
+997821,White-rumped Seedeater,English
+997822,Black-throated Canary,English
+997823,Yellow-rumped Seedeater,English
+997824,Reichenow's Seedeater,English
+997825,Arabian Serin,English
+997826,Yellow-throated Seedeater,English
+997827,Salvadori's Seedeater,English
+997828,Lemon-breasted Canary,English
+997829,Yellow-fronted Canary,English
+997830,White-bellied Canary,English
+997831,Ankober Serin,English
+997832,Yemen Serin,English
+997833,Cape Siskin,English
+997834,Drakensberg Siskin,English
+997835,Northern Grosbeak-Canary,English
+997836,Southern Grosbeak-Canary,English
+997837,Yellow Canary,English
+997838,Brimstone Canary,English
+997839,Reichard's Seedeater,English
+997840,Streaky-headed Seedeater,English
+997841,West African Seedeater,English
+997842,Black-eared Seedeater,English
+997843,Brown-rumped Seedeater,English
+997844,White-throated Canary,English
+997845,Thick-billed Seedeater,English
+997846,Streaky Seedeater,English
+997847,Yellow-browed Seedeater,English
+997848,Kipengere Seedeater,English
+997849,Protea Canary,English
+997850,Twite,English
+997851,Common Linnet,English
+997852,Yemen Linnet,English
+997853,Warsangli Linnet,English
+997854,Mountain Serin,English
+997855,Corsican Finch,English
+997856,Yellow-crowned Canary,English
+997857,Tibetan Serin,English
+997858,Eurasian Siskin,English
+997859,Antillean Siskin,English
+997860,Black-capped Siskin,English
+997861,Black-headed Siskin,English
+997862,Black-chinned Siskin,English
+997863,Yellow-bellied Siskin,English
+997864,Olivaceous Siskin,English
+997865,Hooded Siskin,English
+997866,Saffron Siskin,English
+997867,Yellow-faced Siskin,English
+997868,Red Siskin,English
+997869,Black Siskin,English
+997870,Yellow-rumped Siskin,English
+997871,Thick-billed Siskin,English
+997872,Andean Siskin,English
+997873,McCown's Longspur,English
+997879,Maui-nui Akialoa,English
+997881,Kauai Akialoa,English
+997961,American Tree Sparrow,English
+997966,Maui Akepa,English
+997967,Oahu Akepa,English
+997970,Maui Nukupuu,English
+997971,Kauai Nukupuu,English
+998051,Saltbush Sparrow,English
+998053,San Clemente Sage Sparrow,English
+998093,Inyo California Towhee,English
+998123,Common Bush Tanager,English
+998126,Piura Hemispingus,English
+998133,Yellow-tufted Dacnis,English
+998189,Stresemann's Rosefinch,English
+998286,West African Seedeater,English
+998327,Yellow-crowned Canary,English
