@@ -41693,7 +41693,7 @@ taxonID,vernacularName,language
 180595,jackals,English
 180596,loup,French
 180599,Coyote,Spanish
-180600,red wolf,English
+180600,Red Wolf,English
 180601,Arctic foxes,English
 180602,renard arctique,French
 180603,red foxes,English
@@ -41702,7 +41702,7 @@ taxonID,vernacularName,language
 180607,Zorra desértica,Spanish
 180608,gray foxes,English
 180609,renard gris,French
-180610,Channel Islands gray fox,English
+180610,Channel Islands Gray Fox,English
 180611,mongooses,English
 180612,mongooses,English
 180613,Indian mongoose,English
@@ -42729,18 +42729,18 @@ taxonID,vernacularName,language
 183811,Snow leopard,English
 183813,Cheetah,English
 183815,domestic dog (feral),English
-183816,dingo,English
-183817,Golden Jackal,English
+183816,Dingo,English
+183817,Eurasian Golden Jackal,English
 183818,Black-backed Jackal,English
 183819,Side-striped Jackal,English
-183821,Raccoon dog,English
+183821,Tanuki,English
 183823,small-eared dog,English
 183825,Crab-eating Fox,English
 183827,Maned Wolf,English
 183829,Bush Dog,English
-183831,red dog,English
-183833,African wild dog,English
-183835,big-eared fox,English
+183831,Red Dog,English
+183833,Painted Hunting Dog,English
+183835,Big-eared Fox,English
 183836,European Bison,English
 183837,oxen,English
 183838,Aurochs,English
@@ -75272,7 +75272,7 @@ taxonID,vernacularName,language
 621854,Argentine gray fox,English
 621855,Pampas fox,English
 621856,Sechura fox,English
-621857,hoary fox,English
+621857,Hoary Fox,English
 621858,Bengal Fox,English
 621859,Blanford's Fox,English
 621860,Cape Fox,English
@@ -91489,3 +91489,5 @@ taxonID,vernacularName,language
 998189,Stresemann's Rosefinch,English
 998286,West African Seedeater,English
 998327,Yellow-crowned Canary,English
+998421,African Golden Wolf,English
+998428,Chiribaya's Bonneted Bat,English
