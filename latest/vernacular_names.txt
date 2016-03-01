@@ -28462,7 +28462,7 @@ taxonID,vernacularName,language
 114316,acute-angled fungus beetle,English
 114317,sigmoid fungus beetle,English
 114318,lizard beetles,English
-114320,clover stem borer,Common name
+114320,clover stem borer,English
 114321,pleasing fungus beetles,English
 114323,pleasing fungus beetle,Common name
 114324,shining flower beetles,English
@@ -72887,6 +72887,7 @@ taxonID,vernacularName,language
 572803,dwarf galagos,English
 572804,greater galagos,English
 572815,titi monkeys,English
+572816,untufted capuchins,English
 572820,Allen's Swamp Monkey,English
 572821,capped mangabeys,English
 572822,arborial guenons,English
@@ -73007,7 +73008,7 @@ taxonID,vernacularName,language
 572958,Central American Spider Monkey,English
 572959,Southern Muriqui,English
 572960,Humboldt's woolly monkey,English
-572961,yellow-tailed woolly monkey,English
+572961,Peruvian Yellow-tailed Woolly Monkey,English
 572962,Atlantic Titi,English
 572963,Red-bellied Titi,English
 572964,Rio Beni Titi,English
@@ -73030,7 +73031,7 @@ taxonID,vernacularName,language
 572981,Bare-eared Squirrel Monkey,English
 572982,Black-headed Squirrel Monkey,English
 572983,Bald Uacari,English
-572984,Black-headed Uacari,English
+572984,Black-faced Uacari,English
 572985,Red-nosed Bearded Saki,English
 572986,Black Saki,English
 572987,Equatorial Saki,English
@@ -89124,6 +89125,7 @@ taxonID,vernacularName,language
 943907,giant mouse lemurs,English
 943941,red colobus,English
 943964,snub-nosed monkeys,English
+943970,tufted capuchins,English
 943972,squirrel galagos,English
 943978,Pig-tailed Langur,English
 943998,Kipunji,English
@@ -89284,7 +89286,7 @@ taxonID,vernacularName,language
 944176,Red-backed Bearded Saki,English
 944177,Uta Hick's Bearded Saki,English
 944178,Guianan Bearded Saki,English
-944179,Spix's Black-headed Uacari,English
+944179,Golden-backed Black-faced Uacari,English
 944180,Ursine Red Howler,English
 944181,Guyanan Red Howler,English
 944182,Amazon Black Howler,English
@@ -89434,6 +89436,8 @@ taxonID,vernacularName,language
 944701,Laotian Langur,English
 944702,Cat Ba Langur,English
 944703,Shortridge's Langur,English
+944997,Burnished Saki,English
+944999,Hairy Saki,English
 945068,Gray Bamboo Lemur,English
 945069,Beanamalao Bamboo Lemur,English
 945070,Ranomafana Bamboo Lemur,English
@@ -89525,7 +89529,7 @@ taxonID,vernacularName,language
 945156,Novaes's Bald Uacari,English
 945157,Red Bald,English
 945158,Ucayali Bald Uacari,English
-945159,Humboldts' Black-headed Uacari,English
+945159,Neblina Black-faced Uacari,English
 945160,Ayres' Black Uacari,English
 945161,Colombian Red Howler,English
 945162,Juruá Red Howler,English
@@ -91491,3 +91495,34 @@ taxonID,vernacularName,language
 998327,Yellow-crowned Canary,English
 998421,African Golden Wolf,English
 998428,Chiribaya's Bonneted Bat,English
+998615,Cruz Lima's Saddle-back Tamarin,English
+998616,Brown-mantled Tamarin,English
+998617,Black-mantled Tamarin,English
+998621,Golden-faced Saki,English
+998622,Miller's Saki,English
+998623,Napo Saki,English
+998624,Cazuza's Saki,English
+998625,Isabel's Saki,English
+998626,Vanzolini's Bald-faced Saki,English
+998627,Mittermeier's Tapajós Saki,English
+998628,Ryland's Bald-Faced Saki,English
+998629,Pissinatti's Bald-faced Saki,English
+998631,Black-crowned Dwarf Marmoset,English
+998632,Aracá Uakari,English
+998633,Neblina Uakari,English
+998634,Thomas' Dwarf Lemur,English
+998636,White-cheeked Macaque,English
+998637,Collins' Squirrel Monkey,English
+998639,Urubamba Brown Titi Monkey,English
+998640,Lesson's Saddle-back Tamarin,English
+998641,Lako's Saddle-back Tamarin,English
+998642,Ávila Pires' Saddle-back Tamarin,English
+998643,Hershkovitz's Saddle-back Tamarin,English
+998644,Gray-fronted Saddle-back Tamarin,English
+998645,Spix's Black-mantled Tamarin,English
+998646,Graells's Tamarin,English
+998647,Hernández-Camacho's Black-mantled Tamarin,English
+998648,Poeppig's Woolly Monkey,English
+998649,Peruvian Woolly Monkey,English
+998650,Gray Woolly Monkey,English
+998651,Defler's Woolly Monkey,English
