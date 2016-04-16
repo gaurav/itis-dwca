@@ -2348,7 +2348,7 @@ taxonID,vernacularName,language
 18806,American globeflower,English
 18808,yellowroot,English
 18809,yellowroot,English
-18811,bayberries,English
+18811,barberries,English
 18812,vanillaleaf,English
 18813,sweet after death,English
 18814,berbéris,English
@@ -28396,7 +28396,7 @@ taxonID,vernacularName,language
 113845,bark-gnawing beetles,English
 113849,cadelle,French
 113852,checkered beetles,English
-113855,blackbellied clerid,Common name
+113855,blackbellied clerid,English
 113859,nécrobie à pattes rousses,French
 113860,nécrobie à col rouge,French
 113869,solf-winged flower beetles,English
@@ -40388,9 +40388,11 @@ taxonID,vernacularName,language
 178474,Wagtails,English
 178475,Wagtails,English
 178476,White Wagtail,English
-178479,Black-backed Wagtail,English
+178478,Streak-eyed Wagtail,English
+178479,Kamchatka Pied Wagtail,English
 178480,Grey Wagtail,English
 178483,Western Yellow Wagtail,English
+178486,Blue-headed Yellow Wagtail,English
 178487,Black-backed Wagtail,English
 178488,Pipits,English
 178489,Water Pipit,English
@@ -68317,7 +68319,7 @@ taxonID,vernacularName,language
 561224,Cape Gannet,English
 561225,Australasian Gannet,English
 561227,Cape Wagtail,English
-561228,Mountain Wagtail,English
+561228,Long-tailed Wagtail,English
 561229,Madagascar Wagtail,English
 561230,Japanese Wagtail,English
 561232,African Dusky Flycatcher,English
@@ -80098,7 +80100,9 @@ taxonID,vernacularName,language
 678267,Gulf of Carpenteria anchovy,English
 678282,Hasselt's sprat,English
 678300,Black Sea sprat,English
+678308,ship-timber beetles,English
 678328,The travertine beetles,English
+678338,ship-timber beetles,English
 678367,polypore fungus beetles,English
 678380,antlike leaf beetles,English
 678449,small carrion beetles,English
@@ -81794,6 +81798,7 @@ taxonID,vernacularName,language
 726110,Centzontle de Socorro,Spanish
 726111,Gray-headed Chickadee,English
 726113,Blue-and-white Swallow,English
+726116,Alaska Wagtail,English
 726117,Black-billed Magpie,English
 726119,Nepal House Martin,English
 726120,Peruvian Martin,English
@@ -88032,7 +88037,7 @@ taxonID,vernacularName,language
 916306,White-naped Monarch,English
 916307,Golden Monarch,English
 916310,Torrentlark,English
-916313,White-browed Wagtail,English
+916313,Large Pied Wagtail,English
 916315,Fülleborn's Longclaw,English
 916321,White-crowned Robin-Chat,English
 916322,Forest Scrub Robin,English
@@ -88157,6 +88162,23 @@ taxonID,vernacularName,language
 919429,grey-headed blackbird,English
 919535,Grayson's Thrush,English
 920581,San Joaquin LeConte's thrasher,English
+920813,Sykes's Wagtail,English
+920814,Ashy-headed Wagtail,English
+920815,Black-headed Wagtail,English
+920816,Yellow-crowned Wagtail,English
+920817,Spanish Wagtail,English
+920818,White-headed Wagtail,English
+920819,Yellow-browed Wagtail,English
+920822,Egyptian Yellow Wagtail,English
+920823,Dark-headed Wagtail,English
+920834,Angolan Wagtail,English
+920835,Wells's Wagtail,English
+920843,Hodgson's Wagtail,English
+920844,Swinhoe's Wagtail,English
+920846,White-faced Wagtail,English
+920848,Masked Wagtail,English
+920849,Moroccan Wagtail,English
+920850,British Pied Wagtail,English
 921013,Alexander's Robin,English
 922693,Scarlet-breasted Robin,English
 922851,Degodi Bushlark,English
