@@ -37965,16 +37965,19 @@ taxonID,vernacularName,language
 174369,Caimans,English
 174370,Spectacled Caiman,English
 174371,oiseaux,French
-174372,Rheas,English
+174372,Ostriches,English
 174373,Ostriches,English
 174375,Common Ostrich,English
+174376,Rheas,English
 174377,Rheas,English
 174379,Greater Rhea,English
+174382,Emus,English
 174383,Emus,English
 174385,Emu,English
 174386,Cassowaries,English
 174388,Dwarf Cassowary,English
 174390,Northern Cassowary,English
+174391,Kiwis,English
 174392,Kiwis,English
 174394,Southern Brown Kiwi,English
 174397,Tinamous,English
@@ -38039,17 +38042,17 @@ taxonID,vernacularName,language
 174476,grèbes,French
 174477,Grebes,English
 174478,Typical Grebes,English
-174479,Grèbe jougris,French
-174482,Grèbe esclavon,French
-174485,Grèbe à cou noir,French
+174479,Red-necked Grebe,English
+174482,Horned Grebe,English
+174485,Black-necked Grebe,English
 174491,Great Crested Grebe,English
 174492,Great Grebe,English
 174494,Silvery Grebe,English
 174501,Junin Grebe,English
-174503,Grèbe élégant,French
-174505,Grèbe à bec bigarré,French
+174503,Western Grebe,English
+174505,Pied-billed Grebe,English
 174507,Least Grebes,English
-174508,Grèbe minime,French
+174508,Least Grebe,English
 174511,Least Grebe,English
 174512,pétrels,French
 174513,albatros,French
@@ -38151,9 +38154,9 @@ taxonID,vernacularName,language
 174670,hérons,French
 174671,Tropicbirds,English
 174672,Tropicbirds,English
-174673,Phaéton à bec rouge,French
-174676,Phaéton à bec jaune,French
-174679,Phaéton à brins rouges,French
+174673,Red-billed Tropicbird,English
+174676,White-tailed Tropicbird,English
+174679,Red-tailed Tropicbird,English
 174682,Pelicans,English
 174683,Pelicans,English
 174684,Pélican d'Amérique,French
@@ -38330,7 +38333,7 @@ taxonID,vernacularName,language
 174973,Madagascar Ibis,English
 174974,Flamingos,English
 174975,Greater Flamingos,English
-174976,Flamant des Caraïbes,French
+174976,American Flamingo,English
 174978,Lesser Flamingo,English
 174980,Andean Flamingo,English
 174981,James's Flamingo,English
@@ -64188,6 +64191,7 @@ taxonID,vernacularName,language
 553485,Grouse,English
 553512,Titmice,English
 553529,Tityras,English
+553787,Lesser Rhea,English
 553788,Southern Cassowary,English
 553789,Little Spotted Kiwi,English
 553790,Roroa,English
@@ -69235,6 +69239,7 @@ taxonID,vernacularName,language
 562342,Scaly-breasted Wren-Babbler,English
 562343,Nepal Wren-Babbler,English
 562344,Pygmy Wren-Babbler,English
+562345,Colombian Grebe,English
 562346,Hooded Grebe,English
 562347,Biddulph's Ground Jay,English
 562348,Henderson's Ground Jay,English
@@ -70065,7 +70070,7 @@ taxonID,vernacularName,language
 563255,Lineated Foliage-gleaner,English
 563256,Many-colored Rush Tyrant,English
 563257,Australasian Grebe,English
-563258,Madagascar Grebe,English
+563258,Madagascan Grebe,English
 563259,Little Grebe,English
 563260,Alaotra Grebe,English
 563261,Mangrove Swallow,English
@@ -80117,6 +80122,8 @@ taxonID,vernacularName,language
 679120,Huayco Tinamou,English
 679121,Columbian Tinamou,English
 679178,Columbian Tinamou,English
+679187,Black-capped Tinamou,English
+679188,Garlepp's Tinamou,English
 679253,Purple-crested Turaco,English
 679254,Ruwenzori Turaco,English
 679287,Javan Trogon,English
@@ -84912,6 +84919,9 @@ taxonID,vernacularName,language
 824529,Dunlin,English
 824537,red knot,English
 824565,western snowy plover,English
+824935,Australasian Crested Grebe,English
+824936,Eurasian Crested Grebe,English
+824937,African Crested Grebe,English
 825084,California Least Tern,English
 825198,Australian fuschia,English
 825203,key lime,English
@@ -91548,3 +91558,5 @@ taxonID,vernacularName,language
 998649,Peruvian Woolly Monkey,English
 998650,Gray Woolly Monkey,English
 998651,Defler's Woolly Monkey,English
+1000344,Kangaroo Island Emu,English
+1002965,Karl's lacebug,English
