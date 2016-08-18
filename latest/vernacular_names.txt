@@ -36602,68 +36602,68 @@ taxonID,vernacularName,language
 172698,Indian mastacembelid eel,English
 172702,poissons plats,French
 172703,psettodids,English
-172704,psettodids,English
+172704,spiny turbots,English
 172706,Indian halibut,English
 172708,cithartids,English
 172710,largescale flatfish,English
 172712,spotted flounder,English
-172713,scophthalmidés,French
+172713,scophthalmids,English
 172714,turbots,French
 172715,whiffs,English
-172716,lenguado moteado,Spanish
-172717,lenguado pecoso,Spanish
-172719,lenguado golfino,Spanish
-172720,lenguado arenero,Spanish
-172721,lenguado cornudo,Spanish
-172722,spined whiff,English
-172723,anglefin whiff,English
-172724,lenguado manchado,Spanish
-172725,lenguado pardo,Spanish
-172726,lenguado alón,Spanish
-172727,lenguado flaco,Spanish
-172729,lenguado ribete,Spanish
-172730,smallmouth flounder,English
-172732,lenguado sombreado,Spanish
-172733,shelf flounder,English
+172716,Pacific Sanddab,English
+172717,Speckled Sanddab,English
+172719,plie du gulf stream,French
+172720,Sand Whiff,English
+172721,Horned Whiff,English
+172722,Spined Whiff,English
+172723,Anglefin Whiff,English
+172724,Spotted Whiff,English
+172725,Bay Whiff,English
+172726,Longfin Sanddab,English
+172727,Gulf Sanddab,English
+172729,Fringed Flounder,English
+172730,Smallmouth Flounder,English
+172732,Gray Flounder,English
+172733,Shelf Flounder,English
 172734,southern flounders,English
-172735,fluke,English
-172736,lenguado panzablanca,Spanish
-172738,lenguado limpio,Spanish
-172739,fourspot flounder,English
-172740,lenguado huarachón,Spanish
-172743,lenguado californiano,Spanish
+172735,Summer Flounder,English
+172736,Gulf Flounder,English
+172738,Southern Flounder,English
+172739,Fourspot Flounder,English
+172740,Broad Flounder,English
+172743,California Halibut,English
 172744,olive flounder,English
-172746,turbot de sable,French
+172746,Windowpane,English
 172748,turbot,English
 172749,brill,English
 172750,Black Sea turbot,English
 172751,ocellated flounders,English
-172754,lenguado tres manchas,Spanish
-172757,lenguado cuatro manchas,Spanish
-172759,lenguado lunado,Spanish
+172754,Three-eye Flounder,English
+172757,Ocellated Flounder,English
+172759,Peacock Flounder,English
 172760,lenguado manchado,Spanish
-172761,chueco playón,Spanish
-172762,chueco dos manchas,Spanish
-172763,lenguado tropical,Spanish
+172761,plie oculée,French
+172762,Twospot Flounder,English
+172763,Tropical Flounder,English
 172764,leopard flounder,English
 172767,starry oval flounder,English
 172768,oval flounder,English
 172769,transparent flounder,English
 172770,wide-eyed flounder,English
 172773,pelican flounder,English
-172776,lenguado mexicano,Spanish
-172777,lenguado aleta sucia,Spanish
-172779,lenguado ojicornudo,Spanish
-172781,lenguado gambero,Spanish
+172776,Mexican Flounder,English
+172777,Spotfin Flounder,English
+172779,Spiny Flounder,English
+172781,Shrimp Flounder,English
 172783,fourspot flounder,English
-172784,lenguado bocón,Spanish
-172786,slim flounder,English
-172789,deepwater flounder,English
-172791,lenguado arenoso,Spanish
-172792,lenguado anillado,Spanish
-172793,lenguado moreno,Spanish
-172798,lenguado de punto,Spanish
-172800,lenguado cola de abanico,Spanish
+172784,Bigmouth Sole,English
+172786,Slim Flounder,English
+172789,Deepwater Flounder,English
+172791,Shoal Flounder,English
+172792,fausse limande pâté,French
+172793,Dusky Flounder,English
+172798,Sash Flounder,English
+172800,Fantail Sole,English
 172803,scald fishes,English
 172805,scaldfish,English
 172809,Grohmann's scaldfish,English
@@ -36701,66 +36701,68 @@ taxonID,vernacularName,language
 172857,smallheaded flounder,English
 172858,longarm flounder,English
 172859,righteye flounders,English
-172861,Kamchatka flounder,English
-172862,arrowtooth flounder,English
+172861,Kamchatka Flounder,English
+172862,plie à grande bouche,French
 172864,roughscale flounder,English
-172866,platija de profundidad,Spanish
-172868,platija petrale,Spanish
+172866,plie de profondeur,French
+172868,plie de Californie,French
 172869,shotted halibut,English
 172870,slender sole,English
-172871,slender sole,English
+172871,Slender Sole,English
 172872,flukes,English
-172873,plie grise,French
-172875,flathead sole,English
-172876,Bering flounder,English
-172877,dab,English
+172873,Witch Flounder,English
+172875,plie à tête plate,French
+172876,plie de Béring,French
+172877,American Plaice,English
 172880,mud dabs,English
 172881,dab,English
 172882,sunagarei,English
 172883,eelback flounders,English
 172884,dark flounder,English
 172886,smear dabs,English
-172887,platija resbalosa,Spanish
-172888,lemon sole,English
+172887,limande-sole,French
+172888,Lemon Sole,English
 172889,smallmouth flounder,English
 172890,babagarei,English
 172892,starry flounders,English
-172893,starry flounder,English
+172893,flet étoilé,French
 172894,flounder,English
 172896,white sea flounder,English
 172897,Black Sea flounder,English
 172898,northern flounder,English
 172900,northern flounders,English
-172901,Alaska plaice,English
+172901,Alaska Plaice,English
 172902,plaice,English
 172903,Pacific plaice,English
 172904,plie rouge,French
-172905,winter flounder,English
+172905,Winter Flounder,English
 172906,yellowfin sole,English
-172907,yellowfin sole,English
+172907,Yellowfin Sole,English
 172908,limande à queue jaune,French
-172909,yellowtail flounder,English
+172909,Yellowtail Flounder,English
 172910,longhead dab,English
-172911,longhead dab,English
-172912,Arctic flounder,English
-172914,plie lisse,French
+172911,Longhead Dab,English
+172912,plie arctique,French
+172913,plie arctique,French
+172914,Smooth Flounder,English
+172915,smoothback flounder,English
 172916,rock sole,English
-172917,rock sole,English
+172917,Rock Sole,English
 172918,butter sole,English
-172919,butter sole,English
+172919,plie à écailles régulières,French
 172920,English sole,English
-172921,English sole,English
-172923,platija de fango,Spanish
-172924,platija aleta de rizo,Spanish
-172925,platija moteada,Spanish
-172926,platija cornuda,Spanish
-172928,sand sole,English
-172930,flétan du Groenland,French
+172921,carlottin anglais,French
+172923,plie vaseuse,French
+172924,plie à nageoires frisées,French
+172925,Spotted Turbot,English
+172926,Hornyhead Turbot,English
+172928,sole de sable,French
+172930,Greenland Halibut,English
 172931,halibuts,English
-172932,alabato del Pacífico,Spanish
-172933,flétan atlantique,French
+172932,Pacific Halibut,English
+172933,Atlantic Halibut,English
 172935,lemon-yellow flounder,English
-172938,deepwater dab,English
+172938,Deepwater Dab,English
 172941,largespot flounder,English
 172942,taileyed flounder,English
 172943,Alcock's crested flounder,English
@@ -36782,18 +36784,18 @@ taxonID,vernacularName,language
 172973,crested flounder,English
 172975,New Zealand brill,English
 172977,rex sole,English
-172978,rex sole,English
+172978,Rex Sole,English
 172979,soles,English
 172980,suelas soles,Spanish
 172981,scrawled soles,English
-172982,suela tortilla,Spanish
-172983,acedía reticulada,Spanish
+172982,Hogchoker,English
+172983,suela garabato,Spanish
 172984,lined soles,English
-172986,suela listada,Spanish
-172989,tepalcate,Spanish
-172991,suela desnuda,Spanish
-172992,suela fofa,Spanish
-172993,suela texana,Spanish
+172986,Lined Sole,English
+172989,Pacific Lined Sole,English
+172991,Naked Sole,English
+172992,Flabby Sole,English
+172993,Fringed Sole,English
 172998,narrowbanded sole,English
 172999,dotted sole,English
 173000,soles,English
@@ -36833,17 +36835,17 @@ taxonID,vernacularName,language
 173059,shimaushinoshita,English
 173060,soles-langues,French
 173061,straightmouth tonguefishes,English
-173062,lengua gris,Spanish
+173062,Blackcheek Tonguefish,English
 173063,offshore tonguefish,English
-173065,slender tonguefish,English
-173066,largescale tonguefish,English
-173067,lengua pigmea,Spanish
-173068,lengua perezosa,Spanish
-173070,northern tonguefish,English
-173071,lengua colipunteada,Spanish
-173074,lengua caribeña,Spanish
+173065,Margined Tonguefish,English
+173066,Largescale Tonguefish,English
+173067,Pygmy Tonguefish,English
+173068,Deepwater Tonguefish,English
+173070,Northern Tonguefish,English
+173071,Spottail Tonguefish,English
+173074,Caribbean Tonguefish,English
 173075,freckled tonguefish,English
-173076,lengua colilarga,Spanish
+173076,Longtail Tonguefish,English
 173077,California tonguefish,English
 173078,ocellated tonguefish,English
 173079,patchtail tonguefish,English
@@ -63985,7 +63987,7 @@ taxonID,vernacularName,language
 553235,triacanthodidés,French
 553236,false brotulas,English
 553237,angelfishes,English
-553240,southern flounders,English
+553240,armless flounders,English
 553242,giant slender morays,English
 553243,fat mullets,English
 553244,brushtooth tilapias,English
@@ -75003,25 +75005,26 @@ taxonID,vernacularName,language
 615903,opahs,English
 615909,crestfish,English
 615935,plies à grands yeux,French
-616024,suela carioca,Spanish
+616024,Southern Hogchoker,English
 616026,intermediate flounder,English
 616027,Kamchatka flounder,English
 616029,arrowtooth flounder,English
 616033,matsukawa,English
 616038,uromegarei,English
 616039,sohachi flounder,English
+616040,sohachi flounder,English
 616041,flathead flounder,English
 616044,dusky sole,English
 616045,rikuzen flounder,English
 616046,ridge-eye flounder,English
-616048,diamond turbot,English
-616049,platija ocelada,Spanish
+616048,Diamond Turbot,English
+616049,Ocellated Turbot,English
 616051,deepsea sole,English
 616056,yanagimushigarei,English
 616058,hireguro,English
 616061,dab,English
 616062,sunagarei,English
-616064,Sakhalin sole,English
+616064,Sakhalin Sole,English
 616065,stone flounder,English
 616071,magarei,English
 616073,dark flounder,English
@@ -75038,26 +75041,26 @@ taxonID,vernacularName,language
 616158,strongsnout flounder,English
 616162,khaki flounder,English
 616164,crosseyed flounder,English
-616165,lenguado bandera,Spanish
+616165,Flag Flounder,English
 616173,tiger sole,English
 616175,spotted-tail flounder,English
 616186,lace sole,English
 616195,turbot,English
-616216,suela plomiza,Spanish
-616221,network sole,English
-616222,Tehuantepec sole,English
-616224,threespot sand flounder,English
-616254,sol reticulado,Spanish
-616275,Pacific eyed flounder,English
-616278,Pacific leopard flounder,English
-616288,Veracruz whiff,English
-616289,lenguado tapadera,Spanish
-616291,mimic sanddab,English
-616292,lenguado cinco radios,Spanish
-616294,small sanddab,English
-616297,voodoo whiff,English
-616306,Panamic flounder,English
-616307,toothed flounder,English
+616216,Brown Sole,English
+616221,Network Sole,English
+616222,Tehuantepec Sole,English
+616224,Threespot Sand Flounder,English
+616254,Reticulated Sole,English
+616275,Pacific Eyed Flounder,English
+616278,Pacific Leopard Flounder,English
+616288,Veracruz Whiff,English
+616289,Bigmouth Sanddab,English
+616291,Mimic Sanddab,English
+616292,Five-rayed Sanddab,English
+616294,Small Sanddab,English
+616297,Voodoo Whiff,English
+616306,Panamic Flounder,English
+616307,Toothed Flounder,English
 616308,tonguesole,English
 616309,Natal tonguefish,English
 616315,sand tonguefish,English
@@ -75069,54 +75072,54 @@ taxonID,vernacularName,language
 616337,Guinean tonguesole,English
 616347,Senegalese tonguesole,English
 616353,redspotted tonguesole,English
-616354,speckledtail flounder,English
-616374,Peruvian flounder,English
-616379,spotted flounder,English
-616383,lenguado cuatrojos,Spanish
-616392,northern rock sole,English
-616406,lenguado acapulqueño,Spanish
-616408,Pacific deepwater flounder,English
-616418,lenguado de Cortés,Spanish
-616427,lenguado huarache,Spanish
+616354,Speckledtail Flounder,English
+616374,Peruvian Flounder,English
+616379,Spotted Flounder,English
+616383,Foureye Flounder,English
+616392,Northern Rock Sole,English
+616406,Acapulco Flounder,English
+616408,Pacific Deepwater Flounder,English
+616418,Cortez Halibut,English
+616427,Dappled Flounder,English
 616428,shitabirame,English
-616478,lenguado playero,Spanish
-616479,pompadour flounder,English
-616481,oval flounder,English
-616482,lengua mediomanchada,Spanish
-616484,Kriete's tonguefish,English
-616485,lengua chocolate,Spanish
-616487,lengua cachete prieto,Spanish
-616489,lengua esbelta,Spanish
-616490,lengua listada,Spanish
-616493,lengua enana,Spanish
-616498,lengua colinegra,Spanish
-616504,lengua lucia,Spanish
-616505,lengua tripa negra,Spanish
-616513,whitetail tonguefish,English
-616515,lengua narigona,Spanish
-616519,blotchfin tonguefish,English
-616521,lengua imitador,Spanish
-616525,yellow tonguefish,English
-616540,whitespotted sole,English
-616542,suela rayada,Spanish
+616478,Beach Flounder,English
+616479,Pompadour Flounder,English
+616481,Oval Flounder,English
+616482,Halfspotted Tonguefish,English
+616484,sole de Kriete,French
+616485,Chocolate Tonguefish,English
+616487,Darkcheek Tonguefish,English
+616489,Elongate Tonguefish,English
+616490,Banded Tonguefish,English
+616493,Dwarf Tonguefish,English
+616498,Blacktail Tonguefish,English
+616504,Drab Tonguefish,English
+616505,Darkbelly Tonguefish,English
+616513,Whitetail Tonguefish,English
+616515,Halfstriped Tonguefish,English
+616519,Blotchfin Tonguefish,English
+616521,Imitator Tonguefish,English
+616525,Yellow Tonguefish,English
+616540,Whitespotted Sole,English
+616542,Spottedfin Sole,English
 616547,wavyband sole,English
 616555,spotted flounder,English
 616556,spotted flounder,English
 616572,sasaushinoshita,English
-616592,lenguado carbón,Spanish
+616592,Dark Flounder,English
 616599,lengua de vaca parda,Spanish
 616605,Bloch's topknot,English
 616606,Adriatic sole,English
-616607,California tonguefish,English
+616607,sole californien,French
 616612,Sumatra tonguefish,English
 616613,Norwegian topknot,English
-616615,offshore tonguefish,English
+616615,Offshore Tonguefish,English
 616620,wavyband sole,English
 616622,Oriental sole,English
 616656,ridge-eye flounder,English
 616657,yanagimushigarei,English
 616658,black sole,English
-616664,spottedfin tonguefish,English
+616664,Spottedfin Tonguefish,English
 616680,volador azul,Spanish
 616681,volador ala manchada,Spanish
 616682,Atlantic flyingfish,English
@@ -91560,3 +91563,12 @@ taxonID,vernacularName,language
 998651,Defler's Woolly Monkey,English
 1000344,Kangaroo Island Emu,English
 1002965,Karl's lacebug,English
+1007278,Tracwood,English
+1007279,cocobolo,English
+1007828,lenguado intermedio,Spanish
+1007847,narrowbanded sole,English
+1007848,lemon sole,English
+1007876,shallow-water sole,English
+1007877,Commerson's sole,English
+1007892,black sole,English
+1007904,banded sole,English
