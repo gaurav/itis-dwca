@@ -26169,7 +26169,7 @@ taxonID,vernacularName,language
 82739,silver garden spider,English
 82740,cobweb weavers,English
 82743,sheetweb weavers,English
-82753,tabijuá,Portuguese
+82753,daddy-longlegs,English
 82754,tiques,French
 82765,ticks,English
 83545,sea spiders,English
@@ -28165,8 +28165,8 @@ taxonID,vernacularName,language
 103827,pacific pelagic water strider,English
 103828,hawaiian pelagic water strider,English
 103885,small water striders,English
-103938,water measures,English
-103953,water treaders,English
+103938,water treaders,English
+103953,pondweed bugs,English
 103964,velvet water bugs,English
 103990,macroveliid shore bugs,English
 103995,terrestrial bugs,English
@@ -28449,7 +28449,7 @@ taxonID,vernacularName,language
 114296,nitidule des fruits,French
 114298,strawberry sap beetle,English
 114299,root-eating beetles,English
-114301,root-eating beetle,Common name
+114301,root-eating beetle,English
 114302,dry-fungus beetles,English
 114303,flat bark beetles,English
 114305,cucujide des grains,French
@@ -37818,7 +37818,7 @@ taxonID,vernacularName,language
 174205,Catsnakes,English
 174206,Brown Treesnake,English
 174207,Dog-faced Water Snakes,English
-174208,Dog-faced Water Snake,English
+174208,South Asian Bockadam,English
 174209,Sandsnakes,English
 174210,Culebra-arenera bandada,Spanish
 174211,Shovel-nosed Snakes,English
@@ -45602,7 +45602,7 @@ taxonID,vernacularName,language
 202499,prickly spiralgrass,English
 202500,awnless spiralgrass,English
 202501,amaryllis,English
-202546,bee creek cave harvestman,Common name
+202546,Bee Creek Cave Harvestman,English
 203347,tuniciers,French
 203348,whale sharks,English
 203351,basking shark,English
@@ -75787,7 +75787,7 @@ taxonID,vernacularName,language
 625033,Indian Spotted Chevrotain,English
 625034,lesser mouse-deer,English
 625035,Greater Mouse-deer,English
-625036,giraffe,English
+625036,Northern Giraffe,English
 625037,Okapi,English
 625038,Chinese forest musk deer,English
 625039,Alpine Musk Deer,English
@@ -80109,8 +80109,10 @@ taxonID,vernacularName,language
 678282,Hasselt's sprat,English
 678300,Black Sea sprat,English
 678308,ship-timber beetles,English
+678317,primitive carrion beetles,English
 678328,The travertine beetles,English
 678338,ship-timber beetles,English
+678346,root-eating beetles,English
 678367,polypore fungus beetles,English
 678380,antlike leaf beetles,English
 678449,small carrion beetles,English
@@ -80874,6 +80876,19 @@ taxonID,vernacularName,language
 698734,Knysna velvet worm,English
 698740,Lion's Hill velvet worm,English
 699876,Yeti crab,English
+700401,Keel-bellied Mud Snake,English
+700403,Cantor's Water Snake,English
+700404,Lake Buhi Bockadam,English
+700412,Rainbow Mud Snake,English
+700414,Tay Ninh Mud Snake,English
+700415,Bangkok Mud Snake,English
+700416,Long-tailed Mud Snake,English
+700427,Crab-eating Snake,English
+700428,Gerard's Water Snake,English
+700429,Mamberano Mud Snake,English
+700430,Linne's Water Snake,English
+700431,Richardson's Mangrove Snake,English
+700780,Seram Short-tailed Snake,English
 702405,ponderosa pine bark borer,English
 702416,tupelo borer,English
 702426,saltbush borer,English
@@ -87488,6 +87503,10 @@ taxonID,vernacularName,language
 898538,North China sika,English
 898544,Formosan sika,English
 898548,Persian fallow deer,English
+898593,Nubian Giraffe,English
+898595,Rothschild's Giraffe,English
+898596,Thornicroft's Giraffe,English
+898597,Masai Giraffe,English
 898602,Blacked-faced impala,English
 898609,Swayne's Hartebeest,English
 898610,tora hartebeest,English
@@ -91572,3 +91591,54 @@ taxonID,vernacularName,language
 1007877,Commerson's sole,English
 1007892,black sole,English
 1007904,banded sole,English
+1008534,Buru Short-tailed Snake,English
+1008535,Ternate Short-tailed Snake,English
+1008536,Halmahera Short-tailed Snake,English
+1008538,Yapen Island Stout-tailed Snake,English
+1008539,Andian Stout-tailed Snake,English
+1008540,Kebar Stout-tailed Snake,English
+1008541,Arfak Stout-tailed Snake,English
+1008542,Palau Bockadam,English
+1008543,Australian Bockadam,English
+1008544,Southeast Asian Bockadam,English
+1008545,Kerala Mud Snake,English
+1008546,Bennett's Mud Snake,English
+1008547,Chinese Mud Snake,English
+1008548,Macleay's Mud Snake,English
+1008549,Chanard's Mud Snake,English
+1008551,Mekong Mud Snake,English
+1008552,Siebold's Mud Snake,English
+1008554,Tentacled Snake,English
+1008555,Hardwick's Water Snake,English
+1008556,Jack's Water Snake,English
+1008557,Deuve's Water Snake,English
+1008558,Martaban Water Snake,English
+1008559,Sumatran Short-tailed Snake,English
+1008560,Aru Mangrove Snake,English
+1008561,Broome Mangrove Snake,English
+1008562,Voris' Mud Snake,English
+1008563,Blanford's Mud Snake,English
+1008564,Pahang Mud Snake,English
+1008565,Sind River Mud Snake,English
+1008566,Bocourt's Mud Snake,English
+1008568,Trans-Fly Mangrove Snake,English
+1008569,Reuss' Mud Snake,English
+1008570,Sarawak Mud Snake,English
+1008571,Kapuas Mud Snake,English
+1008572,Matana Mud Snake,English
+1008573,Boie's Mud Snake,English
+1008574,Blackwater Mud Snake,English
+1008575,Selangor Mud Snake,English
+1008634,Sumatran Mud Snake,English
+1012094,cinnamon fern,English
+1012246,Southern Giraffe,English
+1012247,Masai Giraffe,English
+1012248,Reticulated Giraffe,English
+1012249,South African Giraffe,English
+1012250,Angolan Giraffe,English
+1012251,Kordofan Giraffe,English
+1012252,West African Giraffe,English
+1012253,Angolan Giraffe,English
+1012361,root-eating beetle,English
+1012396,mite-harvestmen,English
+1012398,daddy-longlegs,English

@@ -42,7 +42,7 @@ while(<$fh>) {
 close($fh);
 
 die "Downloading didn't start: $dwch_stdout" unless($dwch_stdout =~ /Starting download of/);
-die "Download didn't finish: $dwch_stdout" unless($dwch_stdout =~ /Download finished/);
+# die "Download didn't finish: $dwch_stdout" unless($dwch_stdout =~ /Download finished/);
 die "DarwinCore Archive file was not created: $dwch_stdout" unless($dwch_stdout =~ /DarwinCore Archive file is created/);
 die "dwca.tar.gz not created into /tmp/dwca_hunter/itis as expected; maybe dwca_hunter has changed?" unless (-e '/tmp/dwca_hunter/itis/dwca.tar.gz');
 die "itis not extracted into /tmp/dwca_hunter/itis/itis as expected; maybe dwca_hunter has changed?" unless (-e '/tmp/dwca_hunter/itis/itis');
