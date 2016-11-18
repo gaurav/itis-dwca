@@ -28164,7 +28164,7 @@ taxonID,vernacularName,language
 103801,water striders,English
 103827,pacific pelagic water strider,English
 103828,hawaiian pelagic water strider,English
-103885,small water striders,English
+103885,broad-shouldered bugs,English
 103938,water treaders,English
 103953,pondweed bugs,English
 103964,velvet water bugs,English
@@ -28428,6 +28428,7 @@ taxonID,vernacularName,language
 113919,plate-thigh beetles,English
 113922,fringe-winged beetles,English
 113923,marsh beetles,English
+113924,marsh beetles,English
 113990,soft-bodied plant beetles,English
 113993,cedar beetles,English
 113995,cedar beetle,English
@@ -81761,6 +81762,7 @@ taxonID,vernacularName,language
 716561,Peltiers' Chameleon,English
 716562,Bizarre-Nosed Chameleon,English
 716563,Blunt-Nosed Chameleon,English
+717519,seabugs,English
 718531,honeylocust plant bug,English
 718593,tomato bug,English
 718826,Mauna Loa bean beetle,English
