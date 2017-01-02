@@ -90724,10 +90724,15 @@ taxonID,vernacularName,language
 951165,climbing aloe,English
 951166,fiery climber,English
 951211,Mona Boa,English
+951212,Hispaniolan Boa,English
 951213,Jamaican Boa,English
 951214,Cuban Boa,English
+951215,Southern Bahamas Boa,English
+951216,Northern Bahamas Boa,English
 951219,Puerto Rican Boa,English
 951222,Rainbow Boa,English
+951229,Bahamas Boa,English
+951248,Crooked-Acklins Boa,English
 951254,Virgin Island Tree Boa,English
 951255,Mona Boa,English
 951282,Dormice,English
@@ -91644,3 +91649,6 @@ taxonID,vernacularName,language
 1012361,root-eating beetle,English
 1012396,mite-harvestmen,English
 1012398,daddy-longlegs,English
+1016063,Conception Bank Silver Boa,English
+1016066,Gulf Coast Indigo Snake,English
+1016071,Goode's Thornscrub Tortoise,English
