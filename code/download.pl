@@ -127,6 +127,10 @@ close($fh_version);
 
 say "Created version.txt.";
 
+system "gzip $new_path/taxa.txt";
+
+say "Gzipped taxa.txt.";
+
 # Replace 'latest'.
 if(-e "$ITISDWCA_PATH/latest") {
     move("$ITISDWCA_PATH/latest", "$ITISDWCA_PATH/latest_tbd") or die "Could not move latest out of the way: $!";
