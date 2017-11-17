@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 February 24, 2017
 version_itisMySQL022417
 Extracted from version_itisMySQL022417 on March 25, 2017
+=======
+October 27, 2017
+version_itisMySQL102717
+Extracted from version_itisMySQL102717 on November 17, 2017
+>>>>>>> master

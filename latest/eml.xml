@@ -1,5 +1,9 @@
 <?xml version="1.0"?>
+<<<<<<< HEAD
 <eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:md="eml://ecoinformatics.org/methods-2.1.1" xmlns:proj="eml://ecoinformatics.org/project-2.1.1" xmlns:d="eml://ecoinformatics.org/dataset-2.1.1" xmlns:res="eml://ecoinformatics.org/resource-2.1.1" xmlns:dc="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" packageId="5d066e84-e512-4a2f-875c-0a605d3d9f35/2017-3-25::21:46:31" system="http://globalnames.org" xml:lang="en" xsi:schemaLocation="eml_uri">
+=======
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:md="eml://ecoinformatics.org/methods-2.1.1" xmlns:proj="eml://ecoinformatics.org/project-2.1.1" xmlns:d="eml://ecoinformatics.org/dataset-2.1.1" xmlns:res="eml://ecoinformatics.org/resource-2.1.1" xmlns:dc="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" packageId="5d066e84-e512-4a2f-875c-0a605d3d9f35/2017-11-17::21:25:43" system="http://globalnames.org" xml:lang="en" xsi:schemaLocation="eml_uri">
+>>>>>>> master
   <dataset id="5d066e84-e512-4a2f-875c-0a605d3d9f35">
     <title>ITIS</title>
     <license/>
@@ -17,7 +21,11 @@
       </individualName>
       <electronicMailAddress>dmozzherin@gmail.com</electronicMailAddress>
     </metadataProvider>
+<<<<<<< HEAD
     <pubDate>2017-03-25 17:46:31 -0400</pubDate>
+=======
+    <pubDate>2017-11-17 16:25:43 -0500</pubDate>
+>>>>>>> master
     <abstract>
       <para>The White House Subcommittee on Biodiversity and Ecosystem Dynamics has identified systematics as a research priority that is fundamental to ecosystem management and biodiversity conservation. This primary need identified by the Subcommittee requires improvements in the organization of, and access to, standardized nomenclature. ITIS (originally referred to as the Interagency Taxonomic Information System) was designed to fulfill these requirements. In the future, the ITIS will provide taxonomic data and a directory of taxonomic expertise that will support the system</para>
     </abstract>
