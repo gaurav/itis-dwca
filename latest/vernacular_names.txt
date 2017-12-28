@@ -21529,7 +21529,7 @@ taxonID,vernacularName,language
 54073,polyclads,English
 54468,triclads,English
 54556,fascíola,Portuguese
-57307,tapeworms,Common name
+57307,tapeworms,English
 57308,tênia,Portuguese
 57405,gnathostomulids,English
 57409,orthonectids,English
@@ -28165,7 +28165,7 @@ taxonID,vernacularName,language
 103683,giant water bugs,English
 103709,léthocère,French
 103747,water scorpions,English
-103768,toad bugs,English
+103768,toadbugs,English
 103772,toad bug,English
 103787,velvety shore bugs,English
 103798,shore-inhabiting bugs,English
@@ -37910,7 +37910,7 @@ taxonID,vernacularName,language
 174293,Lined Snake,English
 174294,Vipers,English
 174295,Cottonmouths,English
-174296,Northern Copperhead,English
+174296,Cantil cobrizo,Spanish
 174297,Northern Copperhead,English
 174298,Southern Copperhead,English
 174299,Cottonmouth,English
@@ -37929,7 +37929,7 @@ taxonID,vernacularName,language
 174314,Víbora-cascabel cola negra,Spanish
 174315,Víbora-cascabel motas gemelas,Spanish
 174316,Víbora-cascabel colorada,Spanish
-174317,Víbora-cascabel del Altiplano,Spanish
+174317,Green Rattlesnake,English
 174318,Víbora-cascabel tigre,Spanish
 174319,Víbora-cascabel occidental,Spanish
 174320,Víbora-cascabel bigotuda,Spanish
@@ -45419,8 +45419,8 @@ taxonID,vernacularName,language
 202171,Yellow-tailed Cribo,English
 202172,Eastern Indigo Snake,English
 202173,Southern Water Snake,English
-202177,Ridge-nosed Rattlesnake,English
-202178,Animas Ridge-nosed Rattlesnake,English
+202177,Arizona Ridgenose Rattlesnake,English
+202178,New Mexico Ridgenose Rattlesnake,English
 202179,Aruba Island Rattlesnake,English
 202181,Lar Valley Viper,English
 202182,Mona Boa,English
@@ -46514,7 +46514,7 @@ taxonID,vernacularName,language
 209493,Tropical Rat Snake,English
 209497,Broad-banded Copperhead,English
 209499,Osage Copperhead,English
-209500,Trans-pecos Copperhead,English
+209500,Trans-Pecos Copperhead,English
 209503,Florida Cottonmouth,English
 209504,Western Cottonmouth,English
 209507,Dusky Pigmy Rattlesnake,English
@@ -46523,7 +46523,7 @@ taxonID,vernacularName,language
 209511,Desert Massasauga,English
 209513,Western Massasauga,English
 209517,Mojave Desert Sidewinder,English
-209518,Sonoran Sidewinder,English
+209518,Sonoran Desert Sidewinder,English
 209519,Colorado Desert Sidewinder,English
 209521,Banded Rock Rattlesnake,English
 209522,Mottled Rock Rattlesnake,English
@@ -46531,7 +46531,7 @@ taxonID,vernacularName,language
 209525,Southwestern Speckled Rattlesnake,English
 209527,Panamint Rattlesnake,English
 209529,Black-tailed Rattlesnake,English
-209530,Twin-spotted Rattlesnake,English
+209530,Arizona Twin Spotted Rattlesnake,English
 209532,Red Diamond Rattlesnake,English
 209534,Northern Mohave Rattlesnake,English
 209535,Grand Canyon Rattlesnake,English
@@ -46541,10 +46541,10 @@ taxonID,vernacularName,language
 209543,Great Basin Rattlesnake,English
 209545,Hopi Rattlesnake,English
 209547,Northern Pacific Rattlesnake,English
-209548,Western Rattlesnake,English
+209548,Northern Pacific Rattlesnake,English
 209549,Prairie Rattlesnake,English
 209551,Stiletto Snakes,English
-209556,Bushmaster,English
+209556,South American Bushmaster,English
 209561,Rainbow Boa,English
 209563,Rainbow Boa,English
 209567,Reticulated Python,English
@@ -70663,7 +70663,7 @@ taxonID,vernacularName,language
 563933,Boa-enana oaxaqueña,Spanish
 563934,Big Bend Black-headed Snake,English
 563935,Eastern Hog-nosed Snake,English
-563936,Víbora-cascabel tropical,Spanish
+563936,Central American Rattlesnake,English
 563942,Diamondback Water Snake,English
 563947,Mexican Rosy Boa,English
 563948,Desert Rosy Boa,English
@@ -74024,7 +74024,7 @@ taxonID,vernacularName,language
 585699,Culebra-cavadora oaxaqueña,Spanish
 585700,Culebra-cavadora ocotera,Spanish
 585701,Culebra-cavadora centroamericana,Spanish
-585702,Cantil enjaquimado,Spanish
+585702,Mexican Moccasin,English
 585703,Culebra cabeza cobriza,Spanish
 585704,Ameiva de Chaitzam,Spanish
 585705,Ameiva centroamericana,Spanish
@@ -74078,23 +74078,24 @@ taxonID,vernacularName,language
 585754,Anolis de Utowana,Spanish
 585755,Tortuga-casco suave de Cuatro Ciénegas,Spanish
 585756,Geco pestañudo,Spanish
-585757,Nauyaca o nayaraca saltadora,Spanish
-585758,Nauyaca de Los Tuxtlas,Spanish
+585757,Jumping Pit Viper,English
+585758,Olmecan Pit Viper,English
 585759,Lagarto-alicante del Popocatépetl,Spanish
 585760,Lagarto-alicante de Chihuahua,Spanish
 585761,Lagarto-alicante cuello rugoso,Spanish
 585762,Lagartija-topo cinco dedos,Spanish
 585763,Lagartija-topo cuatro dedos,Spanish
 585764,Lagartija-topo tres dedos,Spanish
-585765,Nauyaca-de árbol manchas amarillas,Spanish
-585766,Nauyaca-de árbol bicolor,Spanish
-585767,Nauyaca-de árbol de Rowley,Spanish
-585769,Nauyaca-terciopelo real,Spanish
+585765,Yellow-blotched Palm Pit Viper,English
+585766,Guatemala Palm Pit Viper,English
+585767,Rowley's Palm Pit Viper,English
+585768,Eyelash Viper,English
+585769,Terciopelo,English
 585770,Celesto huasteco,Spanish
 585771,Celesto vientre verde,Spanish
 585772,Nauyaca-de montaña guerrerense,Spanish
-585773,Nauyaca-de montaña de Godman,Spanish
-585774,Nauyaca-de montaña tzotzil,Spanish
+585773,Godman's Montane Pit Viper,English
+585774,Tzotzil Montane Pit Viper,English
 585775,Culebra-corredora de Liebmann,Spanish
 585776,Culebra-corredora vientre rojo,Spanish
 585777,Culebra-arenera punteada,Spanish
@@ -74139,17 +74140,18 @@ taxonID,vernacularName,language
 585817,Culebra-terrestre narigona,Spanish
 585818,Smooth Helmeted Iguana,English
 585820,Keeled Helmeted Basilisk,English
+585821,Queretaran Dusky Rattlesnake,English
 585822,Víbora-cascabel de Saye,Spanish
 585823,Víbora-cascabel muda,Spanish
-585824,Baja California Rattlesnake,English
-585825,Víbora-cascabel enana,Spanish
-585826,Víbora-cascabel de Autlán,Spanish
-585827,Víbora-cascabel ocelada,Spanish
-585828,Víbora-cascabel de Tancítaro,Spanish
-585829,Víbora-cascabel cola larga,Spanish
-585830,Víbora-cascabel de Isla Tortuga,Spanish
-585831,Víbora-cascabel bandas cruzadas,Spanish
-585832,Víbora-cascabel transvolcánica,Spanish
+585824,Lower California Rattlesnake,English
+585825,Mexican Smallhead Rattlesnake,English
+585826,Manantlán Long-tailed Rattlesnake,English
+585827,Mexican Lancehead Rattlesnake,English
+585828,Tancitaran Dusky Rattlesnake,English
+585829,Sinaloan Long-tailed Rattlesnake,English
+585830,Tortuga Island Rattlesnake,English
+585831,Cross-banded Mountain Rattlesnake,English
+585832,Central Plateau Dusky Rattlesnake,English
 585833,Culebra-de nebklina de Hallberg,Spanish
 585834,Veracruz Spiny-tailed Iguana,English
 585835,Black Iguana,English
@@ -74271,6 +74273,7 @@ taxonID,vernacularName,language
 585956,Culebra-de cafetal espalda roja,Spanish
 585957,Lagarto-de cristal de Ceron,Spanish
 585958,Lagarto-de cristal cuello simple,Spanish
+585959,Mexican Horned Pit Viper,English
 585960,Baja California Rock Lizard,English
 585961,Giant Horned Lizard,English
 585962,Short-tail Horned Lizard,English
@@ -74299,10 +74302,10 @@ taxonID,vernacularName,language
 585985,Culebra-imita coral de Andrew,Spanish
 585986,Culebra-imita coral bicolor,Spanish
 585987,Culebra-imita coral común,Spanish
-585988,Nauyaca-nariz de cerdo oxaqueña,Spanish
-585989,Nauyaca-nariz de cerdo de Tecomán,Spanish
+585988,Dunn's Hognose Viper,English
+585989,Western Hognose Viper,English
 585990,Nauyaca-nariz de cerdo cornuda,Spanish
-585991,Nauyaca-nariz de cerdo narigona,Spanish
+585991,Hognosed Pit Viper,English
 585992,Nauyaca-nariz de cerdo yucateca,Spanish
 585993,Culebra ilamacoa,Spanish
 585994,Culebra-ojo de gato-falsa cabeza roja,Spanish
@@ -74472,6 +74475,7 @@ taxonID,vernacularName,language
 586165,Xenosaurio mayor,Spanish
 586166,Xenosaurio de Newman,Spanish
 586167,Xenosaurio cabeza plana,Spanish
+586170,Picado's Pit Viper,English
 586172,Garrobo yucateco,Spanish
 586173,Balsas Armed Lizard,English
 586174,Oaxacan Spinytail Iguana,English
@@ -76690,7 +76694,7 @@ taxonID,vernacularName,language
 631872,Melissa's Yellow-eared Bat,English
 631873,Striped Yellow-eared Bat,English
 631874,Southern Little Yellow-eared Bat,English
-631875,Great Stripe-faced Bat,English
+631875,Caracciolo's Stripe-faced Bat,English
 631876,Eldorado Broad-nosed Bat,English
 631877,Short-headed Broad-nosed Bat,English
 631878,Choco Broad-nosed Bat,English
@@ -78526,12 +78530,151 @@ taxonID,vernacularName,language
 634828,Yellow-banded Trope,English
 634829,Taczanowsky's Dwarf Boa,English
 634830,Wright's Dwarf Boa,English
+634834,Black-headed Burmese Viper,English
+634835,Two-lined Night Adder,English
+634836,Snouted Night Adder,English
+634837,Forest Night Adder,English
+634838,West-African Night Adder,English
+634839,Green Night Adder,English
+634840,Common Night Adder,English
+634841,Coffee Palm Viper,English
+634842,March's Palm Pit Viper,English
+634843,Black-speckled Palm Pit Viper,English
+634847,Peru Forest Pit Viper,English
+634851,Urutu,English
+634852,Yararanata,English
+634854,Barba Amarilla,Spanish
+634855,Barnett's Lancehead,English
+634856,Brazil's Lancehead,English
+634858,Saint Lucia Viper,English
+634861,Caatinga Lancehead,English
+634862,Fonseca's Lancehead,English
+634865,Golden Lancehead,English
+634866,Sao Paulo Lancehead,English
+634869,Jonathan's Lancehead,English
+634870,Martinique Lancehead,English
+634871,Whitetail Lancehead,English
+634872,Lojan Lancehead,English
+634873,Marajó Lancehead,English
+634875,Brazilian Lancehead,English
+634876,Jararaca Pintada,Spanish
+634877,Desert Lancehead,English
+634878,Piraja's Lancehead,English
+634880,Bolivian Lancehead,English
+634882,Malayan Pit Viper,English
+634883,Five-pacer Viper,English
+634884,Mamushi,English
+634885,Halys Pit Viper,English
+634886,Himalayan Pitviper,English
+634887,Central Asian Pitviper,English
+634888,Likiang Pitviper,English
+634890,Shedao Island Pitviper,English
+634891,Strauch's Pitviper,English
+634892,Ussuri Mamushi,English
+634893,Hump-nosed Moccasin,English
+634894,Sri Lanka Humpnose Viper,English
+634896,Black-headed Bushmaster,English
+634897,Central American Bushmaster,English
+634899,Chinese Mountain Pit Viper,English
+634900,Okinawa Pitviper,English
+634902,Slender Hognose Viper,English
+634904,White-lipped Pitviper,English
+634905,Borneo Pit Viper,English
+634906,Brongersma's Pit Viper,English
+634907,Cantor's Pit Viper,English
+634910,Bamboo Pitviper,English
+634911,Banded Pit Viper,English
+634912,Philippine Pitviper,English
+634914,Kikuchi Habu,English
+634915,Common Bamboo Viper,English
+634916,Hagen's Pitviper,English
+634918,Kanburi Pit Viper,English
+634920,Nicobar Bamboo Pitviper,English
+634922,Large-eyed Pitviper,English
+634923,Malabarian Pit Viper,English
+634925,Motuo Bamboo Pitviper,English
+634928,Flat-nosed Pitviper,English
+634929,Mangrove Viper,English
+634930,Schultze's Pit Viper,English
+634931,Chinese Green Tree Viper,English
+634932,Horseshoe Pitviper,English
+634933,Sumatra Pit Viper,English
+634934,Tibetan Pit Viper,English
+634936,Sri Lankan Green Pitviper,English
+634938,Hutton's Pitviper,English
+634939,Temple Pitviper,English
+634941,Mayombe Bush-Viper,English
+634944,Ashe's Bush Viper,English
+634945,African Hairy Bush Viper,English
+634946,Katanga Mountain Bush Viper,English
+634947,Great Lakes Bush Viper,English
+634948,Rough-scaled Bush Viper,English
+634949,Puff Adder,English
+634950,Mountain Adder,English
+634951,Horned Adder,English
+634952,Many-horned Adder,English
+634953,Gaboon Viper,English
+634954,Bocage's Horned Adder,English
+634955,Hornless Adder,English
+634956,Rhinoceros Viper,English
+634957,Bale Mountains Adder,English
+634958,Peringuey's Adder,English
+634960,Namaqua Puff Adder,English
+634961,Kenya Horned Viper,English
+634962,Desert Mountain Adder,English
+634963,Desert Horned Viper,English
+634965,Sahara Sand Viper,English
+634966,Russel's Viper,English
+634967,Phoorsa,English
+634968,Palestine Saw-scaled Viper,English
+634969,Hughes' Saw-scaled Viper,English
+634970,Joger's Saw-scaled Viper,English
+634971,Roman's Saw-scaled Viper,English
+634972,Large-headed Carpet Viper,English
+634973,West African Carpet Viper,English
+634974,North-East African Carpet Viper,English
+634975,Asian Sand Viper,English
+634977,Levantine Viper,English
+634980,Kenya Montane Viper,English
+634981,Lowland Viper,English
+634982,Persian Horned Viper,English
+634985,Nose-horned Viper,English
+634986,Asp Viper,English
+634987,Turkish Viper,English
+634991,Darevsky's Viper,English
+634992,Dinnik's Viper,English
+634993,Caucasus Viper,English
+634994,Lataste's Viper,English
+634995,Lotiev's Viper,English
+634996,Mountain Viper,English
+634999,Black Sea Viper,English
+635001,Portugese Viper,English
+635002,Orsinis Viper,English
 635128,Big Ambergris Dwarf Boa,English
 635131,Hispaniolan Trope,English
 635132,Jamaican Brown Trope,English
 635135,Haitian Dwarf Boa,English
 635138,Wood Snake,English
 635139,Wood Snake,English
+635174,Rupununi Savanna Rattlesnake,English
+635180,Durangan Rock Rattlesnake,English
+635183,Mexican Black-tailed Rattlesnake,English
+635184,Oaxacan Black-tailed Rattlesnake,English
+635185,Eastern Twin Spotted Rattlesnake,English
+635186,Huamantlan Rattlesnake,English
+635190,Del Nido Ridge-nosed Rattlesnake,English
+635191,Southern Ridge-nosed Rattlesnake,English
+635192,Western Chihuahuan Ridge-nosed Rattlesnake,English
+635197,Siberian Pit Viper,English
+635198,Böhme's Pitviper,English
+635199,Karaganda Pitviper,English
+635200,Alashan Pitviper,English
+635227,Stejneger's Bamboo Pitviper,English
+635229,Chen's Bamboo Pitviper,English
+635275,Baja California Rattlesnake,English
+635276,Cerralvo Rattlesnake,English
+635277,Rosario Rattlesnake,English
+635279,San Lucan Rattlesnake,English
 635304,mustard eels,English
 635305,cutthroat eels,English
 635306,worm eels,English
@@ -82254,6 +82397,8 @@ taxonID,vernacularName,language
 727004,Cameroon clawless otter,English
 727015,Sonoran river otter,English
 727490,Congo clawless otter,English
+727493,Middle American Rattlesnake,English
+727494,Totonacan Rattlesnake,English
 727499,Aruba Island Rattlesnake,English
 727511,Greater Fairy Armadillo,English
 727512,Yepes's Mulita,English
@@ -90455,6 +90600,7 @@ taxonID,vernacularName,language
 946565,Goldman's Nectar Bat,English
 947069,Gervais's Fruit-eating Bat,English
 947072,Pygmy Fruit-eating Bat,English
+947079,Great Stripe-faced Bat,English
 947089,Commerson's Leaf-nosed Bat,English
 947180,Hutton's Tube-nosed Bat,English
 947181,Schlieffen's Twilight Bat,English
@@ -93214,3 +93360,124 @@ taxonID,vernacularName,language
 1057942,Half-girdled Snake,English
 1057944,Cape York Shovel-nosed Snake,English
 1057962,Eastern Shield-nose Snake,English
+1058369,Quechuan Yellow-eared Bat,English
+1058370,Elisabeth's Yellow-eared Bat,English
+1058371,Koepcke's Hairy-nosed Bat,English
+1058372,Striped Hairy-nosed Bat,English
+1058377,Dashe's Nectar-feeding Bat,English
+1058381,Murciélago de Charreteras de Adriana,Spanish
+1058382,Murciélago de Charreteras de Caripe,Spanish
+1058415,Uzungwe Mountain Bush Viper,English
+1058416,Acuminate Bush Viper,English
+1058418,Mt. Rungwe Bush Viper,English
+1058419,Albany Adder,English
+1058421,Inca Forest Pit Viper,English
+1058422,Chocoan Forest Pit Viper,English
+1058423,Andean Lancehead,English
+1058425,Munchique's Rufous Lancehead,English
+1058426,Hognose Lancehead,English
+1058428,Barbour's Montane Pitviper,English
+1058430,Mangshan Pitviper,English
+1058431,Tsushima Island Pitviper,English
+1058434,Moorish Viper,English
+1058435,Nauyaca-nariz de cerdo cornuda,Spanish
+1058436,Chasen's Mountain Pitviper,English
+1058437,Tonkin Pitviper,English
+1058438,Elegant Pitviper,English
+1058439,Habu,English
+1058440,Jerdon's Pitviper,English
+1058441,Kaulback's Lance-headed Pitviper,English
+1058442,Brown Spotted Pitviper,English
+1058443,Kham Plateau Pitviper,English
+1058444,Field's Horned Viper,English
+1058445,Mexican Pygmy Rattlesnake,English
+1058446,Horned Pit Viper,English
+1058447,Malcolm's Pitviper,English
+1058448,Sabah Bamboo Pitviper,English
+1058449,Tokara Habu,English
+1058450,Yunnan Bamboo Pitviper,English
+1058454,Lebanon Viper,English
+1058456,Lar Valley Viper,English
+1058457,Palestine Viper,English
+1058458,Caucasus Viper,English
+1058459,Steppe Viper,English
+1058461,Wagner's Viper,English
+1058462,Ottoman Viper,English
+1058463,Three Horned-scaled Pitviper,English
+1058467,Vogel's Pit Viper,English
+1058471,Gumprecht's Green Pitviper,English
+1058472,Alcatrazes Lancehead,English
+1058474,Mexican Moccasin,English
+1058476,Oman Saw-scaled Viper,English
+1058477,White-lipped Island Pitviper,English
+1058478,Quang Binh Pitviper,English
+1058479,Beautiful Pitviper,English
+1058480,Clouded Pitviper,English
+1058481,Siamese Peninsula Pitviper,English
+1058482,Barat Bamboo Pitviper,English
+1058483,Nepal Pitviper,English
+1058486,Fairy Pitviper,English
+1058487,Broad-banded Temple Pitviper,English
+1058488,Wirot's Pit Viper,English
+1058489,North Philippine Temple Pitviper,English
+1058490,South Philippine Temple Pitviper,English
+1058496,Yucatan Neotropical Rattlesnake,English
+1058497,Northwestern Neotropical Rattlesnake,English
+1058498,Guerreran Long-tailed Rattlesnake,English
+1058504,Marbled lancehead,English
+1058506,Central American Jumping Pit Viper,English
+1058509,Toba Pitviper,English
+1058510,Panamint Rattlesnake,English
+1058511,Trungkhanh Pitviper,English
+1058512,Arizona Black Rattlesnake,English
+1058516,Blotched Palm-pitviper,English
+1058519,Ruby-eyed Green Pitviper,English
+1058521,Mao-lan Pitviper,English
+1058522,Ayerbe's Lancehead,English
+1058523,McGregor's Tree Viper,English
+1058524,Cauca Valley Yellow Lancehead,English
+1058525,Eastern Russel's Viper,English
+1058526,Kuhrang Mountain Viper,English
+1058527,Brown's Montane Pitviper,English
+1058530,Phuket Pitviper,English
+1058531,Matilda's Horned Viper,English
+1058533,Manabi Hognose Pitviper,English
+1058534,Costa Rica Montane Pitviper,English
+1058535,Honduras Montane Pitviper,English
+1058537,Dabie Mountains Pit Viper,English
+1058542,Gloyd's Moccasin,English
+1058543,Cantil,English
+1058545,White-headed Burmese Viper,English
+1058546,Anatolian Meadow Viper,English
+1058547,Indo-Malayan Mountain Pitviper,English
+1058549,Mexican Dusky Rattlesnake,English
+1058552,Gunalen's Pitviper,English
+1058553,Central Nicobar Pit Viper,English
+1058555,Taiwan Mountain Pitviper,English
+1058556,Cardamom Mountains Green Pitviper,English
+1058557,Anderson's Pitviper,English
+1058558,Pope's Green Pit Viper,English
+1058559,Bale Mountains Adder,English
+1058560,Talamancan Palm-Pitviper,English
+1058561,Franceses Island-Lancehead,English
+1058563,Emerald Horned Pitviper,English
+1058564,Broad-horned Pitviper,English
+1058566,Uracoan Rattlesnake,English
+1058567,Tamaulipan Rock Rattlesnake,English
+1058568,Isla Angel Rattlesnake,English
+1058569,Southwestern Speckled Rattlesnake,English
+1058570,Green Jararaca,English
+1058573,Speckled Forest Pit Viper,English
+1058574,Venezuela Forest Pit Viper,English
+1058719,San Lorenzo Island Rattlesnake,English
+1058731,Central Plateau Pygmy Rattlesnake,English
+1058732,Oaxacan Pygmy Rattlesnake,English
+1058733,Guerreran Pygmy Rattlesnake,English
+1058734,Cedros Island Rattlesnake,English
+1058740,Gobi Pitviper,English
+1058741,Caucasian Pitviper,English
+1058751,Jerdon's Pitviper,English
+1058752,Bourret's Pitviper,English
+1058753,Red Spotted Pitviper,English
+1058793,Desert Massasauga,English
+1058794,Western Massasauga,English
