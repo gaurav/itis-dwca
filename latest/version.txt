@@ -1,3 +1,3 @@
-December 20, 2017
-version_itisMySQL122017
-Extracted from version_itisMySQL122017 on December 28, 2017
+July 02, 2018
+version_itisMySQL070218
+Extracted from version_itisMySQL070218 on July 05, 2018

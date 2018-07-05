@@ -198,20 +198,12 @@ taxonID,vernacularName,language
 15579,bucegia,Common name
 15580,preissia,Common name
 15584,marchantia,Common name
-15652,hornwort,Common name
-15653,anthoceros,Common name
-15657,anthoceros,Common name
-15658,Macoun's anthoceros,Common name
-15659,anthoceros,Common name
-15661,anthoceros,Common name
-15666,notothylas,Common name
-15667,Breutel's notothylas,Common name
-15668,round notothylas,Common name
-15669,phaeoceros,Common name
-15670,Hall's phaeoceros,Common name
-15673,phaeoceros,Common name
-15675,phaeoceros,Common name
-15676,Carolina phaeoceros,Common name
+15652,hornwort,English
+15658,Macoun's anthoceros,English
+15667,Breutel's notothylas,English
+15668,round notothylas,English
+15670,Hall's phaeoceros,English
+15676,Carolina phaeoceros,English
 15683,sphagnum,Common name
 15684,Russow's sphagnum,Common name
 15685,Aongstroem's sphagnum,Common name
@@ -28169,9 +28161,9 @@ taxonID,vernacularName,language
 103772,toad bug,English
 103787,velvety shore bugs,English
 103798,shore-inhabiting bugs,English
-103801,water striders,English
-103827,pacific pelagic water strider,English
-103828,hawaiian pelagic water strider,English
+103801,pond skaters,English
+103827,Pacific pelagic water strider,English
+103828,Hawaiian pelagic water strider,English
 103885,broad-shouldered bugs,English
 103938,water treaders,English
 103953,pondweed bugs,English
@@ -28255,7 +28247,7 @@ taxonID,vernacularName,language
 107129,pale damsel bug,English
 107146,bat bugs,English
 107152,ambush bugs,English
-107202,réduves,French
+107202,assassin-bugs,English
 107361,spined assassin bug,English
 107476,flat bugs,English
 107628,piesmatids,English
@@ -40134,7 +40126,7 @@ taxonID,vernacularName,language
 177848,Goatsuckers,English
 177849,Barn-Owls,English
 177850,Barn-Owls,English
-177851,effraie de clochers,French
+177851,Western Barn Owl,English
 177854,Owls,English
 177855,Scops-Owls,English
 177856,petit-duc maculé,French
@@ -40169,6 +40161,8 @@ taxonID,vernacularName,language
 177946,chevêche des terriers,French
 177947,Palau Owls,English
 177948,Palau Owl,English
+177951,Oilbird,English
+177953,Frogmouths,English
 177954,Potoos,English
 177955,Potoos,English
 177956,Bienparado norteño,Spanish
@@ -40183,8 +40177,8 @@ taxonID,vernacularName,language
 177974,Pauraques,English
 177975,Pauraque,English
 177978,Nighthawks,English
-177979,engoulevent d'Amérique,French
-177988,Chotacabras menor,Spanish
+177979,Common Nighthawk,English
+177988,Lesser Nighthawk,English
 177992,Antillean Nighthawk,English
 177993,Hummingbirds,English
 177995,Swifts,English
@@ -61439,8 +61433,9 @@ taxonID,vernacularName,language
 541808,Oregon woodsia,English
 541813,Drummond's sleepydaisy,English
 545232,Lee County cave isopod,English
-547319,Donnell's anthoceros,Common name
-547320,Pearson's phaeoceros,Common name
+547319,Donnell's anthoceros,English
+547320,Pearson's phaeoceros,English
+547324,Carolina phaeoceros,English
 547428,aulacomnium moss,Common name
 547429,cnestrum,Common name
 547430,coscinodon moss,Common name
@@ -64204,6 +64199,8 @@ taxonID,vernacularName,language
 553485,Grouse,English
 553512,Titmice,English
 553529,Tityras,English
+553771,frogmouths,English
+553772,frogmouths,English
 553787,Lesser Rhea,English
 553788,Southern Cassowary,English
 553789,Little Spotted Kiwi,English
@@ -65532,7 +65529,8 @@ taxonID,vernacularName,language
 555355,Australian Masked Owl,English
 555357,Sulawesi Masked Owl,English
 555358,Ashy-faced Owl,English
-555359,Grass Owl,English
+555359,African Grass Owl,English
+555360,Eastern Grass Owl,English
 555361,Congo Bay Owl,English
 555362,Oriental Bay Owl,English
 555363,White-fronted Scops Owl,English
@@ -65554,7 +65552,7 @@ taxonID,vernacularName,language
 555379,Moluccan Scops Owl,English
 555380,Karthala Scops Owl,English
 555381,Rajah Scops Owl,English
-555382,Collared Scops Owl,English
+555382,Indian Scops Owl,English
 555383,Mentawai Scops Owl,English
 555384,Palawan Scops Owl,English
 555385,Philippine Scops Owl,English
@@ -65564,6 +65562,7 @@ taxonID,vernacularName,language
 555400,Cuban Screech-Owl,English
 555403,Giant Scops Owl,English
 555404,Eurasian Eagle-Owl,English
+555405,Indian Eagle-Owl,English
 555406,Pharaoh Eagle-Owl,English
 555407,Cape Eagle-Owl,English
 555408,Spotted Eagle-Owl,English
@@ -65586,11 +65585,12 @@ taxonID,vernacularName,language
 555426,Mottled Wood Owl,English
 555427,Brown Wood Owl,English
 555428,Tawny Owl,English
-555429,Hume's Owl,English
+555429,Omani Owl,English
 555430,Fulvous Owl,English
 555431,Rusty-barred Owl,English
 555432,Rufous-legged Owl,English
 555433,Ural Owl,English
+555434,Pere David's Owl,English
 555435,Búho café,Spanish
 555436,Black-and-white Owl,English
 555440,Maned Owl,English
@@ -65601,6 +65601,7 @@ taxonID,vernacularName,language
 555445,Eurasian Pygmy Owl,English
 555446,Collared Owlet,English
 555447,Pearl-spotted Owlet,English
+555448,Northern Pygmy Owl,English
 555449,Amazonian Pygmy Owl,English
 555450,East Brazilian Pygmy Owl,English
 555451,Colima Pygmy Owl,English
@@ -65617,29 +65618,31 @@ taxonID,vernacularName,language
 555463,Jungle Owlet,English
 555464,Chestnut-backed Owlet,English
 555465,African Barred Owlet,English
+555469,Albertine Owlet,English
 555470,Long-whiskered Owlet,English
 555471,Little Owl,English
 555472,Spotted Owlet,English
 555474,Buff-fronted Owl,English
-555475,Rufous Boobook,English
-555476,Powerful Boobook,English
-555477,Barking Boobook,English
+555475,Rufous Owl,English
+555476,Powerful Owl,English
+555477,Barking Owl,English
 555478,Sumba Boobook,English
 555479,Southern Boobook,English
 555480,Morepork,English
 555481,Brown Hawk-Owl,English
 555482,Andaman Hawk-Owl,English
 555483,White-browed Hawk-Owl,English
-555484,Philippine Hawk-Owl,English
+555484,Luzon Hawk-Owl,English
 555485,Ochre-bellied Boobook,English
-555486,Moluccan Boobook,English
-555487,Jungle Boobook,English
+555486,Hantu Boobook,English
+555487,Papuan Boobook,English
 555488,Manus Boobook,English
 555489,Speckled Boobook,English
-555490,Barred Boobook,English
-555491,Spangled Boobook,English
+555490,New Ireland Boobook,English
+555491,New Britain Boobook,English
 555492,Solomons Boobook,English
 555493,Papuan Hawk-Owl,English
+555494,Laughing Owl,English
 555495,Jamaican Owl,English
 555496,Striped Owl,English
 555497,Stygian Owl,English
@@ -65663,6 +65666,8 @@ taxonID,vernacularName,language
 555517,Sri Lanka Frogmouth,English
 555518,Hodgson's Frogmouth,English
 555519,Short-tailed Frogmouth,English
+555520,Bornean Frogmouth,English
+555521,Blyth's Frogmouth,English
 555522,Javan Frogmouth,English
 555523,Sunda Frogmouth,English
 555524,Oilbird,English
@@ -65676,7 +65681,7 @@ taxonID,vernacularName,language
 555532,White-throated Nightjar,English
 555533,Satanic Nightjar,English
 555534,Papuan Nightjar,English
-555535,Cloud-forest Nightjar,English
+555535,Archbold's Nightjar,English
 555536,Malaysian Eared Nightjar,English
 555537,Great Eared Nightjar,English
 555538,Short-tailed Nighthawk,English
@@ -65685,7 +65690,7 @@ taxonID,vernacularName,language
 555541,Sand-colored Nighthawk,English
 555542,Band-tailed Nighthawk,English
 555543,Nacunda Nighthawk,English
-555544,Tapacamino tevíi,Spanish
+555544,Common Poorwill,English
 555546,Least Pauraque,English
 555547,Eared Poorwill,English
 555548,Yucatan Poorwill,English
@@ -65716,7 +65721,7 @@ taxonID,vernacularName,language
 555574,Vaurie's Nightjar,English
 555575,Nubian Nightjar,English
 555576,Golden Nightjar,English
-555577,Madagascar Nightjar,English
+555577,Madagascan Nightjar,English
 555578,Large-tailed Nightjar,English
 555579,Jerdon's Nightjar,English
 555580,Philippine Nightjar,English
@@ -80548,11 +80553,13 @@ taxonID,vernacularName,language
 686666,Bare-shanked Screech Owl,English
 686667,Bearded Screech Owl,English
 686668,Rufescent Screech Owl,English
+686669,Colombian Screech Owl,English
 686670,Cinnamon Screech Owl,English
 686671,Cloud-forest Screech Owl,English
 686672,Tawny-bellied Screech Owl,English
-686673,Vermiculated Screech Owl,English
-686675,Yungas Screech Owl,English
+686673,Middle American Screech Owl,English
+686674,Vermiculated Screech Owl,English
+686675,Montane Forest Screech Owl,English
 686676,Black-capped Screech Owl,English
 686677,Long-tufted Screech Owl,English
 686678,Puerto Rican Screech Owl,English
@@ -80575,11 +80582,15 @@ taxonID,vernacularName,language
 686695,Austral Pygmy Owl,English
 686696,Forest Owlet,English
 686697,Unspotted Saw-whet Owl,English
+686698,Little Sumba Hawk-Owl,English
 686699,Cinnabar Boobook,English
 686700,Togian Boobook,English
 686701,Christmas Boobook,English
+686702,Plain-tailed Nighthawk,English
 686703,Brown Nightjar,English
-686704,Jamaican Pauraque,English
+686704,Jamaican Poorwill,English
+686705,Mees's Nightjar,English
+686706,Andaman Nightjar,English
 686707,Nechisar Nightjar,English
 686708,Scissor-tailed Nightjar,English
 686709,Long-trained Nightjar,English
@@ -82390,7 +82401,7 @@ taxonID,vernacularName,language
 726476,Javan tiger,English
 726477,Sumatran tiger,English
 726478,Caspian tiger,English
-726820,domestic dog,English
+726820,dingo,English
 726821,domestic dog,English
 726986,Siberian brown bear,English
 726993,Kodiak bear,English
@@ -93481,3 +93492,96 @@ taxonID,vernacularName,language
 1058753,Red Spotted Pitviper,English
 1058793,Desert Massasauga,English
 1058794,Western Massasauga,English
+1063088,Hall's phaeoceros,English
+1063089,Pearson's phaeoceros,English
+1063211,Gursky's Spectral Tarsier,English
+1063212,Jatna's Tarsier,English
+1063213,Antafia Sportive Lemur,English
+1063214,Bemaraha Sportive Lemur,English
+1063215,Sahamalaza Sportive Lemur,English
+1063216,Blue Nile Patas Monkey,English
+1063218,Gaoligong Hoolock Gibbon,English
+1063219,Angolan Dwarf Galago,English
+1063220,Tapanuli Orangutan,English
+1063222,Northwestern Red Slender Loris,English
+1063223,Uva Red Slender Loris,English
+1063228,American Barn Owl,English
+1063229,Eastern Barn Owl,English
+1063230,Andaman Masked Owl,English
+1063231,Sri Lanka Bay Owl,English
+1063232,Collared Scops Owl,English
+1063233,Japanese Scops Owl,English
+1063234,Sunda Scops Owl,English
+1063235,Everett's Scops Owl,English
+1063236,Negros Scops Owl,English
+1063237,Arabian Scops Owl,English
+1063238,Cyprus Scops Owl,English
+1063239,Socotra Scops Owl,English
+1063240,Rinjani Scops Owl,English
+1063241,Sula Scops Owl,English
+1063242,Siau Scops Owl,English
+1063243,Enggano Scops Owl,English
+1063244,Reunion Owl,English
+1063245,Mauritius Owl,English
+1063246,Rodrigues Owl,English
+1063247,Flammulated Owl,English
+1063248,Roraiman Screech Owl,English
+1063249,Napo Screech Owl,English
+1063250,Choco Screech Owl,English
+1063251,Cuban Screech-Owl,English
+1063252,Himalayan Owl,English
+1063253,Desert Owl,English
+1063254,Cinereous Owl,English
+1063255,Black-and-white Owl,English
+1063256,Black-banded Owl,English
+1063257,Baja Pygmy Owl,English
+1063258,Guatemalan Pygmy Owl,English
+1063259,Chestnut-backed Owlet,English
+1063260,Bermuda Saw-whet Owl,English
+1063261,Northern Boobook,English
+1063262,Chocolate Boobook,English
+1063263,Hume's Hawk-Owl,English
+1063264,Mindanao Hawk-Owl,English
+1063265,Mindoro Hawk-Owl,English
+1063266,Romblon Hawk-Owl,English
+1063267,Cebu Hawk-Owl,English
+1063268,Camiguin Hawk-Owl,English
+1063269,Sulu Hawk-Owl,English
+1063270,Halmahera Boobook,English
+1063271,Tanimbar Boobook,English
+1077330,Solomons Frogmouth,English
+1077331,Palawan Frogmouth,English
+1077332,Solomons Nightjar,English
+1077333,New Caledonian Nightjar,English
+1077334,Malaysian Eared Nightjar,English
+1077335,Great Eared Nightjar,English
+1077336,Collared Nightjar,English
+1077337,Nacunda Nighthawk,English
+1077338,Blackish Nightjar,English
+1077339,Pygmy Nightjar,English
+1077340,Anthony's Nightjar,English
+1077341,Todd's Nightjar,English
+1077342,Little Nightjar,English
+1077343,Roraiman Nightjar,English
+1077344,Cayenne Nightjar,English
+1077345,White-winged Nightjar,English
+1077346,Band-winged Nightjar,English
+1077347,Tschudi's Nightjar,English
+1077348,White-tailed Nightjar,English
+1077349,Spot-tailed Nightjar,English
+1077350,Chuck-will's-widow,English
+1077351,Rufous Nightjar,English
+1077352,Cuban Nightjar,English
+1077353,Hispaniolan Nightjar,English
+1077354,Tawny-collared Nightjar,English
+1077355,Yucatan Nightjar,English
+1077356,Silky-tailed Nightjar,English
+1077357,Buff-collared Nightjar,English
+1077358,Eastern Whip-poor-will,English
+1077359,Mexican Whip-poor-will,English
+1077360,Puerto Rican Nightjar,English
+1077361,Dusky Nightjar,English
+1077362,Grey Nightjar,English
+1077363,Palau Nightjar,English
+1077364,Standard-winged Nightjar,English
+1077365,Pennant-winged Nightjar,English
